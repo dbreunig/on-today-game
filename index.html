@@ -174,7 +174,7 @@
         async function loadHistoryData() {
             try {
                 const dateString = getCurrentDateFormat();
-                const response = await fetch(`/selected_events/${dateString}_selected_events.json`);
+                const response = await fetch(`https://raw.githubusercontent.com/dbreunig/on-today-game/refs/heads/main/selected_events/${dateString}_selected_events.json`);
                 
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
