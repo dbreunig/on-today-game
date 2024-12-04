@@ -1,7 +1,7 @@
 require 'json'
 require 'date'
 
-@debug = false
+@debug = true
 
 today = Date.today
 filename = "events/#{today.strftime('%m%d')}_events.json"
@@ -37,6 +37,11 @@ ranked_events.each do |event|
 end
 
 ranked_births = births.sort_by { |birth| birth['entities'].first['length'] }.reverse
+ranked_births.each do |birth|
+    birth['description'].gsub!(/\s*\(.*?\)\s*/, '')
+    birth['description'].strip!
+    birth['description'] << ", was born."
+end
 if @debug
     puts "\n\n"
     ranked_births.first(6).each_with_index do |birth, index|
@@ -45,9 +50,14 @@ if @debug
         puts "#{birth['year']}: #{birth['description']}"
     end
 end
-selected_births = ranked_births.first(6)
+selected_births = ranked_births.first(3)
 
 ranked_deaths = deaths.sort_by { |death| death['entities'].first['length'] }.reverse
+ranked_deaths.each do |death|
+    death['description'].gsub!(/\s*\(.*?\)\s*/, '')
+    death['description'].strip!
+    death['description'] << ", died."
+end
 if @debug
     puts "\n\n"
     ranked_deaths.first(6).each_with_index do |death, index|
@@ -56,8 +66,10 @@ if @debug
         puts "#{death['year']}: #{death['description']}"
     end
 end
-selected_deaths = ranked_deaths.first(6)
+selected_deaths = ranked_deaths.first(3)
 
+selected_events << selected_births.sample
+selected_events << selected_deaths.sample
 File.open("selected_events/#{today.strftime('%m%d')}_selected_events.json", 'w') do |f|
     f.write(JSON.pretty_generate({ events: selected_events, births: selected_births, deaths: selected_deaths }))
 end

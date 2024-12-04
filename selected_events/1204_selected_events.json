@@ -1,0 +1,317 @@
+{
+  "events": [
+    {
+      "year": "1983",
+      "description": "US Navy aircraft from USS John F. Kennedy and USS Independence attack Syrian missile sites in Lebanon in response to an F-14 being fired on by an SA-7. One A-6 Intruder and A-7 Corsair are shot down. One American pilot is killed, one is rescued, and one is captured.",
+      "entities": [
+        {
+          "name": "United States Navy",
+          "url": "/wiki/United_States_Navy",
+          "length": 133463
+        },
+        {
+          "name": "USS John F. Kennedy (CV-67)",
+          "url": "/wiki/USS_John_F._Kennedy_(CV-67)",
+          "length": 42160
+        },
+        {
+          "name": "USS Independence (CV-62)",
+          "url": "/wiki/USS_Independence_(CV-62)",
+          "length": 36047
+        },
+        {
+          "name": "Grumman F-14 Tomcat",
+          "url": "/wiki/Grumman_F-14_Tomcat",
+          "length": 166284
+        },
+        {
+          "name": "9K32 Strela-2",
+          "url": "/wiki/9K32_Strela-2",
+          "length": 107168
+        },
+        {
+          "name": "A-6 Intruder",
+          "url": "/wiki/A-6_Intruder",
+          "length": 34
+        },
+        {
+          "name": "LTV A-7 Corsair II",
+          "url": "/wiki/LTV_A-7_Corsair_II",
+          "length": 68341
+        },
+        {
+          "name": "Bobby Goodman",
+          "url": "/wiki/Bobby_Goodman",
+          "length": 10894
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "The Million Dollar Quartet (Elvis Presley, Jerry Lee Lewis, Carl Perkins, and Johnny Cash) get together at Sun Studio for the first and last time.",
+      "entities": [
+        {
+          "name": "Million Dollar Quartet",
+          "url": "/wiki/Million_Dollar_Quartet",
+          "length": 29756
+        },
+        {
+          "name": "Elvis Presley",
+          "url": "/wiki/Elvis_Presley",
+          "length": 214163
+        },
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "/wiki/Jerry_Lee_Lewis",
+          "length": 94665
+        },
+        {
+          "name": "Carl Perkins",
+          "url": "/wiki/Carl_Perkins",
+          "length": 64009
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "/wiki/Johnny_Cash",
+          "length": 129061
+        },
+        {
+          "name": "Sun Studio",
+          "url": "/wiki/Sun_Studio",
+          "length": 22774
+        }
+      ]
+    },
+    {
+      "year": "1110",
+      "description": "An army led by Baldwin I of Jerusalem and Sigurd the Crusader of Norway captures Sidon at the end of the First Crusade.",
+      "entities": [
+        {
+          "name": "Baldwin I of Jerusalem",
+          "url": "/wiki/Baldwin_I_of_Jerusalem",
+          "length": 65834
+        },
+        {
+          "name": "Sigurd the Crusader",
+          "url": "/wiki/Sigurd_the_Crusader",
+          "length": 16637
+        },
+        {
+          "name": "Norway",
+          "url": "/wiki/Norway",
+          "length": 231698
+        },
+        {
+          "name": "Siege of Sidon",
+          "url": "/wiki/Siege_of_Sidon",
+          "length": 6419
+        },
+        {
+          "name": "First Crusade",
+          "url": "/wiki/First_Crusade",
+          "length": 126587
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "description": "Chinese Civil War: The SS Kiangya, carrying Nationalist refugees from Shanghai, explodes in the Huangpu River.",
+      "entities": [
+        {
+          "name": "Chinese Civil War",
+          "url": "/wiki/Chinese_Civil_War",
+          "length": 118670
+        },
+        {
+          "name": "SS Kiangya",
+          "url": "/wiki/SS_Kiangya",
+          "length": 6549
+        },
+        {
+          "name": "Nationalist government",
+          "url": "/wiki/Nationalist_government",
+          "length": 55932
+        },
+        {
+          "name": "Shanghai",
+          "url": "/wiki/Shanghai",
+          "length": 284162
+        },
+        {
+          "name": "Huangpu River",
+          "url": "/wiki/Huangpu_River",
+          "length": 8073
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Launch of Gemini 7 with crew members Frank Borman and Jim Lovell. The Gemini 7 spacecraft was the passive target for the first crewed space rendezvous performed by the crew of Gemini 6A.",
+      "entities": [
+        {
+          "name": "Gemini 7",
+          "url": "/wiki/Gemini_7",
+          "length": 21378
+        },
+        {
+          "name": "Frank Borman",
+          "url": "/wiki/Frank_Borman",
+          "length": 109372
+        },
+        {
+          "name": "Jim Lovell",
+          "url": "/wiki/Jim_Lovell",
+          "length": 98718
+        },
+        {
+          "name": "Space rendezvous",
+          "url": "/wiki/Space_rendezvous",
+          "length": 37706
+        },
+        {
+          "name": "Gemini 6A",
+          "url": "/wiki/Gemini_6A",
+          "length": 25220
+        }
+      ]
+    },
+    {
+      "year": "1909",
+      "description": "In Canadian football, the First Grey Cup game is played. The University of Toronto Varsity Blues defeat the Toronto Parkdale Canoe Club, 26–6.",
+      "entities": [
+        {
+          "name": "Canadian football",
+          "url": "/wiki/Canadian_football",
+          "length": 63838
+        },
+        {
+          "name": "1st Grey Cup",
+          "url": "/wiki/1st_Grey_Cup",
+          "length": 9879
+        },
+        {
+          "name": "University of Toronto",
+          "url": "/wiki/University_of_Toronto",
+          "length": 166433
+        },
+        {
+          "name": "Toronto Varsity Blues",
+          "url": "/wiki/Toronto_Varsity_Blues",
+          "length": 18801
+        },
+        {
+          "name": "Toronto Parkdale Canoe Club",
+          "url": "/wiki/Toronto_Parkdale_Canoe_Club",
+          "length": 54
+        }
+      ]
+    },
+    {
+      "year": "1892",
+      "description": "Francisco Franco, Spanish general and dictator, Prime Minister of Spain, was born.",
+      "entities": [
+        {
+          "name": "Francisco Franco",
+          "url": "/wiki/Francisco_Franco",
+          "length": 185499
+        },
+        {
+          "name": "List of Prime Ministers of Spain",
+          "url": "/wiki/List_of_Prime_Ministers_of_Spain",
+          "length": 124
+        }
+      ]
+    },
+    {
+      "year": "1993",
+      "description": "Frank Zappa, American singer-songwriter, guitarist, and producer, died.",
+      "entities": [
+        {
+          "name": "Frank Zappa",
+          "url": "/wiki/Frank_Zappa",
+          "length": 217126
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1892",
+      "description": "Francisco Franco, Spanish general and dictator, Prime Minister of Spain, was born.",
+      "entities": [
+        {
+          "name": "Francisco Franco",
+          "url": "/wiki/Francisco_Franco",
+          "length": 185499
+        },
+        {
+          "name": "List of Prime Ministers of Spain",
+          "url": "/wiki/List_of_Prime_Ministers_of_Spain",
+          "length": 124
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Jay-Z, American rapper, producer, actor, and co-founder of Roc-A-Fella Records, was born.",
+      "entities": [
+        {
+          "name": "Jay-Z",
+          "url": "/wiki/Jay-Z",
+          "length": 174155
+        },
+        {
+          "name": "Roc-A-Fella Records",
+          "url": "/wiki/Roc-A-Fella_Records",
+          "length": 41525
+        }
+      ]
+    },
+    {
+      "year": "1795",
+      "description": "Thomas Carlyle, Scottish-English historian, philosopher, and academic, was born.",
+      "entities": [
+        {
+          "name": "Thomas Carlyle",
+          "url": "/wiki/Thomas_Carlyle",
+          "length": 127794
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1975",
+      "description": "Hannah Arendt, German-American historian, theorist, and academic, died.",
+      "entities": [
+        {
+          "name": "Hannah Arendt",
+          "url": "/wiki/Hannah_Arendt",
+          "length": 269389
+        }
+      ]
+    },
+    {
+      "year": "1993",
+      "description": "Frank Zappa, American singer-songwriter, guitarist, and producer, died.",
+      "entities": [
+        {
+          "name": "Frank Zappa",
+          "url": "/wiki/Frank_Zappa",
+          "length": 217126
+        }
+      ]
+    },
+    {
+      "year": "1976",
+      "description": "Benjamin Britten, English pianist, composer, and conductor, died.",
+      "entities": [
+        {
+          "name": "Benjamin Britten",
+          "url": "/wiki/Benjamin_Britten",
+          "length": 133951
+        }
+      ]
+    }
+  ]
+}

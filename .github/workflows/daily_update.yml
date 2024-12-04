@@ -25,3 +25,18 @@ jobs:
 
     - name: Run events_curator.rb
       run: bundle exec ruby events_curator.rb
+
+    - name: Configure Git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Commit changes
+      run: |
+        git add .
+        git commit -m "Update events data"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
