@@ -1,0 +1,371 @@
+{
+  "events": [
+    {
+      "year": "1994",
+      "description": "Taiwan holds its first full local elections; James Soong elected as the first and only directly elected Governor of Taiwan, Chen Shui-bian became the first directly elected Mayor of Taipei, Wu Den-yih became the first directly elected Mayor of Kaohsiung.",
+      "entities": [
+        {
+          "name": "Taiwan",
+          "url": "/wiki/Taiwan",
+          "length": 344559
+        },
+        {
+          "name": "James Soong",
+          "url": "/wiki/James_Soong",
+          "length": 30632
+        },
+        {
+          "name": "Taiwan Province",
+          "url": "/wiki/Taiwan_Province",
+          "length": 34460
+        },
+        {
+          "name": "Chen Shui-bian",
+          "url": "/wiki/Chen_Shui-bian",
+          "length": 86897
+        },
+        {
+          "name": "Mayor of Taipei",
+          "url": "/wiki/Mayor_of_Taipei",
+          "length": 52306
+        },
+        {
+          "name": "Taipei",
+          "url": "/wiki/Taipei",
+          "length": 136149
+        },
+        {
+          "name": "Wu Den-yih",
+          "url": "/wiki/Wu_Den-yih",
+          "length": 20794
+        },
+        {
+          "name": "Mayor of Kaohsiung",
+          "url": "/wiki/Mayor_of_Kaohsiung",
+          "length": 19196
+        },
+        {
+          "name": "Kaohsiung",
+          "url": "/wiki/Kaohsiung",
+          "length": 106660
+        }
+      ]
+    },
+    {
+      "year": "1800",
+      "description": "War of the Second Coalition: Battle of Hohenlinden: French General Jean Victor Marie Moreau decisively defeats the Archduke John of Austria near Munich. Coupled with First Consul Napoleon Bonaparte's earlier victory at Marengo, this will force the Austrians to sign an armistice and end the war.",
+      "entities": [
+        {
+          "name": "Battle of Hohenlinden",
+          "url": "/wiki/Battle_of_Hohenlinden",
+          "length": 27616
+        },
+        {
+          "name": "Jean Victor Marie Moreau",
+          "url": "/wiki/Jean_Victor_Marie_Moreau",
+          "length": 13591
+        },
+        {
+          "name": "Archduke John of Austria",
+          "url": "/wiki/Archduke_John_of_Austria",
+          "length": 28796
+        },
+        {
+          "name": "Munich",
+          "url": "/wiki/Munich",
+          "length": 198148
+        },
+        {
+          "name": "First Consul",
+          "url": "/wiki/First_Consul",
+          "length": 30
+        },
+        {
+          "name": "Napoleon Bonaparte",
+          "url": "/wiki/Napoleon_Bonaparte",
+          "length": 91
+        },
+        {
+          "name": "Battle of Marengo",
+          "url": "/wiki/Battle_of_Marengo",
+          "length": 45941
+        },
+        {
+          "name": "Treaty of Lunéville",
+          "url": "/wiki/Treaty_of_Lun%C3%A9ville",
+          "length": 16633
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "In a meeting off the coast of Malta, U.S. President George H. W. Bush and Soviet General Secretary Mikhail Gorbachev release statements indicating that the Cold War between NATO and the Warsaw Pact may be coming to an end.",
+      "entities": [
+        {
+          "name": "Malta Summit",
+          "url": "/wiki/Malta_Summit",
+          "length": 12913
+        },
+        {
+          "name": "George H. W. Bush",
+          "url": "/wiki/George_H._W._Bush",
+          "length": 180095
+        },
+        {
+          "name": "Mikhail Gorbachev",
+          "url": "/wiki/Mikhail_Gorbachev",
+          "length": 223430
+        },
+        {
+          "name": "Cold War",
+          "url": "/wiki/Cold_War",
+          "length": 267355
+        },
+        {
+          "name": "NATO",
+          "url": "/wiki/NATO",
+          "length": 150243
+        },
+        {
+          "name": "Warsaw Pact",
+          "url": "/wiki/Warsaw_Pact",
+          "length": 87368
+        }
+      ]
+    },
+    {
+      "year": "1775",
+      "description": "American Revolutionary War: USS Alfred becomes the first vessel to fly the Grand Union Flag (the precursor to the Stars and Stripes); the flag is hoisted by John Paul Jones.",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 286602
+        },
+        {
+          "name": "USS Alfred",
+          "url": "/wiki/USS_Alfred",
+          "length": 15847
+        },
+        {
+          "name": "Grand Union Flag",
+          "url": "/wiki/Grand_Union_Flag",
+          "length": 17179
+        },
+        {
+          "name": "Flag of the United States",
+          "url": "/wiki/Flag_of_the_United_States",
+          "length": 153873
+        },
+        {
+          "name": "John Paul Jones",
+          "url": "/wiki/John_Paul_Jones",
+          "length": 71203
+        }
+      ]
+    },
+    {
+      "year": "1938",
+      "description": "Nazi Germany issues the Decree on the Utilization of Jewish Property forcing Jews to sell real property, businesses, and stocks at below market value as part of Aryanization.",
+      "entities": [
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        },
+        {
+          "name": "Real property",
+          "url": "/wiki/Real_property",
+          "length": 25881
+        },
+        {
+          "name": "Business",
+          "url": "/wiki/Business",
+          "length": 49616
+        },
+        {
+          "name": "Stocks",
+          "url": "/wiki/Stocks",
+          "length": 15238
+        },
+        {
+          "name": "Aryanization",
+          "url": "/wiki/Aryanization",
+          "length": 35097
+        }
+      ]
+    },
+    {
+      "year": "1944",
+      "description": "Greek Civil War: Fighting breaks out in Athens between the ELAS and government forces supported by the British Army.",
+      "entities": [
+        {
+          "name": "Greek Civil War",
+          "url": "/wiki/Greek_Civil_War",
+          "length": 73513
+        },
+        {
+          "name": "Dekemvriana",
+          "url": "/wiki/Dekemvriana",
+          "length": 28403
+        },
+        {
+          "name": "Athens",
+          "url": "/wiki/Athens",
+          "length": 136715
+        },
+        {
+          "name": "Greek People's Liberation Army",
+          "url": "/wiki/Greek_People%27s_Liberation_Army",
+          "length": 65
+        },
+        {
+          "name": "British Army",
+          "url": "/wiki/British_Army",
+          "length": 164961
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1883",
+      "description": "Anton Webern, Austrian composer and conductor (d. 1945)",
+      "entities": [
+        {
+          "name": "Anton Webern",
+          "url": "/wiki/Anton_Webern",
+          "length": 277935
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "David Villa, Spanish footballer",
+      "entities": [
+        {
+          "name": "David Villa",
+          "url": "/wiki/David_Villa",
+          "length": 177143
+        }
+      ]
+    },
+    {
+      "year": "1857",
+      "description": "Joseph Conrad, Polish-born British novelist (d. 1924)",
+      "entities": [
+        {
+          "name": "Joseph Conrad",
+          "url": "/wiki/Joseph_Conrad",
+          "length": 169295
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Julianne Moore, American actress and author",
+      "entities": [
+        {
+          "name": "Julianne Moore",
+          "url": "/wiki/Julianne_Moore",
+          "length": 151960
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "description": "Ozzy Osbourne, English singer-songwriter",
+      "entities": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "/wiki/Ozzy_Osbourne",
+          "length": 138442
+        }
+      ]
+    },
+    {
+      "year": "1930",
+      "description": "Jean-Luc Godard, French-Swiss director and screenwriter (d. 2022)",
+      "entities": [
+        {
+          "name": "Jean-Luc Godard",
+          "url": "/wiki/Jean-Luc_Godard",
+          "length": 134842
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1894",
+      "description": "Robert Louis Stevenson, Scottish novelist, poet, and essayist (b. 1850)",
+      "entities": [
+        {
+          "name": "Robert Louis Stevenson",
+          "url": "/wiki/Robert_Louis_Stevenson",
+          "length": 112128
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "description": "Dev Anand, Indian actor, director, and producer (b. 1923)",
+      "entities": [
+        {
+          "name": "Dev Anand",
+          "url": "/wiki/Dev_Anand",
+          "length": 102420
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Oswald Mosley, English lieutenant, fascist, and politician, Chancellor of the Duchy of Lancaster (b. 1896)",
+      "entities": [
+        {
+          "name": "Oswald Mosley",
+          "url": "/wiki/Oswald_Mosley",
+          "length": 99355
+        },
+        {
+          "name": "Chancellor of the Duchy of Lancaster",
+          "url": "/wiki/Chancellor_of_the_Duchy_of_Lancaster",
+          "length": 12090
+        }
+      ]
+    },
+    {
+      "year": "1552",
+      "description": "Francis Xavier, Spanish missionary and saint (b. 1506)",
+      "entities": [
+        {
+          "name": "Francis Xavier",
+          "url": "/wiki/Francis_Xavier",
+          "length": 86799
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "description": "Scott Weiland, American singer-songwriter (b. 1967)",
+      "entities": [
+        {
+          "name": "Scott Weiland",
+          "url": "/wiki/Scott_Weiland",
+          "length": 85628
+        }
+      ]
+    },
+    {
+      "year": "1928",
+      "description": "Ezra Meeker, American farmer and politician (b. 1830)",
+      "entities": [
+        {
+          "name": "Ezra Meeker",
+          "url": "/wiki/Ezra_Meeker",
+          "length": 75167
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Timeline Game</title>
+    <style>
+        /* ... Previous styles remain the same ... */
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .game-container {
+            display: flex;
+            justify-content: center;
+        }
+
+        .game-section {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            width: 100%;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-top: 0;
+        }
+
+        .draggable-container {
+            min-height: 400px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .draggable {
+            padding: 12px;
+            background: #f8f8f8;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: move;
+            user-select: none;
+            position: relative;
+            font-size: 14px;
+            line-height: 1.4;
+            height: auto;
+            word-wrap: break-word;
+        }
+
+        .draggable.dragging {
+            opacity: 0.5;
+        }
+
+        .year-display {
+            display: none;
+            font-weight: bold;
+            margin-bottom: 8px;
+            font-size: 16px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            display: none;
+            width: fit-content;
+        }
+
+        .year-display.correct {
+            background-color: #22c55e;
+            color: white;
+        }
+
+        .year-display.incorrect {
+            background-color: #ef4444;
+            color: white;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 20px;
+            background-color: #3b82f6;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #2563eb;
+        }
+
+        .score-display {
+            text-align: center;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f8fafc;
+            border-radius: 4px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .score-number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .score-details {
+            font-size: 14px;
+            color: #64748b;
+        }
+
+        .perfect-score {
+            color: #22c55e;
+        }
+
+        #loading-message {
+            text-align: center;
+            padding: 20px;
+            font-size: 18px;
+            color: #666;
+        }
+
+        .error-message {
+            color: #ef4444;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Historical Timeline Game</h1>
+        <h2 id="current-date"></h2>
+    </header>
+
+    <div class="game-container">
+        <div class="game-section">
+            <h2>Events</h2>
+            <div id="events-container" class="draggable-container">
+                <div id="loading-message">Loading events...</div>
+            </div>
+            <button onclick="checkOrder('events')">Submit</button>
+        </div>
+    </div>
+
+    <script>
+        // ... Previous date and data loading functions remain the same ...
+        const today = new Date();
+        document.getElementById('current-date').textContent = today.toLocaleDateString('en-US', {
+            weekday: 'long',
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+
+        function getCurrentDateFormat() {
+            const month = String(today.getMonth() + 1).padStart(2, '0');
+            const day = String(today.getDate()).padStart(2, '0');
+            return `${month}${day}`;
+        }
+
+        async function loadHistoryData() {
+            try {
+                const dateString = getCurrentDateFormat();
+                const response = await fetch(`/selected_events/${dateString}_selected_events.json`);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                return data;
+            } catch (error) {
+                console.error('Error loading data:', error);
+                const container = document.getElementById('events-container');
+                container.innerHTML = `<div class="error-message">Error loading events data. Please try again later.</div>`;
+                throw error;
+            }
+        }
+
+        function calculateScore(items) {
+            const n = items.length;
+            const maxInversions = (n * (n - 1)) / 2;
+            let inversions = 0;
+            
+            // Count inversions
+            for (let i = 0; i < n - 1; i++) {
+                for (let j = i + 1; j < n; j++) {
+                    if (parseInt(items[i].dataset.year) > parseInt(items[j].dataset.year)) {
+                        inversions++;
+                    }
+                }
+            }
+            
+            // Calculate score (0-100)
+            const score = Math.round(100 * (1 - inversions / maxInversions));
+            
+            return {
+                score,
+                inversions,
+                maxInversions,
+                perfect: inversions === 0
+            };
+        }
+
+        function initializeDraggables(containerId, items) {
+            const container = document.getElementById(containerId);
+            container.innerHTML = ''; // Clear loading message
+            
+            // Shuffle array
+            const shuffledItems = [...items].sort(() => Math.random() - 0.5);
+            
+            // Create draggable elements
+            shuffledItems.forEach(item => {
+                const draggable = document.createElement('div');
+                draggable.className = 'draggable';
+                draggable.draggable = true;
+                draggable.dataset.year = item.year;
+                
+                const yearDisplay = document.createElement('div');
+                yearDisplay.className = 'year-display';
+                yearDisplay.textContent = item.year;
+                
+                const description = document.createElement('div');
+                description.textContent = item.description;
+                
+                draggable.appendChild(yearDisplay);
+                draggable.appendChild(description);
+                container.appendChild(draggable);
+                
+                draggable.addEventListener('dragstart', () => {
+                    draggable.classList.add('dragging');
+                });
+                
+                draggable.addEventListener('dragend', () => {
+                    draggable.classList.remove('dragging');
+                });
+            });
+            
+            container.addEventListener('dragover', e => {
+                e.preventDefault();
+                const afterElement = getDragAfterElement(container, e.clientY);
+                const draggable = document.querySelector('.dragging');
+                if (afterElement) {
+                    container.insertBefore(draggable, afterElement);
+                } else {
+                    container.appendChild(draggable);
+                }
+            });
+        }
+
+        function getDragAfterElement(container, y) {
+            const draggableElements = [...container.querySelectorAll('.draggable:not(.dragging)')];
+            
+            return draggableElements.reduce((closest, child) => {
+                const box = child.getBoundingClientRect();
+                const offset = y - box.top - box.height / 2;
+                
+                if (offset < 0 && offset > closest.offset) {
+                    return { offset: offset, element: child };
+                } else {
+                    return closest;
+                }
+            }, { offset: Number.NEGATIVE_INFINITY }).element;
+        }
+
+        function checkOrder(section) {
+            const container = document.getElementById(`${section}-container`);
+            const items = [...container.querySelectorAll('.draggable')];
+            
+            // Calculate score
+            const result = calculateScore(items);
+            
+            // Display years and color them
+            items.forEach((item, index) => {
+                const yearDisplay = item.querySelector('.year-display');
+                const currentYear = parseInt(item.dataset.year);
+                let isCorrect = true;
+                
+                // Check if this item is in wrong order with any other item
+                for (let j = 0; j < items.length; j++) {
+                    if (j < index && parseInt(items[j].dataset.year) > currentYear) {
+                        isCorrect = false;
+                        break;
+                    }
+                    if (j > index && parseInt(items[j].dataset.year) < currentYear) {
+                        isCorrect = false;
+                        break;
+                    }
+                }
+                
+                yearDisplay.style.display = 'block';
+                yearDisplay.className = `year-display ${isCorrect ? 'correct' : 'incorrect'}`;
+            });
+            
+            // Update or create score display
+            let scoreDisplay = container.querySelector('.score-display');
+            if (!scoreDisplay) {
+                scoreDisplay = document.createElement('div');
+                scoreDisplay.className = 'score-display';
+                container.appendChild(scoreDisplay);
+            }
+            
+            scoreDisplay.innerHTML = `
+                <div class="score-number ${result.perfect ? 'perfect-score' : ''}">
+                    Score: ${result.score}/100
+                    ${result.perfect ? ' 🎉' : ''}
+                </div>
+                <div class="score-details">
+                    ${result.inversions} inversions out of ${result.maxInversions} possible
+                </div>
+            `;
+            
+            return result.perfect;
+        }
+
+        // Initialize the game
+        async function initializeGame() {
+            try {
+                const data = await loadHistoryData();
+                initializeDraggables('events-container', data.events);
+            } catch (error) {
+                console.error('Failed to initialize game:', error);
+            }
+        }
+
+        initializeGame();
+    </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # This runs at 00:00 New York City time (UTC-5)
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2.2' # Specify your Ruby version here
+
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Run events_grabber.rb
+      run: bundle exec ruby events_grabber.rb
+
+    - name: Run events_curator.rb
+      run: bundle exec ruby events_curator.rb
