@@ -88,8 +88,8 @@ def load_entity_lengths(events)
         results = JSON.parse(response.body)
         results['query']['pages'].each do |page_id, page|
             entity = event.entities.find { |entity| entity.name == page['title'] }
-            entity.length = 0 unless page['length']
-            entity.length = page['length'] if page['length']
+            next unless entity
+            entity.length = page['length']
         end
     end
 end
