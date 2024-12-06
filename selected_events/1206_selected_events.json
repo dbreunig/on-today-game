@@ -1,0 +1,302 @@
+{
+  "events": [
+    {
+      "year": "1999",
+      "description": "A&M Records, Inc. v. Napster, Inc.: The Recording Industry Association of America sues the peer-to-peer file-sharing service Napster, alleging copyright infringement.",
+      "entities": [
+        {
+          "name": "A&M Records, Inc. v. Napster, Inc. (2000)",
+          "url": "/wiki/A%26M_Records,_Inc._v._Napster,_Inc._(2000)",
+          "length": 71
+        },
+        {
+          "name": "Recording Industry Association of America",
+          "url": "/wiki/Recording_Industry_Association_of_America",
+          "length": 48296
+        },
+        {
+          "name": "Peer-to-peer",
+          "url": "/wiki/Peer-to-peer",
+          "length": 62206
+        },
+        {
+          "name": "File sharing",
+          "url": "/wiki/File_sharing",
+          "length": 42214
+        },
+        {
+          "name": "Napster",
+          "url": "/wiki/Napster",
+          "length": 36093
+        },
+        {
+          "name": "Copyright infringement",
+          "url": "/wiki/Copyright_infringement",
+          "length": 89543
+        }
+      ]
+    },
+    {
+      "year": "1240",
+      "description": "Mongol invasion of Rus': Kyiv, defended by Voivode Dmytro, falls to the Mongols under Batu Khan.",
+      "entities": [
+        {
+          "name": "Mongol invasion of Rus'",
+          "url": "/wiki/Mongol_invasion_of_Rus%27",
+          "length": 91
+        },
+        {
+          "name": "Kyiv",
+          "url": "/wiki/Kyiv",
+          "length": 164421
+        },
+        {
+          "name": "Voivode Dmytro",
+          "url": "/wiki/Voivode_Dmytro",
+          "length": 51
+        },
+        {
+          "name": "Siege of Kiev (1240)",
+          "url": "/wiki/Siege_of_Kiev_(1240)",
+          "length": 16838
+        },
+        {
+          "name": "Mongols",
+          "url": "/wiki/Mongols",
+          "length": 108875
+        },
+        {
+          "name": "Batu Khan",
+          "url": "/wiki/Batu_Khan",
+          "length": 28660
+        }
+      ]
+    },
+    {
+      "year": "1939",
+      "description": "Winter War: The Red Army's advance on the Karelian Isthmus is stopped by Finns at the Mannerheim Line during the Battle of Taipale.",
+      "entities": [
+        {
+          "name": "Winter War",
+          "url": "/wiki/Winter_War",
+          "length": 161922
+        },
+        {
+          "name": "Red Army",
+          "url": "/wiki/Red_Army",
+          "length": 98834
+        },
+        {
+          "name": "Karelian Isthmus",
+          "url": "/wiki/Karelian_Isthmus",
+          "length": 39318
+        },
+        {
+          "name": "Mannerheim Line",
+          "url": "/wiki/Mannerheim_Line",
+          "length": 20366
+        },
+        {
+          "name": "Battle of Taipale",
+          "url": "/wiki/Battle_of_Taipale",
+          "length": 8171
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "Yugoslav Wars: In Croatia, forces of the Serb-dominated Yugoslav People's Army (JNA) heaviest bombardment of Dubrovnik during a siege of seven months.",
+      "entities": [
+        {
+          "name": "Yugoslav Wars",
+          "url": "/wiki/Yugoslav_Wars",
+          "length": 172409
+        },
+        {
+          "name": "Croatia",
+          "url": "/wiki/Croatia",
+          "length": 230923
+        },
+        {
+          "name": "Yugoslav People's Army",
+          "url": "/wiki/Yugoslav_People%27s_Army",
+          "length": 57886
+        },
+        {
+          "name": "Dubrovnik",
+          "url": "/wiki/Dubrovnik",
+          "length": 98924
+        }
+      ]
+    },
+    {
+      "year": "1957",
+      "description": "Project Vanguard: A launchpad explosion of Vanguard TV3 thwarts the first United States attempt to launch a satellite into Earth orbit.",
+      "entities": [
+        {
+          "name": "Project Vanguard",
+          "url": "/wiki/Project_Vanguard",
+          "length": 22127
+        },
+        {
+          "name": "Launch pad",
+          "url": "/wiki/Launch_pad",
+          "length": 19742
+        },
+        {
+          "name": "Vanguard TV3",
+          "url": "/wiki/Vanguard_TV3",
+          "length": 44
+        },
+        {
+          "name": "Satellite",
+          "url": "/wiki/Satellite",
+          "length": 61965
+        }
+      ]
+    },
+    {
+      "year": "1933",
+      "description": "In United States v. One Book Called Ulysses Judge John M. Woolsey rules that James Joyce's novel Ulysses is not obscene despite coarse language and sexual content, a leading decision affirming free expression.",
+      "entities": [
+        {
+          "name": "United States v. One Book Called Ulysses",
+          "url": "/wiki/United_States_v._One_Book_Called_Ulysses",
+          "length": 29273
+        },
+        {
+          "name": "John M. Woolsey",
+          "url": "/wiki/John_M._Woolsey",
+          "length": 10371
+        },
+        {
+          "name": "James Joyce",
+          "url": "/wiki/James_Joyce",
+          "length": 196863
+        },
+        {
+          "name": "Ulysses (novel)",
+          "url": "/wiki/Ulysses_(novel)",
+          "length": 112338
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Satoru Iwata, Japanese game programmer and businessman, was born.",
+      "entities": [
+        {
+          "name": "Satoru Iwata",
+          "url": "/wiki/Satoru_Iwata",
+          "length": 136296
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "B. R. Ambedkar, Indian economist and politician, 1st Indian Minister of Justice, died.",
+      "entities": [
+        {
+          "name": "B. R. Ambedkar",
+          "url": "/wiki/B._R._Ambedkar",
+          "length": 130954
+        },
+        {
+          "name": "Ministry of Law and Justice (India)",
+          "url": "/wiki/Ministry_of_Law_and_Justice_(India)",
+          "length": 15679
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1957",
+      "description": "Andrew Cuomo, American politician, 56th Governor of New York, was born.",
+      "entities": [
+        {
+          "name": "Andrew Cuomo",
+          "url": "/wiki/Andrew_Cuomo",
+          "length": 236869
+        },
+        {
+          "name": "Governor of New York",
+          "url": "/wiki/Governor_of_New_York",
+          "length": 12221
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Giannis Antetokounmpo, Greek-Nigerian basketball player, was born.",
+      "entities": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "url": "/wiki/Giannis_Antetokounmpo",
+          "length": 173471
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Satoru Iwata, Japanese game programmer and businessman, was born.",
+      "entities": [
+        {
+          "name": "Satoru Iwata",
+          "url": "/wiki/Satoru_Iwata",
+          "length": 136296
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1889",
+      "description": "Jefferson Davis, American general and politician, President of the Confederate States of America, died.",
+      "entities": [
+        {
+          "name": "Jefferson Davis",
+          "url": "/wiki/Jefferson_Davis",
+          "length": 133987
+        },
+        {
+          "name": "President of the Confederate States of America",
+          "url": "/wiki/President_of_the_Confederate_States_of_America",
+          "length": 14774
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "B. R. Ambedkar, Indian economist and politician, 1st Indian Minister of Justice, died.",
+      "entities": [
+        {
+          "name": "B. R. Ambedkar",
+          "url": "/wiki/B._R._Ambedkar",
+          "length": 130954
+        },
+        {
+          "name": "Ministry of Law and Justice (India)",
+          "url": "/wiki/Ministry_of_Law_and_Justice_(India)",
+          "length": 15679
+        }
+      ]
+    },
+    {
+      "year": "1976",
+      "description": "João Goulart, Brazilian lawyer and politician, 24th President of Brazil, died.",
+      "entities": [
+        {
+          "name": "João Goulart",
+          "url": "/wiki/Jo%C3%A3o_Goulart",
+          "length": 113242
+        },
+        {
+          "name": "President of Brazil",
+          "url": "/wiki/President_of_Brazil",
+          "length": 26538
+        }
+      ]
+    }
+  ]
+}
