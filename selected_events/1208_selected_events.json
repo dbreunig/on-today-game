@@ -1,0 +1,322 @@
+{
+  "events": [
+    {
+      "year": "1941",
+      "description": "World War II: Japanese forces simultaneously invade Shanghai International Settlement, Malaya, Thailand, Hong Kong, the Philippines, and the Dutch East Indies. (See December 7 for the concurrent attack on Pearl Harbor in the Western Hemisphere.)",
+      "entities": [
+        {
+          "name": "Shanghai International Settlement",
+          "url": "/wiki/Shanghai_International_Settlement",
+          "length": 53716
+        },
+        {
+          "name": "Japanese invasion of Malaya",
+          "url": "/wiki/Japanese_invasion_of_Malaya",
+          "length": 30
+        },
+        {
+          "name": "Japanese invasion of Thailand",
+          "url": "/wiki/Japanese_invasion_of_Thailand",
+          "length": 37881
+        },
+        {
+          "name": "Battle of Hong Kong",
+          "url": "/wiki/Battle_of_Hong_Kong",
+          "length": 78258
+        },
+        {
+          "name": "Philippines campaign (1941–1942)",
+          "url": "/wiki/Philippines_campaign_(1941%E2%80%931942)",
+          "length": 102571
+        },
+        {
+          "name": "Dutch East Indies campaign",
+          "url": "/wiki/Dutch_East_Indies_campaign",
+          "length": 31852
+        },
+        {
+          "name": "December 7",
+          "url": "/wiki/December_7",
+          "length": 52814
+        },
+        {
+          "name": "Attack on Pearl Harbor",
+          "url": "/wiki/Attack_on_Pearl_Harbor",
+          "length": 158810
+        },
+        {
+          "name": "Western Hemisphere",
+          "url": "/wiki/Western_Hemisphere",
+          "length": 17188
+        }
+      ]
+    },
+    {
+      "year": "1854",
+      "description": "In his Apostolic constitution Ineffabilis Deus, Pope Pius IX proclaims the dogmatic definition of Immaculate Conception, which holds that the Blessed Virgin Mary was conceived free of Original Sin.",
+      "entities": [
+        {
+          "name": "Apostolic constitution",
+          "url": "/wiki/Apostolic_constitution",
+          "length": 2349
+        },
+        {
+          "name": "Ineffabilis Deus",
+          "url": "/wiki/Ineffabilis_Deus",
+          "length": 6184
+        },
+        {
+          "name": "Pope Pius IX",
+          "url": "/wiki/Pope_Pius_IX",
+          "length": 84094
+        },
+        {
+          "name": "Dogmatic definition",
+          "url": "/wiki/Dogmatic_definition",
+          "length": 33
+        },
+        {
+          "name": "Immaculate Conception",
+          "url": "/wiki/Immaculate_Conception",
+          "length": 54079
+        },
+        {
+          "name": "Blessed Virgin Mary",
+          "url": "/wiki/Blessed_Virgin_Mary",
+          "length": 35
+        },
+        {
+          "name": "Original Sin",
+          "url": "/wiki/Original_Sin",
+          "length": 58
+        }
+      ]
+    },
+    {
+      "year": "1922",
+      "description": "Two days after coming into existence, the Irish Free State executes four leaders of the Irish Republican Army: Liam Mellows, Rory O'Connor, Joe McKelvey and Dick Barrett.",
+      "entities": [
+        {
+          "name": "Irish Free State",
+          "url": "/wiki/Irish_Free_State",
+          "length": 48617
+        },
+        {
+          "name": "Irish Republican Army (1922–1969)",
+          "url": "/wiki/Irish_Republican_Army_(1922%E2%80%931969)",
+          "length": 68132
+        },
+        {
+          "name": "Liam Mellows",
+          "url": "/wiki/Liam_Mellows",
+          "length": 29154
+        },
+        {
+          "name": "Rory O'Connor (Irish republican)",
+          "url": "/wiki/Rory_O%27Connor_(Irish_republican)",
+          "length": 15492
+        },
+        {
+          "name": "Joe McKelvey",
+          "url": "/wiki/Joe_McKelvey",
+          "length": 16902
+        },
+        {
+          "name": "Richard Barrett (Irish republican)",
+          "url": "/wiki/Richard_Barrett_(Irish_republican)",
+          "length": 15004
+        }
+      ]
+    },
+    {
+      "year": "1863",
+      "description": "Between two and three thousand churchgoers die during the Church of the Company Fire. Deemed as probably the largest single building fire by number of victims in modern history , it began at the start of a Mass held at the Church of the Society of Jesus in Santiago, Chile, during the celebration of the recently proclaimed Feast of the Immaculate Conception.",
+      "entities": [
+        {
+          "name": "Church of the Company Fire",
+          "url": "/wiki/Church_of_the_Company_Fire",
+          "length": 11208
+        },
+        {
+          "name": "Mass (liturgy)",
+          "url": "/wiki/Mass_(liturgy)",
+          "length": 46693
+        },
+        {
+          "name": "Society of Jesus",
+          "url": "/wiki/Society_of_Jesus",
+          "length": 78
+        },
+        {
+          "name": "Santiago",
+          "url": "/wiki/Santiago",
+          "length": 152210
+        },
+        {
+          "name": "Chile",
+          "url": "/wiki/Chile",
+          "length": 216275
+        },
+        {
+          "name": "Feast of the Immaculate Conception",
+          "url": "/wiki/Feast_of_the_Immaculate_Conception",
+          "length": 20105
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "description": "With the second launch of the Falcon 9 and the first launch of the Dragon, SpaceX becomes the first private company to successfully launch, orbit and recover a spacecraft.",
+      "entities": [
+        {
+          "name": "COTS Demo Flight 1",
+          "url": "/wiki/COTS_Demo_Flight_1",
+          "length": 39
+        },
+        {
+          "name": "Falcon 9",
+          "url": "/wiki/Falcon_9",
+          "length": 152505
+        },
+        {
+          "name": "SpaceX Dragon 1",
+          "url": "/wiki/SpaceX_Dragon_1",
+          "length": 93107
+        },
+        {
+          "name": "SpaceX",
+          "url": "/wiki/SpaceX",
+          "length": 222716
+        },
+        {
+          "name": "Spacecraft",
+          "url": "/wiki/Spacecraft",
+          "length": 50000
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "The leaders of Russia, Belarus and Ukraine sign an agreement dissolving the Soviet Union and establishing the Commonwealth of Independent States.",
+      "entities": [
+        {
+          "name": "Belarus",
+          "url": "/wiki/Belarus",
+          "length": 183552
+        },
+        {
+          "name": "Ukraine",
+          "url": "/wiki/Ukraine",
+          "length": 254782
+        },
+        {
+          "name": "Belovezh Accords",
+          "url": "/wiki/Belovezh_Accords",
+          "length": 78
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Commonwealth of Independent States",
+          "url": "/wiki/Commonwealth_of_Independent_States",
+          "length": 111353
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Philip Rivers, American football player, was born.",
+      "entities": [
+        {
+          "name": "Philip Rivers",
+          "url": "/wiki/Philip_Rivers",
+          "length": 184135
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "description": "John Glenn, American astronaut and senator, first American to go into orbit, died.",
+      "entities": [
+        {
+          "name": "John Glenn",
+          "url": "/wiki/John_Glenn",
+          "length": 171466
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1982",
+      "description": "Nicki Minaj, Trinidadian-American rapper and actress, was born.",
+      "entities": [
+        {
+          "name": "Nicki Minaj",
+          "url": "/wiki/Nicki_Minaj",
+          "length": 393030
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "Kevin Harvick, American race car driver, was born.",
+      "entities": [
+        {
+          "name": "Kevin Harvick",
+          "url": "/wiki/Kevin_Harvick",
+          "length": 261989
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Philip Rivers, American football player, was born.",
+      "entities": [
+        {
+          "name": "Philip Rivers",
+          "url": "/wiki/Philip_Rivers",
+          "length": 184135
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1980",
+      "description": "John Lennon, English singer-songwriter and guitarist, died.",
+      "entities": [
+        {
+          "name": "John Lennon",
+          "url": "/wiki/John_Lennon",
+          "length": 187022
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "description": "John Glenn, American astronaut and senator, first American to go into orbit, died.",
+      "entities": [
+        {
+          "name": "John Glenn",
+          "url": "/wiki/John_Glenn",
+          "length": 171466
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "description": "Juice Wrld, American rapper, singer and songwriter, died.",
+      "entities": [
+        {
+          "name": "Juice Wrld",
+          "url": "/wiki/Juice_Wrld",
+          "length": 117213
+        }
+      ]
+    }
+  ]
+}
