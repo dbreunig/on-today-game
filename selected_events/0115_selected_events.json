@@ -1,0 +1,321 @@
+{
+  "events": [
+    {
+      "year": "1870",
+      "description": "A political cartoon for the first time symbolizes the Democratic Party with a donkey (\"A Live Jackass Kicking a Dead Lion\" by Thomas Nast for Harper's Weekly).",
+      "html": "<li>\n<a href=\"/wiki/1870\" title=\"1870\">1870</a> – A <a href=\"/wiki/Political_cartoon\" title=\"Political cartoon\">political cartoon</a> for the first time symbolizes the <a href=\"/wiki/Democratic_Party_(United_States)\" title=\"Democratic Party (United States)\">Democratic Party</a> with a <a href=\"/wiki/Donkey\" title=\"Donkey\">donkey</a> (\"<a href=\"/wiki/File:Democraticjackass.jpg\" title=\"File:Democraticjackass.jpg\">A Live Jackass Kicking a Dead Lion</a>\" by <a href=\"/wiki/Thomas_Nast\" title=\"Thomas Nast\">Thomas Nast</a> for <i><a href=\"/wiki/Harper%27s_Weekly\" title=\"Harper's Weekly\">Harper's Weekly</a></i>).</li>",
+      "entities": [
+        {
+          "name": "Political cartoon",
+          "url": "/wiki/Political_cartoon",
+          "length": 25271
+        },
+        {
+          "name": "Democratic Party (United States)",
+          "url": "/wiki/Democratic_Party_(United_States)",
+          "length": 306405
+        },
+        {
+          "name": "Donkey",
+          "url": "/wiki/Donkey",
+          "length": 60828
+        },
+        {
+          "name": "File:Democraticjackass.jpg",
+          "url": "/wiki/File:Democraticjackass.jpg",
+          "length": null
+        },
+        {
+          "name": "Thomas Nast",
+          "url": "/wiki/Thomas_Nast",
+          "length": 55047
+        },
+        {
+          "name": "Harper's Weekly",
+          "url": "/wiki/Harper%27s_Weekly",
+          "length": 16013
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "description": "ESA's SMART-1 lunar orbiter discovers elements such as calcium, aluminum, silicon, iron, and other surface elements on the Moon.",
+      "html": "<li>\n<a href=\"/wiki/2005\" title=\"2005\">2005</a> – <a href=\"/wiki/European_Space_Agency\" title=\"European Space Agency\">ESA</a>'s <a href=\"/wiki/SMART-1\" title=\"SMART-1\">SMART-1</a> lunar orbiter discovers elements such as <a href=\"/wiki/Calcium\" title=\"Calcium\">calcium</a>, <a href=\"/wiki/Aluminum\" class=\"mw-redirect\" title=\"Aluminum\">aluminum</a>, <a href=\"/wiki/Silicon\" title=\"Silicon\">silicon</a>, <a href=\"/wiki/Iron\" title=\"Iron\">iron</a>, and other surface elements on the Moon.</li>",
+      "entities": [
+        {
+          "name": "European Space Agency",
+          "url": "/wiki/European_Space_Agency",
+          "length": 125301
+        },
+        {
+          "name": "SMART-1",
+          "url": "/wiki/SMART-1",
+          "length": 33079
+        },
+        {
+          "name": "Calcium",
+          "url": "/wiki/Calcium",
+          "length": 47808
+        },
+        {
+          "name": "Aluminum",
+          "url": "/wiki/Aluminum",
+          "length": 102
+        },
+        {
+          "name": "Silicon",
+          "url": "/wiki/Silicon",
+          "length": 89095
+        },
+        {
+          "name": "Iron",
+          "url": "/wiki/Iron",
+          "length": 153410
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Rosa Luxemburg and Karl Liebknecht, two of the most prominent communists in Germany, are clubbed and then shot to death by members of the Freikorps at the end of the Spartacist uprising.",
+      "html": "<li>\n<a href=\"/wiki/1919\" title=\"1919\">1919</a> – <a href=\"/wiki/Rosa_Luxemburg\" title=\"Rosa Luxemburg\">Rosa Luxemburg</a> and <a href=\"/wiki/Karl_Liebknecht\" title=\"Karl Liebknecht\">Karl Liebknecht</a>, two of the most prominent <a href=\"/wiki/Communism\" title=\"Communism\">communists</a> in Germany, are clubbed and then shot to death by members of the <a href=\"/wiki/Freikorps\" title=\"Freikorps\">Freikorps</a> at the end of the <a href=\"/wiki/Spartacist_uprising\" title=\"Spartacist uprising\">Spartacist uprising</a>.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rosa Luxemburg",
+          "url": "/wiki/Rosa_Luxemburg",
+          "length": 113167
+        },
+        {
+          "name": "Karl Liebknecht",
+          "url": "/wiki/Karl_Liebknecht",
+          "length": 60583
+        },
+        {
+          "name": "Communism",
+          "url": "/wiki/Communism",
+          "length": 287701
+        },
+        {
+          "name": "Freikorps",
+          "url": "/wiki/Freikorps",
+          "length": 47248
+        },
+        {
+          "name": "Spartacist uprising",
+          "url": "/wiki/Spartacist_uprising",
+          "length": 48134
+        }
+      ]
+    },
+    {
+      "year": "1949",
+      "description": "Chinese Civil War: The Communist forces take over Tianjin from the Nationalist government.",
+      "html": "<li>\n<a href=\"/wiki/1949\" title=\"1949\">1949</a> – <a href=\"/wiki/Chinese_Civil_War\" title=\"Chinese Civil War\">Chinese Civil War</a>: The <a href=\"/wiki/Communist_Party_of_China\" class=\"mw-redirect\" title=\"Communist Party of China\">Communist</a> forces <a href=\"/wiki/Pingjin_Campaign\" class=\"mw-redirect\" title=\"Pingjin Campaign\">take over</a> <a href=\"/wiki/Tianjin\" title=\"Tianjin\">Tianjin</a> from the <a href=\"/wiki/Nationalist_government\" title=\"Nationalist government\">Nationalist government</a>.</li>",
+      "entities": [
+        {
+          "name": "Chinese Civil War",
+          "url": "/wiki/Chinese_Civil_War",
+          "length": 118670
+        },
+        {
+          "name": "Communist Party of China",
+          "url": "/wiki/Communist_Party_of_China",
+          "length": 127
+        },
+        {
+          "name": "Pingjin Campaign",
+          "url": "/wiki/Pingjin_Campaign",
+          "length": 47
+        },
+        {
+          "name": "Tianjin",
+          "url": "/wiki/Tianjin",
+          "length": 134875
+        },
+        {
+          "name": "Nationalist government",
+          "url": "/wiki/Nationalist_government",
+          "length": 56125
+        }
+      ]
+    },
+    {
+      "year": "1962",
+      "description": "Netherlands New Guinea Conflict: Indonesian Navy fast patrol boat RI Macan Tutul commanded by Commodore Yos Sudarso sunk in Arafura Sea by the Dutch Navy.",
+      "html": "<li>1962   – <a href=\"/wiki/Netherlands_New_Guinea\" class=\"mw-redirect\" title=\"Netherlands New Guinea\">Netherlands New Guinea</a> Conflict: <a href=\"/wiki/Indonesian_Navy\" title=\"Indonesian Navy\">Indonesian Navy</a> fast patrol boat RI Macan Tutul commanded by Commodore <a href=\"/wiki/Yos_Sudarso\" title=\"Yos Sudarso\">Yos Sudarso</a> sunk in <a href=\"/wiki/Arafura_Sea\" title=\"Arafura Sea\">Arafura Sea</a> by the <a href=\"/wiki/Dutch_Navy\" class=\"mw-redirect\" title=\"Dutch Navy\">Dutch Navy</a>.</li>",
+      "entities": [
+        {
+          "name": "Netherlands New Guinea",
+          "url": "/wiki/Netherlands_New_Guinea",
+          "length": 76
+        },
+        {
+          "name": "Indonesian Navy",
+          "url": "/wiki/Indonesian_Navy",
+          "length": 67370
+        },
+        {
+          "name": "Yos Sudarso",
+          "url": "/wiki/Yos_Sudarso",
+          "length": 5140
+        },
+        {
+          "name": "Arafura Sea",
+          "url": "/wiki/Arafura_Sea",
+          "length": 10245
+        },
+        {
+          "name": "Dutch Navy",
+          "url": "/wiki/Dutch_Navy",
+          "length": 35
+        }
+      ]
+    },
+    {
+      "year": "1818",
+      "description": "A paper by David Brewster is read to the Royal Society, belatedly announcing his discovery of what we now call the biaxial class of doubly-refracting crystals. On the same day, Augustin-Jean Fresnel signs a \"supplement\" (submitted four days later) on reflection of polarized light.",
+      "html": "<li>\n<a href=\"/wiki/1818\" title=\"1818\">1818</a> – A paper by <a href=\"/wiki/David_Brewster\" title=\"David Brewster\">David Brewster</a> is read to the <a href=\"/wiki/Royal_Society\" title=\"Royal Society\">Royal Society</a>, belatedly announcing his discovery of what we now call the <i>biaxial</i> class of <a href=\"/wiki/Birefringence\" title=\"Birefringence\">doubly-refracting</a> crystals.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup> On the same day, <a href=\"/wiki/Augustin-Jean_Fresnel\" title=\"Augustin-Jean Fresnel\">Augustin-Jean Fresnel</a> signs a \"supplement\" (submitted four days later) on reflection of <a href=\"/wiki/Polarization_(waves)\" title=\"Polarization (waves)\">polarized</a> light.</li>",
+      "entities": [
+        {
+          "name": "David Brewster",
+          "url": "/wiki/David_Brewster",
+          "length": 38241
+        },
+        {
+          "name": "Royal Society",
+          "url": "/wiki/Royal_Society",
+          "length": 73110
+        },
+        {
+          "name": "Birefringence",
+          "url": "/wiki/Birefringence",
+          "length": 60800
+        },
+        {
+          "name": "Augustin-Jean Fresnel",
+          "url": "/wiki/Augustin-Jean_Fresnel",
+          "length": 202975
+        },
+        {
+          "name": "Polarization (waves)",
+          "url": "/wiki/Polarization_(waves)",
+          "length": 75226
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Drew Brees, American football player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Drew_Brees\" title=\"Drew Brees\">Drew Brees</a>, American football player<sup id=\"cite_ref-UPI_44-5\" class=\"reference\"><a href=\"#cite_note-UPI-44\"><span class=\"cite-bracket\">[</span>44<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Drew Brees",
+          "url": "/wiki/Drew_Brees",
+          "length": 297096
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Rosa Luxemburg, German economist, theorist, and philosopher, died.",
+      "html": "<li>1919   – <a href=\"/wiki/Rosa_Luxemburg\" title=\"Rosa Luxemburg\">Rosa Luxemburg</a>, German economist, theorist, and philosopher (b. 1871)</li>",
+      "entities": [
+        {
+          "name": "Rosa Luxemburg",
+          "url": "/wiki/Rosa_Luxemburg",
+          "length": 113167
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1979",
+      "description": "Drew Brees, American football player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Drew_Brees\" title=\"Drew Brees\">Drew Brees</a>, American football player<sup id=\"cite_ref-UPI_44-5\" class=\"reference\"><a href=\"#cite_note-UPI-44\"><span class=\"cite-bracket\">[</span>44<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Drew Brees",
+          "url": "/wiki/Drew_Brees",
+          "length": 297096
+        }
+      ]
+    },
+    {
+      "year": "1929",
+      "description": "Martin Luther King Jr., American minister and activist, Nobel Prize laureate, was born.",
+      "html": "<li>1929   – <a href=\"/wiki/Martin_Luther_King_Jr.\" title=\"Martin Luther King Jr.\">Martin Luther King Jr.</a>, American minister and activist, <a href=\"/wiki/Nobel_Peace_Prize\" title=\"Nobel Peace Prize\">Nobel Prize</a> laureate (<a href=\"/wiki/Assassination_of_Martin_Luther_King_Jr.\" title=\"Assassination of Martin Luther King Jr.\">d. 1968</a>)<sup id=\"cite_ref-UPI_44-3\" class=\"reference\"><a href=\"#cite_note-UPI-44\"><span class=\"cite-bracket\">[</span>44<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Martin Luther King Jr.",
+          "url": "/wiki/Martin_Luther_King_Jr.",
+          "length": 293932
+        },
+        {
+          "name": "Nobel Peace Prize",
+          "url": "/wiki/Nobel_Peace_Prize",
+          "length": 45979
+        },
+        {
+          "name": "Assassination of Martin Luther King Jr.",
+          "url": "/wiki/Assassination_of_Martin_Luther_King_Jr.",
+          "length": 73849
+        }
+      ]
+    },
+    {
+      "year": "1918",
+      "description": "Gamal Abdel Nasser, Egyptian colonel and politician, second President of Egypt, was born.",
+      "html": "<li>1918   – <a href=\"/wiki/Gamal_Abdel_Nasser\" title=\"Gamal Abdel Nasser\">Gamal Abdel Nasser</a>, Egyptian colonel and politician, second <a href=\"/wiki/President_of_Egypt\" title=\"President of Egypt\">President of Egypt</a> (d. 1970)<sup id=\"cite_ref-UPI_44-2\" class=\"reference\"><a href=\"#cite_note-UPI-44\"><span class=\"cite-bracket\">[</span>44<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Gamal Abdel Nasser",
+          "url": "/wiki/Gamal_Abdel_Nasser",
+          "length": 186409
+        },
+        {
+          "name": "President of Egypt",
+          "url": "/wiki/President_of_Egypt",
+          "length": 24039
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2018",
+      "description": "Dolores O'Riordan, Irish pop singer, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Dolores_O%27Riordan\" title=\"Dolores O'Riordan\">Dolores O'Riordan</a>, Irish pop singer (b. 1971)<sup id=\"cite_ref-98\" class=\"reference\"><a href=\"#cite_note-98\"><span class=\"cite-bracket\">[</span>98<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Dolores O'Riordan",
+          "url": "/wiki/Dolores_O%27Riordan",
+          "length": 294734
+        }
+      ]
+    },
+    {
+      "year": "1950",
+      "description": "Henry H. Arnold, American general, died.",
+      "html": "<li>\n<a href=\"/wiki/1950\" title=\"1950\">1950</a> – <a href=\"/wiki/Henry_H._Arnold\" title=\"Henry H. Arnold\">Henry H. Arnold</a>, American general (b. 1886)</li>",
+      "entities": [
+        {
+          "name": "Henry H. Arnold",
+          "url": "/wiki/Henry_H._Arnold",
+          "length": 130582
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Rosa Luxemburg, German economist, theorist, and philosopher, died.",
+      "html": "<li>1919   – <a href=\"/wiki/Rosa_Luxemburg\" title=\"Rosa Luxemburg\">Rosa Luxemburg</a>, German economist, theorist, and philosopher (b. 1871)</li>",
+      "entities": [
+        {
+          "name": "Rosa Luxemburg",
+          "url": "/wiki/Rosa_Luxemburg",
+          "length": 113167
+        }
+      ]
+    }
+  ]
+}

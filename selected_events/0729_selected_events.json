@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "year": "923",
+      "description": "Battle of Firenzuola: Lombard forces under King Rudolph II and Adalbert I, margrave of Ivrea, defeat the dethroned Emperor Berengar I of Italy at Firenzuola (Tuscany).",
+      "html": "<li>\n<a href=\"/wiki/923\" title=\"923\">923</a> – <a href=\"/wiki/Battle_of_Firenzuola\" title=\"Battle of Firenzuola\">Battle of Firenzuola</a>: Lombard forces under King <a href=\"/wiki/Rudolph_II_of_Burgundy\" title=\"Rudolph II of Burgundy\">Rudolph II</a> and <a href=\"/wiki/Adalbert_I_of_Ivrea\" title=\"Adalbert I of Ivrea\">Adalbert I</a>, margrave of <a href=\"/wiki/March_of_Ivrea\" title=\"March of Ivrea\">Ivrea</a>, defeat the dethroned Emperor <a href=\"/wiki/Berengar_I_of_Italy\" title=\"Berengar I of Italy\">Berengar I of Italy</a> at <a href=\"/wiki/Firenzuola\" title=\"Firenzuola\">Firenzuola</a> (<a href=\"/wiki/Tuscany\" title=\"Tuscany\">Tuscany</a>).</li>",
+      "entities": [
+        {
+          "name": "Battle of Firenzuola",
+          "url": "/wiki/Battle_of_Firenzuola",
+          "length": 3806
+        },
+        {
+          "name": "Rudolph II of Burgundy",
+          "url": "/wiki/Rudolph_II_of_Burgundy",
+          "length": 6267
+        },
+        {
+          "name": "Adalbert I of Ivrea",
+          "url": "/wiki/Adalbert_I_of_Ivrea",
+          "length": 4205
+        },
+        {
+          "name": "March of Ivrea",
+          "url": "/wiki/March_of_Ivrea",
+          "length": 4528
+        },
+        {
+          "name": "Berengar I of Italy",
+          "url": "/wiki/Berengar_I_of_Italy",
+          "length": 25758
+        },
+        {
+          "name": "Firenzuola",
+          "url": "/wiki/Firenzuola",
+          "length": 6884
+        },
+        {
+          "name": "Tuscany",
+          "url": "/wiki/Tuscany",
+          "length": 58233
+        }
+      ]
+    },
+    {
+      "year": "1588",
+      "description": "Anglo-Spanish War: Battle of Gravelines: English naval forces under the command of Lord Charles Howard and Sir Francis Drake defeat the Spanish Armada off the coast of Gravelines, France.",
+      "html": "<li>\n<a href=\"/wiki/1588\" title=\"1588\">1588</a> – <a href=\"/wiki/Anglo-Spanish_War_(1585%E2%80%931604)\" title=\"Anglo-Spanish War (1585–1604)\">Anglo-Spanish War</a>: <a href=\"/wiki/Spanish_Armada#Battle_of_Gravelines\" title=\"Spanish Armada\">Battle of Gravelines</a>: English <a href=\"/wiki/Royal_Navy\" title=\"Royal Navy\">naval</a> forces under the command of <a href=\"/wiki/Charles_Howard,_1st_Earl_of_Nottingham\" title=\"Charles Howard, 1st Earl of Nottingham\">Lord Charles Howard</a> and Sir <a href=\"/wiki/Francis_Drake\" title=\"Francis Drake\">Francis Drake</a> defeat the <a href=\"/wiki/Spanish_Armada\" title=\"Spanish Armada\">Spanish Armada</a> off the coast of <a href=\"/wiki/Gravelines\" title=\"Gravelines\">Gravelines</a>, France.</li>",
+      "entities": [
+        {
+          "name": "Anglo-Spanish War (1585–1604)",
+          "url": "/wiki/Anglo-Spanish_War_(1585%E2%80%931604)",
+          "length": null
+        },
+        {
+          "name": "Spanish Armada",
+          "url": "/wiki/Spanish_Armada#Battle_of_Gravelines",
+          "length": null
+        },
+        {
+          "name": "Royal Navy",
+          "url": "/wiki/Royal_Navy",
+          "length": null
+        },
+        {
+          "name": "Charles Howard, 1st Earl of Nottingham",
+          "url": "/wiki/Charles_Howard,_1st_Earl_of_Nottingham",
+          "length": null
+        },
+        {
+          "name": "Francis Drake",
+          "url": "/wiki/Francis_Drake",
+          "length": null
+        },
+        {
+          "name": "Spanish Armada",
+          "url": "/wiki/Spanish_Armada",
+          "length": null
+        },
+        {
+          "name": "Gravelines",
+          "url": "/wiki/Gravelines",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1030",
+      "description": "Ladejarl-Fairhair succession wars: Battle of Stiklestad: King Olaf II fights and dies trying to regain his Norwegian throne from the Danes.",
+      "html": "<li>\n<a href=\"/wiki/1030\" title=\"1030\">1030</a> – <a href=\"/wiki/Earls_of_Lade\" title=\"Earls of Lade\">Ladejarl</a>-<a href=\"/wiki/Hereditary_Kingdom_of_Norway\" class=\"mw-redirect\" title=\"Hereditary Kingdom of Norway\">Fairhair</a> succession wars: <a href=\"/wiki/Battle_of_Stiklestad\" title=\"Battle of Stiklestad\">Battle of Stiklestad</a>: <a href=\"/wiki/Olaf_II_of_Norway\" title=\"Olaf II of Norway\">King Olaf II</a> fights and dies trying to regain his <a href=\"/wiki/List_of_Norwegian_monarchs\" title=\"List of Norwegian monarchs\">Norwegian throne</a> from the <a href=\"/wiki/Danes\" title=\"Danes\">Danes</a>.</li>",
+      "entities": [
+        {
+          "name": "Earls of Lade",
+          "url": "/wiki/Earls_of_Lade",
+          "length": 2844
+        },
+        {
+          "name": "Hereditary Kingdom of Norway",
+          "url": "/wiki/Hereditary_Kingdom_of_Norway",
+          "length": 64
+        },
+        {
+          "name": "Battle of Stiklestad",
+          "url": "/wiki/Battle_of_Stiklestad",
+          "length": 21433
+        },
+        {
+          "name": "Olaf II of Norway",
+          "url": "/wiki/Olaf_II_of_Norway",
+          "length": 53304
+        },
+        {
+          "name": "List of Norwegian monarchs",
+          "url": "/wiki/List_of_Norwegian_monarchs",
+          "length": 57425
+        },
+        {
+          "name": "Danes",
+          "url": "/wiki/Danes",
+          "length": 30604
+        }
+      ]
+    },
+    {
+      "year": "1932",
+      "description": "Great Depression: In Washington, D.C., troops disperse the last of the \"Bonus Army\" of World War I veterans using arson, bayonets, sabers, tanks, tear gas, and vomit gas.",
+      "html": "<li>\n<a href=\"/wiki/1932\" title=\"1932\">1932</a> – <a href=\"/wiki/Great_Depression\" title=\"Great Depression\">Great Depression</a>: In Washington, D.C., troops disperse the last of the \"<a href=\"/wiki/Bonus_Army\" title=\"Bonus Army\">Bonus Army</a>\" of World War I veterans using arson, <a href=\"/wiki/Bayonet\" title=\"Bayonet\">bayonets</a>, <a href=\"/wiki/Saber\" class=\"mw-redirect\" title=\"Saber\">sabers</a>, tanks, <a href=\"/wiki/Tear_gas\" title=\"Tear gas\">tear gas</a>, and <a href=\"/wiki/Adamsite\" title=\"Adamsite\">vomit gas</a>.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Great Depression",
+          "url": "/wiki/Great_Depression",
+          "length": 189204
+        },
+        {
+          "name": "Bonus Army",
+          "url": "/wiki/Bonus_Army",
+          "length": 42080
+        },
+        {
+          "name": "Bayonet",
+          "url": "/wiki/Bayonet",
+          "length": 72964
+        },
+        {
+          "name": "Saber",
+          "url": "/wiki/Saber",
+          "length": 52
+        },
+        {
+          "name": "Tear gas",
+          "url": "/wiki/Tear_gas",
+          "length": 34893
+        },
+        {
+          "name": "Adamsite",
+          "url": "/wiki/Adamsite",
+          "length": 9202
+        }
+      ]
+    },
+    {
+      "year": "1565",
+      "description": "The widowed Mary, Queen of Scots marries Henry Stuart, Lord Darnley, Duke of Albany, at Holyrood Palace, Edinburgh, Scotland, in a Catholic ceremony.",
+      "html": "<li>\n<a href=\"/wiki/1565\" title=\"1565\">1565</a> – The widowed <a href=\"/wiki/Mary,_Queen_of_Scots\" title=\"Mary, Queen of Scots\">Mary, Queen of Scots</a> marries <a href=\"/wiki/Henry_Stuart,_Lord_Darnley\" title=\"Henry Stuart, Lord Darnley\">Henry Stuart, Lord Darnley</a>, <a href=\"/wiki/Duke_of_Albany\" title=\"Duke of Albany\">Duke of Albany</a>, at <a href=\"/wiki/Holyrood_Palace\" title=\"Holyrood Palace\">Holyrood Palace, Edinburgh</a>, Scotland, in a <a href=\"/wiki/Wedding_of_Mary,_Queen_of_Scots,_and_Henry,_Lord_Darnley\" title=\"Wedding of Mary, Queen of Scots, and Henry, Lord Darnley\">Catholic ceremony</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mary, Queen of Scots",
+          "url": "/wiki/Mary,_Queen_of_Scots",
+          "length": 93451
+        },
+        {
+          "name": "Henry Stuart, Lord Darnley",
+          "url": "/wiki/Henry_Stuart,_Lord_Darnley",
+          "length": 43528
+        },
+        {
+          "name": "Duke of Albany",
+          "url": "/wiki/Duke_of_Albany",
+          "length": 13759
+        },
+        {
+          "name": "Holyrood Palace",
+          "url": "/wiki/Holyrood_Palace",
+          "length": 58829
+        },
+        {
+          "name": "Wedding of Mary, Queen of Scots, and Henry, Lord Darnley",
+          "url": "/wiki/Wedding_of_Mary,_Queen_of_Scots,_and_Henry,_Lord_Darnley",
+          "length": 33570
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: Confederate spy Belle Boyd is arrested by Union troops and detained at the Old Capitol Prison in Washington, D.C.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> spy <a href=\"/wiki/Belle_Boyd\" title=\"Belle Boyd\">Belle Boyd</a> is arrested by <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> troops and detained at the <a href=\"/wiki/Old_Capitol_Prison\" class=\"mw-redirect\" title=\"Old Capitol Prison\">Old Capitol Prison</a> in Washington, D.C.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Belle Boyd",
+          "url": "/wiki/Belle_Boyd",
+          "length": 20341
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Old Capitol Prison",
+          "url": "/wiki/Old_Capitol_Prison",
+          "length": 78
+        }
+      ]
+    },
+    {
+      "year": "1883",
+      "description": "Benito Mussolini, Italian fascist revolutionary and politician, 27th Prime Minister of Italy, was born.",
+      "html": "<li>1883   – <a href=\"/wiki/Benito_Mussolini\" title=\"Benito Mussolini\">Benito Mussolini</a>, Italian fascist revolutionary and politician, 27th <a href=\"/wiki/Prime_Minister_of_Italy\" title=\"Prime Minister of Italy\">Prime Minister of Italy</a> (d. 1945)<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\"><span class=\"cite-bracket\">[</span>29<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Benito Mussolini",
+          "url": "/wiki/Benito_Mussolini",
+          "length": 195206
+        },
+        {
+          "name": "Prime Minister of Italy",
+          "url": "/wiki/Prime_Minister_of_Italy",
+          "length": 25551
+        }
+      ]
+    },
+    {
+      "year": "1856",
+      "description": "Robert Schumann, German composer and critic, died.",
+      "html": "<li>\n<a href=\"/wiki/1856\" title=\"1856\">1856</a> – <a href=\"/wiki/Robert_Schumann\" title=\"Robert Schumann\">Robert Schumann</a>, German composer and critic (b. 1810)<sup id=\"cite_ref-94\" class=\"reference\"><a href=\"#cite_note-94\"><span class=\"cite-bracket\">[</span>94<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Robert Schumann",
+          "url": "/wiki/Robert_Schumann",
+          "length": 97078
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1981",
+      "description": "Fernando Alonso, Spanish race car driver, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Fernando_Alonso\" title=\"Fernando Alonso\">Fernando Alonso</a>, Spanish race car driver</li>",
+      "entities": [
+        {
+          "name": "Fernando Alonso",
+          "url": "/wiki/Fernando_Alonso",
+          "length": 248300
+        }
+      ]
+    },
+    {
+      "year": "1883",
+      "description": "Benito Mussolini, Italian fascist revolutionary and politician, 27th Prime Minister of Italy, was born.",
+      "html": "<li>1883   – <a href=\"/wiki/Benito_Mussolini\" title=\"Benito Mussolini\">Benito Mussolini</a>, Italian fascist revolutionary and politician, 27th <a href=\"/wiki/Prime_Minister_of_Italy\" title=\"Prime Minister of Italy\">Prime Minister of Italy</a> (d. 1945)<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\"><span class=\"cite-bracket\">[</span>29<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Benito Mussolini",
+          "url": "/wiki/Benito_Mussolini",
+          "length": 195206
+        },
+        {
+          "name": "Prime Minister of Italy",
+          "url": "/wiki/Prime_Minister_of_Italy",
+          "length": 25551
+        }
+      ]
+    },
+    {
+      "year": "1993",
+      "description": "Dak Prescott, American football player, was born.",
+      "html": "<li>1993   – <a href=\"/wiki/Dak_Prescott\" title=\"Dak Prescott\">Dak Prescott</a>, American football player<sup id=\"cite_ref-83\" class=\"reference\"><a href=\"#cite_note-83\"><span class=\"cite-bracket\">[</span>83<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Dak Prescott",
+          "url": "/wiki/Dak_Prescott",
+          "length": 163810
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1983",
+      "description": "Luis Buñuel, Spanish actor, director, and screenwriter, died.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Luis_Bu%C3%B1uel\" title=\"Luis Buñuel\">Luis Buñuel</a>, Spanish actor, director, and screenwriter (b. 1900)</li>",
+      "entities": [
+        {
+          "name": "Luis Buñuel",
+          "url": "/wiki/Luis_Bu%C3%B1uel",
+          "length": 172897
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "Vincent van Gogh, Dutch painter and illustrator, died.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – <a href=\"/wiki/Vincent_van_Gogh\" title=\"Vincent van Gogh\">Vincent van Gogh</a>, Dutch painter and illustrator (b. 1853)<sup id=\"cite_ref-96\" class=\"reference\"><a href=\"#cite_note-96\"><span class=\"cite-bracket\">[</span>96<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Vincent van Gogh",
+          "url": "/wiki/Vincent_van_Gogh",
+          "length": 153676
+        }
+      ]
+    },
+    {
+      "year": "1856",
+      "description": "Robert Schumann, German composer and critic, died.",
+      "html": "<li>\n<a href=\"/wiki/1856\" title=\"1856\">1856</a> – <a href=\"/wiki/Robert_Schumann\" title=\"Robert Schumann\">Robert Schumann</a>, German composer and critic (b. 1810)<sup id=\"cite_ref-94\" class=\"reference\"><a href=\"#cite_note-94\"><span class=\"cite-bracket\">[</span>94<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Robert Schumann",
+          "url": "/wiki/Robert_Schumann",
+          "length": 97078
+        }
+      ]
+    }
+  ]
+}

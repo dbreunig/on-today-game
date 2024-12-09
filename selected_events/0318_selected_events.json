@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "1994",
+      "description": "Bosnia's Bosniaks and Croats sign the Washington Agreement, ending war between the Croatian Republic of Herzeg-Bosnia and the Republic of Bosnia and Herzegovina, and establishing the Federation of Bosnia and Herzegovina.",
+      "html": "<li>\n<a href=\"/wiki/1994\" title=\"1994\">1994</a> – <a href=\"/wiki/Bosnia_and_Herzegovina\" title=\"Bosnia and Herzegovina\">Bosnia</a>'s <a href=\"/wiki/Bosniaks\" title=\"Bosniaks\">Bosniaks</a> and <a href=\"/wiki/Croats\" title=\"Croats\">Croats</a> sign the <a href=\"/wiki/Washington_Agreement\" title=\"Washington Agreement\">Washington Agreement</a>, ending war between the <a href=\"/wiki/Croatian_Republic_of_Herzeg-Bosnia\" title=\"Croatian Republic of Herzeg-Bosnia\">Croatian Republic of Herzeg-Bosnia</a> and the <a href=\"/wiki/Republic_of_Bosnia_and_Herzegovina\" title=\"Republic of Bosnia and Herzegovina\">Republic of Bosnia and Herzegovina</a>, and establishing the <a href=\"/wiki/Federation_of_Bosnia_and_Herzegovina\" title=\"Federation of Bosnia and Herzegovina\">Federation of Bosnia and Herzegovina</a>.</li>",
+      "entities": [
+        {
+          "name": "Bosnia and Herzegovina",
+          "url": "/wiki/Bosnia_and_Herzegovina",
+          "length": 218593
+        },
+        {
+          "name": "Bosniaks",
+          "url": "/wiki/Bosniaks",
+          "length": 149796
+        },
+        {
+          "name": "Croats",
+          "url": "/wiki/Croats",
+          "length": 158782
+        },
+        {
+          "name": "Washington Agreement",
+          "url": "/wiki/Washington_Agreement",
+          "length": 9097
+        },
+        {
+          "name": "Croatian Republic of Herzeg-Bosnia",
+          "url": "/wiki/Croatian_Republic_of_Herzeg-Bosnia",
+          "length": 62720
+        },
+        {
+          "name": "Republic of Bosnia and Herzegovina",
+          "url": "/wiki/Republic_of_Bosnia_and_Herzegovina",
+          "length": 22741
+        },
+        {
+          "name": "Federation of Bosnia and Herzegovina",
+          "url": "/wiki/Federation_of_Bosnia_and_Herzegovina",
+          "length": 38448
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "description": "World War II: Adolf Hitler and Benito Mussolini meet at the Brenner Pass in the Alps and agree to form an alliance against France and the United Kingdom.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a> and <a href=\"/wiki/Benito_Mussolini\" title=\"Benito Mussolini\">Benito Mussolini</a> meet at the <a href=\"/wiki/Brenner_Pass\" title=\"Brenner Pass\">Brenner Pass</a> in the <a href=\"/wiki/Alps\" title=\"Alps\">Alps</a> and agree to form an alliance against France and the United Kingdom.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Benito Mussolini",
+          "url": "/wiki/Benito_Mussolini",
+          "length": 195206
+        },
+        {
+          "name": "Brenner Pass",
+          "url": "/wiki/Brenner_Pass",
+          "length": 15160
+        },
+        {
+          "name": "Alps",
+          "url": "/wiki/Alps",
+          "length": 106802
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "The United States begins secretly bombing the Sihanouk Trail in Cambodia, used by communist forces to infiltrate South Vietnam.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – The United States begins <a href=\"/wiki/Operation_Menu\" title=\"Operation Menu\">secretly bombing</a> the <a href=\"/wiki/Sihanouk_Trail\" title=\"Sihanouk Trail\">Sihanouk Trail</a> in <a href=\"/wiki/Cambodia\" title=\"Cambodia\">Cambodia</a>, used by <a href=\"/wiki/People%27s_Army_of_Vietnam\" title=\"People's Army of Vietnam\">communist forces</a> to infiltrate <a href=\"/wiki/South_Vietnam\" title=\"South Vietnam\">South Vietnam</a>.</li>",
+      "entities": [
+        {
+          "name": "Operation Menu",
+          "url": "/wiki/Operation_Menu",
+          "length": 42543
+        },
+        {
+          "name": "Sihanouk Trail",
+          "url": "/wiki/Sihanouk_Trail",
+          "length": 25148
+        },
+        {
+          "name": "Cambodia",
+          "url": "/wiki/Cambodia",
+          "length": 210192
+        },
+        {
+          "name": "People's Army of Vietnam",
+          "url": "/wiki/People%27s_Army_of_Vietnam",
+          "length": 66719
+        },
+        {
+          "name": "South Vietnam",
+          "url": "/wiki/South_Vietnam",
+          "length": 261983
+        }
+      ]
+    },
+    {
+      "year": "1241",
+      "description": "First Mongol invasion of Poland: Mongols overwhelm Polish armies in Kraków in the Battle of Chmielnik and plunder the city.",
+      "html": "<li>\n<a href=\"/wiki/1241\" title=\"1241\">1241</a> – <a href=\"/wiki/First_Mongol_invasion_of_Poland\" title=\"First Mongol invasion of Poland\">First Mongol invasion of Poland</a>: <a href=\"/wiki/Mongol_Empire\" title=\"Mongol Empire\">Mongols</a> overwhelm <a href=\"/wiki/History_of_Poland_during_the_Piast_dynasty\" title=\"History of Poland during the Piast dynasty\">Polish</a> armies in <a href=\"/wiki/Krak%C3%B3w\" title=\"Kraków\">Kraków</a> in the <a href=\"/wiki/Battle_of_Chmielnik\" title=\"Battle of Chmielnik\">Battle of Chmielnik</a> and plunder the city.</li>",
+      "entities": [
+        {
+          "name": "First Mongol invasion of Poland",
+          "url": "/wiki/First_Mongol_invasion_of_Poland",
+          "length": 17235
+        },
+        {
+          "name": "Mongol Empire",
+          "url": "/wiki/Mongol_Empire",
+          "length": 133263
+        },
+        {
+          "name": "History of Poland during the Piast dynasty",
+          "url": "/wiki/History_of_Poland_during_the_Piast_dynasty",
+          "length": 57241
+        },
+        {
+          "name": "Kraków",
+          "url": "/wiki/Krak%C3%B3w",
+          "length": 217968
+        },
+        {
+          "name": "Battle of Chmielnik",
+          "url": "/wiki/Battle_of_Chmielnik",
+          "length": 6915
+        }
+      ]
+    },
+    {
+      "year": "37",
+      "description": "Roman Senate annuls Tiberius' will and proclaims Gaius Julius Caesar Augustus Germanicus (aka Caligula = Little Boots) emperor.",
+      "html": "<li>\n<a href=\"/wiki/AD_37\" title=\"AD 37\">37</a> – Roman Senate annuls <a href=\"/wiki/Tiberius\" title=\"Tiberius\">Tiberius</a>' will and proclaims <a href=\"/wiki/Caligula\" title=\"Caligula\">Gaius Julius Caesar Augustus Germanicus</a> <i>(aka <a href=\"/wiki/Caligula\" title=\"Caligula\">Caligula</a> = Little Boots)</i> emperor.<sup id=\"cite_ref-tacitus-annals-5-10_1-0\" class=\"reference\"><a href=\"#cite_note-tacitus-annals-5-10-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "AD 37",
+          "url": "/wiki/AD_37",
+          "length": 3653
+        },
+        {
+          "name": "Tiberius",
+          "url": "/wiki/Tiberius",
+          "length": 78276
+        },
+        {
+          "name": "Caligula",
+          "url": "/wiki/Caligula",
+          "length": 129012
+        },
+        {
+          "name": "Caligula",
+          "url": "/wiki/Caligula",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1915",
+      "description": "World War I: During the Battle of Gallipoli, three battleships are sunk during a failed British and French naval attack on the Dardanelles.",
+      "html": "<li>\n<a href=\"/wiki/1915\" title=\"1915\">1915</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: During the <a href=\"/wiki/Battle_of_Gallipoli\" class=\"mw-redirect\" title=\"Battle of Gallipoli\">Battle of Gallipoli</a>, three <a href=\"/wiki/Battleship\" title=\"Battleship\">battleships</a> are sunk during a failed British and French <a href=\"/wiki/Naval_operations_in_the_Dardanelles_Campaign\" class=\"mw-redirect\" title=\"Naval operations in the Dardanelles Campaign\">naval attack on the Dardanelles</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Battle of Gallipoli",
+          "url": "/wiki/Battle_of_Gallipoli",
+          "length": 32
+        },
+        {
+          "name": "Battleship",
+          "url": "/wiki/Battleship",
+          "length": 93184
+        },
+        {
+          "name": "Naval operations in the Dardanelles Campaign",
+          "url": "/wiki/Naval_operations_in_the_Dardanelles_Campaign",
+          "length": 75
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Adam Levine, American singer-songwriter, guitarist, and television personality, was born.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Adam_Levine\" title=\"Adam Levine\">Adam Levine</a>, American singer-songwriter, guitarist, and television personality<sup id=\"cite_ref-AP_26-13\" class=\"reference\"><a href=\"#cite_note-AP-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Adam Levine",
+          "url": "/wiki/Adam_Levine",
+          "length": 160605
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Umberto II of Italy, died.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Umberto_II_of_Italy\" title=\"Umberto II of Italy\">Umberto II of Italy</a> (b. 1904)</li>",
+      "entities": [
+        {
+          "name": "Umberto II of Italy",
+          "url": "/wiki/Umberto_II_of_Italy",
+          "length": 95514
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1966",
+      "description": "Jerry Cantrell, American singer-songwriter and guitarist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1966\" title=\"1966\">1966</a> – <a href=\"/wiki/Jerry_Cantrell\" title=\"Jerry Cantrell\">Jerry Cantrell</a>, American singer-songwriter and guitarist<sup id=\"cite_ref-AP_26-8\" class=\"reference\"><a href=\"#cite_note-AP-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jerry Cantrell",
+          "url": "/wiki/Jerry_Cantrell",
+          "length": 191019
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Adam Levine, American singer-songwriter, guitarist, and television personality, was born.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Adam_Levine\" title=\"Adam Levine\">Adam Levine</a>, American singer-songwriter, guitarist, and television personality<sup id=\"cite_ref-AP_26-13\" class=\"reference\"><a href=\"#cite_note-AP-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Adam Levine",
+          "url": "/wiki/Adam_Levine",
+          "length": 160605
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Fabian Cancellara, Swiss cyclist, was born.",
+      "html": "<li>1981   – <a href=\"/wiki/Fabian_Cancellara\" title=\"Fabian Cancellara\">Fabian Cancellara</a>, Swiss cyclist</li>",
+      "entities": [
+        {
+          "name": "Fabian Cancellara",
+          "url": "/wiki/Fabian_Cancellara",
+          "length": 157802
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1965",
+      "description": "Farouk of Egypt, died.",
+      "html": "<li>\n<a href=\"/wiki/1965\" title=\"1965\">1965</a> – <a href=\"/wiki/Farouk_of_Egypt\" title=\"Farouk of Egypt\">Farouk of Egypt</a> (b. 1920)</li>",
+      "entities": [
+        {
+          "name": "Farouk of Egypt",
+          "url": "/wiki/Farouk_of_Egypt",
+          "length": 154619
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "Eleftherios Venizelos, Greek journalist, lawyer, and politician, 93rd Prime Minister of Greece, died.",
+      "html": "<li>\n<a href=\"/wiki/1936\" title=\"1936\">1936</a> – <a href=\"/wiki/Eleftherios_Venizelos\" title=\"Eleftherios Venizelos\">Eleftherios Venizelos</a>, Greek journalist, lawyer, and politician, 93rd <a href=\"/wiki/Prime_Minister_of_Greece\" title=\"Prime Minister of Greece\">Prime Minister of Greece</a> (b. 1864)</li>",
+      "entities": [
+        {
+          "name": "Eleftherios Venizelos",
+          "url": "/wiki/Eleftherios_Venizelos",
+          "length": 104232
+        },
+        {
+          "name": "Prime Minister of Greece",
+          "url": "/wiki/Prime_Minister_of_Greece",
+          "length": 13630
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Umberto II of Italy, died.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Umberto_II_of_Italy\" title=\"Umberto II of Italy\">Umberto II of Italy</a> (b. 1904)</li>",
+      "entities": [
+        {
+          "name": "Umberto II of Italy",
+          "url": "/wiki/Umberto_II_of_Italy",
+          "length": 95514
+        }
+      ]
+    }
+  ]
+}

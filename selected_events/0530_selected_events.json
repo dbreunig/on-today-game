@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "70",
+      "description": "Siege of Jerusalem: Titus and his Roman legions breach the Second Wall of Jerusalem. Jewish defenders retreat to the First Wall. The Romans build a circumvallation, cutting down all trees within fifteen kilometres (9.3 mi).",
+      "html": "<li>\n<a href=\"/wiki/AD_70\" title=\"AD 70\">70</a> – <a href=\"/wiki/Siege_of_Jerusalem_(AD_70)\" class=\"mw-redirect\" title=\"Siege of Jerusalem (AD 70)\">Siege of Jerusalem</a>: <a href=\"/wiki/Titus\" title=\"Titus\">Titus</a> and his <a href=\"/wiki/Roman_legion\" title=\"Roman legion\">Roman legions</a> breach the Second Wall of <a href=\"/wiki/Jerusalem\" title=\"Jerusalem\">Jerusalem</a>. Jewish defenders retreat to the First Wall. The Romans build a <a href=\"/wiki/Investment_(military)\" title=\"Investment (military)\">circumvallation</a>, cutting down all trees within fifteen kilometres (9.3 mi).</li>",
+      "entities": [
+        {
+          "name": "AD 70",
+          "url": "/wiki/AD_70",
+          "length": 8678
+        },
+        {
+          "name": "Siege of Jerusalem (AD 70)",
+          "url": "/wiki/Siege_of_Jerusalem_(AD_70)",
+          "length": 57
+        },
+        {
+          "name": "Titus",
+          "url": "/wiki/Titus",
+          "length": 59940
+        },
+        {
+          "name": "Roman legion",
+          "url": "/wiki/Roman_legion",
+          "length": 55176
+        },
+        {
+          "name": "Jerusalem",
+          "url": "/wiki/Jerusalem",
+          "length": 252830
+        },
+        {
+          "name": "Investment (military)",
+          "url": "/wiki/Investment_(military)",
+          "length": 6604
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "In Ben Gurion Airport (at the time: Lod Airport), Israel, members of the Japanese Red Army carry out the Lod Airport massacre, killing 24 people and injuring 78 others.",
+      "html": "<li>1972   – In <a href=\"/wiki/Ben_Gurion_Airport\" title=\"Ben Gurion Airport\">Ben Gurion Airport</a> (at the time: <a href=\"/wiki/Lod\" title=\"Lod\">Lod</a> Airport), <a href=\"/wiki/Israel\" title=\"Israel\">Israel</a>, members of the <a href=\"/wiki/Japanese_Red_Army\" title=\"Japanese Red Army\">Japanese Red Army</a> carry out the <a href=\"/wiki/Lod_Airport_massacre\" title=\"Lod Airport massacre\">Lod Airport massacre</a>, killing 24 people and injuring 78 others.</li>",
+      "entities": [
+        {
+          "name": "Ben Gurion Airport",
+          "url": "/wiki/Ben_Gurion_Airport",
+          "length": 114593
+        },
+        {
+          "name": "Lod",
+          "url": "/wiki/Lod",
+          "length": 60485
+        },
+        {
+          "name": "Israel",
+          "url": "/wiki/Israel",
+          "length": 408355
+        },
+        {
+          "name": "Japanese Red Army",
+          "url": "/wiki/Japanese_Red_Army",
+          "length": 29682
+        },
+        {
+          "name": "Lod Airport massacre",
+          "url": "/wiki/Lod_Airport_massacre",
+          "length": 25722
+        }
+      ]
+    },
+    {
+      "year": "1845",
+      "description": "The Fatel Razack coming from India, lands in the Gulf of Paria in Trinidad and Tobago carrying the first Indians to the country.",
+      "html": "<li>\n<a href=\"/wiki/1845\" title=\"1845\">1845</a> – The <i><a href=\"/wiki/Fatel_Razack\" title=\"Fatel Razack\">Fatel Razack</a></i> coming from <a href=\"/wiki/British_Raj\" title=\"British Raj\">India</a>, lands in the <a href=\"/wiki/Gulf_of_Paria\" title=\"Gulf of Paria\">Gulf of Paria</a> in <a href=\"/wiki/Trinidad_and_Tobago\" title=\"Trinidad and Tobago\">Trinidad and Tobago</a> carrying the first <a href=\"/wiki/Indo-Trinidadians\" class=\"mw-redirect\" title=\"Indo-Trinidadians\">Indians</a> to the country.</li>",
+      "entities": [
+        {
+          "name": "Fatel Razack",
+          "url": "/wiki/Fatel_Razack",
+          "length": 1932
+        },
+        {
+          "name": "British Raj",
+          "url": "/wiki/British_Raj",
+          "length": 280006
+        },
+        {
+          "name": "Gulf of Paria",
+          "url": "/wiki/Gulf_of_Paria",
+          "length": 10277
+        },
+        {
+          "name": "Trinidad and Tobago",
+          "url": "/wiki/Trinidad_and_Tobago",
+          "length": 192161
+        },
+        {
+          "name": "Indo-Trinidadians",
+          "url": "/wiki/Indo-Trinidadians",
+          "length": 49
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "The Auckland Harbour Bridge, crossing the Waitemata Harbour in Auckland, New Zealand, is officially opened by Governor-General Charles Lyttelton, 10th Viscount Cobham.",
+      "html": "<li>\n<a href=\"/wiki/1959\" title=\"1959\">1959</a> – The <a href=\"/wiki/Auckland_Harbour_Bridge\" title=\"Auckland Harbour Bridge\">Auckland Harbour Bridge</a>, crossing the <a href=\"/wiki/Waitemat%C4%81_Harbour\" title=\"Waitematā Harbour\">Waitemata Harbour</a> in <a href=\"/wiki/Auckland\" title=\"Auckland\">Auckland</a>, New Zealand, is officially opened by <a href=\"/wiki/Governor-General_of_New_Zealand\" title=\"Governor-General of New Zealand\">Governor-General</a> <a href=\"/wiki/Charles_Lyttelton,_10th_Viscount_Cobham\" title=\"Charles Lyttelton, 10th Viscount Cobham\">Charles Lyttelton, 10th Viscount Cobham</a>.</li>",
+      "entities": [
+        {
+          "name": "Auckland Harbour Bridge",
+          "url": "/wiki/Auckland_Harbour_Bridge",
+          "length": 63769
+        },
+        {
+          "name": "Waitematā Harbour",
+          "url": "/wiki/Waitemat%C4%81_Harbour",
+          "length": 16566
+        },
+        {
+          "name": "Auckland",
+          "url": "/wiki/Auckland",
+          "length": 165971
+        },
+        {
+          "name": "Governor-General of New Zealand",
+          "url": "/wiki/Governor-General_of_New_Zealand",
+          "length": 94630
+        },
+        {
+          "name": "Charles Lyttelton, 10th Viscount Cobham",
+          "url": "/wiki/Charles_Lyttelton,_10th_Viscount_Cobham",
+          "length": 19206
+        }
+      ]
+    },
+    {
+      "year": "1876",
+      "description": "The secret decree of Ems Ukaz, issued by Russian Tsar Alexander II in the German city of Bad Ems, was aimed at stopping the printing and distribution of Ukrainian-language publications in the Russian Empire.",
+      "html": "<li>\n<a href=\"/wiki/1876\" title=\"1876\">1876</a> – The secret decree of <a href=\"/wiki/Ems_Ukaz\" title=\"Ems Ukaz\">Ems Ukaz</a>, issued by Russian Tsar <a href=\"/wiki/Alexander_II_of_Russia\" title=\"Alexander II of Russia\">Alexander II</a> in the German city of <a href=\"/wiki/Bad_Ems\" title=\"Bad Ems\">Bad Ems</a>, was aimed at stopping the printing and distribution of <a href=\"/wiki/Ukrainian_language\" title=\"Ukrainian language\">Ukrainian-language</a> publications in the <a href=\"/wiki/Russian_Empire\" title=\"Russian Empire\">Russian Empire</a>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ems Ukaz",
+          "url": "/wiki/Ems_Ukaz",
+          "length": 15780
+        },
+        {
+          "name": "Alexander II of Russia",
+          "url": "/wiki/Alexander_II_of_Russia",
+          "length": 93498
+        },
+        {
+          "name": "Bad Ems",
+          "url": "/wiki/Bad_Ems",
+          "length": 10646
+        },
+        {
+          "name": "Ukrainian language",
+          "url": "/wiki/Ukrainian_language",
+          "length": 122121
+        },
+        {
+          "name": "Russian Empire",
+          "url": "/wiki/Russian_Empire",
+          "length": 215756
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "description": "Nuclear Testing: Pakistan conducts an underground test in the Kharan Desert. It is reported to be a plutonium device with yield of 20kt TNT equivalent.",
+      "html": "<li>1998   – <a href=\"/wiki/Nuclear_weapons_testing\" title=\"Nuclear weapons testing\">Nuclear Testing</a>: Pakistan conducts an <a href=\"/wiki/Chagai-II\" title=\"Chagai-II\">underground test</a> in the <a href=\"/wiki/Kharan_Desert\" title=\"Kharan Desert\">Kharan Desert</a>. It is reported to be a <a href=\"/wiki/Plutonium\" title=\"Plutonium\">plutonium</a> device with yield of 20kt <a href=\"/wiki/TNT_equivalent\" title=\"TNT equivalent\">TNT equivalent</a>.</li>",
+      "entities": [
+        {
+          "name": "Nuclear weapons testing",
+          "url": "/wiki/Nuclear_weapons_testing",
+          "length": 68554
+        },
+        {
+          "name": "Chagai-II",
+          "url": "/wiki/Chagai-II",
+          "length": 17275
+        },
+        {
+          "name": "Kharan Desert",
+          "url": "/wiki/Kharan_Desert",
+          "length": 1856
+        },
+        {
+          "name": "Plutonium",
+          "url": "/wiki/Plutonium",
+          "length": 142601
+        },
+        {
+          "name": "TNT equivalent",
+          "url": "/wiki/TNT_equivalent",
+          "length": 61792
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Steven Gerrard, English international footballer and manager, was born.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Steven_Gerrard\" title=\"Steven Gerrard\">Steven Gerrard</a>, English international footballer and manager<sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\"><span class=\"cite-bracket\">[</span>33<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Steven Gerrard",
+          "url": "/wiki/Steven_Gerrard",
+          "length": 201214
+        }
+      ]
+    },
+    {
+      "year": "1778",
+      "description": "Voltaire, French philosopher and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1778\" title=\"1778\">1778</a> – <a href=\"/wiki/Voltaire\" title=\"Voltaire\">Voltaire</a>, French philosopher and author (b. 1694)<sup id=\"cite_ref-61\" class=\"reference\"><a href=\"#cite_note-61\"><span class=\"cite-bracket\">[</span>61<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Voltaire",
+          "url": "/wiki/Voltaire",
+          "length": 143249
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1980",
+      "description": "Steven Gerrard, English international footballer and manager, was born.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Steven_Gerrard\" title=\"Steven Gerrard\">Steven Gerrard</a>, English international footballer and manager<sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\"><span class=\"cite-bracket\">[</span>33<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Steven Gerrard",
+          "url": "/wiki/Steven_Gerrard",
+          "length": 201214
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "description": "Idina Menzel, American singer-songwriter and actress, was born.",
+      "html": "<li>1971   – <a href=\"/wiki/Idina_Menzel\" title=\"Idina Menzel\">Idina Menzel</a>, American singer-songwriter and actress</li>",
+      "entities": [
+        {
+          "name": "Idina Menzel",
+          "url": "/wiki/Idina_Menzel",
+          "length": 169372
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Clint Bowyer, American race car driver, was born.",
+      "html": "<li>1979   – <a href=\"/wiki/Clint_Bowyer\" title=\"Clint Bowyer\">Clint Bowyer</a>, American race car driver</li>",
+      "entities": [
+        {
+          "name": "Clint Bowyer",
+          "url": "/wiki/Clint_Bowyer",
+          "length": 147100
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1431",
+      "description": "Joan of Arc, French martyr and saint, died.",
+      "html": "<li>\n<a href=\"/wiki/1431\" title=\"1431\">1431</a> – <a href=\"/wiki/Joan_of_Arc\" title=\"Joan of Arc\">Joan of Arc</a>, French martyr and saint (b. 1412)<sup id=\"cite_ref-60\" class=\"reference\"><a href=\"#cite_note-60\"><span class=\"cite-bracket\">[</span>60<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Joan of Arc",
+          "url": "/wiki/Joan_of_Arc",
+          "length": 183177
+        }
+      ]
+    },
+    {
+      "year": "1778",
+      "description": "Voltaire, French philosopher and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1778\" title=\"1778\">1778</a> – <a href=\"/wiki/Voltaire\" title=\"Voltaire\">Voltaire</a>, French philosopher and author (b. 1694)<sup id=\"cite_ref-61\" class=\"reference\"><a href=\"#cite_note-61\"><span class=\"cite-bracket\">[</span>61<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Voltaire",
+          "url": "/wiki/Voltaire",
+          "length": 143249
+        }
+      ]
+    },
+    {
+      "year": "1593",
+      "description": "Christopher Marlowe, English poet and playwright, died.",
+      "html": "<li>\n<a href=\"/wiki/1593\" title=\"1593\">1593</a> – <a href=\"/wiki/Christopher_Marlowe\" title=\"Christopher Marlowe\">Christopher Marlowe</a>, English poet and playwright (b. 1564)</li>",
+      "entities": [
+        {
+          "name": "Christopher Marlowe",
+          "url": "/wiki/Christopher_Marlowe",
+          "length": 98406
+        }
+      ]
+    }
+  ]
+}

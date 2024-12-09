@@ -1,0 +1,361 @@
+{
+  "events": [
+    {
+      "year": "1999",
+      "description": "Kosovo War: Operation Joint Guardian begins when a NATO-led United Nations peacekeeping force (KFor) enters the province of Kosovo in the Federal Republic of Yugoslavia.",
+      "html": "<li>\n<a href=\"/wiki/1999\" title=\"1999\">1999</a> – <a href=\"/wiki/Kosovo_War\" title=\"Kosovo War\">Kosovo War</a>: <a href=\"/wiki/Operation_Joint_Guardian\" class=\"mw-redirect\" title=\"Operation Joint Guardian\">Operation Joint Guardian</a> begins when a <a href=\"/wiki/NATO\" title=\"NATO\">NATO</a>-led <a href=\"/wiki/United_Nations\" title=\"United Nations\">United Nations</a> peacekeeping force (<a href=\"/wiki/Kosovo_Force\" title=\"Kosovo Force\">KFor</a>) enters the province of <a href=\"/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a> in the <a href=\"/wiki/Federal_Republic_of_Yugoslavia\" class=\"mw-redirect\" title=\"Federal Republic of Yugoslavia\">Federal Republic of Yugoslavia</a>.</li>",
+      "entities": [
+        {
+          "name": "Kosovo War",
+          "url": "/wiki/Kosovo_War",
+          "length": 247613
+        },
+        {
+          "name": "Operation Joint Guardian",
+          "url": "/wiki/Operation_Joint_Guardian",
+          "length": 93
+        },
+        {
+          "name": "NATO",
+          "url": "/wiki/NATO",
+          "length": 150243
+        },
+        {
+          "name": "United Nations",
+          "url": "/wiki/United_Nations",
+          "length": 173187
+        },
+        {
+          "name": "Kosovo Force",
+          "url": "/wiki/Kosovo_Force",
+          "length": 59239
+        },
+        {
+          "name": "Kosovo",
+          "url": "/wiki/Kosovo",
+          "length": 256126
+        },
+        {
+          "name": "Federal Republic of Yugoslavia",
+          "url": "/wiki/Federal_Republic_of_Yugoslavia",
+          "length": 598
+        }
+      ]
+    },
+    {
+      "year": "1775",
+      "description": "American War of Independence: British general Thomas Gage declares martial law in Massachusetts. The British offer a pardon to all colonists who lay down their arms. There would be only two exceptions to the amnesty: Samuel Adams and John Hancock, if captured, were to be hanged.",
+      "html": "<li>\n<a href=\"/wiki/1775\" title=\"1775\">1775</a> – <a href=\"/wiki/American_War_of_Independence\" class=\"mw-redirect\" title=\"American War of Independence\">American War of Independence</a>: <a href=\"/wiki/British_Army\" title=\"British Army\">British general</a> <a href=\"/wiki/Thomas_Gage\" title=\"Thomas Gage\">Thomas Gage</a> declares <a href=\"/wiki/Martial_law\" title=\"Martial law\">martial law</a> in <a href=\"/wiki/Massachusetts_Colony\" class=\"mw-redirect\" title=\"Massachusetts Colony\">Massachusetts</a>. The British offer a pardon to all colonists who lay down their arms. There would be only two exceptions to the amnesty: <a href=\"/wiki/Samuel_Adams\" title=\"Samuel Adams\">Samuel Adams</a> and <a href=\"/wiki/John_Hancock\" title=\"John Hancock\">John Hancock</a>, if captured, were to be hanged.</li>",
+      "entities": [
+        {
+          "name": "American War of Independence",
+          "url": "/wiki/American_War_of_Independence",
+          "length": 99
+        },
+        {
+          "name": "British Army",
+          "url": "/wiki/British_Army",
+          "length": 164973
+        },
+        {
+          "name": "Thomas Gage",
+          "url": "/wiki/Thomas_Gage",
+          "length": 50567
+        },
+        {
+          "name": "Martial law",
+          "url": "/wiki/Martial_law",
+          "length": 77335
+        },
+        {
+          "name": "Massachusetts Colony",
+          "url": "/wiki/Massachusetts_Colony",
+          "length": 43
+        },
+        {
+          "name": "Samuel Adams",
+          "url": "/wiki/Samuel_Adams",
+          "length": 98290
+        },
+        {
+          "name": "John Hancock",
+          "url": "/wiki/John_Hancock",
+          "length": 72604
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Cold War: At the Brandenburg Gate, U.S. President Ronald Reagan publicly challenges Mikhail Gorbachev to tear down the Berlin Wall.",
+      "html": "<li>1987   – <a href=\"/wiki/Cold_War\" title=\"Cold War\">Cold War</a>: At the <a href=\"/wiki/Brandenburg_Gate\" title=\"Brandenburg Gate\">Brandenburg Gate</a>, <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">U.S. President</a> <a href=\"/wiki/Ronald_Reagan\" title=\"Ronald Reagan\">Ronald Reagan</a> publicly challenges <a href=\"/wiki/Mikhail_Gorbachev\" title=\"Mikhail Gorbachev\">Mikhail Gorbachev</a> to <a href=\"/wiki/Tear_down_this_wall!\" title=\"Tear down this wall!\">tear down</a> the <a href=\"/wiki/Berlin_Wall\" title=\"Berlin Wall\">Berlin Wall</a>.</li>",
+      "entities": [
+        {
+          "name": "Cold War",
+          "url": "/wiki/Cold_War",
+          "length": 267374
+        },
+        {
+          "name": "Brandenburg Gate",
+          "url": "/wiki/Brandenburg_Gate",
+          "length": 39977
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "Ronald Reagan",
+          "url": "/wiki/Ronald_Reagan",
+          "length": 171812
+        },
+        {
+          "name": "Mikhail Gorbachev",
+          "url": "/wiki/Mikhail_Gorbachev",
+          "length": 223430
+        },
+        {
+          "name": "Tear down this wall!",
+          "url": "/wiki/Tear_down_this_wall!",
+          "length": 20806
+        },
+        {
+          "name": "Berlin Wall",
+          "url": "/wiki/Berlin_Wall",
+          "length": 149406
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "United States President Donald Trump and Kim Jong-un of North Korea held the first meeting between leaders of their two countries in Singapore.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/United_States\" title=\"United States\">United States</a> President <a href=\"/wiki/Donald_Trump\" title=\"Donald Trump\">Donald Trump</a> and <a href=\"/wiki/Kim_Jong-un\" class=\"mw-redirect\" title=\"Kim Jong-un\">Kim Jong-un</a> of <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a> held the <a href=\"/wiki/2018_North_Korea%E2%80%93United_States_Singapore_Summit\" title=\"2018 North Korea–United States Singapore Summit\">first meeting</a> between leaders of their two countries in <a href=\"/wiki/Singapore\" title=\"Singapore\">Singapore</a>.<sup id=\"cite_ref-25\" class=\"reference\"><a href=\"#cite_note-25\"><span class=\"cite-bracket\">[</span>25<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "United States",
+          "url": "/wiki/United_States",
+          "length": 336851
+        },
+        {
+          "name": "Donald Trump",
+          "url": "/wiki/Donald_Trump",
+          "length": 404744
+        },
+        {
+          "name": "Kim Jong-un",
+          "url": "/wiki/Kim_Jong-un",
+          "length": 111
+        },
+        {
+          "name": "North Korea",
+          "url": "/wiki/North_Korea",
+          "length": 294085
+        },
+        {
+          "name": "2018 North Korea–United States Singapore Summit",
+          "url": "/wiki/2018_North_Korea%E2%80%93United_States_Singapore_Summit",
+          "length": 202637
+        },
+        {
+          "name": "Singapore",
+          "url": "/wiki/Singapore",
+          "length": 334732
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "NAACP field secretary Medgar Evers is murdered in front of his home in Jackson, Mississippi by Ku Klux Klan member Byron De La Beckwith during the civil rights movement.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/National_Association_for_the_Advancement_of_Colored_People\" class=\"mw-redirect\" title=\"National Association for the Advancement of Colored People\">NAACP</a> field secretary <a href=\"/wiki/Medgar_Evers\" title=\"Medgar Evers\">Medgar Evers</a> is murdered in front of his home in <a href=\"/wiki/Jackson,_Mississippi\" title=\"Jackson, Mississippi\">Jackson, Mississippi</a> by <a href=\"/wiki/Ku_Klux_Klan\" title=\"Ku Klux Klan\">Ku Klux Klan</a> member <a href=\"/wiki/Byron_De_La_Beckwith\" title=\"Byron De La Beckwith\">Byron De La Beckwith</a> during the <a href=\"/wiki/Civil_rights_movement\" title=\"Civil rights movement\">civil rights movement</a>.</li>",
+      "entities": [
+        {
+          "name": "National Association for the Advancement of Colored People",
+          "url": "/wiki/National_Association_for_the_Advancement_of_Colored_People",
+          "length": 109
+        },
+        {
+          "name": "Medgar Evers",
+          "url": "/wiki/Medgar_Evers",
+          "length": 51454
+        },
+        {
+          "name": "Jackson, Mississippi",
+          "url": "/wiki/Jackson,_Mississippi",
+          "length": 134418
+        },
+        {
+          "name": "Ku Klux Klan",
+          "url": "/wiki/Ku_Klux_Klan",
+          "length": 227492
+        },
+        {
+          "name": "Byron De La Beckwith",
+          "url": "/wiki/Byron_De_La_Beckwith",
+          "length": 23970
+        },
+        {
+          "name": "Civil rights movement",
+          "url": "/wiki/Civil_rights_movement",
+          "length": 299940
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "American Civil War, Overland Campaign: Battle of Cold Harbor: Ulysses S. Grant gives the Confederate forces under Robert E. Lee a victory when he pulls his Union troops from their position at Cold Harbor, Virginia and moves south.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>, <a href=\"/wiki/Overland_Campaign\" title=\"Overland Campaign\">Overland Campaign</a>: <a href=\"/wiki/Battle_of_Cold_Harbor\" title=\"Battle of Cold Harbor\">Battle of Cold Harbor</a>: <a href=\"/wiki/Ulysses_S._Grant\" title=\"Ulysses S. Grant\">Ulysses S. Grant</a> gives the Confederate forces under <a href=\"/wiki/Robert_E._Lee\" title=\"Robert E. Lee\">Robert E. Lee</a> a victory when he pulls his Union troops from their position at <a href=\"/wiki/Cold_Harbor,_Virginia\" title=\"Cold Harbor, Virginia\">Cold Harbor, Virginia</a> and moves south.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Overland Campaign",
+          "url": "/wiki/Overland_Campaign",
+          "length": 126270
+        },
+        {
+          "name": "Battle of Cold Harbor",
+          "url": "/wiki/Battle_of_Cold_Harbor",
+          "length": 65233
+        },
+        {
+          "name": "Ulysses S. Grant",
+          "url": "/wiki/Ulysses_S._Grant",
+          "length": 190178
+        },
+        {
+          "name": "Robert E. Lee",
+          "url": "/wiki/Robert_E._Lee",
+          "length": 164568
+        },
+        {
+          "name": "Cold Harbor, Virginia",
+          "url": "/wiki/Cold_Harbor,_Virginia",
+          "length": 1681
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "description": "Mark Henry, American weightlifter and wrestler, was born.",
+      "html": "<li>\n<a href=\"/wiki/1971\" title=\"1971\">1971</a> – <a href=\"/wiki/Mark_Henry\" title=\"Mark Henry\">Mark Henry</a>, American weightlifter and wrestler</li>",
+      "entities": [
+        {
+          "name": "Mark Henry",
+          "url": "/wiki/Mark_Henry",
+          "length": 195642
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Silvio Berlusconi, Italian businessman and politician, Prime Minister of Italy, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Silvio_Berlusconi\" title=\"Silvio Berlusconi\">Silvio Berlusconi</a>, Italian businessman and politician, <a href=\"/wiki/Prime_Minister_of_Italy\" title=\"Prime Minister of Italy\">Prime Minister of Italy</a> (b. 1936)<sup id=\"cite_ref-81\" class=\"reference\"><a href=\"#cite_note-81\"><span class=\"cite-bracket\">[</span>81<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Silvio Berlusconi",
+          "url": "/wiki/Silvio_Berlusconi",
+          "length": 325784
+        },
+        {
+          "name": "Prime Minister of Italy",
+          "url": "/wiki/Prime_Minister_of_Italy",
+          "length": 25551
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1971",
+      "description": "Mark Henry, American weightlifter and wrestler, was born.",
+      "html": "<li>\n<a href=\"/wiki/1971\" title=\"1971\">1971</a> – <a href=\"/wiki/Mark_Henry\" title=\"Mark Henry\">Mark Henry</a>, American weightlifter and wrestler</li>",
+      "entities": [
+        {
+          "name": "Mark Henry",
+          "url": "/wiki/Mark_Henry",
+          "length": 195642
+        }
+      ]
+    },
+    {
+      "year": "1924",
+      "description": "George H. W. Bush, American lieutenant and politician, 41st President of the United States, was born.",
+      "html": "<li>\n<a href=\"/wiki/1924\" title=\"1924\">1924</a> – <a href=\"/wiki/George_H._W._Bush\" title=\"George H. W. Bush\">George H. W. Bush</a>, American lieutenant and politician, 41st <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (d. 2018)<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "George H. W. Bush",
+          "url": "/wiki/George_H._W._Bush",
+          "length": 180095
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1897",
+      "description": "Anthony Eden, English soldier and politician, Prime Minister of the United Kingdom, was born.",
+      "html": "<li>\n<a href=\"/wiki/1897\" title=\"1897\">1897</a> – <a href=\"/wiki/Anthony_Eden\" title=\"Anthony Eden\">Anthony Eden</a>, English soldier and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (d. 1977)</li>",
+      "entities": [
+        {
+          "name": "Anthony Eden",
+          "url": "/wiki/Anthony_Eden",
+          "length": 148957
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2023",
+      "description": "Silvio Berlusconi, Italian businessman and politician, Prime Minister of Italy, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Silvio_Berlusconi\" title=\"Silvio Berlusconi\">Silvio Berlusconi</a>, Italian businessman and politician, <a href=\"/wiki/Prime_Minister_of_Italy\" title=\"Prime Minister of Italy\">Prime Minister of Italy</a> (b. 1936)<sup id=\"cite_ref-81\" class=\"reference\"><a href=\"#cite_note-81\"><span class=\"cite-bracket\">[</span>81<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Silvio Berlusconi",
+          "url": "/wiki/Silvio_Berlusconi",
+          "length": 325784
+        },
+        {
+          "name": "Prime Minister of Italy",
+          "url": "/wiki/Prime_Minister_of_Italy",
+          "length": 25551
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "description": "Gregory Peck, American actor and political activist, died.",
+      "html": "<li>\n<a href=\"/wiki/2003\" title=\"2003\">2003</a> – <a href=\"/wiki/Gregory_Peck\" title=\"Gregory Peck\">Gregory Peck</a>, American actor and political activist (b. 1916)</li>",
+      "entities": [
+        {
+          "name": "Gregory Peck",
+          "url": "/wiki/Gregory_Peck",
+          "length": 199622
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Menachem Mendel Schneerson, Russian-American rabbi and author, died.",
+      "html": "<li>1994   – <a href=\"/wiki/Menachem_Mendel_Schneerson\" title=\"Menachem Mendel Schneerson\">Menachem Mendel Schneerson</a>, Russian-American rabbi and author (b. 1902)<sup id=\"cite_ref-67\" class=\"reference\"><a href=\"#cite_note-67\"><span class=\"cite-bracket\">[</span>67<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Menachem Mendel Schneerson",
+          "url": "/wiki/Menachem_Mendel_Schneerson",
+          "length": 109184
+        }
+      ]
+    }
+  ]
+}

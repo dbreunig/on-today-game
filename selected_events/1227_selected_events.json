@@ -1,0 +1,291 @@
+{
+  "events": [
+    {
+      "year": "1918",
+      "description": "Ukrainian War of Independence: The Revolutionary Insurgent Army of Ukraine occupies Yekaterinoslav and seizes seven airplanes from the UPRAF, establishing an Insurgent Air Fleet.",
+      "html": "<li>1918   – <a href=\"/wiki/Ukrainian_War_of_Independence\" title=\"Ukrainian War of Independence\">Ukrainian War of Independence</a>: The <a href=\"/wiki/Revolutionary_Insurgent_Army_of_Ukraine\" title=\"Revolutionary Insurgent Army of Ukraine\">Revolutionary Insurgent Army of Ukraine</a> occupies <a href=\"/wiki/Yekaterinoslav\" class=\"mw-redirect\" title=\"Yekaterinoslav\">Yekaterinoslav</a> and seizes seven airplanes from the <a href=\"/wiki/Ukrainian_People%27s_Republic_Air_Fleet\" title=\"Ukrainian People's Republic Air Fleet\">UPRAF</a>, establishing an <a href=\"/wiki/Air_Fleet_of_the_Revolutionary_Insurgent_Army_of_Ukraine\" title=\"Air Fleet of the Revolutionary Insurgent Army of Ukraine\">Insurgent Air Fleet</a>.<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ukrainian War of Independence",
+          "url": "/wiki/Ukrainian_War_of_Independence",
+          "length": 45429
+        },
+        {
+          "name": "Revolutionary Insurgent Army of Ukraine",
+          "url": "/wiki/Revolutionary_Insurgent_Army_of_Ukraine",
+          "length": 91067
+        },
+        {
+          "name": "Yekaterinoslav",
+          "url": "/wiki/Yekaterinoslav",
+          "length": 77
+        },
+        {
+          "name": "Ukrainian People's Republic Air Fleet",
+          "url": "/wiki/Ukrainian_People%27s_Republic_Air_Fleet",
+          "length": 3830
+        },
+        {
+          "name": "Air Fleet of the Revolutionary Insurgent Army of Ukraine",
+          "url": "/wiki/Air_Fleet_of_the_Revolutionary_Insurgent_Army_of_Ukraine",
+          "length": 6441
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "description": "Iranian election protests: On the Day of Ashura in Tehran, Iran, government security forces fire upon demonstrators.",
+      "html": "<li>\n<a href=\"/wiki/2009\" title=\"2009\">2009</a> – <a href=\"/wiki/2009_Iranian_presidential_election_protests\" title=\"2009 Iranian presidential election protests\">Iranian election protests</a>: On the <a href=\"/wiki/Day_of_Ashura\" class=\"mw-redirect\" title=\"Day of Ashura\">Day of Ashura</a> in <a href=\"/wiki/Tehran\" title=\"Tehran\">Tehran</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a>, government security forces <a href=\"/wiki/Ashura_protests\" title=\"Ashura protests\">fire upon</a> demonstrators.</li>",
+      "entities": [
+        {
+          "name": "2009 Iranian presidential election protests",
+          "url": "/wiki/2009_Iranian_presidential_election_protests",
+          "length": 160704
+        },
+        {
+          "name": "Day of Ashura",
+          "url": "/wiki/Day_of_Ashura",
+          "length": 74
+        },
+        {
+          "name": "Tehran",
+          "url": "/wiki/Tehran",
+          "length": 139043
+        },
+        {
+          "name": "Iran",
+          "url": "/wiki/Iran",
+          "length": 379191
+        },
+        {
+          "name": "Ashura protests",
+          "url": "/wiki/Ashura_protests",
+          "length": 23938
+        }
+      ]
+    },
+    {
+      "year": "1655",
+      "description": "Second Northern War/the Deluge: Monks at the Jasna Góra Monastery in Częstochowa are successful in fending off a month-long siege.",
+      "html": "<li>\n<a href=\"/wiki/1655\" title=\"1655\">1655</a> – <a href=\"/wiki/Second_Northern_War\" class=\"mw-redirect\" title=\"Second Northern War\">Second Northern War</a>/the <a href=\"/wiki/Deluge_(history)\" title=\"Deluge (history)\">Deluge</a>: Monks at the <a href=\"/wiki/Jasna_G%C3%B3ra_Monastery\" title=\"Jasna Góra Monastery\">Jasna Góra Monastery</a> in <a href=\"/wiki/Cz%C4%99stochowa\" title=\"Częstochowa\">Częstochowa</a> are successful in fending off a <a href=\"/wiki/Siege_of_Jasna_G%C3%B3ra\" title=\"Siege of Jasna Góra\">month-long siege</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Second Northern War",
+          "url": "/wiki/Second_Northern_War",
+          "length": 116
+        },
+        {
+          "name": "Deluge (history)",
+          "url": "/wiki/Deluge_(history)",
+          "length": 66735
+        },
+        {
+          "name": "Jasna Góra Monastery",
+          "url": "/wiki/Jasna_G%C3%B3ra_Monastery",
+          "length": 11876
+        },
+        {
+          "name": "Częstochowa",
+          "url": "/wiki/Cz%C4%99stochowa",
+          "length": 99809
+        },
+        {
+          "name": "Siege of Jasna Góra",
+          "url": "/wiki/Siege_of_Jasna_G%C3%B3ra",
+          "length": 10783
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Palestinian guerrillas kill eighteen people inside the airports of Rome, Italy, and Vienna, Austria.",
+      "html": "<li>\n<a href=\"/wiki/1985\" title=\"1985\">1985</a> – <a href=\"/wiki/Palestinians\" title=\"Palestinians\">Palestinian</a> guerrillas <a href=\"/wiki/Rome_and_Vienna_airport_attacks\" class=\"mw-redirect\" title=\"Rome and Vienna airport attacks\">kill eighteen people</a> inside the airports of <a href=\"/wiki/Rome\" title=\"Rome\">Rome</a>, Italy, and <a href=\"/wiki/Vienna\" title=\"Vienna\">Vienna</a>, Austria.</li>",
+      "entities": [
+        {
+          "name": "Palestinians",
+          "url": "/wiki/Palestinians",
+          "length": 233264
+        },
+        {
+          "name": "Rome and Vienna airport attacks",
+          "url": "/wiki/Rome_and_Vienna_airport_attacks",
+          "length": 66
+        },
+        {
+          "name": "Rome",
+          "url": "/wiki/Rome",
+          "length": 185947
+        },
+        {
+          "name": "Vienna",
+          "url": "/wiki/Vienna",
+          "length": 186139
+        }
+      ]
+    },
+    {
+      "year": "1831",
+      "description": "Charles Darwin embarks on his journey aboard HMS Beagle, during which he will begin to formulate his theory of evolution.",
+      "html": "<li>\n<a href=\"/wiki/1831\" title=\"1831\">1831</a> – <a href=\"/wiki/Charles_Darwin\" title=\"Charles Darwin\">Charles Darwin</a> embarks on <a href=\"/wiki/Second_voyage_of_HMS_Beagle\" title=\"Second voyage of HMS Beagle\">his journey</a> aboard <a href=\"/wiki/HMS_Beagle\" title=\"HMS Beagle\">HMS <i>Beagle</i></a>, during which he will begin to formulate his theory of <a href=\"/wiki/Evolution\" title=\"Evolution\">evolution</a>.<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Charles Darwin",
+          "url": "/wiki/Charles_Darwin",
+          "length": 168145
+        },
+        {
+          "name": "Second voyage of HMS Beagle",
+          "url": "/wiki/Second_voyage_of_HMS_Beagle",
+          "length": 147144
+        },
+        {
+          "name": "HMS Beagle",
+          "url": "/wiki/HMS_Beagle",
+          "length": 35791
+        },
+        {
+          "name": "Evolution",
+          "url": "/wiki/Evolution",
+          "length": 245606
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "description": "Taliban forces retake the strategic Bagram Airfield which solidifies their buffer zone around Kabul, Afghanistan.",
+      "html": "<li>\n<a href=\"/wiki/1996\" title=\"1996\">1996</a> – <a href=\"/wiki/Taliban\" title=\"Taliban\">Taliban</a> forces retake the strategic <a href=\"/wiki/Bagram_Airfield\" title=\"Bagram Airfield\">Bagram Airfield</a> which solidifies their buffer zone around <a href=\"/wiki/Kabul\" title=\"Kabul\">Kabul</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a>.</li>",
+      "entities": [
+        {
+          "name": "Taliban",
+          "url": "/wiki/Taliban",
+          "length": 227089
+        },
+        {
+          "name": "Bagram Airfield",
+          "url": "/wiki/Bagram_Airfield",
+          "length": 48385
+        },
+        {
+          "name": "Kabul",
+          "url": "/wiki/Kabul",
+          "length": 182359
+        },
+        {
+          "name": "Afghanistan",
+          "url": "/wiki/Afghanistan",
+          "length": 329029
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Claudio Castagnoli, Swiss wrestler, was born.",
+      "html": "<li>1980   – <a href=\"/wiki/Claudio_Castagnoli\" title=\"Claudio Castagnoli\">Claudio Castagnoli</a>, Swiss wrestler</li>",
+      "entities": [
+        {
+          "name": "Claudio Castagnoli",
+          "url": "/wiki/Claudio_Castagnoli",
+          "length": 207680
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "description": "Benazir Bhutto, Pakistani politician, Prime Minister of Pakistan, died.",
+      "html": "<li>\n<a href=\"/wiki/2007\" title=\"2007\">2007</a> – <a href=\"/wiki/Benazir_Bhutto\" title=\"Benazir Bhutto\">Benazir Bhutto</a>, Pakistani politician, <a href=\"/wiki/Prime_Minister_of_Pakistan\" title=\"Prime Minister of Pakistan\">Prime Minister of Pakistan</a> (b. 1953)<sup id=\"cite_ref-105\" class=\"reference\"><a href=\"#cite_note-105\"><span class=\"cite-bracket\">[</span>105<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Benazir Bhutto",
+          "url": "/wiki/Benazir_Bhutto",
+          "length": 200189
+        },
+        {
+          "name": "Prime Minister of Pakistan",
+          "url": "/wiki/Prime_Minister_of_Pakistan",
+          "length": 41659
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1986",
+      "description": "Shelly-Ann Fraser-Pryce, Jamaican sprinter, was born.",
+      "html": "<li>1986   – <a href=\"/wiki/Shelly-Ann_Fraser-Pryce\" title=\"Shelly-Ann Fraser-Pryce\">Shelly-Ann Fraser-Pryce</a>, Jamaican sprinter</li>",
+      "entities": [
+        {
+          "name": "Shelly-Ann Fraser-Pryce",
+          "url": "/wiki/Shelly-Ann_Fraser-Pryce",
+          "length": 251049
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Milos Raonic, Canadian tennis player, was born.",
+      "html": "<li>1990   – <a href=\"/wiki/Milos_Raonic\" title=\"Milos Raonic\">Milos Raonic</a>, Canadian tennis player<sup id=\"cite_ref-82\" class=\"reference\"><a href=\"#cite_note-82\"><span class=\"cite-bracket\">[</span>82<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Milos Raonic",
+          "url": "/wiki/Milos_Raonic",
+          "length": 234697
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Claudio Castagnoli, Swiss wrestler, was born.",
+      "html": "<li>1980   – <a href=\"/wiki/Claudio_Castagnoli\" title=\"Claudio Castagnoli\">Claudio Castagnoli</a>, Swiss wrestler</li>",
+      "entities": [
+        {
+          "name": "Claudio Castagnoli",
+          "url": "/wiki/Claudio_Castagnoli",
+          "length": 207680
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2007",
+      "description": "Benazir Bhutto, Pakistani politician, Prime Minister of Pakistan, died.",
+      "html": "<li>\n<a href=\"/wiki/2007\" title=\"2007\">2007</a> – <a href=\"/wiki/Benazir_Bhutto\" title=\"Benazir Bhutto\">Benazir Bhutto</a>, Pakistani politician, <a href=\"/wiki/Prime_Minister_of_Pakistan\" title=\"Prime Minister of Pakistan\">Prime Minister of Pakistan</a> (b. 1953)<sup id=\"cite_ref-105\" class=\"reference\"><a href=\"#cite_note-105\"><span class=\"cite-bracket\">[</span>105<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Benazir Bhutto",
+          "url": "/wiki/Benazir_Bhutto",
+          "length": 200189
+        },
+        {
+          "name": "Prime Minister of Pakistan",
+          "url": "/wiki/Prime_Minister_of_Pakistan",
+          "length": 41659
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "description": "Carrie Fisher, American actress, screenwriter, author, producer, and speaker, died.",
+      "html": "<li>\n<a href=\"/wiki/2016\" title=\"2016\">2016</a> – <a href=\"/wiki/Carrie_Fisher\" title=\"Carrie Fisher\">Carrie Fisher</a>, American actress, screenwriter, author, producer, and speaker (b. 1956)</li>",
+      "entities": [
+        {
+          "name": "Carrie Fisher",
+          "url": "/wiki/Carrie_Fisher",
+          "length": 131391
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Lee Sun-kyun, South Korean actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Lee_Sun-kyun\" title=\"Lee Sun-kyun\">Lee Sun-kyun</a>, South Korean actor (b. 1975)<sup id=\"cite_ref-109\" class=\"reference\"><a href=\"#cite_note-109\"><span class=\"cite-bracket\">[</span>109<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Lee Sun-kyun",
+          "url": "/wiki/Lee_Sun-kyun",
+          "length": 83761
+        }
+      ]
+    }
+  ]
+}

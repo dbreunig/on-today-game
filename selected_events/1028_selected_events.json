@@ -1,0 +1,291 @@
+{
+  "events": [
+    {
+      "year": "2018",
+      "description": "Jair Bolsonaro is elected president of Brazil with 57 million votes, with Workers' Party candidate Fernando Haddad as the runner-up. It is the first time in 16 years that a Workers' Party candidate is not elected president.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Jair_Bolsonaro\" title=\"Jair Bolsonaro\">Jair Bolsonaro</a> is <a href=\"/wiki/2018_Brazilian_general_election\" title=\"2018 Brazilian general election\">elected</a> <a href=\"/wiki/President_of_Brazil\" title=\"President of Brazil\">president of</a> <a href=\"/wiki/Brazil\" title=\"Brazil\">Brazil</a> with 57 million votes, with <a href=\"/wiki/Workers%27_Party_(Brazil)\" title=\"Workers' Party (Brazil)\">Workers' Party</a> candidate <a href=\"/wiki/Fernando_Haddad\" title=\"Fernando Haddad\">Fernando Haddad</a> as the runner-up. It is the first time in 16 years that a Workers' Party candidate is not elected president.</li>",
+      "entities": [
+        {
+          "name": "Jair Bolsonaro",
+          "url": "/wiki/Jair_Bolsonaro",
+          "length": 277141
+        },
+        {
+          "name": "2018 Brazilian general election",
+          "url": "/wiki/2018_Brazilian_general_election",
+          "length": 128010
+        },
+        {
+          "name": "President of Brazil",
+          "url": "/wiki/President_of_Brazil",
+          "length": 26538
+        },
+        {
+          "name": "Brazil",
+          "url": "/wiki/Brazil",
+          "length": 294686
+        },
+        {
+          "name": "Workers' Party (Brazil)",
+          "url": "/wiki/Workers%27_Party_(Brazil)",
+          "length": 69237
+        },
+        {
+          "name": "Fernando Haddad",
+          "url": "/wiki/Fernando_Haddad",
+          "length": 29217
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "American Civil War: A Union attack on the Confederate capital of Richmond is repulsed.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: A <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> <a href=\"/wiki/Battle_of_Fair_Oaks_%26_Darbytown_Road\" title=\"Battle of Fair Oaks &amp; Darbytown Road\">attack</a> on the <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> capital of <a href=\"/wiki/Richmond,_Virginia\" title=\"Richmond, Virginia\">Richmond</a> is repulsed.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Battle of Fair Oaks & Darbytown Road",
+          "url": "/wiki/Battle_of_Fair_Oaks_%26_Darbytown_Road",
+          "length": 15670
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Richmond, Virginia",
+          "url": "/wiki/Richmond,_Virginia",
+          "length": 190880
+        }
+      ]
+    },
+    {
+      "year": "97",
+      "description": "Roman emperor Nerva is forced by the Praetorian Guard to adopt general Marcus Ulpius Trajanus as his heir and successor.",
+      "html": "<li>\n<a href=\"/wiki/AD_97\" title=\"AD 97\">97</a> – Roman emperor <a href=\"/wiki/Nerva\" title=\"Nerva\">Nerva</a> is forced by the <a href=\"/wiki/Praetorian_Guard\" title=\"Praetorian Guard\">Praetorian Guard</a> to adopt general <a href=\"/wiki/Trajan\" title=\"Trajan\">Marcus Ulpius Trajanus</a> as his heir and successor.</li>",
+      "entities": [
+        {
+          "name": "AD 97",
+          "url": "/wiki/AD_97",
+          "length": 2717
+        },
+        {
+          "name": "Nerva",
+          "url": "/wiki/Nerva",
+          "length": 45129
+        },
+        {
+          "name": "Praetorian Guard",
+          "url": "/wiki/Praetorian_Guard",
+          "length": 45040
+        },
+        {
+          "name": "Trajan",
+          "url": "/wiki/Trajan",
+          "length": 145898
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "description": "World War II: Greece rejects Italy's ultimatum. Italy invades Greece through Albania a few hours later.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: Greece <a href=\"/wiki/Ohi_Day\" title=\"Ohi Day\">rejects</a> Italy's ultimatum. <a href=\"/wiki/Italian_invasion_of_Greece\" class=\"mw-redirect\" title=\"Italian invasion of Greece\">Italy invades Greece</a> through <a href=\"/wiki/Italian_Albania\" class=\"mw-redirect\" title=\"Italian Albania\">Albania</a> a few hours later.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 254994
+        },
+        {
+          "name": "Ohi Day",
+          "url": "/wiki/Ohi_Day",
+          "length": 6366
+        },
+        {
+          "name": "Italian invasion of Greece",
+          "url": "/wiki/Italian_invasion_of_Greece",
+          "length": 327
+        },
+        {
+          "name": "Italian Albania",
+          "url": "/wiki/Italian_Albania",
+          "length": 82
+        }
+      ]
+    },
+    {
+      "year": "1420",
+      "description": "Beijing is officially designated the capital of the Ming dynasty when the Forbidden City is completed.",
+      "html": "<li>\n<a href=\"/wiki/1420\" title=\"1420\">1420</a> – <a href=\"/wiki/Beijing\" title=\"Beijing\">Beijing</a> is officially designated the capital of the <a href=\"/wiki/Ming_dynasty\" title=\"Ming dynasty\">Ming dynasty</a> when the <a href=\"/wiki/Forbidden_City\" title=\"Forbidden City\">Forbidden City</a> is completed.</li>",
+      "entities": [
+        {
+          "name": "Beijing",
+          "url": "/wiki/Beijing",
+          "length": 243492
+        },
+        {
+          "name": "Ming dynasty",
+          "url": "/wiki/Ming_dynasty",
+          "length": 142624
+        },
+        {
+          "name": "Forbidden City",
+          "url": "/wiki/Forbidden_City",
+          "length": 68221
+        }
+      ]
+    },
+    {
+      "year": "1492",
+      "description": "Christopher Columbus lands in Cuba on his first voyage to the New World, surmising that it is Japan.",
+      "html": "<li>\n<a href=\"/wiki/1492\" title=\"1492\">1492</a> – <a href=\"/wiki/Christopher_Columbus\" title=\"Christopher Columbus\">Christopher Columbus</a> lands in <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a> on his <a href=\"/wiki/Voyages_of_Christopher_Columbus\" title=\"Voyages of Christopher Columbus\">first voyage to the New World</a>, surmising that it is Japan.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Christopher Columbus",
+          "url": "/wiki/Christopher_Columbus",
+          "length": 197749
+        },
+        {
+          "name": "Cuba",
+          "url": "/wiki/Cuba",
+          "length": 274212
+        },
+        {
+          "name": "Voyages of Christopher Columbus",
+          "url": "/wiki/Voyages_of_Christopher_Columbus",
+          "length": 108803
+        }
+      ]
+    },
+    {
+      "year": "1466",
+      "description": "Erasmus, Dutch philosopher, was born.",
+      "html": "<li>\n<a href=\"/wiki/1466\" title=\"1466\">1466</a> – <a href=\"/wiki/Erasmus\" title=\"Erasmus\">Erasmus</a>, Dutch philosopher (d. 1536)</li>",
+      "entities": [
+        {
+          "name": "Erasmus",
+          "url": "/wiki/Erasmus",
+          "length": 295822
+        }
+      ]
+    },
+    {
+      "year": "1138",
+      "description": "King Bolesław III Wrymouth of Poland, died.",
+      "html": "<li>\n<a href=\"/wiki/1138\" title=\"1138\">1138</a> – King <a href=\"/wiki/Boles%C5%82aw_III_Wrymouth\" title=\"Bolesław III Wrymouth\">Bolesław III Wrymouth</a> of <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a>\n</li>",
+      "entities": [
+        {
+          "name": "Bolesław III Wrymouth",
+          "url": "/wiki/Boles%C5%82aw_III_Wrymouth",
+          "length": 174180
+        },
+        {
+          "name": "Poland",
+          "url": "/wiki/Poland",
+          "length": 301379
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1466",
+      "description": "Erasmus, Dutch philosopher, was born.",
+      "html": "<li>\n<a href=\"/wiki/1466\" title=\"1466\">1466</a> – <a href=\"/wiki/Erasmus\" title=\"Erasmus\">Erasmus</a>, Dutch philosopher (d. 1536)</li>",
+      "entities": [
+        {
+          "name": "Erasmus",
+          "url": "/wiki/Erasmus",
+          "length": 295822
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "Bill Gates, American businessman and philanthropist, co-founded Microsoft, was born.",
+      "html": "<li>\n<a href=\"/wiki/1955\" title=\"1955\">1955</a> – <a href=\"/wiki/Bill_Gates\" title=\"Bill Gates\">Bill Gates</a>, American businessman and philanthropist, co-founded <a href=\"/wiki/Microsoft\" title=\"Microsoft\">Microsoft</a><sup id=\"cite_ref-UPI_14-8\" class=\"reference\"><a href=\"#cite_note-UPI-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bill Gates",
+          "url": "/wiki/Bill_Gates",
+          "length": 203146
+        },
+        {
+          "name": "Microsoft",
+          "url": "/wiki/Microsoft",
+          "length": 222512
+        }
+      ]
+    },
+    {
+      "year": "1949",
+      "description": "Caitlyn Jenner, American decathlete and actress, was born.",
+      "html": "<li>1949   – <a href=\"/wiki/Caitlyn_Jenner\" title=\"Caitlyn Jenner\">Caitlyn Jenner</a>, American decathlete and actress<sup id=\"cite_ref-UPI_14-7\" class=\"reference\"><a href=\"#cite_note-UPI-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Caitlyn Jenner",
+          "url": "/wiki/Caitlyn_Jenner",
+          "length": 191070
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1138",
+      "description": "King Bolesław III Wrymouth of Poland, died.",
+      "html": "<li>\n<a href=\"/wiki/1138\" title=\"1138\">1138</a> – King <a href=\"/wiki/Boles%C5%82aw_III_Wrymouth\" title=\"Bolesław III Wrymouth\">Bolesław III Wrymouth</a> of <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a>\n</li>",
+      "entities": [
+        {
+          "name": "Bolesław III Wrymouth",
+          "url": "/wiki/Boles%C5%82aw_III_Wrymouth",
+          "length": 174180
+        },
+        {
+          "name": "Poland",
+          "url": "/wiki/Poland",
+          "length": 301379
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Matthew Perry, American-Canadian actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Matthew_Perry\" title=\"Matthew Perry\">Matthew Perry</a>, American-Canadian actor (b. 1969)<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\"><span class=\"cite-bracket\">[</span>38<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Matthew Perry",
+          "url": "/wiki/Matthew_Perry",
+          "length": 111874
+        }
+      ]
+    },
+    {
+      "year": "1952",
+      "description": "Billy Hughes, English-Australian politician, 7th Prime Minister of Australia, died.",
+      "html": "<li>\n<a href=\"/wiki/1952\" title=\"1952\">1952</a> – <a href=\"/wiki/Billy_Hughes\" title=\"Billy Hughes\">Billy Hughes</a>, English-Australian politician, 7th <a href=\"/wiki/Prime_Minister_of_Australia\" title=\"Prime Minister of Australia\">Prime Minister of Australia</a> (b. 1862)<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Billy Hughes",
+          "url": "/wiki/Billy_Hughes",
+          "length": 96764
+        },
+        {
+          "name": "Prime Minister of Australia",
+          "url": "/wiki/Prime_Minister_of_Australia",
+          "length": 55826
+        }
+      ]
+    }
+  ]
+}

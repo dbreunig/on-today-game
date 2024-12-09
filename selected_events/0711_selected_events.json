@@ -1,0 +1,286 @@
+{
+  "events": [
+    {
+      "year": "1943",
+      "description": "World War II: Allied invasion of Sicily: German and Italian troops launch a counter-attack on Allied forces in Sicily.",
+      "html": "<li>1943   – World War II: <a href=\"/wiki/Allied_invasion_of_Sicily\" title=\"Allied invasion of Sicily\">Allied invasion of Sicily</a>: <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">German</a> and Italian troops launch a <a href=\"/wiki/Battle_of_Gela_(1943)\" title=\"Battle of Gela (1943)\">counter-attack</a> on <a href=\"/wiki/Allies_of_World_War_II\" title=\"Allies of World War II\">Allied forces</a> in <a href=\"/wiki/Sicily\" title=\"Sicily\">Sicily</a>.</li>",
+      "entities": [
+        {
+          "name": "Allied invasion of Sicily",
+          "url": "/wiki/Allied_invasion_of_Sicily",
+          "length": 110586
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        },
+        {
+          "name": "Battle of Gela (1943)",
+          "url": "/wiki/Battle_of_Gela_(1943)",
+          "length": 41198
+        },
+        {
+          "name": "Allies of World War II",
+          "url": "/wiki/Allies_of_World_War_II",
+          "length": 166559
+        },
+        {
+          "name": "Sicily",
+          "url": "/wiki/Sicily",
+          "length": 165148
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "France legislates for the independence of Dahomey (later Benin), Upper Volta (later Burkina Faso) and Niger.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – France legislates for the independence of <a href=\"/wiki/Republic_of_Dahomey\" title=\"Republic of Dahomey\">Dahomey</a> (later <a href=\"/wiki/Benin\" title=\"Benin\">Benin</a>), <a href=\"/wiki/Republic_of_Upper_Volta\" title=\"Republic of Upper Volta\">Upper Volta</a> (later <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a>) and <a href=\"/wiki/Niger\" title=\"Niger\">Niger</a>.</li>",
+      "entities": [
+        {
+          "name": "Republic of Dahomey",
+          "url": "/wiki/Republic_of_Dahomey",
+          "length": 9118
+        },
+        {
+          "name": "Benin",
+          "url": "/wiki/Benin",
+          "length": 120358
+        },
+        {
+          "name": "Republic of Upper Volta",
+          "url": "/wiki/Republic_of_Upper_Volta",
+          "length": 11492
+        },
+        {
+          "name": "Burkina Faso",
+          "url": "/wiki/Burkina_Faso",
+          "length": 172874
+        },
+        {
+          "name": "Niger",
+          "url": "/wiki/Niger",
+          "length": 148392
+        }
+      ]
+    },
+    {
+      "year": "1804",
+      "description": "A duel occurs in which the Vice President of the United States Aaron Burr mortally wounds former Secretary of the Treasury Alexander Hamilton.",
+      "html": "<li>\n<a href=\"/wiki/1804\" title=\"1804\">1804</a> – <a href=\"/wiki/Burr%E2%80%93Hamilton_duel\" title=\"Burr–Hamilton duel\">A duel occurs</a> in which the <a href=\"/wiki/Vice_President_of_the_United_States\" title=\"Vice President of the United States\">Vice President of the United States</a> <a href=\"/wiki/Aaron_Burr\" title=\"Aaron Burr\">Aaron Burr</a> mortally wounds former <a href=\"/wiki/United_States_Secretary_of_the_Treasury\" title=\"United States Secretary of the Treasury\">Secretary of the Treasury</a> <a href=\"/wiki/Alexander_Hamilton\" title=\"Alexander Hamilton\">Alexander Hamilton</a>.</li>",
+      "entities": [
+        {
+          "name": "Burr–Hamilton duel",
+          "url": "/wiki/Burr%E2%80%93Hamilton_duel",
+          "length": 52704
+        },
+        {
+          "name": "Vice President of the United States",
+          "url": "/wiki/Vice_President_of_the_United_States",
+          "length": 123376
+        },
+        {
+          "name": "Aaron Burr",
+          "url": "/wiki/Aaron_Burr",
+          "length": 106205
+        },
+        {
+          "name": "United States Secretary of the Treasury",
+          "url": "/wiki/United_States_Secretary_of_the_Treasury",
+          "length": 41776
+        },
+        {
+          "name": "Alexander Hamilton",
+          "url": "/wiki/Alexander_Hamilton",
+          "length": 196152
+        }
+      ]
+    },
+    {
+      "year": "1410",
+      "description": "Ottoman Interregnum: Süleyman Çelebi defeats his brother Musa Çelebi outside the Ottoman capital, Edirne.",
+      "html": "<li>\n<a href=\"/wiki/1410\" title=\"1410\">1410</a> – <a href=\"/wiki/Ottoman_Interregnum\" title=\"Ottoman Interregnum\">Ottoman Interregnum</a>: <a href=\"/wiki/S%C3%BCleyman_%C3%87elebi\" title=\"Süleyman Çelebi\">Süleyman Çelebi</a> <a href=\"/wiki/Battle_of_Edirne_(1410)\" title=\"Battle of Edirne (1410)\">defeats</a> his brother <a href=\"/wiki/Musa_%C3%87elebi\" title=\"Musa Çelebi\">Musa Çelebi</a> outside the Ottoman capital, <a href=\"/wiki/Edirne\" title=\"Edirne\">Edirne</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ottoman Interregnum",
+          "url": "/wiki/Ottoman_Interregnum",
+          "length": 10154
+        },
+        {
+          "name": "Süleyman Çelebi",
+          "url": "/wiki/S%C3%BCleyman_%C3%87elebi",
+          "length": 9245
+        },
+        {
+          "name": "Battle of Edirne (1410)",
+          "url": "/wiki/Battle_of_Edirne_(1410)",
+          "length": 3540
+        },
+        {
+          "name": "Musa Çelebi",
+          "url": "/wiki/Musa_%C3%87elebi",
+          "length": 7813
+        },
+        {
+          "name": "Edirne",
+          "url": "/wiki/Edirne",
+          "length": 46412
+        }
+      ]
+    },
+    {
+      "year": "1897",
+      "description": "Salomon August Andrée leaves Spitsbergen to attempt to reach the North Pole by balloon.",
+      "html": "<li>\n<a href=\"/wiki/1897\" title=\"1897\">1897</a> – <a href=\"/wiki/Salomon_August_Andr%C3%A9e\" title=\"Salomon August Andrée\">Salomon August Andrée</a> leaves <a href=\"/wiki/Spitsbergen\" title=\"Spitsbergen\">Spitsbergen</a> to attempt to reach the <a href=\"/wiki/North_Pole\" title=\"North Pole\">North Pole</a> by <a href=\"/wiki/Balloon\" title=\"Balloon\">balloon</a>.</li>",
+      "entities": [
+        {
+          "name": "Salomon August Andrée",
+          "url": "/wiki/Salomon_August_Andr%C3%A9e",
+          "length": 20508
+        },
+        {
+          "name": "Spitsbergen",
+          "url": "/wiki/Spitsbergen",
+          "length": 51149
+        },
+        {
+          "name": "North Pole",
+          "url": "/wiki/North_Pole",
+          "length": 76620
+        },
+        {
+          "name": "Balloon",
+          "url": "/wiki/Balloon",
+          "length": 32763
+        }
+      ]
+    },
+    {
+      "year": "1934",
+      "description": "Engelbert Zaschka of Germany flies his large human-powered aircraft, the Zaschka Human-Power Aircraft, about 20 meters at Berlin Tempelhof Airport without assisted take-off.",
+      "html": "<li>\n<a href=\"/wiki/1934\" title=\"1934\">1934</a> – <a href=\"/wiki/Engelbert_Zaschka\" title=\"Engelbert Zaschka\">Engelbert Zaschka</a> of Germany flies his large <a href=\"/wiki/Human-powered_aircraft\" title=\"Human-powered aircraft\">human-powered aircraft</a>, the <i>Zaschka Human-Power Aircraft</i>, about 20 meters at <a href=\"/wiki/Berlin_Tempelhof_Airport\" title=\"Berlin Tempelhof Airport\">Berlin Tempelhof Airport</a> without <a href=\"/wiki/Assisted_take-off\" title=\"Assisted take-off\">assisted take-off</a>.</li>",
+      "entities": [
+        {
+          "name": "Engelbert Zaschka",
+          "url": "/wiki/Engelbert_Zaschka",
+          "length": 17046
+        },
+        {
+          "name": "Human-powered aircraft",
+          "url": "/wiki/Human-powered_aircraft",
+          "length": 21751
+        },
+        {
+          "name": "Berlin Tempelhof Airport",
+          "url": "/wiki/Berlin_Tempelhof_Airport",
+          "length": 101863
+        },
+        {
+          "name": "Assisted take-off",
+          "url": "/wiki/Assisted_take-off",
+          "length": 6656
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Caroline Wozniacki, Danish tennis player, was born.",
+      "html": "<li>1990   – <a href=\"/wiki/Caroline_Wozniacki\" title=\"Caroline Wozniacki\">Caroline Wozniacki</a>, Danish tennis player</li>",
+      "entities": [
+        {
+          "name": "Caroline Wozniacki",
+          "url": "/wiki/Caroline_Wozniacki",
+          "length": 195445
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "John Spencer, English snooker player and sportscaster, died.",
+      "html": "<li>2006   – <a href=\"/wiki/John_Spencer_(snooker_player)\" title=\"John Spencer (snooker player)\">John Spencer</a>, English snooker player and sportscaster (b. 1935)</li>",
+      "entities": [
+        {
+          "name": "John Spencer (snooker player)",
+          "url": "/wiki/John_Spencer_(snooker_player)",
+          "length": 127392
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1990",
+      "description": "Caroline Wozniacki, Danish tennis player, was born.",
+      "html": "<li>1990   – <a href=\"/wiki/Caroline_Wozniacki\" title=\"Caroline Wozniacki\">Caroline Wozniacki</a>, Danish tennis player</li>",
+      "entities": [
+        {
+          "name": "Caroline Wozniacki",
+          "url": "/wiki/Caroline_Wozniacki",
+          "length": 195445
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "Lil' Kim, American rapper and producer, was born.",
+      "html": "<li>1975   – <a href=\"/wiki/Lil%27_Kim\" title=\"Lil' Kim\">Lil' Kim</a>, American rapper and producer</li>",
+      "entities": [
+        {
+          "name": "Lil' Kim",
+          "url": "/wiki/Lil%27_Kim",
+          "length": 155864
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Mona Barthel, German tennis player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Mona_Barthel\" title=\"Mona Barthel\">Mona Barthel</a>, German tennis player</li>",
+      "entities": [
+        {
+          "name": "Mona Barthel",
+          "url": "/wiki/Mona_Barthel",
+          "length": 144117
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1989",
+      "description": "Laurence Olivier, English actor, director, and producer, died.",
+      "html": "<li>\n<a href=\"/wiki/1989\" title=\"1989\">1989</a> – <a href=\"/wiki/Laurence_Olivier\" title=\"Laurence Olivier\">Laurence Olivier</a>, English actor, director, and producer (b. 1907)</li>",
+      "entities": [
+        {
+          "name": "Laurence Olivier",
+          "url": "/wiki/Laurence_Olivier",
+          "length": 137027
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "description": "Satoru Iwata, Japanese game programmer and businessman, died.",
+      "html": "<li>2015   – <a href=\"/wiki/Satoru_Iwata\" title=\"Satoru Iwata\">Satoru Iwata</a>, Japanese game programmer and businessman (b. 1959)</li>",
+      "entities": [
+        {
+          "name": "Satoru Iwata",
+          "url": "/wiki/Satoru_Iwata",
+          "length": 136345
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "John Spencer, English snooker player and sportscaster, died.",
+      "html": "<li>2006   – <a href=\"/wiki/John_Spencer_(snooker_player)\" title=\"John Spencer (snooker player)\">John Spencer</a>, English snooker player and sportscaster (b. 1935)</li>",
+      "entities": [
+        {
+          "name": "John Spencer (snooker player)",
+          "url": "/wiki/John_Spencer_(snooker_player)",
+          "length": 127392
+        }
+      ]
+    }
+  ]
+}

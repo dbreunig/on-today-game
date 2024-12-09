@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": "1943",
+      "description": "World War II: The Royal Air Force launches Operation Bellicose, the first shuttle bombing raid of the war. Avro Lancaster bombers damage the V-2 rocket production facilities at the Zeppelin Works while en route to an air base in Algeria.",
+      "html": "<li>1943   – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The <a href=\"/wiki/Royal_Air_Force\" title=\"Royal Air Force\">Royal Air Force</a> launches <a href=\"/wiki/Operation_Bellicose\" title=\"Operation Bellicose\">Operation Bellicose</a>, the first <a href=\"/wiki/Shuttle_bombing\" title=\"Shuttle bombing\">shuttle bombing</a> raid of the war. <a href=\"/wiki/Avro_Lancaster\" title=\"Avro Lancaster\">Avro Lancaster</a> bombers damage the <a href=\"/wiki/V-2_rocket\" title=\"V-2 rocket\">V-2 rocket</a> production facilities at the <a href=\"/wiki/Luftschiffbau_Zeppelin\" title=\"Luftschiffbau Zeppelin\">Zeppelin Works</a> while en route to an air base in Algeria.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Royal Air Force",
+          "url": "/wiki/Royal_Air_Force",
+          "length": 195560
+        },
+        {
+          "name": "Operation Bellicose",
+          "url": "/wiki/Operation_Bellicose",
+          "length": 51064
+        },
+        {
+          "name": "Shuttle bombing",
+          "url": "/wiki/Shuttle_bombing",
+          "length": 7424
+        },
+        {
+          "name": "Avro Lancaster",
+          "url": "/wiki/Avro_Lancaster",
+          "length": 125579
+        },
+        {
+          "name": "V-2 rocket",
+          "url": "/wiki/V-2_rocket",
+          "length": 99518
+        },
+        {
+          "name": "Luftschiffbau Zeppelin",
+          "url": "/wiki/Luftschiffbau_Zeppelin",
+          "length": 23266
+        }
+      ]
+    },
+    {
+      "year": "1295",
+      "description": "The Treaty of Anagni, an attempt mediated by the papacy to end the War of the Sicilian Vespers, is signed by the crown of Aragon, the kingdom of France and kingdom of Naples.",
+      "html": "<li>\n<a href=\"/wiki/1295\" title=\"1295\">1295</a> – The <a href=\"/wiki/Treaty_of_Anagni\" title=\"Treaty of Anagni\">Treaty of Anagni</a>, an attempt mediated by the papacy to end the <a href=\"/wiki/War_of_the_Sicilian_Vespers\" title=\"War of the Sicilian Vespers\">War of the Sicilian Vespers</a>, is signed by the <a href=\"/wiki/Crown_of_Aragon\" title=\"Crown of Aragon\">crown of Aragon</a>, the <a href=\"/wiki/Kingdom_of_France\" title=\"Kingdom of France\">kingdom of France</a> and <a href=\"/wiki/Kingdom_of_Naples\" title=\"Kingdom of Naples\">kingdom of Naples</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Treaty of Anagni",
+          "url": "/wiki/Treaty_of_Anagni",
+          "length": 3146
+        },
+        {
+          "name": "War of the Sicilian Vespers",
+          "url": "/wiki/War_of_the_Sicilian_Vespers",
+          "length": 90513
+        },
+        {
+          "name": "Crown of Aragon",
+          "url": "/wiki/Crown_of_Aragon",
+          "length": 57440
+        },
+        {
+          "name": "Kingdom of France",
+          "url": "/wiki/Kingdom_of_France",
+          "length": 58923
+        },
+        {
+          "name": "Kingdom of Naples",
+          "url": "/wiki/Kingdom_of_Naples",
+          "length": 34312
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "The German Bundestag votes to move seat of government from the former West German capital of Bonn to the present capital of Berlin.",
+      "html": "<li>\n<a href=\"/wiki/1991\" title=\"1991\">1991</a> – The <a href=\"/wiki/Bundestag\" title=\"Bundestag\">German Bundestag</a> <a href=\"/wiki/Decision_on_the_Capital_of_Germany\" title=\"Decision on the Capital of Germany\">votes</a> to move seat of government from the former <a href=\"/wiki/West_Germany\" title=\"West Germany\">West German</a> capital of <a href=\"/wiki/Bonn\" title=\"Bonn\">Bonn</a> to the present capital of <a href=\"/wiki/Berlin\" title=\"Berlin\">Berlin</a>.</li>",
+      "entities": [
+        {
+          "name": "Bundestag",
+          "url": "/wiki/Bundestag",
+          "length": 67564
+        },
+        {
+          "name": "Decision on the Capital of Germany",
+          "url": "/wiki/Decision_on_the_Capital_of_Germany",
+          "length": 9570
+        },
+        {
+          "name": "West Germany",
+          "url": "/wiki/West_Germany",
+          "length": 90476
+        },
+        {
+          "name": "Bonn",
+          "url": "/wiki/Bonn",
+          "length": 74996
+        },
+        {
+          "name": "Berlin",
+          "url": "/wiki/Berlin",
+          "length": 244270
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "ABC News correspondent Bill Stewart is shot dead by a Nicaraguan National Guard soldier under the regime of Anastasio Somoza Debayle during the Nicaraguan Revolution. The murder is caught on tape and sparks an international outcry against the regime.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/ABC_News_(United_States)\" title=\"ABC News (United States)\">ABC News</a> correspondent <a href=\"/wiki/Bill_Stewart_(journalist)\" title=\"Bill Stewart (journalist)\">Bill Stewart</a> is shot dead by a Nicaraguan <a href=\"/wiki/National_Guard_(Nicaragua)\" title=\"National Guard (Nicaragua)\">National Guard</a> soldier under the regime of <a href=\"/wiki/Anastasio_Somoza_Debayle\" title=\"Anastasio Somoza Debayle\">Anastasio Somoza Debayle</a> during the <a href=\"/wiki/Nicaraguan_Revolution\" title=\"Nicaraguan Revolution\">Nicaraguan Revolution</a>. The murder is caught on tape and sparks an international outcry against the regime.</li>",
+      "entities": [
+        {
+          "name": "ABC News (United States)",
+          "url": "/wiki/ABC_News_(United_States)",
+          "length": 64225
+        },
+        {
+          "name": "Bill Stewart (journalist)",
+          "url": "/wiki/Bill_Stewart_(journalist)",
+          "length": 17021
+        },
+        {
+          "name": "National Guard (Nicaragua)",
+          "url": "/wiki/National_Guard_(Nicaragua)",
+          "length": 69562
+        },
+        {
+          "name": "Anastasio Somoza Debayle",
+          "url": "/wiki/Anastasio_Somoza_Debayle",
+          "length": 29042
+        },
+        {
+          "name": "Nicaraguan Revolution",
+          "url": "/wiki/Nicaraguan_Revolution",
+          "length": 49456
+        }
+      ]
+    },
+    {
+      "year": "1789",
+      "description": "Deputies of the French Third Estate take the Tennis Court Oath.",
+      "html": "<li>\n<a href=\"/wiki/1789\" title=\"1789\">1789</a> – <a href=\"/wiki/Deputy_(legislator)\" class=\"mw-redirect\" title=\"Deputy (legislator)\">Deputies</a> of the <a href=\"/wiki/History_of_France\" title=\"History of France\">French</a> <a href=\"/wiki/Estates-General_of_1789\" class=\"mw-redirect\" title=\"Estates-General of 1789\">Third Estate</a> take the <a href=\"/wiki/Tennis_Court_Oath\" title=\"Tennis Court Oath\">Tennis Court Oath</a>.</li>",
+      "entities": [
+        {
+          "name": "Deputy (legislator)",
+          "url": "/wiki/Deputy_(legislator)",
+          "length": 24
+        },
+        {
+          "name": "History of France",
+          "url": "/wiki/History_of_France",
+          "length": 158912
+        },
+        {
+          "name": "Estates-General of 1789",
+          "url": "/wiki/Estates-General_of_1789",
+          "length": 54
+        },
+        {
+          "name": "Tennis Court Oath",
+          "url": "/wiki/Tennis_Court_Oath",
+          "length": 15339
+        }
+      ]
+    },
+    {
+      "year": "1900",
+      "description": "Boxer Rebellion: The Imperial Chinese Army begins a 55-day siege of the Legation Quarter in Beijing, China.",
+      "html": "<li>\n<a href=\"/wiki/1900\" title=\"1900\">1900</a> – <a href=\"/wiki/Boxer_Rebellion\" title=\"Boxer Rebellion\">Boxer Rebellion</a>: The <a href=\"/wiki/Imperial_Chinese_Army\" class=\"mw-redirect\" title=\"Imperial Chinese Army\">Imperial Chinese Army</a> begins a <a href=\"/wiki/Siege_of_the_International_Legations\" title=\"Siege of the International Legations\">55-day siege</a> of the <a href=\"/wiki/Beijing_Legation_Quarter\" class=\"mw-redirect\" title=\"Beijing Legation Quarter\">Legation Quarter</a> in Beijing, China.</li>",
+      "entities": [
+        {
+          "name": "Boxer Rebellion",
+          "url": "/wiki/Boxer_Rebellion",
+          "length": 135927
+        },
+        {
+          "name": "Imperial Chinese Army",
+          "url": "/wiki/Imperial_Chinese_Army",
+          "length": 68
+        },
+        {
+          "name": "Siege of the International Legations",
+          "url": "/wiki/Siege_of_the_International_Legations",
+          "length": 47515
+        },
+        {
+          "name": "Beijing Legation Quarter",
+          "url": "/wiki/Beijing_Legation_Quarter",
+          "length": 37
+        }
+      ]
+    },
+    {
+      "year": "1967",
+      "description": "Nicole Kidman, American-Australian actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1967\" title=\"1967\">1967</a> – <a href=\"/wiki/Nicole_Kidman\" title=\"Nicole Kidman\">Nicole Kidman</a>, American-Australian actress</li>",
+      "entities": [
+        {
+          "name": "Nicole Kidman",
+          "url": "/wiki/Nicole_Kidman",
+          "length": 236601
+        }
+      ]
+    },
+    {
+      "year": "1820",
+      "description": "Manuel Belgrano, Argentinian general, economist, and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/1820\" title=\"1820\">1820</a> – <a href=\"/wiki/Manuel_Belgrano\" title=\"Manuel Belgrano\">Manuel Belgrano</a>, Argentinian general, economist, and politician (b. 1770)</li>",
+      "entities": [
+        {
+          "name": "Manuel Belgrano",
+          "url": "/wiki/Manuel_Belgrano",
+          "length": 82194
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1942",
+      "description": "Brian Wilson, American singer, songwriter and producer, was born.",
+      "html": "<li>1942   – <a href=\"/wiki/Brian_Wilson\" title=\"Brian Wilson\">Brian Wilson</a>, American singer, songwriter and producer</li>",
+      "entities": [
+        {
+          "name": "Brian Wilson",
+          "url": "/wiki/Brian_Wilson",
+          "length": 265991
+        }
+      ]
+    },
+    {
+      "year": "1967",
+      "description": "Nicole Kidman, American-Australian actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1967\" title=\"1967\">1967</a> – <a href=\"/wiki/Nicole_Kidman\" title=\"Nicole Kidman\">Nicole Kidman</a>, American-Australian actress</li>",
+      "entities": [
+        {
+          "name": "Nicole Kidman",
+          "url": "/wiki/Nicole_Kidman",
+          "length": 236601
+        }
+      ]
+    },
+    {
+      "year": "1978",
+      "description": "Frank Lampard, English footballer, was born.",
+      "html": "<li>1978   – <a href=\"/wiki/Frank_Lampard\" title=\"Frank Lampard\">Frank Lampard</a>, English footballer</li>",
+      "entities": [
+        {
+          "name": "Frank Lampard",
+          "url": "/wiki/Frank_Lampard",
+          "length": 213664
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1876",
+      "description": "John Neal, American writer, critic, editor, lecturer, and activist, died.",
+      "html": "<li>\n<a href=\"/wiki/1876\" title=\"1876\">1876</a> – <a href=\"/wiki/John_Neal_(writer)\" title=\"John Neal (writer)\">John Neal</a>, American writer, critic, editor, lecturer, and activist (b. 1793)<sup id=\"cite_ref-36\" class=\"reference\"><a href=\"#cite_note-36\"><span class=\"cite-bracket\">[</span>36<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John Neal (writer)",
+          "url": "/wiki/John_Neal_(writer)",
+          "length": 122838
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "description": "Donald Sutherland, Canadian actor and producer, died.",
+      "html": "<li>\n<a href=\"/wiki/2024\" title=\"2024\">2024</a> – <a href=\"/wiki/Donald_Sutherland\" title=\"Donald Sutherland\">Donald Sutherland</a>, Canadian actor and producer (b. 1935)<sup id=\"cite_ref-40\" class=\"reference\"><a href=\"#cite_note-40\"><span class=\"cite-bracket\">[</span>40<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Donald Sutherland",
+          "url": "/wiki/Donald_Sutherland",
+          "length": 110471
+        }
+      ]
+    },
+    {
+      "year": "1820",
+      "description": "Manuel Belgrano, Argentinian general, economist, and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/1820\" title=\"1820\">1820</a> – <a href=\"/wiki/Manuel_Belgrano\" title=\"Manuel Belgrano\">Manuel Belgrano</a>, Argentinian general, economist, and politician (b. 1770)</li>",
+      "entities": [
+        {
+          "name": "Manuel Belgrano",
+          "url": "/wiki/Manuel_Belgrano",
+          "length": 82194
+        }
+      ]
+    }
+  ]
+}

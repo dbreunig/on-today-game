@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": "1986",
+      "description": "Space Shuttle program: Congressman and future NASA Administrator Bill Nelson lifts off from Kennedy Space Center aboard Columbia on mission STS-61-C as a payload specialist.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Space_Shuttle_program\" title=\"Space Shuttle program\">Space Shuttle program</a>: Congressman and future NASA Administrator <a href=\"/wiki/Bill_Nelson_(politician)\" class=\"mw-redirect\" title=\"Bill Nelson (politician)\">Bill Nelson</a> lifts off from <a href=\"/wiki/Kennedy_Space_Center\" title=\"Kennedy Space Center\">Kennedy Space Center</a> aboard <a href=\"/wiki/Space_Shuttle_Columbia\" title=\"Space Shuttle Columbia\"><i>Columbia</i></a> on mission <a href=\"/wiki/STS-61-C\" title=\"STS-61-C\">STS-61-C</a> as a <a href=\"/wiki/Payload_specialist\" title=\"Payload specialist\">payload specialist</a>.</li>",
+      "entities": [
+        {
+          "name": "Space Shuttle program",
+          "url": "/wiki/Space_Shuttle_program",
+          "length": 63244
+        },
+        {
+          "name": "Bill Nelson (politician)",
+          "url": "/wiki/Bill_Nelson_(politician)",
+          "length": 42
+        },
+        {
+          "name": "Kennedy Space Center",
+          "url": "/wiki/Kennedy_Space_Center",
+          "length": 66901
+        },
+        {
+          "name": "Space Shuttle Columbia",
+          "url": "/wiki/Space_Shuttle_Columbia",
+          "length": 54994
+        },
+        {
+          "name": "STS-61-C",
+          "url": "/wiki/STS-61-C",
+          "length": 19244
+        },
+        {
+          "name": "Payload specialist",
+          "url": "/wiki/Payload_specialist",
+          "length": 20963
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "description": "Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Băsescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers.",
+      "html": "<li>\n<a href=\"/wiki/2012\" title=\"2012\">2012</a> – <a href=\"/wiki/2012_Romanian_protests\" title=\"2012 Romanian protests\">Violent protests</a> occur in <a href=\"/wiki/Bucharest\" title=\"Bucharest\">Bucharest</a>, <a href=\"/wiki/Romania\" title=\"Romania\">Romania</a>, as two-day-old demonstrations continue against President <a href=\"/wiki/Traian_B%C4%83sescu\" title=\"Traian Băsescu\">Traian Băsescu</a>'s economic <a href=\"/wiki/Austerity\" title=\"Austerity\">austerity</a> measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers.</li>",
+      "entities": [
+        {
+          "name": "2012 Romanian protests",
+          "url": "/wiki/2012_Romanian_protests",
+          "length": 87137
+        },
+        {
+          "name": "Bucharest",
+          "url": "/wiki/Bucharest",
+          "length": 154755
+        },
+        {
+          "name": "Romania",
+          "url": "/wiki/Romania",
+          "length": 248487
+        },
+        {
+          "name": "Traian Băsescu",
+          "url": "/wiki/Traian_B%C4%83sescu",
+          "length": 126346
+        },
+        {
+          "name": "Austerity",
+          "url": "/wiki/Austerity",
+          "length": 100710
+        }
+      ]
+    },
+    {
+      "year": "1916",
+      "description": "Both Oswald Boelcke and Max Immelmann, for achieving eight aerial victories each over Allied aircraft, receive the German Empire's highest military award, the Pour le Mérite as the first German aviators to earn it.",
+      "html": "<li>\n<a href=\"/wiki/1916\" title=\"1916\">1916</a> – Both <a href=\"/wiki/Oswald_Boelcke\" title=\"Oswald Boelcke\">Oswald Boelcke</a> and <a href=\"/wiki/Max_Immelmann\" title=\"Max Immelmann\">Max Immelmann</a>, for achieving eight aerial victories each over <a href=\"/wiki/Allies_of_World_War_I\" title=\"Allies of World War I\">Allied</a> aircraft, receive the <a href=\"/wiki/German_Empire\" title=\"German Empire\">German Empire</a>'s highest military award, the <a href=\"/wiki/Pour_le_M%C3%A9rite\" title=\"Pour le Mérite\">Pour le Mérite</a> as the first German aviators to earn it.</li>",
+      "entities": [
+        {
+          "name": "Oswald Boelcke",
+          "url": "/wiki/Oswald_Boelcke",
+          "length": 51990
+        },
+        {
+          "name": "Max Immelmann",
+          "url": "/wiki/Max_Immelmann",
+          "length": 25426
+        },
+        {
+          "name": "Allies of World War I",
+          "url": "/wiki/Allies_of_World_War_I",
+          "length": 121532
+        },
+        {
+          "name": "German Empire",
+          "url": "/wiki/German_Empire",
+          "length": 155614
+        },
+        {
+          "name": "Pour le Mérite",
+          "url": "/wiki/Pour_le_M%C3%A9rite",
+          "length": 44356
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "description": "Space Shuttle program: Atlantis launches from the Kennedy Space Center on mission STS-81 to the Russian space station Mir, carrying astronaut Jerry M. Linenger for a four-month stay on board the station, replacing astronaut John E. Blaha.",
+      "html": "<li>\n<a href=\"/wiki/1997\" title=\"1997\">1997</a> – Space Shuttle program: <i><a href=\"/wiki/Space_Shuttle_Atlantis\" title=\"Space Shuttle Atlantis\">Atlantis</a></i> launches from the Kennedy Space Center on mission <a href=\"/wiki/STS-81\" title=\"STS-81\">STS-81</a> to the Russian space station <i><a href=\"/wiki/Mir\" title=\"Mir\">Mir</a></i>, carrying astronaut <a href=\"/wiki/Jerry_M._Linenger\" title=\"Jerry M. Linenger\">Jerry M. Linenger</a> for a four-month stay on board the station, replacing astronaut <a href=\"/wiki/John_E._Blaha\" title=\"John E. Blaha\">John E. Blaha</a>.<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Space Shuttle Atlantis",
+          "url": "/wiki/Space_Shuttle_Atlantis",
+          "length": 60141
+        },
+        {
+          "name": "STS-81",
+          "url": "/wiki/STS-81",
+          "length": 12110
+        },
+        {
+          "name": "Mir",
+          "url": "/wiki/Mir",
+          "length": 127876
+        },
+        {
+          "name": "Jerry M. Linenger",
+          "url": "/wiki/Jerry_M._Linenger",
+          "length": 11351
+        },
+        {
+          "name": "John E. Blaha",
+          "url": "/wiki/John_E._Blaha",
+          "length": 20518
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "The New York Jets of the American Football League defeat the Baltimore Colts of the National Football League to win Super Bowl III in what is considered to be one of the greatest upsets in sports history.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – The <a href=\"/wiki/New_York_Jets\" title=\"New York Jets\">New York Jets</a> of the <a href=\"/wiki/American_Football_League\" title=\"American Football League\">American Football League</a> defeat the <a href=\"/wiki/History_of_the_Baltimore_Colts\" class=\"mw-redirect\" title=\"History of the Baltimore Colts\">Baltimore Colts</a> of the <a href=\"/wiki/National_Football_League\" title=\"National Football League\">National Football League</a> to win <a href=\"/wiki/Super_Bowl_III\" title=\"Super Bowl III\">Super Bowl III</a> in what is considered to be one of the greatest upsets in sports history.</li>",
+      "entities": [
+        {
+          "name": "New York Jets",
+          "url": "/wiki/New_York_Jets",
+          "length": 125478
+        },
+        {
+          "name": "American Football League",
+          "url": "/wiki/American_Football_League",
+          "length": 82018
+        },
+        {
+          "name": "History of the Baltimore Colts",
+          "url": "/wiki/History_of_the_Baltimore_Colts",
+          "length": 272
+        },
+        {
+          "name": "National Football League",
+          "url": "/wiki/National_Football_League",
+          "length": 129049
+        },
+        {
+          "name": "Super Bowl III",
+          "url": "/wiki/Super_Bowl_III",
+          "length": 86679
+        }
+      ]
+    },
+    {
+      "year": "475",
+      "description": "Byzantine Emperor Zeno is forced to flee his capital at Constantinople, and his general, Basiliscus gains control of the empire.",
+      "html": "<li>\n<a href=\"/wiki/475\" title=\"475\">475</a> – <a href=\"/wiki/List_of_Byzantine_emperors\" title=\"List of Byzantine emperors\">Byzantine Emperor</a> <a href=\"/wiki/Zeno_(emperor)\" title=\"Zeno (emperor)\">Zeno</a> is forced to flee his capital at <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a>, and his general, <a href=\"/wiki/Basiliscus\" title=\"Basiliscus\">Basiliscus</a> gains control of the empire.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "List of Byzantine emperors",
+          "url": "/wiki/List_of_Byzantine_emperors",
+          "length": 89137
+        },
+        {
+          "name": "Zeno (emperor)",
+          "url": "/wiki/Zeno_(emperor)",
+          "length": 54381
+        },
+        {
+          "name": "Constantinople",
+          "url": "/wiki/Constantinople",
+          "length": 136375
+        },
+        {
+          "name": "Basiliscus",
+          "url": "/wiki/Basiliscus",
+          "length": 55510
+        }
+      ]
+    },
+    {
+      "year": "1964",
+      "description": "Jeff Bezos, American computer scientist and businessman, was born.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Jeff_Bezos\" title=\"Jeff Bezos\">Jeff Bezos</a>, American computer scientist and businessman<sup id=\"cite_ref-AP_37-6\" class=\"reference\"><a href=\"#cite_note-AP-37\"><span class=\"cite-bracket\">[</span>37<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jeff Bezos",
+          "url": "/wiki/Jeff_Bezos",
+          "length": 213375
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Sir Roger Scruton, English philosopher and writer, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Roger_Scruton\" title=\"Roger Scruton\">Sir Roger Scruton</a>, English philosopher and writer (b. 1944)<sup id=\"cite_ref-81\" class=\"reference\"><a href=\"#cite_note-81\"><span class=\"cite-bracket\">[</span>81<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Roger Scruton",
+          "url": "/wiki/Roger_Scruton",
+          "length": 117095
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1964",
+      "description": "Jeff Bezos, American computer scientist and businessman, was born.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Jeff_Bezos\" title=\"Jeff Bezos\">Jeff Bezos</a>, American computer scientist and businessman<sup id=\"cite_ref-AP_37-6\" class=\"reference\"><a href=\"#cite_note-AP-37\"><span class=\"cite-bracket\">[</span>37<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jeff Bezos",
+          "url": "/wiki/Jeff_Bezos",
+          "length": 213375
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Naya Rivera, American actress and singer, was born.",
+      "html": "<li>1987 – <a href=\"/wiki/Naya_Rivera\" title=\"Naya Rivera\">Naya Rivera</a>, American actress and singer (d. 2020)<sup id=\"cite_ref-55\" class=\"reference\"><a href=\"#cite_note-55\"><span class=\"cite-bracket\">[</span>55<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Naya Rivera",
+          "url": "/wiki/Naya_Rivera",
+          "length": 210202
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Rush Limbaugh, American talk show host and author, was born.",
+      "html": "<li>1951 – <a href=\"/wiki/Rush_Limbaugh\" title=\"Rush Limbaugh\">Rush Limbaugh</a>, American talk show host and author (d. 2021)<sup id=\"cite_ref-UPI_34-3\" class=\"reference\"><a href=\"#cite_note-UPI-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rush Limbaugh",
+          "url": "/wiki/Rush_Limbaugh",
+          "length": 198867
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1519",
+      "description": "Maximilian I, Holy Roman Emperor, died.",
+      "html": "<li>\n<a href=\"/wiki/1519\" title=\"1519\">1519</a> – <a href=\"/wiki/Maximilian_I,_Holy_Roman_Emperor\" title=\"Maximilian I, Holy Roman Emperor\">Maximilian I, Holy Roman Emperor</a> (b. 1459)<sup id=\"cite_ref-72\" class=\"reference\"><a href=\"#cite_note-72\"><span class=\"cite-bracket\">[</span>72<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Maximilian I, Holy Roman Emperor",
+          "url": "/wiki/Maximilian_I,_Holy_Roman_Emperor",
+          "length": 401540
+        }
+      ]
+    },
+    {
+      "year": "1976",
+      "description": "Agatha Christie, English crime novelist, short story writer, and playwright, died.",
+      "html": "<li>\n<a href=\"/wiki/1976\" title=\"1976\">1976</a> – <a href=\"/wiki/Agatha_Christie\" title=\"Agatha Christie\">Agatha Christie</a>, English crime novelist, short story writer, and playwright (b. 1890)<sup id=\"cite_ref-73\" class=\"reference\"><a href=\"#cite_note-73\"><span class=\"cite-bracket\">[</span>73<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Agatha Christie",
+          "url": "/wiki/Agatha_Christie",
+          "length": 164560
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Sir Roger Scruton, English philosopher and writer, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Roger_Scruton\" title=\"Roger Scruton\">Sir Roger Scruton</a>, English philosopher and writer (b. 1944)<sup id=\"cite_ref-81\" class=\"reference\"><a href=\"#cite_note-81\"><span class=\"cite-bracket\">[</span>81<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Roger Scruton",
+          "url": "/wiki/Roger_Scruton",
+          "length": 117095
+        }
+      ]
+    }
+  ]
+}

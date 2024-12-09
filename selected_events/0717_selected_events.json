@@ -1,0 +1,361 @@
+{
+  "events": [
+    {
+      "year": "1918",
+      "description": "Tsar Nicholas II of Russia and his immediate family and retainers are executed by Bolshevik Chekists at the Ipatiev House in Yekaterinburg, Russia.",
+      "html": "<li>\n<a href=\"/wiki/1918\" title=\"1918\">1918</a> – <a href=\"/wiki/Nicholas_II_of_Russia\" class=\"mw-redirect\" title=\"Nicholas II of Russia\">Tsar Nicholas II</a> of <a href=\"/wiki/Russian_Empire\" title=\"Russian Empire\">Russia</a> and his immediate family and retainers <a href=\"/wiki/Execution_of_the_Romanov_family\" class=\"mw-redirect\" title=\"Execution of the Romanov family\">are executed</a> by <a href=\"/wiki/Bolshevik\" class=\"mw-redirect\" title=\"Bolshevik\">Bolshevik</a> <a href=\"/wiki/Cheka\" title=\"Cheka\">Chekists</a> at the <a href=\"/wiki/Ipatiev_House\" title=\"Ipatiev House\">Ipatiev House</a> in <a href=\"/wiki/Yekaterinburg\" title=\"Yekaterinburg\">Yekaterinburg</a>, <a href=\"/wiki/Russian_Soviet_Federative_Socialist_Republic\" title=\"Russian Soviet Federative Socialist Republic\">Russia</a>.<sup id=\"cite_ref-RomanovBL_7-0\" class=\"reference\"><a href=\"#cite_note-RomanovBL-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Nicholas II of Russia",
+          "url": "/wiki/Nicholas_II_of_Russia",
+          "length": 120
+        },
+        {
+          "name": "Russian Empire",
+          "url": "/wiki/Russian_Empire",
+          "length": 215756
+        },
+        {
+          "name": "Execution of the Romanov family",
+          "url": "/wiki/Execution_of_the_Romanov_family",
+          "length": 117
+        },
+        {
+          "name": "Bolshevik",
+          "url": "/wiki/Bolshevik",
+          "length": 122
+        },
+        {
+          "name": "Cheka",
+          "url": "/wiki/Cheka",
+          "length": 55618
+        },
+        {
+          "name": "Ipatiev House",
+          "url": "/wiki/Ipatiev_House",
+          "length": 11171
+        },
+        {
+          "name": "Yekaterinburg",
+          "url": "/wiki/Yekaterinburg",
+          "length": 163101
+        },
+        {
+          "name": "Russian Soviet Federative Socialist Republic",
+          "url": "/wiki/Russian_Soviet_Federative_Socialist_Republic",
+          "length": 70855
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "description": "A diplomatic conference adopts the Rome Statute of the International Criminal Court, establishing the permanent international court in The Hague, to prosecute individuals for genocide, crimes against humanity, war crimes, and the crime of aggression.",
+      "html": "<li>1998   – A diplomatic conference adopts the <a href=\"/wiki/Rome_Statute_of_the_International_Criminal_Court\" class=\"mw-redirect\" title=\"Rome Statute of the International Criminal Court\">Rome Statute of the International Criminal Court</a>, establishing the <a href=\"/wiki/International_Criminal_Court\" title=\"International Criminal Court\">permanent international court</a> in <a href=\"/wiki/The_Hague\" title=\"The Hague\">The Hague</a>, to prosecute individuals for <a href=\"/wiki/Genocide\" title=\"Genocide\">genocide</a>, <a href=\"/wiki/Crimes_against_humanity\" title=\"Crimes against humanity\">crimes against humanity</a>, <a href=\"/wiki/War_crime\" title=\"War crime\">war crimes</a>, and the <a href=\"/wiki/Crime_of_aggression\" title=\"Crime of aggression\">crime of aggression</a>.</li>",
+      "entities": [
+        {
+          "name": "Rome Statute of the International Criminal Court",
+          "url": "/wiki/Rome_Statute_of_the_International_Criminal_Court",
+          "length": 93
+        },
+        {
+          "name": "International Criminal Court",
+          "url": "/wiki/International_Criminal_Court",
+          "length": 229960
+        },
+        {
+          "name": "The Hague",
+          "url": "/wiki/The_Hague",
+          "length": 86800
+        },
+        {
+          "name": "Genocide",
+          "url": "/wiki/Genocide",
+          "length": 54907
+        },
+        {
+          "name": "Crimes against humanity",
+          "url": "/wiki/Crimes_against_humanity",
+          "length": 68406
+        },
+        {
+          "name": "War crime",
+          "url": "/wiki/War_crime",
+          "length": 57870
+        },
+        {
+          "name": "Crime of aggression",
+          "url": "/wiki/Crime_of_aggression",
+          "length": 44545
+        }
+      ]
+    },
+    {
+      "year": "1976",
+      "description": "The opening of the Summer Olympics in Montreal is marred by 25 African teams boycotting the games because of New Zealand's participation. Contrary to rulings by other international sports organizations, the IOC had declined to exclude New Zealand because of their participation in South African sporting events during apartheid.",
+      "html": "<li>1976   – The opening of the <a href=\"/wiki/1976_Summer_Olympics\" title=\"1976 Summer Olympics\">Summer Olympics</a> in <a href=\"/wiki/Montreal\" title=\"Montreal\">Montreal</a> is marred by 25 African teams boycotting the games because of <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a>'s participation. Contrary to rulings by other international sports organizations, the <a href=\"/wiki/IOC\" class=\"mw-redirect\" title=\"IOC\">IOC</a> had declined to exclude New Zealand because of their participation in <a href=\"/wiki/South_Africa\" title=\"South Africa\">South African</a> sporting events during <a href=\"/wiki/Apartheid\" title=\"Apartheid\">apartheid</a>.</li>",
+      "entities": [
+        {
+          "name": "1976 Summer Olympics",
+          "url": "/wiki/1976_Summer_Olympics",
+          "length": 88108
+        },
+        {
+          "name": "Montreal",
+          "url": "/wiki/Montreal",
+          "length": 214166
+        },
+        {
+          "name": "New Zealand",
+          "url": "/wiki/New_Zealand",
+          "length": 262514
+        },
+        {
+          "name": "IOC",
+          "url": "/wiki/IOC",
+          "length": 189
+        },
+        {
+          "name": "South Africa",
+          "url": "/wiki/South_Africa",
+          "length": 246483
+        },
+        {
+          "name": "Apartheid",
+          "url": "/wiki/Apartheid",
+          "length": 222423
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "World War II: The main three leaders of the Allied nations, Winston Churchill, Harry S. Truman and Joseph Stalin, meet in the German city of Potsdam to decide the future of a defeated Germany.",
+      "html": "<li>\n<a href=\"/wiki/1945\" title=\"1945\">1945</a> – World War II: The main three leaders of the <a href=\"/wiki/Allies_of_World_War_II\" title=\"Allies of World War II\">Allied</a> nations, <a href=\"/wiki/Winston_Churchill\" title=\"Winston Churchill\">Winston Churchill</a>, <a href=\"/wiki/Harry_S._Truman\" title=\"Harry S. Truman\">Harry S. Truman</a> and <a href=\"/wiki/Joseph_Stalin\" title=\"Joseph Stalin\">Joseph Stalin</a>, <a href=\"/wiki/Potsdam_Conference\" title=\"Potsdam Conference\">meet</a> in the German city of <a href=\"/wiki/Potsdam\" title=\"Potsdam\">Potsdam</a> to decide the future of a defeated Germany.</li>",
+      "entities": [
+        {
+          "name": "Allies of World War II",
+          "url": "/wiki/Allies_of_World_War_II",
+          "length": 166559
+        },
+        {
+          "name": "Winston Churchill",
+          "url": "/wiki/Winston_Churchill",
+          "length": 204011
+        },
+        {
+          "name": "Harry S. Truman",
+          "url": "/wiki/Harry_S._Truman",
+          "length": 227506
+        },
+        {
+          "name": "Joseph Stalin",
+          "url": "/wiki/Joseph_Stalin",
+          "length": 208679
+        },
+        {
+          "name": "Potsdam Conference",
+          "url": "/wiki/Potsdam_Conference",
+          "length": 54238
+        },
+        {
+          "name": "Potsdam",
+          "url": "/wiki/Potsdam",
+          "length": 60899
+        }
+      ]
+    },
+    {
+      "year": "1791",
+      "description": "Members of the French National Guard under the command of General Lafayette open fire on a crowd of radical Jacobins at the Champ de Mars, Paris, during the French Revolution, killing scores of people.",
+      "html": "<li>\n<a href=\"/wiki/1791\" title=\"1791\">1791</a> – Members of the <a href=\"/wiki/National_Guard_(France)\" title=\"National Guard (France)\">French National Guard</a> under the command of <a href=\"/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette\" title=\"Gilbert du Motier, Marquis de Lafayette\">General Lafayette</a> <a href=\"/wiki/Champ_de_Mars_Massacre\" class=\"mw-redirect\" title=\"Champ de Mars Massacre\">open fire</a> on a crowd of radical <a href=\"/wiki/Jacobin_(politics)\" title=\"Jacobin (politics)\">Jacobins</a> at the <a href=\"/wiki/Champ_de_Mars\" title=\"Champ de Mars\">Champ de Mars</a>, Paris, during the <a href=\"/wiki/French_Revolution\" title=\"French Revolution\">French Revolution</a>, killing scores of people.</li>",
+      "entities": [
+        {
+          "name": "National Guard (France)",
+          "url": "/wiki/National_Guard_(France)",
+          "length": 28450
+        },
+        {
+          "name": "Gilbert du Motier, Marquis de Lafayette",
+          "url": "/wiki/Gilbert_du_Motier,_Marquis_de_Lafayette",
+          "length": 116469
+        },
+        {
+          "name": "Champ de Mars Massacre",
+          "url": "/wiki/Champ_de_Mars_Massacre",
+          "length": 53
+        },
+        {
+          "name": "Jacobin (politics)",
+          "url": "/wiki/Jacobin_(politics)",
+          "length": 52170
+        },
+        {
+          "name": "Champ de Mars",
+          "url": "/wiki/Champ_de_Mars",
+          "length": 10499
+        },
+        {
+          "name": "French Revolution",
+          "url": "/wiki/French_Revolution",
+          "length": 152584
+        }
+      ]
+    },
+    {
+      "year": "1771",
+      "description": "Bloody Falls massacre: Chipewyan chief Matonabbee, traveling as the guide to Samuel Hearne on his Arctic overland journey, massacres a group of unsuspecting Inuit.",
+      "html": "<li>\n<a href=\"/wiki/1771\" title=\"1771\">1771</a> – <a href=\"/wiki/Bloody_Falls_massacre\" title=\"Bloody Falls massacre\">Bloody Falls massacre</a>: <a href=\"/wiki/Chipewyan\" title=\"Chipewyan\">Chipewyan</a> chief <a href=\"/wiki/Matonabbee\" title=\"Matonabbee\">Matonabbee</a>, traveling as the guide to <a href=\"/wiki/Samuel_Hearne\" title=\"Samuel Hearne\">Samuel Hearne</a> on his Arctic overland journey, massacres a group of unsuspecting <a href=\"/wiki/Inuit\" title=\"Inuit\">Inuit</a>.</li>",
+      "entities": [
+        {
+          "name": "Bloody Falls massacre",
+          "url": "/wiki/Bloody_Falls_massacre",
+          "length": 9795
+        },
+        {
+          "name": "Chipewyan",
+          "url": "/wiki/Chipewyan",
+          "length": 41292
+        },
+        {
+          "name": "Matonabbee",
+          "url": "/wiki/Matonabbee",
+          "length": 3163
+        },
+        {
+          "name": "Samuel Hearne",
+          "url": "/wiki/Samuel_Hearne",
+          "length": 19051
+        },
+        {
+          "name": "Inuit",
+          "url": "/wiki/Inuit",
+          "length": 132841
+        }
+      ]
+    },
+    {
+      "year": "1899",
+      "description": "James Cagney, American actor and dancer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1899\" title=\"1899\">1899</a> – <a href=\"/wiki/James_Cagney\" title=\"James Cagney\">James Cagney</a>, American actor and dancer (d. 1986)</li>",
+      "entities": [
+        {
+          "name": "James Cagney",
+          "url": "/wiki/James_Cagney",
+          "length": 118429
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Juan Manuel Fangio, Argentinian race car driver, died.",
+      "html": "<li>\n<a href=\"/wiki/1995\" title=\"1995\">1995</a> – <a href=\"/wiki/Juan_Manuel_Fangio\" title=\"Juan Manuel Fangio\">Juan Manuel Fangio</a>, Argentinian race car driver (b. 1911)</li>",
+      "entities": [
+        {
+          "name": "Juan Manuel Fangio",
+          "url": "/wiki/Juan_Manuel_Fangio",
+          "length": 160387
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1954",
+      "description": "Angela Merkel, German chemist and politician, Chancellor of Germany from 2005 to 2021., was born.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/Angela_Merkel\" title=\"Angela Merkel\">Angela Merkel</a>, German chemist and politician, <a href=\"/wiki/Chancellor_of_Germany_(Federal_Republic_of_Germany)\" class=\"mw-redirect\" title=\"Chancellor of Germany (Federal Republic of Germany)\">Chancellor of Germany</a> from 2005 to 2021.<sup id=\"cite_ref-28\" class=\"reference\"><a href=\"#cite_note-28\"><span class=\"cite-bracket\">[</span>28<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\"><span class=\"cite-bracket\">[</span>29<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Angela Merkel",
+          "url": "/wiki/Angela_Merkel",
+          "length": 238212
+        },
+        {
+          "name": "Chancellor of Germany (Federal Republic of Germany)",
+          "url": "/wiki/Chancellor_of_Germany_(Federal_Republic_of_Germany)",
+          "length": 106
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "Queen Camilla of the United Kingdom, was born.",
+      "html": "<li>1947   – <a href=\"/wiki/Queen_Camilla\" title=\"Queen Camilla\">Queen Camilla of the United Kingdom</a>\n</li>",
+      "entities": [
+        {
+          "name": "Queen Camilla",
+          "url": "/wiki/Queen_Camilla",
+          "length": 195039
+        }
+      ]
+    },
+    {
+      "year": "1899",
+      "description": "James Cagney, American actor and dancer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1899\" title=\"1899\">1899</a> – <a href=\"/wiki/James_Cagney\" title=\"James Cagney\">James Cagney</a>, American actor and dancer (d. 1986)</li>",
+      "entities": [
+        {
+          "name": "James Cagney",
+          "url": "/wiki/James_Cagney",
+          "length": 118429
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2014",
+      "description": "Malaysia Airlines Flight 17 victims:\nLiam Davison, Australian author and criticShuba Jay, Malaysian actressJoep Lange, Dutch physician and academicWillem Witteveen, Dutch scholar and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/2014\" title=\"2014\">2014</a> – <a href=\"/wiki/Malaysia_Airlines_Flight_17\" title=\"Malaysia Airlines Flight 17\">Malaysia Airlines Flight 17</a> victims:\n<ul>\n<li>\n<a href=\"/wiki/Liam_Davison\" title=\"Liam Davison\">Liam Davison</a>, Australian author and critic (b. 1957)</li>\n<li>\n<a href=\"/wiki/Shuba_Jay\" title=\"Shuba Jay\">Shuba Jay</a>, Malaysian actress (b. 1976)</li>\n<li>\n<a href=\"/wiki/Joep_Lange\" title=\"Joep Lange\">Joep Lange</a>, Dutch physician and academic (b. 1954)</li>\n<li>\n<a href=\"/wiki/Willem_Witteveen\" title=\"Willem Witteveen\">Willem Witteveen</a>, Dutch scholar and politician (b. 1952)</li>\n</ul>\n</li>",
+      "entities": [
+        {
+          "name": "Malaysia Airlines Flight 17",
+          "url": "/wiki/Malaysia_Airlines_Flight_17",
+          "length": 249948
+        },
+        {
+          "name": "Liam Davison",
+          "url": "/wiki/Liam_Davison",
+          "length": 4552
+        },
+        {
+          "name": "Shuba Jay",
+          "url": "/wiki/Shuba_Jay",
+          "length": 10014
+        },
+        {
+          "name": "Joep Lange",
+          "url": "/wiki/Joep_Lange",
+          "length": 16015
+        },
+        {
+          "name": "Willem Witteveen",
+          "url": "/wiki/Willem_Witteveen",
+          "length": 14170
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "John Lewis, American Politician and Civil Rights Leader., died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/John_Lewis\" title=\"John Lewis\">John Lewis</a>, American Politician and Civil Rights Leader. (b. 1940)<sup id=\"cite_ref-68\" class=\"reference\"><a href=\"#cite_note-68\"><span class=\"cite-bracket\">[</span>68<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John Lewis",
+          "url": "/wiki/John_Lewis",
+          "length": 202435
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Juan Manuel Fangio, Argentinian race car driver, died.",
+      "html": "<li>\n<a href=\"/wiki/1995\" title=\"1995\">1995</a> – <a href=\"/wiki/Juan_Manuel_Fangio\" title=\"Juan Manuel Fangio\">Juan Manuel Fangio</a>, Argentinian race car driver (b. 1911)</li>",
+      "entities": [
+        {
+          "name": "Juan Manuel Fangio",
+          "url": "/wiki/Juan_Manuel_Fangio",
+          "length": 160387
+        }
+      ]
+    }
+  ]
+}

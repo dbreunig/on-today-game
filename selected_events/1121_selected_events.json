@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "2002",
+      "description": "NATO invites Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia to become members.",
+      "html": "<li>\n<a href=\"/wiki/2002\" title=\"2002\">2002</a> – <a href=\"/wiki/NATO\" title=\"NATO\">NATO</a> invites <a href=\"/wiki/Bulgaria\" title=\"Bulgaria\">Bulgaria</a>, <a href=\"/wiki/Estonia\" title=\"Estonia\">Estonia</a>, <a href=\"/wiki/Latvia\" title=\"Latvia\">Latvia</a>, <a href=\"/wiki/Lithuania\" title=\"Lithuania\">Lithuania</a>, <a href=\"/wiki/Romania\" title=\"Romania\">Romania</a>, <a href=\"/wiki/Slovakia\" title=\"Slovakia\">Slovakia</a> and <a href=\"/wiki/Slovenia\" title=\"Slovenia\">Slovenia</a> to become members.</li>",
+      "entities": [
+        {
+          "name": "NATO",
+          "url": "/wiki/NATO",
+          "length": 150243
+        },
+        {
+          "name": "Bulgaria",
+          "url": "/wiki/Bulgaria",
+          "length": 250439
+        },
+        {
+          "name": "Estonia",
+          "url": "/wiki/Estonia",
+          "length": 321951
+        },
+        {
+          "name": "Latvia",
+          "url": "/wiki/Latvia",
+          "length": 203378
+        },
+        {
+          "name": "Lithuania",
+          "url": "/wiki/Lithuania",
+          "length": 313986
+        },
+        {
+          "name": "Romania",
+          "url": "/wiki/Romania",
+          "length": 248487
+        },
+        {
+          "name": "Slovakia",
+          "url": "/wiki/Slovakia",
+          "length": 201350
+        },
+        {
+          "name": "Slovenia",
+          "url": "/wiki/Slovenia",
+          "length": 230509
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "description": "Irish War of Independence: On \"Bloody Sunday\" in Dublin, the Irish Republican Army (IRA) assassinated a group of British Intelligence agents, and British forces killed 14 civilians at a Gaelic football match at Croke Park.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – <a href=\"/wiki/Irish_War_of_Independence\" title=\"Irish War of Independence\">Irish War of Independence</a>: On \"<a href=\"/wiki/Bloody_Sunday_(1920)\" title=\"Bloody Sunday (1920)\">Bloody Sunday</a>\" in Dublin, the <a href=\"/wiki/Irish_Republican_Army_(1919%E2%80%931922)\" title=\"Irish Republican Army (1919–1922)\">Irish Republican Army</a> (IRA) assassinated a <a href=\"/wiki/Cairo_Gang\" title=\"Cairo Gang\">group of British Intelligence agents</a>, and British forces killed 14 civilians at a <a href=\"/wiki/Gaelic_football\" title=\"Gaelic football\">Gaelic football</a> match at <a href=\"/wiki/Croke_Park\" title=\"Croke Park\">Croke Park</a>.</li>",
+      "entities": [
+        {
+          "name": "Irish War of Independence",
+          "url": "/wiki/Irish_War_of_Independence",
+          "length": 134498
+        },
+        {
+          "name": "Bloody Sunday (1920)",
+          "url": "/wiki/Bloody_Sunday_(1920)",
+          "length": 50369
+        },
+        {
+          "name": "Irish Republican Army (1919–1922)",
+          "url": "/wiki/Irish_Republican_Army_(1919%E2%80%931922)",
+          "length": 38152
+        },
+        {
+          "name": "Cairo Gang",
+          "url": "/wiki/Cairo_Gang",
+          "length": 24279
+        },
+        {
+          "name": "Gaelic football",
+          "url": "/wiki/Gaelic_football",
+          "length": 69673
+        },
+        {
+          "name": "Croke Park",
+          "url": "/wiki/Croke_Park",
+          "length": 47988
+        }
+      ]
+    },
+    {
+      "year": "1386",
+      "description": "Timur of Samarkand captures and sacks the Georgian capital of Tbilisi, taking King Bagrat V of Georgia captive.",
+      "html": "<li>\n<a href=\"/wiki/1386\" title=\"1386\">1386</a> – <a href=\"/wiki/Timur\" title=\"Timur\">Timur of Samarkand</a> <a href=\"/wiki/Timur%27s_invasions_of_Georgia\" class=\"mw-redirect\" title=\"Timur's invasions of Georgia\">captures and sacks</a> the <a href=\"/wiki/Kingdom_of_Georgia\" title=\"Kingdom of Georgia\">Georgian</a> capital of <a href=\"/wiki/Tbilisi\" title=\"Tbilisi\">Tbilisi</a>, taking King <a href=\"/wiki/Bagrat_V_of_Georgia\" title=\"Bagrat V of Georgia\">Bagrat V of Georgia</a> captive.</li>",
+      "entities": [
+        {
+          "name": "Timur",
+          "url": "/wiki/Timur",
+          "length": 103451
+        },
+        {
+          "name": "Timur's invasions of Georgia",
+          "url": "/wiki/Timur%27s_invasions_of_Georgia",
+          "length": 89
+        },
+        {
+          "name": "Kingdom of Georgia",
+          "url": "/wiki/Kingdom_of_Georgia",
+          "length": 73204
+        },
+        {
+          "name": "Tbilisi",
+          "url": "/wiki/Tbilisi",
+          "length": 123407
+        },
+        {
+          "name": "Bagrat V of Georgia",
+          "url": "/wiki/Bagrat_V_of_Georgia",
+          "length": 9277
+        }
+      ]
+    },
+    {
+      "year": "1620",
+      "description": "Plymouth Colony settlers sign the Mayflower Compact (November 11, O.S.)",
+      "html": "<li>\n<a href=\"/wiki/1620\" title=\"1620\">1620</a> – <a href=\"/wiki/Plymouth_Colony\" title=\"Plymouth Colony\">Plymouth Colony</a> <a href=\"/wiki/List_of_Mayflower_passengers\" title=\"List of Mayflower passengers\">settlers</a> sign the <a href=\"/wiki/Mayflower_Compact\" title=\"Mayflower Compact\">Mayflower Compact</a> (<a href=\"/wiki/November_11\" title=\"November 11\">November 11</a>, <a href=\"/wiki/Old_Style_and_New_Style_dates\" title=\"Old Style and New Style dates\">O.S.</a>)</li>",
+      "entities": [
+        {
+          "name": "Plymouth Colony",
+          "url": "/wiki/Plymouth_Colony",
+          "length": 121874
+        },
+        {
+          "name": "List of Mayflower passengers",
+          "url": "/wiki/List_of_Mayflower_passengers",
+          "length": 35675
+        },
+        {
+          "name": "Mayflower Compact",
+          "url": "/wiki/Mayflower_Compact",
+          "length": 19459
+        },
+        {
+          "name": "November 11",
+          "url": "/wiki/November_11",
+          "length": 61275
+        },
+        {
+          "name": "Old Style and New Style dates",
+          "url": "/wiki/Old_Style_and_New_Style_dates",
+          "length": 25969
+        }
+      ]
+    },
+    {
+      "year": "1676",
+      "description": "The Danish astronomer Ole Rømer presents the first quantitative measurements of the speed of light.",
+      "html": "<li>\n<a href=\"/wiki/1676\" title=\"1676\">1676</a> – The Danish <a href=\"/wiki/Astronomer\" title=\"Astronomer\">astronomer</a> <a href=\"/wiki/Ole_R%C3%B8mer\" title=\"Ole Rømer\">Ole Rømer</a> <a href=\"/wiki/R%C3%B8mer%27s_determination_of_the_speed_of_light\" title=\"Rømer's determination of the speed of light\">presents</a> the first quantitative <a href=\"/wiki/Measurement\" title=\"Measurement\">measurements</a> of the <a href=\"/wiki/Speed_of_light\" title=\"Speed of light\">speed of light</a>.</li>",
+      "entities": [
+        {
+          "name": "Astronomer",
+          "url": "/wiki/Astronomer",
+          "length": 10923
+        },
+        {
+          "name": "Ole Rømer",
+          "url": "/wiki/Ole_R%C3%B8mer",
+          "length": 47464
+        },
+        {
+          "name": "Rømer's determination of the speed of light",
+          "url": "/wiki/R%C3%B8mer%27s_determination_of_the_speed_of_light",
+          "length": 41066
+        },
+        {
+          "name": "Measurement",
+          "url": "/wiki/Measurement",
+          "length": 28717
+        },
+        {
+          "name": "Speed of light",
+          "url": "/wiki/Speed_of_light",
+          "length": 148010
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "description": "Massive protests start in Ukraine after President Viktor Yanukovych suspended signing the Ukraine–European Union Association Agreement.",
+      "html": "<li>2013   – <a href=\"/wiki/Euromaidan\" title=\"Euromaidan\">Massive protests</a> start in <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a> after <a href=\"/wiki/President_of_Ukraine\" title=\"President of Ukraine\">President</a> <a href=\"/wiki/Viktor_Yanukovych\" title=\"Viktor Yanukovych\">Viktor Yanukovych</a> suspended signing the <a href=\"/wiki/Ukraine%E2%80%93European_Union_Association_Agreement\" class=\"mw-redirect\" title=\"Ukraine–European Union Association Agreement\">Ukraine–European Union Association Agreement</a>.</li>",
+      "entities": [
+        {
+          "name": "Euromaidan",
+          "url": "/wiki/Euromaidan",
+          "length": 280141
+        },
+        {
+          "name": "Ukraine",
+          "url": "/wiki/Ukraine",
+          "length": 254782
+        },
+        {
+          "name": "President of Ukraine",
+          "url": "/wiki/President_of_Ukraine",
+          "length": 71093
+        },
+        {
+          "name": "Viktor Yanukovych",
+          "url": "/wiki/Viktor_Yanukovych",
+          "length": 210455
+        },
+        {
+          "name": "Ukraine–European Union Association Agreement",
+          "url": "/wiki/Ukraine%E2%80%93European_Union_Association_Agreement",
+          "length": 107
+        }
+      ]
+    },
+    {
+      "year": "1694",
+      "description": "Voltaire, French writer and philosopher, was born.",
+      "html": "<li>\n<a href=\"/wiki/1694\" title=\"1694\">1694</a> – <a href=\"/wiki/Voltaire\" title=\"Voltaire\">Voltaire</a>, French writer and philosopher (d. 1778)<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Voltaire",
+          "url": "/wiki/Voltaire",
+          "length": 143207
+        }
+      ]
+    },
+    {
+      "year": "1916",
+      "description": "Franz Joseph I of Austria, died.",
+      "html": "<li>\n<a href=\"/wiki/1916\" title=\"1916\">1916</a> – <a href=\"/wiki/Franz_Joseph_I_of_Austria\" title=\"Franz Joseph I of Austria\">Franz Joseph I of Austria</a> (b. 1830)</li>",
+      "entities": [
+        {
+          "name": "Franz Joseph I of Austria",
+          "url": "/wiki/Franz_Joseph_I_of_Austria",
+          "length": 90759
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1965",
+      "description": "Björk, Icelandic singer-songwriter, was born.",
+      "html": "<li>\n<a href=\"/wiki/1965\" title=\"1965\">1965</a> – <a href=\"/wiki/Bj%C3%B6rk\" title=\"Björk\">Björk</a>, Icelandic singer-songwriter<sup id=\"cite_ref-AP_25-10\" class=\"reference\"><a href=\"#cite_note-AP-25\"><span class=\"cite-bracket\">[</span>25<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Björk",
+          "url": "/wiki/Bj%C3%B6rk",
+          "length": 192944
+        }
+      ]
+    },
+    {
+      "year": "1694",
+      "description": "Voltaire, French writer and philosopher, was born.",
+      "html": "<li>\n<a href=\"/wiki/1694\" title=\"1694\">1694</a> – <a href=\"/wiki/Voltaire\" title=\"Voltaire\">Voltaire</a>, French writer and philosopher (d. 1778)<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Voltaire",
+          "url": "/wiki/Voltaire",
+          "length": 143207
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Colleen Ballinger, American YouTuber, comedian, actress, and singer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Colleen_Ballinger\" title=\"Colleen Ballinger\">Colleen Ballinger</a>, American <a href=\"/wiki/YouTuber\" title=\"YouTuber\">YouTuber</a>, comedian, actress, and singer</li>",
+      "entities": [
+        {
+          "name": "Colleen Ballinger",
+          "url": "/wiki/Colleen_Ballinger",
+          "length": 139347
+        },
+        {
+          "name": "YouTuber",
+          "url": "/wiki/YouTuber",
+          "length": 27097
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1970",
+      "description": "C. V. Raman, Indian physicist and academic, Nobel Prize laureate, died.",
+      "html": "<li>1970   – <a href=\"/wiki/C._V._Raman\" title=\"C. V. Raman\">C. V. Raman</a>, Indian physicist and academic, <a href=\"/wiki/Nobel_Prize_in_Physics\" title=\"Nobel Prize in Physics\">Nobel Prize</a> laureate (b. 1888)</li>",
+      "entities": [
+        {
+          "name": "C. V. Raman",
+          "url": "/wiki/C._V._Raman",
+          "length": 137474
+        },
+        {
+          "name": "Nobel Prize in Physics",
+          "url": "/wiki/Nobel_Prize_in_Physics",
+          "length": 24528
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "description": "Abdus Salam, Pakistani-English physicist and academic, Nobel Prize laureate, died.",
+      "html": "<li>1996   – <a href=\"/wiki/Abdus_Salam\" title=\"Abdus Salam\">Abdus Salam</a>, Pakistani-English physicist and academic, <a href=\"/wiki/Nobel_Prize_in_Physics\" title=\"Nobel Prize in Physics\">Nobel Prize</a> laureate (b. 1926)</li>",
+      "entities": [
+        {
+          "name": "Abdus Salam",
+          "url": "/wiki/Abdus_Salam",
+          "length": 102956
+        },
+        {
+          "name": "Nobel Prize in Physics",
+          "url": "/wiki/Nobel_Prize_in_Physics",
+          "length": 24528
+        }
+      ]
+    },
+    {
+      "year": "1916",
+      "description": "Franz Joseph I of Austria, died.",
+      "html": "<li>\n<a href=\"/wiki/1916\" title=\"1916\">1916</a> – <a href=\"/wiki/Franz_Joseph_I_of_Austria\" title=\"Franz Joseph I of Austria\">Franz Joseph I of Austria</a> (b. 1830)</li>",
+      "entities": [
+        {
+          "name": "Franz Joseph I of Austria",
+          "url": "/wiki/Franz_Joseph_I_of_Austria",
+          "length": 90759
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "events": [
+    {
+      "year": "54",
+      "description": "Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adoptive son Nero, rather than by Britannicus, his son with Messalina.",
+      "html": "<li>\n<a href=\"/wiki/AD_54\" title=\"AD 54\">54</a> – Roman emperor <a href=\"/wiki/Claudius\" title=\"Claudius\">Claudius</a> dies from poisoning under mysterious circumstances. He is succeeded by his adoptive son <a href=\"/wiki/Nero\" title=\"Nero\">Nero</a>, rather than by <a href=\"/wiki/Britannicus\" title=\"Britannicus\">Britannicus</a>, his son with <a href=\"/wiki/Messalina\" title=\"Messalina\">Messalina</a>.<sup id=\"cite_ref-Claudius_1-0\" class=\"reference\"><a href=\"#cite_note-Claudius-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "AD 54",
+          "url": "/wiki/AD_54",
+          "length": 4585
+        },
+        {
+          "name": "Claudius",
+          "url": "/wiki/Claudius",
+          "length": 83017
+        },
+        {
+          "name": "Nero",
+          "url": "/wiki/Nero",
+          "length": 89187
+        },
+        {
+          "name": "Britannicus",
+          "url": "/wiki/Britannicus",
+          "length": 33768
+        },
+        {
+          "name": "Messalina",
+          "url": "/wiki/Messalina",
+          "length": 68844
+        }
+      ]
+    },
+    {
+      "year": "409",
+      "description": "Vandals and Alans cross the Pyrenees and appear in Hispania.",
+      "html": "<li>\n<a href=\"/wiki/409\" title=\"409\">409</a> – <a href=\"/wiki/Vandals\" title=\"Vandals\">Vandals</a> and <a href=\"/wiki/Alans\" title=\"Alans\">Alans</a> cross the Pyrenees and appear in <a href=\"/wiki/Hispania\" title=\"Hispania\">Hispania</a>.</li>",
+      "entities": [
+        {
+          "name": "Vandals",
+          "url": "/wiki/Vandals",
+          "length": 69200
+        },
+        {
+          "name": "Alans",
+          "url": "/wiki/Alans",
+          "length": 64845
+        },
+        {
+          "name": "Hispania",
+          "url": "/wiki/Hispania",
+          "length": 45935
+        }
+      ]
+    },
+    {
+      "year": "1307",
+      "description": "Hundreds of the Knights Templar in France are arrested at dawn by King Philip the Fair, and later confess under torture to heresy.",
+      "html": "<li>\n<a href=\"/wiki/1307\" title=\"1307\">1307</a> – Hundreds of the <a href=\"/wiki/Knights_Templar\" title=\"Knights Templar\">Knights Templar</a> in France are <a href=\"/wiki/Knights_Templar#Arrests,_charges_and_dissolution\" title=\"Knights Templar\">arrested at dawn</a> by <a href=\"/wiki/Philip_IV_of_France\" title=\"Philip IV of France\">King Philip the Fair</a>, and later confess under torture to heresy.</li>",
+      "entities": [
+        {
+          "name": "Knights Templar",
+          "url": "/wiki/Knights_Templar",
+          "length": null
+        },
+        {
+          "name": "Knights Templar",
+          "url": "/wiki/Knights_Templar#Arrests,_charges_and_dissolution",
+          "length": null
+        },
+        {
+          "name": "Philip IV of France",
+          "url": "/wiki/Philip_IV_of_France",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1976",
+      "description": "The first electron micrograph of an Ebola virus is taken at the Centers for Disease Control and Prevention by Dr. F. A. Murphy.",
+      "html": "<li>\n<a href=\"/wiki/1976\" title=\"1976\">1976</a> – The first <a href=\"/wiki/Electron_micrograph\" class=\"mw-redirect\" title=\"Electron micrograph\">electron micrograph</a> of an Ebola virus is taken at the <a href=\"/wiki/Centers_for_Disease_Control_and_Prevention\" title=\"Centers for Disease Control and Prevention\">Centers for Disease Control and Prevention</a> by Dr. <a href=\"/wiki/F._A._Murphy\" title=\"F. A. Murphy\">F. A. Murphy</a>.</li>",
+      "entities": [
+        {
+          "name": "Electron micrograph",
+          "url": "/wiki/Electron_micrograph",
+          "length": 94
+        },
+        {
+          "name": "Centers for Disease Control and Prevention",
+          "url": "/wiki/Centers_for_Disease_Control_and_Prevention",
+          "length": 93037
+        },
+        {
+          "name": "F. A. Murphy",
+          "url": "/wiki/F._A._Murphy",
+          "length": 6598
+        }
+      ]
+    },
+    {
+      "year": "1881",
+      "description": "First known conversation in modern Hebrew by Eliezer Ben-Yehuda and friends.",
+      "html": "<li>\n<a href=\"/wiki/1881\" title=\"1881\">1881</a> – <a href=\"/wiki/Revival_of_the_Hebrew_language#First_Aliyah\" title=\"Revival of the Hebrew language\">First known conversation</a> in modern Hebrew by <a href=\"/wiki/Eliezer_Ben-Yehuda\" title=\"Eliezer Ben-Yehuda\">Eliezer Ben-Yehuda</a> and friends.</li>",
+      "entities": [
+        {
+          "name": "Revival of the Hebrew language",
+          "url": "/wiki/Revival_of_the_Hebrew_language#First_Aliyah",
+          "length": null
+        },
+        {
+          "name": "Eliezer Ben-Yehuda",
+          "url": "/wiki/Eliezer_Ben-Yehuda",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "France adopts the constitution of the Fourth Republic.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – France <a href=\"/wiki/October_1946_French_constitutional_referendum\" title=\"October 1946 French constitutional referendum\">adopts</a> the constitution of the <a href=\"/wiki/French_Fourth_Republic\" title=\"French Fourth Republic\">Fourth Republic</a>.</li>",
+      "entities": [
+        {
+          "name": "October 1946 French constitutional referendum",
+          "url": "/wiki/October_1946_French_constitutional_referendum",
+          "length": 2331
+        },
+        {
+          "name": "French Fourth Republic",
+          "url": "/wiki/French_Fourth_Republic",
+          "length": 33951
+        }
+      ]
+    },
+    {
+      "year": "1925",
+      "description": "Margaret Thatcher, English chemist and politician, Prime Minister of the United Kingdom, was born.",
+      "html": "<li>1925   – <a href=\"/wiki/Margaret_Thatcher\" title=\"Margaret Thatcher\">Margaret Thatcher</a>, English chemist and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (d. 2013)<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Margaret Thatcher",
+          "url": "/wiki/Margaret_Thatcher",
+          "length": 270961
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "description": "Bhumibol Adulyadej, King of Thailand, died.",
+      "html": "<li>\n<a href=\"/wiki/2016\" title=\"2016\">2016</a> – <a href=\"/wiki/Bhumibol_Adulyadej\" title=\"Bhumibol Adulyadej\">Bhumibol Adulyadej (Rama IX)</a>, King of Thailand (b. 1927)</li>",
+      "entities": [
+        {
+          "name": "Bhumibol Adulyadej",
+          "url": "/wiki/Bhumibol_Adulyadej",
+          "length": 145863
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1989",
+      "description": "Alexandria Ocasio-Cortez, American politician, was born.",
+      "html": "<li>1989   – <a href=\"/wiki/Alexandria_Ocasio-Cortez\" title=\"Alexandria Ocasio-Cortez\">Alexandria Ocasio-Cortez</a>, American politician<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Alexandria Ocasio-Cortez",
+          "url": "/wiki/Alexandria_Ocasio-Cortez",
+          "length": 304500
+        }
+      ]
+    },
+    {
+      "year": "1925",
+      "description": "Margaret Thatcher, English chemist and politician, Prime Minister of the United Kingdom, was born.",
+      "html": "<li>1925   – <a href=\"/wiki/Margaret_Thatcher\" title=\"Margaret Thatcher\">Margaret Thatcher</a>, English chemist and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (d. 2013)<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Margaret Thatcher",
+          "url": "/wiki/Margaret_Thatcher",
+          "length": 270961
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "1962",
+      "description": "Jerry Rice, American football player, was born.",
+      "html": "<li>1962   – <a href=\"/wiki/Jerry_Rice\" title=\"Jerry Rice\">Jerry Rice</a>, American football player<sup id=\"cite_ref-UPI_16-4\" class=\"reference\"><a href=\"#cite_note-UPI-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jerry Rice",
+          "url": "/wiki/Jerry_Rice",
+          "length": 231306
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2016",
+      "description": "Bhumibol Adulyadej, King of Thailand, died.",
+      "html": "<li>\n<a href=\"/wiki/2016\" title=\"2016\">2016</a> – <a href=\"/wiki/Bhumibol_Adulyadej\" title=\"Bhumibol Adulyadej\">Bhumibol Adulyadej (Rama IX)</a>, King of Thailand (b. 1927)</li>",
+      "entities": [
+        {
+          "name": "Bhumibol Adulyadej",
+          "url": "/wiki/Bhumibol_Adulyadej",
+          "length": 145863
+        }
+      ]
+    },
+    {
+      "year": "1282",
+      "description": "Nichiren, Japanese Buddhist priest, died.",
+      "html": "<li>\n<a href=\"/wiki/1282\" title=\"1282\">1282</a> – <a href=\"/wiki/Nichiren\" title=\"Nichiren\">Nichiren</a>, Japanese Buddhist priest (b. 1222)</li>",
+      "entities": [
+        {
+          "name": "Nichiren",
+          "url": "/wiki/Nichiren",
+          "length": 138398
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Kishore Kumar, Indian singer-songwriter, producer, actor, and director, died.",
+      "html": "<li>1987   – <a href=\"/wiki/Kishore_Kumar\" title=\"Kishore Kumar\">Kishore Kumar</a>, Indian singer-songwriter, producer, actor, and director (b. 1929)</li>",
+      "entities": [
+        {
+          "name": "Kishore Kumar",
+          "url": "/wiki/Kishore_Kumar",
+          "length": 95456
+        }
+      ]
+    }
+  ]
+}

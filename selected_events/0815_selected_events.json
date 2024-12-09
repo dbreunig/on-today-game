@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "year": "747",
+      "description": "Carloman, mayor of the palace of Austrasia, renounces his position as majordomo and retires to a monastery near Rome. His brother, Pepin the Short, becomes the sole ruler (de facto) of the Frankish Kingdom.",
+      "html": "<li>\n<a href=\"/wiki/AD_747\" title=\"AD 747\">747</a> – <a href=\"/wiki/Carloman_(mayor_of_the_palace)\" title=\"Carloman (mayor of the palace)\">Carloman</a>, mayor of the palace of <a href=\"/wiki/Austrasia\" title=\"Austrasia\">Austrasia</a>, renounces his position as <i><a href=\"/wiki/Majordomo\" title=\"Majordomo\">majordomo</a></i> and retires to a <a href=\"/wiki/Monastery\" title=\"Monastery\">monastery</a> near Rome. His brother, <a href=\"/wiki/Pepin_the_Short\" title=\"Pepin the Short\">Pepin the Short</a>, becomes the sole ruler (<i><a href=\"/wiki/De_facto\" title=\"De facto\">de facto</a></i>) of the <a href=\"/wiki/Francia\" title=\"Francia\">Frankish Kingdom</a>.</li>",
+      "entities": [
+        {
+          "name": "AD 747",
+          "url": "/wiki/AD_747",
+          "length": 3562
+        },
+        {
+          "name": "Carloman (mayor of the palace)",
+          "url": "/wiki/Carloman_(mayor_of_the_palace)",
+          "length": 10188
+        },
+        {
+          "name": "Austrasia",
+          "url": "/wiki/Austrasia",
+          "length": 12293
+        },
+        {
+          "name": "Majordomo",
+          "url": "/wiki/Majordomo",
+          "length": 2992
+        },
+        {
+          "name": "Monastery",
+          "url": "/wiki/Monastery",
+          "length": 36311
+        },
+        {
+          "name": "Pepin the Short",
+          "url": "/wiki/Pepin_the_Short",
+          "length": 21173
+        },
+        {
+          "name": "De facto",
+          "url": "/wiki/De_facto",
+          "length": 32658
+        },
+        {
+          "name": "Francia",
+          "url": "/wiki/Francia",
+          "length": 65301
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "Emperor Hirohito broadcasts his declaration of surrender following the effective surrender of Japan in World War II; Korea gains independence from the Empire of Japan.",
+      "html": "<li>\n<a href=\"/wiki/1945\" title=\"1945\">1945</a> – <a href=\"/wiki/Hirohito\" title=\"Hirohito\">Emperor Hirohito</a> <a href=\"/wiki/Hirohito_surrender_broadcast\" title=\"Hirohito surrender broadcast\">broadcasts his declaration of surrender</a> following the effective <a href=\"/wiki/Surrender_of_Japan\" title=\"Surrender of Japan\">surrender of Japan</a> in <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>; <a href=\"/wiki/Korea_under_Japanese_rule\" title=\"Korea under Japanese rule\">Korea</a> gains <a href=\"/wiki/National_Liberation_Day_of_Korea\" title=\"National Liberation Day of Korea\">independence</a> from the <a href=\"/wiki/Empire_of_Japan\" title=\"Empire of Japan\">Empire of Japan</a>.</li>",
+      "entities": [
+        {
+          "name": "Hirohito",
+          "url": "/wiki/Hirohito",
+          "length": 146437
+        },
+        {
+          "name": "Hirohito surrender broadcast",
+          "url": "/wiki/Hirohito_surrender_broadcast",
+          "length": 20450
+        },
+        {
+          "name": "Surrender of Japan",
+          "url": "/wiki/Surrender_of_Japan",
+          "length": 135694
+        },
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Korea under Japanese rule",
+          "url": "/wiki/Korea_under_Japanese_rule",
+          "length": 190838
+        },
+        {
+          "name": "National Liberation Day of Korea",
+          "url": "/wiki/National_Liberation_Day_of_Korea",
+          "length": 13924
+        },
+        {
+          "name": "Empire of Japan",
+          "url": "/wiki/Empire_of_Japan",
+          "length": 144162
+        }
+      ]
+    },
+    {
+      "year": "1592",
+      "description": "Imjin War: At the Battle of Hansan Island, the Korean Navy, led by Yi Sun-sin, Yi Eok-gi, and Won Gyun, decisively defeats the Japanese Navy, led by Wakisaka Yasuharu.",
+      "html": "<li>\n<a href=\"/wiki/1592\" title=\"1592\">1592</a> – <a href=\"/wiki/Japanese_invasions_of_Korea_(1592%E2%80%9398)\" class=\"mw-redirect\" title=\"Japanese invasions of Korea (1592–98)\">Imjin War</a>: At the <a href=\"/wiki/Battle_of_Hansan_Island\" title=\"Battle of Hansan Island\">Battle of Hansan Island</a>, the Korean Navy, led by <a href=\"/wiki/Yi_Sun-sin\" title=\"Yi Sun-sin\">Yi Sun-sin</a>, <a href=\"/wiki/Yi_Eok-gi\" class=\"mw-redirect\" title=\"Yi Eok-gi\">Yi Eok-gi</a>, and <a href=\"/wiki/Won_Gyun\" title=\"Won Gyun\">Won Gyun</a>, decisively defeats the Japanese Navy, led by <a href=\"/wiki/Wakisaka_Yasuharu\" title=\"Wakisaka Yasuharu\">Wakisaka Yasuharu</a>.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Japanese invasions of Korea (1592–98)",
+          "url": "/wiki/Japanese_invasions_of_Korea_(1592%E2%80%9398)",
+          "length": 72
+        },
+        {
+          "name": "Battle of Hansan Island",
+          "url": "/wiki/Battle_of_Hansan_Island",
+          "length": 12932
+        },
+        {
+          "name": "Yi Sun-sin",
+          "url": "/wiki/Yi_Sun-sin",
+          "length": 59634
+        },
+        {
+          "name": "Yi Eok-gi",
+          "url": "/wiki/Yi_Eok-gi",
+          "length": 22
+        },
+        {
+          "name": "Won Gyun",
+          "url": "/wiki/Won_Gyun",
+          "length": 15132
+        },
+        {
+          "name": "Wakisaka Yasuharu",
+          "url": "/wiki/Wakisaka_Yasuharu",
+          "length": 6679
+        }
+      ]
+    },
+    {
+      "year": "1760",
+      "description": "Seven Years' War: Battle of Liegnitz: Frederick the Great's victory over the Austrians under Ernst Gideon von Laudon.",
+      "html": "<li>\n<a href=\"/wiki/1760\" title=\"1760\">1760</a> – <a href=\"/wiki/Seven_Years%27_War\" title=\"Seven Years' War\">Seven Years' War</a>: <a href=\"/wiki/Battle_of_Liegnitz_(1760)\" title=\"Battle of Liegnitz (1760)\">Battle of Liegnitz</a>: <a href=\"/wiki/Frederick_the_Great\" title=\"Frederick the Great\">Frederick the Great</a>'s victory over the <a href=\"/wiki/Austrians\" title=\"Austrians\">Austrians</a> under <a href=\"/wiki/Ernst_Gideon_von_Laudon\" title=\"Ernst Gideon von Laudon\">Ernst Gideon von Laudon</a>.</li>",
+      "entities": [
+        {
+          "name": "Seven Years' War",
+          "url": "/wiki/Seven_Years%27_War",
+          "length": 143862
+        },
+        {
+          "name": "Battle of Liegnitz (1760)",
+          "url": "/wiki/Battle_of_Liegnitz_(1760)",
+          "length": 7767
+        },
+        {
+          "name": "Frederick the Great",
+          "url": "/wiki/Frederick_the_Great",
+          "length": 187022
+        },
+        {
+          "name": "Austrians",
+          "url": "/wiki/Austrians",
+          "length": 49592
+        },
+        {
+          "name": "Ernst Gideon von Laudon",
+          "url": "/wiki/Ernst_Gideon_von_Laudon",
+          "length": 15069
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the \"Wow! signal\" from the notation made by a volunteer on the project.",
+      "html": "<li>\n<a href=\"/wiki/1977\" title=\"1977\">1977</a> – <a href=\"/wiki/Ohio_State_University_Radio_Observatory\" title=\"Ohio State University Radio Observatory\">The Big Ear</a>, a <a href=\"/wiki/Radio_telescope\" title=\"Radio telescope\">radio telescope</a> operated by <a href=\"/wiki/Ohio_State_University\" title=\"Ohio State University\">Ohio State University</a> as part of the <a href=\"/wiki/Search_for_extraterrestrial_intelligence\" title=\"Search for extraterrestrial intelligence\">SETI</a> project, receives a radio signal from deep space; the event is named the \"<a href=\"/wiki/Wow!_signal\" title=\"Wow! signal\">Wow! signal</a>\" from the notation made by a volunteer on the project.</li>",
+      "entities": [
+        {
+          "name": "Ohio State University Radio Observatory",
+          "url": "/wiki/Ohio_State_University_Radio_Observatory",
+          "length": 4674
+        },
+        {
+          "name": "Radio telescope",
+          "url": "/wiki/Radio_telescope",
+          "length": 24018
+        },
+        {
+          "name": "Ohio State University",
+          "url": "/wiki/Ohio_State_University",
+          "length": 101111
+        },
+        {
+          "name": "Search for extraterrestrial intelligence",
+          "url": "/wiki/Search_for_extraterrestrial_intelligence",
+          "length": 147065
+        },
+        {
+          "name": "Wow! signal",
+          "url": "/wiki/Wow!_signal",
+          "length": 34017
+        }
+      ]
+    },
+    {
+      "year": "1843",
+      "description": "The Cathedral of Our Lady of Peace in Honolulu, Hawaii is dedicated. Now the cathedral of the Roman Catholic Diocese of Honolulu, it is the oldest Roman Catholic cathedral in continuous use in the United States.",
+      "html": "<li>\n<a href=\"/wiki/1843\" title=\"1843\">1843</a> – The <a href=\"/wiki/Cathedral_of_Our_Lady_of_Peace\" class=\"mw-redirect\" title=\"Cathedral of Our Lady of Peace\">Cathedral of Our Lady of Peace</a> in <a href=\"/wiki/Honolulu\" title=\"Honolulu\">Honolulu, Hawaii</a> is dedicated. Now the cathedral of the <a href=\"/wiki/Roman_Catholic_Diocese_of_Honolulu\" title=\"Roman Catholic Diocese of Honolulu\">Roman Catholic Diocese of Honolulu</a>, it is the oldest <a href=\"/wiki/Catholic_Church\" title=\"Catholic Church\">Roman Catholic</a> <a href=\"/wiki/Cathedral\" title=\"Cathedral\">cathedral</a> in continuous use in the United States.</li>",
+      "entities": [
+        {
+          "name": "Cathedral of Our Lady of Peace",
+          "url": "/wiki/Cathedral_of_Our_Lady_of_Peace",
+          "length": 69
+        },
+        {
+          "name": "Honolulu",
+          "url": "/wiki/Honolulu",
+          "length": 92397
+        },
+        {
+          "name": "Roman Catholic Diocese of Honolulu",
+          "url": "/wiki/Roman_Catholic_Diocese_of_Honolulu",
+          "length": 33823
+        },
+        {
+          "name": "Catholic Church",
+          "url": "/wiki/Catholic_Church",
+          "length": 250180
+        },
+        {
+          "name": "Cathedral",
+          "url": "/wiki/Cathedral",
+          "length": 59099
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Jennifer Lawrence, American actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Jennifer_Lawrence\" title=\"Jennifer Lawrence\">Jennifer Lawrence</a>, American actress<sup id=\"cite_ref-AP_76-15\" class=\"reference\"><a href=\"#cite_note-AP-76\"><span class=\"cite-bracket\">[</span>76<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jennifer Lawrence",
+          "url": "/wiki/Jennifer_Lawrence",
+          "length": 155295
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "Sheikh Mujibur Rahman, Bangladeshi politician, 1st President of Bangladesh, died.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/Sheikh_Mujibur_Rahman\" title=\"Sheikh Mujibur Rahman\">Sheikh Mujibur Rahman</a>, Bangladeshi politician, 1st <a href=\"/wiki/President_of_Bangladesh\" title=\"President of Bangladesh\">President of Bangladesh</a> (b. 1920)<sup id=\"cite_ref-123\" class=\"reference\"><a href=\"#cite_note-123\"><span class=\"cite-bracket\">[</span>123<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sheikh Mujibur Rahman",
+          "url": "/wiki/Sheikh_Mujibur_Rahman",
+          "length": 250508
+        },
+        {
+          "name": "President of Bangladesh",
+          "url": "/wiki/President_of_Bangladesh",
+          "length": 44563
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1972",
+      "description": "Ben Affleck, American actor, director, producer, and screenwriter, was born.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Ben_Affleck\" title=\"Ben Affleck\">Ben Affleck</a>, American actor, director, producer, and screenwriter<sup id=\"cite_ref-AP_76-11\" class=\"reference\"><a href=\"#cite_note-AP-76\"><span class=\"cite-bracket\">[</span>76<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ben Affleck",
+          "url": "/wiki/Ben_Affleck",
+          "length": 271684
+        }
+      ]
+    },
+    {
+      "year": "1769",
+      "description": "Napoleon Bonaparte, French general and emperor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1769\" title=\"1769\">1769</a> – <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon Bonaparte</a>, French general and emperor (d. 1821)<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189164
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Jennifer Lawrence, American actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Jennifer_Lawrence\" title=\"Jennifer Lawrence\">Jennifer Lawrence</a>, American actress<sup id=\"cite_ref-AP_76-15\" class=\"reference\"><a href=\"#cite_note-AP-76\"><span class=\"cite-bracket\">[</span>76<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jennifer Lawrence",
+          "url": "/wiki/Jennifer_Lawrence",
+          "length": 155295
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1975",
+      "description": "Sheikh Mujibur Rahman, Bangladeshi politician, 1st President of Bangladesh, died.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/Sheikh_Mujibur_Rahman\" title=\"Sheikh Mujibur Rahman\">Sheikh Mujibur Rahman</a>, Bangladeshi politician, 1st <a href=\"/wiki/President_of_Bangladesh\" title=\"President of Bangladesh\">President of Bangladesh</a> (b. 1920)<sup id=\"cite_ref-123\" class=\"reference\"><a href=\"#cite_note-123\"><span class=\"cite-bracket\">[</span>123<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sheikh Mujibur Rahman",
+          "url": "/wiki/Sheikh_Mujibur_Rahman",
+          "length": 250508
+        },
+        {
+          "name": "President of Bangladesh",
+          "url": "/wiki/President_of_Bangladesh",
+          "length": 44563
+        }
+      ]
+    },
+    {
+      "year": "1038",
+      "description": "Stephen I, Hungarian king, died.",
+      "html": "<li>\n<a href=\"/wiki/1038\" title=\"1038\">1038</a> – <a href=\"/wiki/Stephen_I_of_Hungary\" title=\"Stephen I of Hungary\">Stephen I</a>, Hungarian king (b. 975)</li>",
+      "entities": [
+        {
+          "name": "Stephen I of Hungary",
+          "url": "/wiki/Stephen_I_of_Hungary",
+          "length": 86373
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "description": "Will Rogers, American actor, comedian, and screenwriter, died.",
+      "html": "<li>1935   – <a href=\"/wiki/Will_Rogers\" title=\"Will Rogers\">Will Rogers</a>, American actor, comedian, and screenwriter (b. 1879)<sup id=\"cite_ref-114\" class=\"reference\"><a href=\"#cite_note-114\"><span class=\"cite-bracket\">[</span>114<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Will Rogers",
+          "url": "/wiki/Will_Rogers",
+          "length": 78067
+        }
+      ]
+    }
+  ]
+}

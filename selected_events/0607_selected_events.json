@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1640",
+      "description": "Corpus de Sang in Barcelona: Catalan reapers rioted against Spanish Royal soldiers and officers, killing the Viceroy of Catalonia, Dalmau de Queralt. Escalation of hostilities between the Principality of Catalonia and the Spanish Monarchy, leading to the Reapers' War.",
+      "html": "<li>\n<a href=\"/wiki/1640\" title=\"1640\">1640</a> – <a href=\"/wiki/Corpus_de_Sang\" title=\"Corpus de Sang\">Corpus de Sang</a> in <a href=\"/wiki/Barcelona\" title=\"Barcelona\">Barcelona</a>: Catalan reapers rioted against Spanish Royal soldiers and officers, killing the <a href=\"/wiki/Viceroy_of_Catalonia\" class=\"mw-redirect\" title=\"Viceroy of Catalonia\">Viceroy of Catalonia</a>, <a href=\"/wiki/Dalmau_de_Queralt,_Count_of_Santa_Coloma\" title=\"Dalmau de Queralt, Count of Santa Coloma\">Dalmau de Queralt</a>. Escalation of hostilities between the <a href=\"/wiki/Principality_of_Catalonia\" title=\"Principality of Catalonia\">Principality of Catalonia</a> and the <a href=\"/wiki/Habsburg_Spain\" title=\"Habsburg Spain\">Spanish Monarchy</a>, leading to the <a href=\"/wiki/Reapers%27_War\" title=\"Reapers' War\">Reapers' War</a>.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Corpus de Sang",
+          "url": "/wiki/Corpus_de_Sang",
+          "length": 2115
+        },
+        {
+          "name": "Barcelona",
+          "url": "/wiki/Barcelona",
+          "length": 166229
+        },
+        {
+          "name": "Viceroy of Catalonia",
+          "url": "/wiki/Viceroy_of_Catalonia",
+          "length": 43
+        },
+        {
+          "name": "Dalmau de Queralt, Count of Santa Coloma",
+          "url": "/wiki/Dalmau_de_Queralt,_Count_of_Santa_Coloma",
+          "length": 2229
+        },
+        {
+          "name": "Principality of Catalonia",
+          "url": "/wiki/Principality_of_Catalonia",
+          "length": 84372
+        },
+        {
+          "name": "Habsburg Spain",
+          "url": "/wiki/Habsburg_Spain",
+          "length": 108585
+        },
+        {
+          "name": "Reapers' War",
+          "url": "/wiki/Reapers%27_War",
+          "length": 18960
+        }
+      ]
+    },
+    {
+      "year": "1776",
+      "description": "Richard Henry Lee presents the \"Lee Resolution\" to the Continental Congress. The motion is seconded by John Adams and will lead to the United States Declaration of Independence.",
+      "html": "<li>\n<a href=\"/wiki/1776\" title=\"1776\">1776</a> – <a href=\"/wiki/Richard_Henry_Lee\" title=\"Richard Henry Lee\">Richard Henry Lee</a> presents the \"<a href=\"/wiki/Lee_Resolution\" title=\"Lee Resolution\">Lee Resolution</a>\" to the <a href=\"/wiki/Continental_Congress\" title=\"Continental Congress\">Continental Congress</a>. The motion is seconded by <a href=\"/wiki/John_Adams\" title=\"John Adams\">John Adams</a> and will lead to the <a href=\"/wiki/United_States_Declaration_of_Independence\" title=\"United States Declaration of Independence\">United States Declaration of Independence</a>.</li>",
+      "entities": [
+        {
+          "name": "Richard Henry Lee",
+          "url": "/wiki/Richard_Henry_Lee",
+          "length": 20099
+        },
+        {
+          "name": "Lee Resolution",
+          "url": "/wiki/Lee_Resolution",
+          "length": 20254
+        },
+        {
+          "name": "Continental Congress",
+          "url": "/wiki/Continental_Congress",
+          "length": 40978
+        },
+        {
+          "name": "John Adams",
+          "url": "/wiki/John_Adams",
+          "length": 169157
+        },
+        {
+          "name": "United States Declaration of Independence",
+          "url": "/wiki/United_States_Declaration_of_Independence",
+          "length": 158403
+        }
+      ]
+    },
+    {
+      "year": "1906",
+      "description": "Cunard Line's RMS Lusitania is launched from the John Brown Shipyard, Glasgow (Clydebank), Scotland.",
+      "html": "<li>\n<a href=\"/wiki/1906\" title=\"1906\">1906</a> – <a href=\"/wiki/Cunard_Line\" title=\"Cunard Line\">Cunard Line</a>'s <a href=\"/wiki/RMS_Lusitania\" title=\"RMS Lusitania\">RMS <i>Lusitania</i></a> is launched from the <a href=\"/wiki/John_Brown_Shipyard\" class=\"mw-redirect\" title=\"John Brown Shipyard\">John Brown Shipyard</a>, <a href=\"/wiki/Glasgow\" title=\"Glasgow\">Glasgow</a> (<a href=\"/wiki/Clydebank\" title=\"Clydebank\">Clydebank</a>), Scotland.</li>",
+      "entities": [
+        {
+          "name": "Cunard Line",
+          "url": "/wiki/Cunard_Line",
+          "length": 73969
+        },
+        {
+          "name": "RMS Lusitania",
+          "url": "/wiki/RMS_Lusitania",
+          "length": 125752
+        },
+        {
+          "name": "John Brown Shipyard",
+          "url": "/wiki/John_Brown_Shipyard",
+          "length": 34
+        },
+        {
+          "name": "Glasgow",
+          "url": "/wiki/Glasgow",
+          "length": 234321
+        },
+        {
+          "name": "Clydebank",
+          "url": "/wiki/Clydebank",
+          "length": 37931
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "World War II: Aleutian Islands Campaign: Imperial Japanese soldiers begin occupying the American islands of Attu and Kiska, in the Aleutian Islands off Alaska.",
+      "html": "<li>1942   – World War II: <a href=\"/wiki/Aleutian_Islands_Campaign\" class=\"mw-redirect\" title=\"Aleutian Islands Campaign\">Aleutian Islands Campaign</a>: <a href=\"/wiki/Empire_of_Japan\" title=\"Empire of Japan\">Imperial Japanese</a> soldiers begin occupying the American islands of <a href=\"/wiki/Attu_Island\" title=\"Attu Island\">Attu</a> and <a href=\"/wiki/Kiska\" title=\"Kiska\">Kiska</a>, in the <a href=\"/wiki/Aleutian_Islands\" title=\"Aleutian Islands\">Aleutian Islands</a> off Alaska.</li>",
+      "entities": [
+        {
+          "name": "Aleutian Islands Campaign",
+          "url": "/wiki/Aleutian_Islands_Campaign",
+          "length": 56
+        },
+        {
+          "name": "Empire of Japan",
+          "url": "/wiki/Empire_of_Japan",
+          "length": 144162
+        },
+        {
+          "name": "Attu Island",
+          "url": "/wiki/Attu_Island",
+          "length": 40376
+        },
+        {
+          "name": "Kiska",
+          "url": "/wiki/Kiska",
+          "length": 15663
+        },
+        {
+          "name": "Aleutian Islands",
+          "url": "/wiki/Aleutian_Islands",
+          "length": 42786
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "description": "Edvard Beneš resigns as President of Czechoslovakia rather than signing the Ninth-of-May Constitution, making his nation a Communist state.",
+      "html": "<li>1948   – <a href=\"/wiki/Edvard_Bene%C5%A1\" title=\"Edvard Beneš\">Edvard Beneš</a> resigns as <a href=\"/wiki/List_of_Presidents_of_Czechoslovakia\" class=\"mw-redirect\" title=\"List of Presidents of Czechoslovakia\">President</a> of <a href=\"/wiki/Czechoslovakia\" title=\"Czechoslovakia\">Czechoslovakia</a> rather than signing the <a href=\"/wiki/Ninth-of-May_Constitution\" title=\"Ninth-of-May Constitution\">Ninth-of-May Constitution</a>, making his nation a <a href=\"/wiki/Communist_state\" title=\"Communist state\">Communist state</a>.</li>",
+      "entities": [
+        {
+          "name": "Edvard Beneš",
+          "url": "/wiki/Edvard_Bene%C5%A1",
+          "length": 85801
+        },
+        {
+          "name": "List of Presidents of Czechoslovakia",
+          "url": "/wiki/List_of_Presidents_of_Czechoslovakia",
+          "length": 110
+        },
+        {
+          "name": "Czechoslovakia",
+          "url": "/wiki/Czechoslovakia",
+          "length": 61388
+        },
+        {
+          "name": "Ninth-of-May Constitution",
+          "url": "/wiki/Ninth-of-May_Constitution",
+          "length": 6909
+        },
+        {
+          "name": "Communist state",
+          "url": "/wiki/Communist_state",
+          "length": 112669
+        }
+      ]
+    },
+    {
+      "year": "421",
+      "description": "Emperor Theodosius II marries Aelia Eudocia at Constantinople (Byzantine Empire).",
+      "html": "<li>\n<a href=\"/wiki/421\" title=\"421\">421</a> – Emperor <a href=\"/wiki/Theodosius_II\" title=\"Theodosius II\">Theodosius II</a> marries <a href=\"/wiki/Aelia_Eudocia\" title=\"Aelia Eudocia\">Aelia Eudocia</a> at <a href=\"/wiki/Istanbul\" title=\"Istanbul\">Constantinople</a> (<a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine Empire</a>).<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Theodosius II",
+          "url": "/wiki/Theodosius_II",
+          "length": 28471
+        },
+        {
+          "name": "Aelia Eudocia",
+          "url": "/wiki/Aelia_Eudocia",
+          "length": 36192
+        },
+        {
+          "name": "Istanbul",
+          "url": "/wiki/Istanbul",
+          "length": 229879
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201302
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Mick Foley, American wrestler, was born.",
+      "html": "<li>1965   – <a href=\"/wiki/Mick_Foley\" title=\"Mick Foley\">Mick Foley</a>, American wrestler<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\"><span class=\"cite-bracket\">[</span>30<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mick Foley",
+          "url": "/wiki/Mick_Foley",
+          "length": 189432
+        }
+      ]
+    },
+    {
+      "year": "1329",
+      "description": "Robert the Bruce, Scottish king, died.",
+      "html": "<li>\n<a href=\"/wiki/1329\" title=\"1329\">1329</a> – <a href=\"/wiki/Robert_the_Bruce\" title=\"Robert the Bruce\">Robert the Bruce</a>, Scottish king (b. 1274)</li>",
+      "entities": [
+        {
+          "name": "Robert the Bruce",
+          "url": "/wiki/Robert_the_Bruce",
+          "length": 98186
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1958",
+      "description": "Prince, American singer-songwriter, multi-instrumentalist, producer, and actor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1958\" title=\"1958\">1958</a> – <a href=\"/wiki/Prince_(musician)\" title=\"Prince (musician)\">Prince</a>, American singer-songwriter, multi-instrumentalist, producer, and actor (d. 2016)</li>",
+      "entities": [
+        {
+          "name": "Prince (musician)",
+          "url": "/wiki/Prince_(musician)",
+          "length": 293921
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Mike Pence, 48th Vice President of the United States, 50th Governor of Indiana, was born.",
+      "html": "<li>\n<a href=\"/wiki/1959\" title=\"1959\">1959</a> – <a href=\"/wiki/Mike_Pence\" title=\"Mike Pence\">Mike Pence</a>, 48th <a href=\"/wiki/Vice_President_of_the_United_States\" title=\"Vice President of the United States\">Vice President of the United States</a>, 50th <a href=\"/wiki/Governor_of_Indiana\" title=\"Governor of Indiana\">Governor of Indiana</a><sup id=\"cite_ref-Chase's2019_18-6\" class=\"reference\"><a href=\"#cite_note-Chase's2019-18\"><span class=\"cite-bracket\">[</span>18<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mike Pence",
+          "url": "/wiki/Mike_Pence",
+          "length": 273052
+        },
+        {
+          "name": "Vice President of the United States",
+          "url": "/wiki/Vice_President_of_the_United_States",
+          "length": 123376
+        },
+        {
+          "name": "Governor of Indiana",
+          "url": "/wiki/Governor_of_Indiana",
+          "length": 26434
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Mick Foley, American wrestler, was born.",
+      "html": "<li>1965   – <a href=\"/wiki/Mick_Foley\" title=\"Mick Foley\">Mick Foley</a>, American wrestler<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\"><span class=\"cite-bracket\">[</span>30<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mick Foley",
+          "url": "/wiki/Mick_Foley",
+          "length": 189432
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1954",
+      "description": "Alan Turing, English mathematician and computer scientist, died.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/Alan_Turing\" title=\"Alan Turing\">Alan Turing</a>, English mathematician and computer scientist (b. 1912)<sup id=\"cite_ref-49\" class=\"reference\"><a href=\"#cite_note-49\"><span class=\"cite-bracket\">[</span>49<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Alan Turing",
+          "url": "/wiki/Alan_Turing",
+          "length": 151686
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "description": "Christopher Lee, English actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2015\" title=\"2015\">2015</a> – <a href=\"/wiki/Christopher_Lee\" title=\"Christopher Lee\">Christopher Lee</a>, English actor (b. 1922)<sup id=\"cite_ref-52\" class=\"reference\"><a href=\"#cite_note-52\"><span class=\"cite-bracket\">[</span>52<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Christopher Lee",
+          "url": "/wiki/Christopher_Lee",
+          "length": 110414
+        }
+      ]
+    },
+    {
+      "year": "1329",
+      "description": "Robert the Bruce, Scottish king, died.",
+      "html": "<li>\n<a href=\"/wiki/1329\" title=\"1329\">1329</a> – <a href=\"/wiki/Robert_the_Bruce\" title=\"Robert the Bruce\">Robert the Bruce</a>, Scottish king (b. 1274)</li>",
+      "entities": [
+        {
+          "name": "Robert the Bruce",
+          "url": "/wiki/Robert_the_Bruce",
+          "length": 98186
+        }
+      ]
+    }
+  ]
+}

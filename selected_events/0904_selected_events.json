@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "929",
+      "description": "Battle of Lenzen: Slavic forces (the Redarii and the Obotrites) are defeated by a Saxon army near the fortified stronghold of Lenzen in Brandenburg.",
+      "html": "<li>\n<a href=\"/wiki/929\" title=\"929\">929</a> – <a href=\"/wiki/Battle_of_Lenzen\" title=\"Battle of Lenzen\">Battle of Lenzen</a>: <a href=\"/wiki/Slavs\" title=\"Slavs\">Slavic</a> forces (the <a href=\"/wiki/Veleti\" title=\"Veleti\">Redarii</a> and the <a href=\"/wiki/Obotrites\" title=\"Obotrites\">Obotrites</a>) are defeated by a <a href=\"/wiki/Duchy_of_Saxony\" title=\"Duchy of Saxony\">Saxon</a> army near the fortified stronghold of <a href=\"/wiki/Lenzen_(Elbe)\" title=\"Lenzen (Elbe)\">Lenzen</a> in <a href=\"/wiki/Brandenburg\" title=\"Brandenburg\">Brandenburg</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Lenzen",
+          "url": "/wiki/Battle_of_Lenzen",
+          "length": 11760
+        },
+        {
+          "name": "Slavs",
+          "url": "/wiki/Slavs",
+          "length": 109795
+        },
+        {
+          "name": "Veleti",
+          "url": "/wiki/Veleti",
+          "length": 8490
+        },
+        {
+          "name": "Obotrites",
+          "url": "/wiki/Obotrites",
+          "length": 12713
+        },
+        {
+          "name": "Duchy of Saxony",
+          "url": "/wiki/Duchy_of_Saxony",
+          "length": 29711
+        },
+        {
+          "name": "Lenzen (Elbe)",
+          "url": "/wiki/Lenzen_(Elbe)",
+          "length": 3774
+        },
+        {
+          "name": "Brandenburg",
+          "url": "/wiki/Brandenburg",
+          "length": 48248
+        }
+      ]
+    },
+    {
+      "year": "1260",
+      "description": "The Sienese Ghibellines, supported by the forces of Manfred, King of Sicily, defeat the Florentine Guelphs at Montaperti.",
+      "html": "<li>\n<a href=\"/wiki/1260\" title=\"1260\">1260</a> – The <a href=\"/wiki/Siena\" title=\"Siena\">Sienese</a> <a href=\"/wiki/Ghibellines\" class=\"mw-redirect\" title=\"Ghibellines\">Ghibellines</a>, supported by the forces of <a href=\"/wiki/Manfred,_King_of_Sicily\" title=\"Manfred, King of Sicily\">Manfred, King of Sicily</a>, defeat the <a href=\"/wiki/Florence\" title=\"Florence\">Florentine</a> <a href=\"/wiki/Guelphs\" class=\"mw-redirect\" title=\"Guelphs\">Guelphs</a> at <a href=\"/wiki/Battle_of_Montaperti\" title=\"Battle of Montaperti\">Montaperti</a>.</li>",
+      "entities": [
+        {
+          "name": "Siena",
+          "url": "/wiki/Siena",
+          "length": 34601
+        },
+        {
+          "name": "Ghibellines",
+          "url": "/wiki/Ghibellines",
+          "length": 181
+        },
+        {
+          "name": "Manfred, King of Sicily",
+          "url": "/wiki/Manfred,_King_of_Sicily",
+          "length": 25065
+        },
+        {
+          "name": "Florence",
+          "url": "/wiki/Florence",
+          "length": 126915
+        },
+        {
+          "name": "Guelphs",
+          "url": "/wiki/Guelphs",
+          "length": 130
+        },
+        {
+          "name": "Battle of Montaperti",
+          "url": "/wiki/Battle_of_Montaperti",
+          "length": 15253
+        }
+      ]
+    },
+    {
+      "year": "1479",
+      "description": "The Treaty of Alcáçovas is signed by the Catholic Monarchs of Castile and Aragon on one side and Afonso V and his son, Prince John of Portugal.",
+      "html": "<li>\n<a href=\"/wiki/1479\" title=\"1479\">1479</a> – The <a href=\"/wiki/Treaty_of_Alc%C3%A1%C3%A7ovas\" title=\"Treaty of Alcáçovas\">Treaty of Alcáçovas</a> is signed by the <a href=\"/wiki/Catholic_Monarchs\" class=\"mw-redirect\" title=\"Catholic Monarchs\">Catholic Monarchs</a> of <a href=\"/wiki/Crown_of_Castile\" title=\"Crown of Castile\">Castile</a> and <a href=\"/wiki/Crown_of_Aragon\" title=\"Crown of Aragon\">Aragon</a> on one side and <a href=\"/wiki/Afonso_V_of_Portugal\" title=\"Afonso V of Portugal\">Afonso V</a> and his son, <a href=\"/wiki/John_II_of_Portugal\" title=\"John II of Portugal\">Prince John</a> of Portugal.</li>",
+      "entities": [
+        {
+          "name": "Treaty of Alcáçovas",
+          "url": "/wiki/Treaty_of_Alc%C3%A1%C3%A7ovas",
+          "length": 18066
+        },
+        {
+          "name": "Catholic Monarchs",
+          "url": "/wiki/Catholic_Monarchs",
+          "length": 57
+        },
+        {
+          "name": "Crown of Castile",
+          "url": "/wiki/Crown_of_Castile",
+          "length": 43240
+        },
+        {
+          "name": "Crown of Aragon",
+          "url": "/wiki/Crown_of_Aragon",
+          "length": 57440
+        },
+        {
+          "name": "Afonso V of Portugal",
+          "url": "/wiki/Afonso_V_of_Portugal",
+          "length": 17954
+        },
+        {
+          "name": "John II of Portugal",
+          "url": "/wiki/John_II_of_Portugal",
+          "length": 46926
+        }
+      ]
+    },
+    {
+      "year": "1967",
+      "description": "Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley.",
+      "html": "<li>\n<a href=\"/wiki/1967\" title=\"1967\">1967</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: <a href=\"/wiki/Operation_Swift\" title=\"Operation Swift\">Operation Swift</a> begins when <a href=\"/wiki/United_States_Marines\" class=\"mw-redirect\" title=\"United States Marines\">U.S. Marines</a> engage the <a href=\"/wiki/North_Vietnam\" title=\"North Vietnam\">North Vietnamese</a> in battle in the <a href=\"/wiki/Khe_Sanh\" title=\"Khe Sanh\">Que Son Valley</a>.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "Operation Swift",
+          "url": "/wiki/Operation_Swift",
+          "length": 10295
+        },
+        {
+          "name": "United States Marines",
+          "url": "/wiki/United_States_Marines",
+          "length": 99
+        },
+        {
+          "name": "North Vietnam",
+          "url": "/wiki/North_Vietnam",
+          "length": 63962
+        },
+        {
+          "name": "Khe Sanh",
+          "url": "/wiki/Khe_Sanh",
+          "length": 7257
+        }
+      ]
+    },
+    {
+      "year": "1800",
+      "description": "The French garrison in Valletta surrenders to British troops who had been called at the invitation of the Maltese. The islands of Malta and Gozo become the Malta Protectorate.",
+      "html": "<li>\n<a href=\"/wiki/1800\" title=\"1800\">1800</a> – The French garrison in <a href=\"/wiki/Valletta\" title=\"Valletta\">Valletta</a> surrenders to British troops who had been called at the invitation of the <a href=\"/wiki/Maltese_people\" title=\"Maltese people\">Maltese</a>. The islands of <a href=\"/wiki/Malta_(island)\" title=\"Malta (island)\">Malta</a> and <a href=\"/wiki/Gozo\" title=\"Gozo\">Gozo</a> become the <a href=\"/wiki/Malta_Protectorate\" title=\"Malta Protectorate\">Malta Protectorate</a>.</li>",
+      "entities": [
+        {
+          "name": "Valletta",
+          "url": "/wiki/Valletta",
+          "length": 61898
+        },
+        {
+          "name": "Maltese people",
+          "url": "/wiki/Maltese_people",
+          "length": 31387
+        },
+        {
+          "name": "Malta (island)",
+          "url": "/wiki/Malta_(island)",
+          "length": 33008
+        },
+        {
+          "name": "Gozo",
+          "url": "/wiki/Gozo",
+          "length": 52947
+        },
+        {
+          "name": "Malta Protectorate",
+          "url": "/wiki/Malta_Protectorate",
+          "length": 9953
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Mustafa Kemal Atatürk, who founded the Republic of Turkey, gathers a congress in Sivas to make decisions as to the future of Anatolia and Thrace.",
+      "html": "<li>\n<a href=\"/wiki/1919\" title=\"1919\">1919</a> – <a href=\"/wiki/Mustafa_Kemal_Atat%C3%BCrk\" title=\"Mustafa Kemal Atatürk\">Mustafa Kemal Atatürk</a>, who founded the Republic of <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a>, gathers a congress in <a href=\"/wiki/Sivas_Congress\" title=\"Sivas Congress\">Sivas</a> to make decisions as to the future of <a href=\"/wiki/Anatolia\" title=\"Anatolia\">Anatolia</a> and <a href=\"/wiki/Thrace\" title=\"Thrace\">Thrace</a>.</li>",
+      "entities": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "url": "/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+          "length": 236252
+        },
+        {
+          "name": "Turkey",
+          "url": "/wiki/Turkey",
+          "length": 284600
+        },
+        {
+          "name": "Sivas Congress",
+          "url": "/wiki/Sivas_Congress",
+          "length": 4804
+        },
+        {
+          "name": "Anatolia",
+          "url": "/wiki/Anatolia",
+          "length": 80661
+        },
+        {
+          "name": "Thrace",
+          "url": "/wiki/Thrace",
+          "length": 24785
+        }
+      ]
+    },
+    {
+      "year": "1563",
+      "description": "Wanli, Chinese emperor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1563\" title=\"1563\">1563</a> – <a href=\"/wiki/Wanli_Emperor\" title=\"Wanli Emperor\">Wanli</a>, Chinese emperor (d. 1620)</li>",
+      "entities": [
+        {
+          "name": "Wanli Emperor",
+          "url": "/wiki/Wanli_Emperor",
+          "length": 183318
+        }
+      ]
+    },
+    {
+      "year": "1588",
+      "description": "Robert Dudley, 1st Earl of Leicester, English academic and politician, Lord Lieutenant of Norfolk, died.",
+      "html": "<li>\n<a href=\"/wiki/1588\" title=\"1588\">1588</a> – <a href=\"/wiki/Robert_Dudley,_1st_Earl_of_Leicester\" title=\"Robert Dudley, 1st Earl of Leicester\">Robert Dudley, 1st Earl of Leicester</a>, English academic and politician, <a href=\"/wiki/Lord_Lieutenant_of_Norfolk\" title=\"Lord Lieutenant of Norfolk\">Lord Lieutenant of Norfolk</a> (b. 1532)</li>",
+      "entities": [
+        {
+          "name": "Robert Dudley, 1st Earl of Leicester",
+          "url": "/wiki/Robert_Dudley,_1st_Earl_of_Leicester",
+          "length": 89521
+        },
+        {
+          "name": "Lord Lieutenant of Norfolk",
+          "url": "/wiki/Lord_Lieutenant_of_Norfolk",
+          "length": 4847
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1981",
+      "description": "Beyoncé, American singer-songwriter, producer, dancer, and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Beyonc%C3%A9\" title=\"Beyoncé\">Beyoncé</a>, American singer-songwriter, producer, dancer, and actress<sup id=\"cite_ref-25\" class=\"reference\"><a href=\"#cite_note-25\"><span class=\"cite-bracket\">[</span>25<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Beyoncé",
+          "url": "/wiki/Beyonc%C3%A9",
+          "length": 411339
+        }
+      ]
+    },
+    {
+      "year": "1563",
+      "description": "Wanli, Chinese emperor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1563\" title=\"1563\">1563</a> – <a href=\"/wiki/Wanli_Emperor\" title=\"Wanli Emperor\">Wanli</a>, Chinese emperor (d. 1620)</li>",
+      "entities": [
+        {
+          "name": "Wanli Emperor",
+          "url": "/wiki/Wanli_Emperor",
+          "length": 183318
+        }
+      ]
+    },
+    {
+      "year": "1934",
+      "description": "Jan Švankmajer, Czech filmmaker and artist, was born.",
+      "html": "<li>1934   – <a href=\"/wiki/Jan_%C5%A0vankmajer\" title=\"Jan Švankmajer\">Jan Švankmajer</a>, Czech filmmaker and artist</li>",
+      "entities": [
+        {
+          "name": "Jan Švankmajer",
+          "url": "/wiki/Jan_%C5%A0vankmajer",
+          "length": 103265
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1990",
+      "description": "Irene Dunne, American actress and singer, died.",
+      "html": "<li>1990   – <a href=\"/wiki/Irene_Dunne\" title=\"Irene Dunne\">Irene Dunne</a>, American actress and singer (b. 1898)</li>",
+      "entities": [
+        {
+          "name": "Irene Dunne",
+          "url": "/wiki/Irene_Dunne",
+          "length": 148298
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "description": "Joan Rivers, American comedian, television host, and author, died.",
+      "html": "<li>2014   – <a href=\"/wiki/Joan_Rivers\" title=\"Joan Rivers\">Joan Rivers</a>, American comedian, television host, and author (b. 1933)</li>",
+      "entities": [
+        {
+          "name": "Joan Rivers",
+          "url": "/wiki/Joan_Rivers",
+          "length": 124913
+        }
+      ]
+    },
+    {
+      "year": "1588",
+      "description": "Robert Dudley, 1st Earl of Leicester, English academic and politician, Lord Lieutenant of Norfolk, died.",
+      "html": "<li>\n<a href=\"/wiki/1588\" title=\"1588\">1588</a> – <a href=\"/wiki/Robert_Dudley,_1st_Earl_of_Leicester\" title=\"Robert Dudley, 1st Earl of Leicester\">Robert Dudley, 1st Earl of Leicester</a>, English academic and politician, <a href=\"/wiki/Lord_Lieutenant_of_Norfolk\" title=\"Lord Lieutenant of Norfolk\">Lord Lieutenant of Norfolk</a> (b. 1532)</li>",
+      "entities": [
+        {
+          "name": "Robert Dudley, 1st Earl of Leicester",
+          "url": "/wiki/Robert_Dudley,_1st_Earl_of_Leicester",
+          "length": 89521
+        },
+        {
+          "name": "Lord Lieutenant of Norfolk",
+          "url": "/wiki/Lord_Lieutenant_of_Norfolk",
+          "length": 4847
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "1953",
+      "description": "Cold War: The CIA and MI6 help to overthrow the government of Mohammad Mosaddegh in Iran and reinstate the Shah Mohammad Reza Pahlavi.",
+      "html": "<li>\n<a href=\"/wiki/1953\" title=\"1953\">1953</a> – <a href=\"/wiki/Cold_War\" title=\"Cold War\">Cold War</a>: The <a href=\"/wiki/Central_Intelligence_Agency\" title=\"Central Intelligence Agency\">CIA</a> and <a href=\"/wiki/Secret_Intelligence_Service\" class=\"mw-redirect\" title=\"Secret Intelligence Service\">MI6</a> help to <a href=\"/wiki/1953_Iranian_coup_d%27%C3%A9tat\" title=\"1953 Iranian coup d'état\">overthrow</a> the government of <a href=\"/wiki/Mohammad_Mosaddegh\" title=\"Mohammad Mosaddegh\">Mohammad Mosaddegh</a> in Iran and reinstate the <a href=\"/wiki/Shah\" title=\"Shah\">Shah</a> <a href=\"/wiki/Mohammad_Reza_Pahlavi\" title=\"Mohammad Reza Pahlavi\">Mohammad Reza Pahlavi</a>.</li>",
+      "entities": [
+        {
+          "name": "Cold War",
+          "url": "/wiki/Cold_War",
+          "length": 267374
+        },
+        {
+          "name": "Central Intelligence Agency",
+          "url": "/wiki/Central_Intelligence_Agency",
+          "length": 221242
+        },
+        {
+          "name": "Secret Intelligence Service",
+          "url": "/wiki/Secret_Intelligence_Service",
+          "length": 89
+        },
+        {
+          "name": "1953 Iranian coup d'état",
+          "url": "/wiki/1953_Iranian_coup_d%27%C3%A9tat",
+          "length": 152484
+        },
+        {
+          "name": "Mohammad Mosaddegh",
+          "url": "/wiki/Mohammad_Mosaddegh",
+          "length": 75878
+        },
+        {
+          "name": "Shah",
+          "url": "/wiki/Shah",
+          "length": 18278
+        },
+        {
+          "name": "Mohammad Reza Pahlavi",
+          "url": "/wiki/Mohammad_Reza_Pahlavi",
+          "length": 244540
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "World War II: Operation Jubilee (The Dieppe Raid): The 2nd Canadian Infantry Division leads an amphibious assault by allied forces on Dieppe, France and fails.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Dieppe_Raid\" title=\"Dieppe Raid\">Operation Jubilee</a> (The Dieppe Raid): The <a href=\"/wiki/2nd_Canadian_Infantry_Division\" class=\"mw-redirect\" title=\"2nd Canadian Infantry Division\">2nd Canadian Infantry Division</a> leads an <a href=\"/wiki/Amphibious_warfare\" title=\"Amphibious warfare\">amphibious assault</a> by <a href=\"/wiki/Allies_of_World_War_II\" title=\"Allies of World War II\">allied forces</a> on <a href=\"/wiki/Dieppe\" title=\"Dieppe\">Dieppe</a>, France and fails.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Dieppe Raid",
+          "url": "/wiki/Dieppe_Raid",
+          "length": 100269
+        },
+        {
+          "name": "2nd Canadian Infantry Division",
+          "url": "/wiki/2nd_Canadian_Infantry_Division",
+          "length": 72
+        },
+        {
+          "name": "Amphibious warfare",
+          "url": "/wiki/Amphibious_warfare",
+          "length": 98133
+        },
+        {
+          "name": "Allies of World War II",
+          "url": "/wiki/Allies_of_World_War_II",
+          "length": 166559
+        },
+        {
+          "name": "Dieppe",
+          "url": "/wiki/Dieppe",
+          "length": 33292
+        }
+      ]
+    },
+    {
+      "year": "1612",
+      "description": "The \"Samlesbury witches\", three women from the Lancashire village of Samlesbury, England, are put on trial, accused of practicing witchcraft, one of the most famous witch trials in British history.",
+      "html": "<li>\n<a href=\"/wiki/1612\" title=\"1612\">1612</a> – The \"<a href=\"/wiki/Samlesbury_witches\" title=\"Samlesbury witches\">Samlesbury witches</a>\", three women from the <a href=\"/wiki/Lancashire\" title=\"Lancashire\">Lancashire</a> village of <a href=\"/wiki/Samlesbury\" title=\"Samlesbury\">Samlesbury</a>, <a href=\"/wiki/Kingdom_of_England\" title=\"Kingdom of England\">England</a>, are put on trial, accused of practicing <a href=\"/wiki/Witchcraft\" title=\"Witchcraft\">witchcraft</a>, one of the most famous <a href=\"/wiki/Witch-hunt\" class=\"mw-redirect\" title=\"Witch-hunt\">witch trials</a> in British history.</li>",
+      "entities": [
+        {
+          "name": "Samlesbury witches",
+          "url": "/wiki/Samlesbury_witches",
+          "length": 24159
+        },
+        {
+          "name": "Lancashire",
+          "url": "/wiki/Lancashire",
+          "length": 98311
+        },
+        {
+          "name": "Samlesbury",
+          "url": "/wiki/Samlesbury",
+          "length": 8390
+        },
+        {
+          "name": "Kingdom of England",
+          "url": "/wiki/Kingdom_of_England",
+          "length": 59718
+        },
+        {
+          "name": "Witchcraft",
+          "url": "/wiki/Witchcraft",
+          "length": 96794
+        },
+        {
+          "name": "Witch-hunt",
+          "url": "/wiki/Witch-hunt",
+          "length": 71
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "Dissolution of the Soviet Union: The August Coup begins when Soviet President Mikhail Gorbachev is placed under house arrest while on holiday in the town of Foros, Ukraine.",
+      "html": "<li>\n<a href=\"/wiki/1991\" title=\"1991\">1991</a> – <a href=\"/wiki/Dissolution_of_the_Soviet_Union\" title=\"Dissolution of the Soviet Union\">Dissolution of the Soviet Union</a>: The <a href=\"/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt\" class=\"mw-redirect\" title=\"1991 Soviet coup d'état attempt\">August Coup</a> begins when <a href=\"/wiki/President_of_the_Soviet_Union\" title=\"President of the Soviet Union\">Soviet President</a> <a href=\"/wiki/Mikhail_Gorbachev\" title=\"Mikhail Gorbachev\">Mikhail Gorbachev</a> is placed under <a href=\"/wiki/House_arrest\" title=\"House arrest\">house arrest</a> while on holiday in the town of <a href=\"/wiki/Foros,_Ukraine\" class=\"mw-redirect\" title=\"Foros, Ukraine\">Foros, Ukraine</a>.</li>",
+      "entities": [
+        {
+          "name": "Dissolution of the Soviet Union",
+          "url": "/wiki/Dissolution_of_the_Soviet_Union",
+          "length": 234252
+        },
+        {
+          "name": "1991 Soviet coup d'état attempt",
+          "url": "/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt",
+          "length": 55
+        },
+        {
+          "name": "President of the Soviet Union",
+          "url": "/wiki/President_of_the_Soviet_Union",
+          "length": 15372
+        },
+        {
+          "name": "Mikhail Gorbachev",
+          "url": "/wiki/Mikhail_Gorbachev",
+          "length": 223430
+        },
+        {
+          "name": "House arrest",
+          "url": "/wiki/House_arrest",
+          "length": 42081
+        },
+        {
+          "name": "Foros, Ukraine",
+          "url": "/wiki/Foros,_Ukraine",
+          "length": 43
+        }
+      ]
+    },
+    {
+      "year": "947",
+      "description": "Abu Yazid, a Kharijite rebel leader, is defeated and killed in the Hodna Mountains in modern-day Algeria by Fatimid forces.",
+      "html": "<li>\n<a href=\"/wiki/947\" title=\"947\">947</a> – <a href=\"/wiki/Abu_Yazid\" title=\"Abu Yazid\">Abu Yazid</a>, a <a href=\"/wiki/Kharijites\" title=\"Kharijites\">Kharijite</a> rebel leader, is defeated and killed in the <a href=\"/wiki/Hodna_Mountains\" title=\"Hodna Mountains\">Hodna Mountains</a> in modern-day <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a> by <a href=\"/wiki/Fatimid_Caliphate\" title=\"Fatimid Caliphate\">Fatimid</a> forces.</li>",
+      "entities": [
+        {
+          "name": "Abu Yazid",
+          "url": "/wiki/Abu_Yazid",
+          "length": 29738
+        },
+        {
+          "name": "Kharijites",
+          "url": "/wiki/Kharijites",
+          "length": 96302
+        },
+        {
+          "name": "Hodna Mountains",
+          "url": "/wiki/Hodna_Mountains",
+          "length": 6944
+        },
+        {
+          "name": "Algeria",
+          "url": "/wiki/Algeria",
+          "length": 211313
+        },
+        {
+          "name": "Fatimid Caliphate",
+          "url": "/wiki/Fatimid_Caliphate",
+          "length": 141219
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "Dakota War: During an uprising in Minnesota, Lakota warriors decide not to attack heavily defended Fort Ridgely and instead turn to the settlement of New Ulm, killing white settlers along the way.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/Dakota_War_of_1862\" title=\"Dakota War of 1862\">Dakota War</a>: During an uprising in <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, <a href=\"/wiki/Lakota_people\" title=\"Lakota people\">Lakota</a> warriors decide not to attack heavily defended <a href=\"/wiki/Fort_Ridgely\" title=\"Fort Ridgely\">Fort Ridgely</a> and instead turn to the settlement of <a href=\"/wiki/New_Ulm,_Minnesota\" title=\"New Ulm, Minnesota\">New Ulm</a>, killing white settlers along the way.</li>",
+      "entities": [
+        {
+          "name": "Dakota War of 1862",
+          "url": "/wiki/Dakota_War_of_1862",
+          "length": 140599
+        },
+        {
+          "name": "Minnesota",
+          "url": "/wiki/Minnesota",
+          "length": 171992
+        },
+        {
+          "name": "Lakota people",
+          "url": "/wiki/Lakota_people",
+          "length": 37471
+        },
+        {
+          "name": "Fort Ridgely",
+          "url": "/wiki/Fort_Ridgely",
+          "length": 27895
+        },
+        {
+          "name": "New Ulm, Minnesota",
+          "url": "/wiki/New_Ulm,_Minnesota",
+          "length": 44408
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Nico Hülkenberg, German racing driver, was born.",
+      "html": "<li>1987 – <a href=\"/wiki/Nico_H%C3%BClkenberg\" title=\"Nico Hülkenberg\">Nico Hülkenberg</a>, German racing driver</li>",
+      "entities": [
+        {
+          "name": "Nico Hülkenberg",
+          "url": "/wiki/Nico_H%C3%BClkenberg",
+          "length": 152892
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "Groucho Marx, American comedian and actor, died.",
+      "html": "<li>1977 – <a href=\"/wiki/Groucho_Marx\" title=\"Groucho Marx\">Groucho Marx</a>, American comedian and actor (b. 1890)</li>",
+      "entities": [
+        {
+          "name": "Groucho Marx",
+          "url": "/wiki/Groucho_Marx",
+          "length": 70337
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1946",
+      "description": "Bill Clinton, American lawyer and politician, 42nd President of the United States, was born.",
+      "html": "<li>1946 – <a href=\"/wiki/Bill_Clinton\" title=\"Bill Clinton\">Bill Clinton</a>, American lawyer and politician, 42nd <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a><sup id=\"cite_ref-47\" class=\"reference\"><a href=\"#cite_note-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bill Clinton",
+          "url": "/wiki/Bill_Clinton",
+          "length": 273449
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Nico Hülkenberg, German racing driver, was born.",
+      "html": "<li>1987 – <a href=\"/wiki/Nico_H%C3%BClkenberg\" title=\"Nico Hülkenberg\">Nico Hülkenberg</a>, German racing driver</li>",
+      "entities": [
+        {
+          "name": "Nico Hülkenberg",
+          "url": "/wiki/Nico_H%C3%BClkenberg",
+          "length": 152892
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Kirk Cousins, American football player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1988\" title=\"1988\">1988</a> – <a href=\"/wiki/Kirk_Cousins\" title=\"Kirk Cousins\">Kirk Cousins</a>, American football player<sup id=\"cite_ref-70\" class=\"reference\"><a href=\"#cite_note-70\"><span class=\"cite-bracket\">[</span>70<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kirk Cousins",
+          "url": "/wiki/Kirk_Cousins",
+          "length": 145023
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1994",
+      "description": "Linus Pauling, American chemist and biologist, Nobel Prize laureate, died.",
+      "html": "<li>\n<a href=\"/wiki/1994\" title=\"1994\">1994</a> – <a href=\"/wiki/Linus_Pauling\" title=\"Linus Pauling\">Linus Pauling</a>, American chemist and biologist, <a href=\"/wiki/Nobel_Prize_in_Chemistry\" title=\"Nobel Prize in Chemistry\">Nobel Prize</a> laureate (b. 1901)</li>",
+      "entities": [
+        {
+          "name": "Linus Pauling",
+          "url": "/wiki/Linus_Pauling",
+          "length": 146248
+        },
+        {
+          "name": "Nobel Prize in Chemistry",
+          "url": "/wiki/Nobel_Prize_in_Chemistry",
+          "length": 25743
+        }
+      ]
+    },
+    {
+      "year": "1895",
+      "description": "John Wesley Hardin, American Old West outlaw, gunfighter, died.",
+      "html": "<li>\n<a href=\"/wiki/1895\" title=\"1895\">1895</a> – <a href=\"/wiki/John_Wesley_Hardin\" title=\"John Wesley Hardin\">John Wesley Hardin</a>, American Old West outlaw, gunfighter (b. 1853)<sup id=\"cite_ref-88\" class=\"reference\"><a href=\"#cite_note-88\"><span class=\"cite-bracket\">[</span>88<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John Wesley Hardin",
+          "url": "/wiki/John_Wesley_Hardin",
+          "length": 85408
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "Groucho Marx, American comedian and actor, died.",
+      "html": "<li>1977 – <a href=\"/wiki/Groucho_Marx\" title=\"Groucho Marx\">Groucho Marx</a>, American comedian and actor (b. 1890)</li>",
+      "entities": [
+        {
+          "name": "Groucho Marx",
+          "url": "/wiki/Groucho_Marx",
+          "length": 70337
+        }
+      ]
+    }
+  ]
+}

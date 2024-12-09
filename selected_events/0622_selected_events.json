@@ -1,0 +1,321 @@
+{
+  "events": [
+    {
+      "year": "168 BC",
+      "description": "Battle of Pydna: Romans under Lucius Aemilius Paullus defeat Macedonian King Perseus who surrenders after the battle, ending the Third Macedonian War.",
+      "html": "<li>\n<a href=\"/wiki/168_BC\" title=\"168 BC\">168 BC</a> – <a href=\"/wiki/Battle_of_Pydna\" title=\"Battle of Pydna\">Battle of Pydna</a>: <a href=\"/wiki/Roman_Republic\" title=\"Roman Republic\">Romans</a> under <a href=\"/wiki/Lucius_Aemilius_Paullus_Macedonicus\" title=\"Lucius Aemilius Paullus Macedonicus\">Lucius Aemilius Paullus</a> defeat <a href=\"/wiki/Macedonia_(ancient_kingdom)\" title=\"Macedonia (ancient kingdom)\">Macedonian</a> King <a href=\"/wiki/Perseus_of_Macedon\" title=\"Perseus of Macedon\">Perseus</a> who surrenders after the battle, ending the <a href=\"/wiki/Third_Macedonian_War\" title=\"Third Macedonian War\">Third Macedonian War</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "168 BC",
+          "url": "/wiki/168_BC",
+          "length": 3835
+        },
+        {
+          "name": "Battle of Pydna",
+          "url": "/wiki/Battle_of_Pydna",
+          "length": 13949
+        },
+        {
+          "name": "Roman Republic",
+          "url": "/wiki/Roman_Republic",
+          "length": 170229
+        },
+        {
+          "name": "Lucius Aemilius Paullus Macedonicus",
+          "url": "/wiki/Lucius_Aemilius_Paullus_Macedonicus",
+          "length": 12033
+        },
+        {
+          "name": "Macedonia (ancient kingdom)",
+          "url": "/wiki/Macedonia_(ancient_kingdom)",
+          "length": 223496
+        },
+        {
+          "name": "Perseus of Macedon",
+          "url": "/wiki/Perseus_of_Macedon",
+          "length": 9433
+        },
+        {
+          "name": "Third Macedonian War",
+          "url": "/wiki/Third_Macedonian_War",
+          "length": 82188
+        }
+      ]
+    },
+    {
+      "year": "813",
+      "description": "Battle of Versinikia: The Bulgars led by Krum defeat the Byzantine army near Edirne. Emperor Michael I is forced to abdicate in favor of Leo V the Armenian.",
+      "html": "<li>\n<a href=\"/wiki/813\" title=\"813\">813</a> – <a href=\"/wiki/Battle_of_Versinikia\" title=\"Battle of Versinikia\">Battle of Versinikia</a>: The <a href=\"/wiki/Bulgars\" title=\"Bulgars\">Bulgars</a> led by <a href=\"/wiki/Krum\" title=\"Krum\">Krum</a> defeat the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine</a> army near <a href=\"/wiki/Edirne\" title=\"Edirne\">Edirne</a>. Emperor <a href=\"/wiki/Michael_I_Rangabe\" title=\"Michael I Rangabe\">Michael I</a> is forced to abdicate in favor of <a href=\"/wiki/Leo_V_the_Armenian\" title=\"Leo V the Armenian\">Leo V the Armenian</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Battle of Versinikia",
+          "url": "/wiki/Battle_of_Versinikia",
+          "length": 18262
+        },
+        {
+          "name": "Bulgars",
+          "url": "/wiki/Bulgars",
+          "length": 110422
+        },
+        {
+          "name": "Krum",
+          "url": "/wiki/Krum",
+          "length": 16235
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201302
+        },
+        {
+          "name": "Edirne",
+          "url": "/wiki/Edirne",
+          "length": 46412
+        },
+        {
+          "name": "Michael I Rangabe",
+          "url": "/wiki/Michael_I_Rangabe",
+          "length": 18276
+        },
+        {
+          "name": "Leo V the Armenian",
+          "url": "/wiki/Leo_V_the_Armenian",
+          "length": 30025
+        }
+      ]
+    },
+    {
+      "year": "1839",
+      "description": "Cherokee leaders Major Ridge, John Ridge, and Elias Boudinot are assassinated for signing the Treaty of New Echota, which had resulted in the Trail of Tears.",
+      "html": "<li>\n<a href=\"/wiki/1839\" title=\"1839\">1839</a> – <a href=\"/wiki/Cherokee\" title=\"Cherokee\">Cherokee</a> leaders <a href=\"/wiki/Major_Ridge\" title=\"Major Ridge\">Major Ridge</a>, <a href=\"/wiki/John_Ridge\" title=\"John Ridge\">John Ridge</a>, and <a href=\"/wiki/Elias_Boudinot_(Cherokee)\" title=\"Elias Boudinot (Cherokee)\">Elias Boudinot</a> are assassinated for signing the <a href=\"/wiki/Treaty_of_New_Echota\" title=\"Treaty of New Echota\">Treaty of New Echota</a>, which had resulted in the <a href=\"/wiki/Cherokee_removal\" title=\"Cherokee removal\">Trail of Tears</a>.</li>",
+      "entities": [
+        {
+          "name": "Cherokee",
+          "url": "/wiki/Cherokee",
+          "length": 116805
+        },
+        {
+          "name": "Major Ridge",
+          "url": "/wiki/Major_Ridge",
+          "length": 22919
+        },
+        {
+          "name": "John Ridge",
+          "url": "/wiki/John_Ridge",
+          "length": 17294
+        },
+        {
+          "name": "Elias Boudinot (Cherokee)",
+          "url": "/wiki/Elias_Boudinot_(Cherokee)",
+          "length": 27873
+        },
+        {
+          "name": "Treaty of New Echota",
+          "url": "/wiki/Treaty_of_New_Echota",
+          "length": 27046
+        },
+        {
+          "name": "Cherokee removal",
+          "url": "/wiki/Cherokee_removal",
+          "length": 53945
+        }
+      ]
+    },
+    {
+      "year": "217 BC",
+      "description": "Battle of Raphia: Ptolemy IV Philopator of Egypt defeats Antiochus III the Great of the Seleucid kingdom.",
+      "html": "<li>\n<a href=\"/wiki/217_BC\" title=\"217 BC\">217 BC</a> – <a href=\"/wiki/Battle_of_Raphia\" title=\"Battle of Raphia\">Battle of Raphia</a>: <a href=\"/wiki/Ptolemy_IV_Philopator\" title=\"Ptolemy IV Philopator\">Ptolemy IV Philopator</a> of Egypt defeats <a href=\"/wiki/Antiochus_III_the_Great\" title=\"Antiochus III the Great\">Antiochus III the Great</a> of the <a href=\"/wiki/Seleucid_kingdom\" class=\"mw-redirect\" title=\"Seleucid kingdom\">Seleucid kingdom</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "217 BC",
+          "url": "/wiki/217_BC",
+          "length": 6216
+        },
+        {
+          "name": "Battle of Raphia",
+          "url": "/wiki/Battle_of_Raphia",
+          "length": 13711
+        },
+        {
+          "name": "Ptolemy IV Philopator",
+          "url": "/wiki/Ptolemy_IV_Philopator",
+          "length": 38083
+        },
+        {
+          "name": "Antiochus III the Great",
+          "url": "/wiki/Antiochus_III_the_Great",
+          "length": 29974
+        },
+        {
+          "name": "Seleucid kingdom",
+          "url": "/wiki/Seleucid_kingdom",
+          "length": 29
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "description": "Paraguayan President Fernando Lugo is removed from office by impeachment and succeeded by Federico Franco.",
+      "html": "<li>\n<a href=\"/wiki/2012\" title=\"2012\">2012</a> – <a href=\"/wiki/Paraguay\" title=\"Paraguay\">Paraguayan</a> President <a href=\"/wiki/Fernando_Lugo\" title=\"Fernando Lugo\">Fernando Lugo</a> is <a href=\"/wiki/Impeachment_of_Fernando_Lugo\" title=\"Impeachment of Fernando Lugo\">removed from office</a> by <a href=\"/wiki/Impeachment\" title=\"Impeachment\">impeachment</a> and succeeded by <a href=\"/wiki/Federico_Franco\" title=\"Federico Franco\">Federico Franco</a>.</li>",
+      "entities": [
+        {
+          "name": "Paraguay",
+          "url": "/wiki/Paraguay",
+          "length": 132894
+        },
+        {
+          "name": "Fernando Lugo",
+          "url": "/wiki/Fernando_Lugo",
+          "length": 38501
+        },
+        {
+          "name": "Impeachment of Fernando Lugo",
+          "url": "/wiki/Impeachment_of_Fernando_Lugo",
+          "length": 18618
+        },
+        {
+          "name": "Impeachment",
+          "url": "/wiki/Impeachment",
+          "length": 83147
+        },
+        {
+          "name": "Federico Franco",
+          "url": "/wiki/Federico_Franco",
+          "length": 12752
+        }
+      ]
+    },
+    {
+      "year": "910",
+      "description": "The Hungarians defeat the East Frankish army near the Rednitz River, killing its leader Gebhard, Duke of Lotharingia (Lorraine).",
+      "html": "<li>\n<a href=\"/wiki/910\" title=\"910\">910</a> – The <a href=\"/wiki/Hungarians\" title=\"Hungarians\">Hungarians</a> defeat the <a href=\"/wiki/East_Francia\" title=\"East Francia\">East Frankish</a> army near the <a href=\"/wiki/Rednitz\" title=\"Rednitz\">Rednitz River</a>, killing its leader <a href=\"/wiki/Gebhard,_Duke_of_Lorraine\" title=\"Gebhard, Duke of Lorraine\">Gebhard</a>, Duke of <a href=\"/wiki/Lotharingia\" title=\"Lotharingia\">Lotharingia</a> (Lorraine).</li>",
+      "entities": [
+        {
+          "name": "Hungarians",
+          "url": "/wiki/Hungarians",
+          "length": 108955
+        },
+        {
+          "name": "East Francia",
+          "url": "/wiki/East_Francia",
+          "length": 17437
+        },
+        {
+          "name": "Rednitz",
+          "url": "/wiki/Rednitz",
+          "length": 2511
+        },
+        {
+          "name": "Gebhard, Duke of Lorraine",
+          "url": "/wiki/Gebhard,_Duke_of_Lorraine",
+          "length": 2779
+        },
+        {
+          "name": "Lotharingia",
+          "url": "/wiki/Lotharingia",
+          "length": 16144
+        }
+      ]
+    },
+    {
+      "year": "1949",
+      "description": "Elizabeth Warren, American academic and politician, was born.",
+      "html": "<li>1949   – <a href=\"/wiki/Elizabeth_Warren\" title=\"Elizabeth Warren\">Elizabeth Warren</a>, American academic and politician</li>",
+      "entities": [
+        {
+          "name": "Elizabeth Warren",
+          "url": "/wiki/Elizabeth_Warren",
+          "length": 202601
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "description": "Bruton Smith, American racetrack promoter, died.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – <a href=\"/wiki/Bruton_Smith\" title=\"Bruton Smith\">Bruton Smith</a>, American racetrack promoter (b. 1927)<sup id=\"cite_ref-62\" class=\"reference\"><a href=\"#cite_note-62\"><span class=\"cite-bracket\">[</span>62<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bruton Smith",
+          "url": "/wiki/Bruton_Smith",
+          "length": 112257
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1933",
+      "description": "Dianne Feinstein, American politician, was born.",
+      "html": "<li>\n<a href=\"/wiki/1933\" title=\"1933\">1933</a> – <a href=\"/wiki/Dianne_Feinstein\" title=\"Dianne Feinstein\">Dianne Feinstein</a>, American politician (d. 2023)<sup id=\"cite_ref-41\" class=\"reference\"><a href=\"#cite_note-41\"><span class=\"cite-bracket\">[</span>41<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Dianne Feinstein",
+          "url": "/wiki/Dianne_Feinstein",
+          "length": 205795
+        }
+      ]
+    },
+    {
+      "year": "1949",
+      "description": "Elizabeth Warren, American academic and politician, was born.",
+      "html": "<li>1949   – <a href=\"/wiki/Elizabeth_Warren\" title=\"Elizabeth Warren\">Elizabeth Warren</a>, American academic and politician</li>",
+      "entities": [
+        {
+          "name": "Elizabeth Warren",
+          "url": "/wiki/Elizabeth_Warren",
+          "length": 202601
+        }
+      ]
+    },
+    {
+      "year": "1949",
+      "description": "Meryl Streep, American actress, was born.",
+      "html": "<li>1949   – <a href=\"/wiki/Meryl_Streep\" title=\"Meryl Streep\">Meryl Streep</a>, American actress<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Meryl Streep",
+          "url": "/wiki/Meryl_Streep",
+          "length": 198244
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1969",
+      "description": "Judy Garland, American actress and singer, died.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Judy_Garland\" title=\"Judy Garland\">Judy Garland</a>, American actress and singer (b. 1922)<sup id=\"cite_ref-59\" class=\"reference\"><a href=\"#cite_note-59\"><span class=\"cite-bracket\">[</span>59<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Judy Garland",
+          "url": "/wiki/Judy_Garland",
+          "length": 132583
+        }
+      ]
+    },
+    {
+      "year": "1874",
+      "description": "Howard Staunton, English chess player, died.",
+      "html": "<li>\n<a href=\"/wiki/1874\" title=\"1874\">1874</a> – <a href=\"/wiki/Howard_Staunton\" title=\"Howard Staunton\">Howard Staunton</a>, English chess player (b. 1810)</li>",
+      "entities": [
+        {
+          "name": "Howard Staunton",
+          "url": "/wiki/Howard_Staunton",
+          "length": 117668
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "description": "Bruton Smith, American racetrack promoter, died.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – <a href=\"/wiki/Bruton_Smith\" title=\"Bruton Smith\">Bruton Smith</a>, American racetrack promoter (b. 1927)<sup id=\"cite_ref-62\" class=\"reference\"><a href=\"#cite_note-62\"><span class=\"cite-bracket\">[</span>62<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bruton Smith",
+          "url": "/wiki/Bruton_Smith",
+          "length": 112257
+        }
+      ]
+    }
+  ]
+}

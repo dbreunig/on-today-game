@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1862",
+      "description": "American Civil War: A Confederate victory by forces under General Stonewall Jackson at the Battle of Cross Keys, along with the Battle of Port Republic the next day, prevents Union forces from reinforcing General George B. McClellan in his Peninsula campaign.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – American Civil War: A <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> victory by forces under General <a href=\"/wiki/Stonewall_Jackson\" title=\"Stonewall Jackson\">Stonewall Jackson</a> at the <a href=\"/wiki/Battle_of_Cross_Keys\" title=\"Battle of Cross Keys\">Battle of Cross Keys</a>, along with the <a href=\"/wiki/Battle_of_Port_Republic\" title=\"Battle of Port Republic\">Battle of Port Republic</a> the next day, prevents <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> forces from reinforcing General <a href=\"/wiki/George_B._McClellan\" title=\"George B. McClellan\">George B. McClellan</a> in his <a href=\"/wiki/Peninsula_campaign\" title=\"Peninsula campaign\">Peninsula campaign</a>.</li>",
+      "entities": [
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Stonewall Jackson",
+          "url": "/wiki/Stonewall_Jackson",
+          "length": 90225
+        },
+        {
+          "name": "Battle of Cross Keys",
+          "url": "/wiki/Battle_of_Cross_Keys",
+          "length": 27409
+        },
+        {
+          "name": "Battle of Port Republic",
+          "url": "/wiki/Battle_of_Port_Republic",
+          "length": 20770
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "George B. McClellan",
+          "url": "/wiki/George_B._McClellan",
+          "length": 114412
+        },
+        {
+          "name": "Peninsula campaign",
+          "url": "/wiki/Peninsula_campaign",
+          "length": 57879
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "Vietnam War: Nine-year-old Phan Thị Kim Phúc is burned by napalm, an event captured by Associated Press photographer Nick Ut moments later while the young girl is seen running naked down a road, in what would become an iconic, Pulitzer Prize-winning photo.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: Nine-year-old <a href=\"/wiki/Phan_Thi_Kim_Phuc\" title=\"Phan Thi Kim Phuc\">Phan Thị Kim Phúc</a> is burned by <a href=\"/wiki/Napalm\" title=\"Napalm\">napalm</a>, an event captured by <a href=\"/wiki/Associated_Press\" title=\"Associated Press\">Associated Press</a> photographer <a href=\"/wiki/Nick_Ut\" title=\"Nick Ut\">Nick Ut</a> moments later while the young girl is seen running naked down a road, in what would become an iconic, <a href=\"/wiki/Pulitzer_Prize\" title=\"Pulitzer Prize\">Pulitzer Prize</a>-winning photo.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "Phan Thi Kim Phuc",
+          "url": "/wiki/Phan_Thi_Kim_Phuc",
+          "length": 39628
+        },
+        {
+          "name": "Napalm",
+          "url": "/wiki/Napalm",
+          "length": 28243
+        },
+        {
+          "name": "Associated Press",
+          "url": "/wiki/Associated_Press",
+          "length": 94421
+        },
+        {
+          "name": "Nick Ut",
+          "url": "/wiki/Nick_Ut",
+          "length": 36744
+        },
+        {
+          "name": "Pulitzer Prize",
+          "url": "/wiki/Pulitzer_Prize",
+          "length": 51012
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "description": "Bluff Cove Air Attacks during the Falklands War: Fifty-six British servicemen are killed by an Argentine air attack on two landing ships, RFA Sir Galahad and RFA Sir Tristram.",
+      "html": "<li>\n<a href=\"/wiki/1982\" title=\"1982\">1982</a> – <a href=\"/wiki/Bluff_Cove_Air_Attacks\" class=\"mw-redirect\" title=\"Bluff Cove Air Attacks\">Bluff Cove Air Attacks</a> during the <a href=\"/wiki/Falklands_War\" title=\"Falklands War\">Falklands War</a>: Fifty-six British servicemen are killed by an <a href=\"/wiki/Argentines\" title=\"Argentines\">Argentine</a> air attack on two landing ships, <a href=\"/wiki/RFA_Sir_Galahad_(1966)\" title=\"RFA Sir Galahad (1966)\">RFA <i>Sir Galahad</i></a> and <a href=\"/wiki/RFA_Sir_Tristram\" title=\"RFA Sir Tristram\">RFA <i>Sir Tristram</i></a>.</li>",
+      "entities": [
+        {
+          "name": "Bluff Cove Air Attacks",
+          "url": "/wiki/Bluff_Cove_Air_Attacks",
+          "length": 53
+        },
+        {
+          "name": "Falklands War",
+          "url": "/wiki/Falklands_War",
+          "length": 217026
+        },
+        {
+          "name": "Argentines",
+          "url": "/wiki/Argentines",
+          "length": 67186
+        },
+        {
+          "name": "RFA Sir Galahad (1966)",
+          "url": "/wiki/RFA_Sir_Galahad_(1966)",
+          "length": 11687
+        },
+        {
+          "name": "RFA Sir Tristram",
+          "url": "/wiki/RFA_Sir_Tristram",
+          "length": 7508
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "description": "World War II: The completion of Operation Alphabet, the evacuation of Allied forces from Narvik at the end of the Norwegian Campaign.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The completion of <a href=\"/wiki/Operation_Alphabet\" title=\"Operation Alphabet\">Operation Alphabet</a>, the evacuation of Allied forces from <a href=\"/wiki/Narvik\" class=\"mw-redirect\" title=\"Narvik\">Narvik</a> at the end of the <a href=\"/wiki/Norwegian_Campaign\" class=\"mw-redirect\" title=\"Norwegian Campaign\">Norwegian Campaign</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Operation Alphabet",
+          "url": "/wiki/Operation_Alphabet",
+          "length": 5008
+        },
+        {
+          "name": "Narvik",
+          "url": "/wiki/Narvik",
+          "length": 80
+        },
+        {
+          "name": "Norwegian Campaign",
+          "url": "/wiki/Norwegian_Campaign",
+          "length": 49
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "description": "Marriage of Prince Edward, Duke of Kent to Katharine Worsley at York Minster.",
+      "html": "<li>\n<a href=\"/wiki/1961\" title=\"1961\">1961</a> – <a href=\"/wiki/Wedding_of_Prince_Edward_and_Katharine_Worsley\" title=\"Wedding of Prince Edward and Katharine Worsley\">Marriage</a> of <a href=\"/wiki/Prince_Edward,_Duke_of_Kent\" title=\"Prince Edward, Duke of Kent\">Prince Edward, Duke of Kent</a> to <a href=\"/wiki/Katharine,_Duchess_of_Kent\" title=\"Katharine, Duchess of Kent\">Katharine Worsley</a> at <a href=\"/wiki/York_Minster\" title=\"York Minster\">York Minster</a>.<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Wedding of Prince Edward and Katharine Worsley",
+          "url": "/wiki/Wedding_of_Prince_Edward_and_Katharine_Worsley",
+          "length": 16898
+        },
+        {
+          "name": "Prince Edward, Duke of Kent",
+          "url": "/wiki/Prince_Edward,_Duke_of_Kent",
+          "length": 51224
+        },
+        {
+          "name": "Katharine, Duchess of Kent",
+          "url": "/wiki/Katharine,_Duchess_of_Kent",
+          "length": 31280
+        },
+        {
+          "name": "York Minster",
+          "url": "/wiki/York_Minster",
+          "length": 69100
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Downed U.S. Air Force pilot Captain Scott O'Grady is rescued by U.S. Marines in Bosnia.",
+      "html": "<li>\n<a href=\"/wiki/1995\" title=\"1995\">1995</a> – Downed U.S. Air Force pilot <a href=\"/wiki/Captain_(United_States_O-3)\" title=\"Captain (United States O-3)\">Captain</a> <a href=\"/wiki/Scott_O%27Grady\" title=\"Scott O'Grady\">Scott O'Grady</a> is rescued by <a href=\"/wiki/U.S._Marines\" class=\"mw-redirect\" title=\"U.S. Marines\">U.S. Marines</a> in <a href=\"/wiki/Bosnia_and_Herzegovina\" title=\"Bosnia and Herzegovina\">Bosnia</a>.</li>",
+      "entities": [
+        {
+          "name": "Captain (United States O-3)",
+          "url": "/wiki/Captain_(United_States_O-3)",
+          "length": 9894
+        },
+        {
+          "name": "Scott O'Grady",
+          "url": "/wiki/Scott_O%27Grady",
+          "length": 31570
+        },
+        {
+          "name": "U.S. Marines",
+          "url": "/wiki/U.S._Marines",
+          "length": 40
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "url": "/wiki/Bosnia_and_Herzegovina",
+          "length": 218593
+        }
+      ]
+    },
+    {
+      "year": "1941",
+      "description": "George Pell, Australian cardinal, was born.",
+      "html": "<li>1941   – <a href=\"/wiki/George_Pell\" title=\"George Pell\">George Pell</a>, Australian cardinal (d. 2023)</li>",
+      "entities": [
+        {
+          "name": "George Pell",
+          "url": "/wiki/George_Pell",
+          "length": 194613
+        }
+      ]
+    },
+    {
+      "year": "1845",
+      "description": "Andrew Jackson, American general, judge, and politician, 7th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1845\" title=\"1845\">1845</a> – <a href=\"/wiki/Andrew_Jackson\" title=\"Andrew Jackson\">Andrew Jackson</a>, American general, judge, and politician, 7th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1767)</li>",
+      "entities": [
+        {
+          "name": "Andrew Jackson",
+          "url": "/wiki/Andrew_Jackson",
+          "length": 165295
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1977",
+      "description": "Kanye West, American rapper, producer, director, and fashion designer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1977\" title=\"1977\">1977</a> – <a href=\"/wiki/Kanye_West\" title=\"Kanye West\">Kanye West</a>, American rapper, producer, director, and fashion designer<sup id=\"cite_ref-70\" class=\"reference\"><a href=\"#cite_note-70\"><span class=\"cite-bracket\">[</span>70<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kanye West",
+          "url": "/wiki/Kanye_West",
+          "length": 293198
+        }
+      ]
+    },
+    {
+      "year": "1941",
+      "description": "George Pell, Australian cardinal, was born.",
+      "html": "<li>1941   – <a href=\"/wiki/George_Pell\" title=\"George Pell\">George Pell</a>, Australian cardinal (d. 2023)</li>",
+      "entities": [
+        {
+          "name": "George Pell",
+          "url": "/wiki/George_Pell",
+          "length": 194613
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Kim Clijsters, Belgian tennis player; winner of six Grand Slam tournament titles., was born.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Kim_Clijsters\" title=\"Kim Clijsters\">Kim Clijsters</a>, Belgian tennis player; winner of six <a href=\"/wiki/Grand_Slam_(tennis)\" title=\"Grand Slam (tennis)\">Grand Slam</a> tournament titles.<sup id=\"cite_ref-74\" class=\"reference\"><a href=\"#cite_note-74\"><span class=\"cite-bracket\">[</span>74<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kim Clijsters",
+          "url": "/wiki/Kim_Clijsters",
+          "length": 191587
+        },
+        {
+          "name": "Grand Slam (tennis)",
+          "url": "/wiki/Grand_Slam_(tennis)",
+          "length": 125449
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "632",
+      "description": "Muhammad, the central figure of Islam., died.",
+      "html": "<li>\n<a href=\"/wiki/632\" title=\"632\">632</a> – <a href=\"/wiki/Muhammad\" title=\"Muhammad\">Muhammad</a>, the central figure of Islam. (b. 570/571)<sup id=\"cite_ref-81\" class=\"reference\"><a href=\"#cite_note-81\"><span class=\"cite-bracket\">[</span>81<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Muhammad",
+          "url": "/wiki/Muhammad",
+          "length": 172168
+        }
+      ]
+    },
+    {
+      "year": "1845",
+      "description": "Andrew Jackson, American general, judge, and politician, 7th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1845\" title=\"1845\">1845</a> – <a href=\"/wiki/Andrew_Jackson\" title=\"Andrew Jackson\">Andrew Jackson</a>, American general, judge, and politician, 7th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1767)</li>",
+      "entities": [
+        {
+          "name": "Andrew Jackson",
+          "url": "/wiki/Andrew_Jackson",
+          "length": 165295
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1809",
+      "description": "Thomas Paine, English-American theorist and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1809\" title=\"1809\">1809</a> – <a href=\"/wiki/Thomas_Paine\" title=\"Thomas Paine\">Thomas Paine</a>, English-American theorist and author (b. 1737)</li>",
+      "entities": [
+        {
+          "name": "Thomas Paine",
+          "url": "/wiki/Thomas_Paine",
+          "length": 133683
+        }
+      ]
+    }
+  ]
+}

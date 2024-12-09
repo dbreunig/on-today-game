@@ -1,0 +1,341 @@
+{
+  "events": [
+    {
+      "year": "1776",
+      "description": "American Revolution: The British Army evacuates Boston, ending the Siege of Boston, after George Washington and Henry Knox place artillery in positions overlooking the city.",
+      "html": "<li>\n<a href=\"/wiki/1776\" title=\"1776\">1776</a> – <a href=\"/wiki/American_Revolution\" title=\"American Revolution\">American Revolution</a>: The <a href=\"/wiki/British_Army\" title=\"British Army\">British Army</a> <a href=\"/wiki/Evacuation_Day_(Massachusetts)\" title=\"Evacuation Day (Massachusetts)\">evacuates</a> <a href=\"/wiki/Boston\" title=\"Boston\">Boston</a>, ending the <a href=\"/wiki/Siege_of_Boston\" title=\"Siege of Boston\">Siege of Boston</a>, after <a href=\"/wiki/George_Washington\" title=\"George Washington\">George Washington</a> and <a href=\"/wiki/Henry_Knox\" title=\"Henry Knox\">Henry Knox</a> <a href=\"/wiki/Fortification_of_Dorchester_Heights\" title=\"Fortification of Dorchester Heights\">place artillery</a> in positions overlooking the city.</li>",
+      "entities": [
+        {
+          "name": "American Revolution",
+          "url": "/wiki/American_Revolution",
+          "length": 188028
+        },
+        {
+          "name": "British Army",
+          "url": "/wiki/British_Army",
+          "length": 164973
+        },
+        {
+          "name": "Evacuation Day (Massachusetts)",
+          "url": "/wiki/Evacuation_Day_(Massachusetts)",
+          "length": 6565
+        },
+        {
+          "name": "Boston",
+          "url": "/wiki/Boston",
+          "length": 227117
+        },
+        {
+          "name": "Siege of Boston",
+          "url": "/wiki/Siege_of_Boston",
+          "length": 49261
+        },
+        {
+          "name": "George Washington",
+          "url": "/wiki/George_Washington",
+          "length": 227867
+        },
+        {
+          "name": "Henry Knox",
+          "url": "/wiki/Henry_Knox",
+          "length": 66273
+        },
+        {
+          "name": "Fortification of Dorchester Heights",
+          "url": "/wiki/Fortification_of_Dorchester_Heights",
+          "length": 17919
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "description": "Belgium, France, Luxembourg, the Netherlands and the United Kingdom sign the Treaty of Brussels, a precursor to the North Atlantic Treaty establishing NATO.",
+      "html": "<li>\n<a href=\"/wiki/1948\" title=\"1948\">1948</a> – <a href=\"/wiki/Belgium\" title=\"Belgium\">Belgium</a>, <a href=\"/wiki/France\" title=\"France\">France</a>, <a href=\"/wiki/Luxembourg\" title=\"Luxembourg\">Luxembourg</a>, the <a href=\"/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a> and the <a href=\"/wiki/United_Kingdom\" title=\"United Kingdom\">United Kingdom</a> sign the <a href=\"/wiki/Treaty_of_Brussels\" title=\"Treaty of Brussels\">Treaty of Brussels</a>, a precursor to the <a href=\"/wiki/North_Atlantic_Treaty\" title=\"North Atlantic Treaty\">North Atlantic Treaty</a> establishing <a href=\"/wiki/NATO\" title=\"NATO\">NATO</a>.<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Belgium",
+          "url": "/wiki/Belgium",
+          "length": 213913
+        },
+        {
+          "name": "France",
+          "url": "/wiki/France",
+          "length": 278601
+        },
+        {
+          "name": "Luxembourg",
+          "url": "/wiki/Luxembourg",
+          "length": 156258
+        },
+        {
+          "name": "Netherlands",
+          "url": "/wiki/Netherlands",
+          "length": 214945
+        },
+        {
+          "name": "United Kingdom",
+          "url": "/wiki/United_Kingdom",
+          "length": 370661
+        },
+        {
+          "name": "Treaty of Brussels",
+          "url": "/wiki/Treaty_of_Brussels",
+          "length": 18461
+        },
+        {
+          "name": "North Atlantic Treaty",
+          "url": "/wiki/North_Atlantic_Treaty",
+          "length": 65644
+        },
+        {
+          "name": "NATO",
+          "url": "/wiki/NATO",
+          "length": 150243
+        }
+      ]
+    },
+    {
+      "year": "45 BC",
+      "description": "In his last victory, Julius Caesar defeats the Pompeian forces of Titus Labienus and Pompey the Younger in the Battle of Munda.",
+      "html": "<li>\n<a href=\"/wiki/45_BC\" title=\"45 BC\">45 BC</a> – In his last victory, <a href=\"/wiki/Julius_Caesar\" title=\"Julius Caesar\">Julius Caesar</a> defeats the <a href=\"/wiki/Pompey\" title=\"Pompey\">Pompeian</a> forces of <a href=\"/wiki/Titus_Labienus\" title=\"Titus Labienus\">Titus Labienus</a> and <a href=\"/wiki/Gnaeus_Pompeius_(son_of_Pompey_the_Great)\" class=\"mw-redirect\" title=\"Gnaeus Pompeius (son of Pompey the Great)\">Pompey the Younger</a> in the <a href=\"/wiki/Battle_of_Munda\" title=\"Battle of Munda\">Battle of Munda</a>.</li>",
+      "entities": [
+        {
+          "name": "45 BC",
+          "url": "/wiki/45_BC",
+          "length": 3708
+        },
+        {
+          "name": "Julius Caesar",
+          "url": "/wiki/Julius_Caesar",
+          "length": 143346
+        },
+        {
+          "name": "Pompey",
+          "url": "/wiki/Pompey",
+          "length": 75831
+        },
+        {
+          "name": "Titus Labienus",
+          "url": "/wiki/Titus_Labienus",
+          "length": 14250
+        },
+        {
+          "name": "Gnaeus Pompeius (son of Pompey the Great)",
+          "url": "/wiki/Gnaeus_Pompeius_(son_of_Pompey_the_Great)",
+          "length": 99
+        },
+        {
+          "name": "Battle of Munda",
+          "url": "/wiki/Battle_of_Munda",
+          "length": 17499
+        }
+      ]
+    },
+    {
+      "year": "455",
+      "description": "Petronius Maximus becomes, with support of the Roman Senate, emperor of the Western Roman Empire; he forces Licinia Eudoxia, the widow of his predecessor, Valentinian III, to marry him.",
+      "html": "<li>\n<a href=\"/wiki/455\" title=\"455\">455</a> – <a href=\"/wiki/Petronius_Maximus\" title=\"Petronius Maximus\">Petronius Maximus</a> becomes, with support of the <a href=\"/wiki/Roman_Senate\" title=\"Roman Senate\">Roman Senate</a>, emperor of the <a href=\"/wiki/Western_Roman_Empire\" title=\"Western Roman Empire\">Western Roman Empire</a>; he forces <a href=\"/wiki/Licinia_Eudoxia\" title=\"Licinia Eudoxia\">Licinia Eudoxia</a>, the widow of his predecessor, <a href=\"/wiki/Valentinian_III\" title=\"Valentinian III\">Valentinian III</a>, to marry him.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Petronius Maximus",
+          "url": "/wiki/Petronius_Maximus",
+          "length": 20258
+        },
+        {
+          "name": "Roman Senate",
+          "url": "/wiki/Roman_Senate",
+          "length": 36873
+        },
+        {
+          "name": "Western Roman Empire",
+          "url": "/wiki/Western_Roman_Empire",
+          "length": 144763
+        },
+        {
+          "name": "Licinia Eudoxia",
+          "url": "/wiki/Licinia_Eudoxia",
+          "length": 17601
+        },
+        {
+          "name": "Valentinian III",
+          "url": "/wiki/Valentinian_III",
+          "length": 29702
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "The first railway line of Finland between cities of Helsinki and Hämeenlinna, called Päärata, is officially opened.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – The first <a href=\"/wiki/Rail_transport_in_Finland\" title=\"Rail transport in Finland\">railway line</a> of <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a> between cities of <a href=\"/wiki/Helsinki\" title=\"Helsinki\">Helsinki</a> and <a href=\"/wiki/H%C3%A4meenlinna\" title=\"Hämeenlinna\">Hämeenlinna</a>, called <i><a href=\"/wiki/Finnish_Main_Line\" title=\"Finnish Main Line\">Päärata</a></i>, is officially opened.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rail transport in Finland",
+          "url": "/wiki/Rail_transport_in_Finland",
+          "length": 29486
+        },
+        {
+          "name": "Finland",
+          "url": "/wiki/Finland",
+          "length": 247314
+        },
+        {
+          "name": "Helsinki",
+          "url": "/wiki/Helsinki",
+          "length": 158461
+        },
+        {
+          "name": "Hämeenlinna",
+          "url": "/wiki/H%C3%A4meenlinna",
+          "length": 46711
+        },
+        {
+          "name": "Finnish Main Line",
+          "url": "/wiki/Finnish_Main_Line",
+          "length": 6036
+        }
+      ]
+    },
+    {
+      "year": "1957",
+      "description": "A plane crash in Cebu, Philippines kills Philippine President Ramon Magsaysay and 24 others.",
+      "html": "<li>\n<a href=\"/wiki/1957\" title=\"1957\">1957</a> – A <a href=\"/wiki/1957_Cebu_Douglas_C-47_crash\" title=\"1957 Cebu Douglas C-47 crash\">plane crash</a> in <a href=\"/wiki/Cebu\" title=\"Cebu\">Cebu</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a> kills <a href=\"/wiki/President_of_the_Philippines\" title=\"President of the Philippines\">Philippine President</a> <a href=\"/wiki/Ramon_Magsaysay\" title=\"Ramon Magsaysay\">Ramon Magsaysay</a> and 24 others.</li>",
+      "entities": [
+        {
+          "name": "1957 Cebu Douglas C-47 crash",
+          "url": "/wiki/1957_Cebu_Douglas_C-47_crash",
+          "length": 13686
+        },
+        {
+          "name": "Cebu",
+          "url": "/wiki/Cebu",
+          "length": 148659
+        },
+        {
+          "name": "Philippines",
+          "url": "/wiki/Philippines",
+          "length": 477075
+        },
+        {
+          "name": "President of the Philippines",
+          "url": "/wiki/President_of_the_Philippines",
+          "length": 102655
+        },
+        {
+          "name": "Ramon Magsaysay",
+          "url": "/wiki/Ramon_Magsaysay",
+          "length": 52237
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Samoa Joe, American professional wrestler, was born.",
+      "html": "<li>1979   – <a href=\"/wiki/Samoa_Joe\" title=\"Samoa Joe\">Samoa Joe</a>, American professional wrestler</li>",
+      "entities": [
+        {
+          "name": "Samoa Joe",
+          "url": "/wiki/Samoa_Joe",
+          "length": 181623
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Lance Reddick, American actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Lance_Reddick\" title=\"Lance Reddick\">Lance Reddick</a>, American actor (b. 1962)<sup id=\"cite_ref-81\" class=\"reference\"><a href=\"#cite_note-81\"><span class=\"cite-bracket\">[</span>81<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Lance Reddick",
+          "url": "/wiki/Lance_Reddick",
+          "length": 77901
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1920",
+      "description": "Sheikh Mujibur Rahman, Bangladeshi politician, 1st President of Bangladesh, was born.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – <a href=\"/wiki/Sheikh_Mujibur_Rahman\" title=\"Sheikh Mujibur Rahman\">Sheikh Mujibur Rahman</a>, Bangladeshi politician, 1st <a href=\"/wiki/President_of_Bangladesh\" title=\"President of Bangladesh\">President of Bangladesh</a> (d. 1975)</li>",
+      "entities": [
+        {
+          "name": "Sheikh Mujibur Rahman",
+          "url": "/wiki/Sheikh_Mujibur_Rahman",
+          "length": 250508
+        },
+        {
+          "name": "President of Bangladesh",
+          "url": "/wiki/President_of_Bangladesh",
+          "length": 44563
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "John Wayne Gacy, American serial killer and rapist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – <a href=\"/wiki/John_Wayne_Gacy\" title=\"John Wayne Gacy\">John Wayne Gacy</a>, American serial killer and rapist (d. 1994)</li>",
+      "entities": [
+        {
+          "name": "John Wayne Gacy",
+          "url": "/wiki/John_Wayne_Gacy",
+          "length": 186222
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Samoa Joe, American professional wrestler, was born.",
+      "html": "<li>1979   – <a href=\"/wiki/Samoa_Joe\" title=\"Samoa Joe\">Samoa Joe</a>, American professional wrestler</li>",
+      "entities": [
+        {
+          "name": "Samoa Joe",
+          "url": "/wiki/Samoa_Joe",
+          "length": 181623
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "180",
+      "description": "Marcus Aurelius, Roman emperor, died.",
+      "html": "<li>\n<a href=\"/wiki/180\" title=\"180\">180</a> – <a href=\"/wiki/Marcus_Aurelius\" title=\"Marcus Aurelius\">Marcus Aurelius</a>, Roman emperor (b. 121)</li>",
+      "entities": [
+        {
+          "name": "Marcus Aurelius",
+          "url": "/wiki/Marcus_Aurelius",
+          "length": 143030
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "description": "George F. Kennan, American historian and diplomat, United States Ambassador to the Soviet Union, died.",
+      "html": "<li>2005   – <a href=\"/wiki/George_F._Kennan\" title=\"George F. Kennan\">George F. Kennan</a>, American historian and diplomat, <a href=\"/wiki/United_States_Ambassador_to_the_Soviet_Union\" class=\"mw-redirect\" title=\"United States Ambassador to the Soviet Union\">United States Ambassador to the Soviet Union</a> (b. 1904)</li>",
+      "entities": [
+        {
+          "name": "George F. Kennan",
+          "url": "/wiki/George_F._Kennan",
+          "length": 114167
+        },
+        {
+          "name": "United States Ambassador to the Soviet Union",
+          "url": "/wiki/United_States_Ambassador_to_the_Soviet_Union",
+          "length": 133
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Lance Reddick, American actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Lance_Reddick\" title=\"Lance Reddick\">Lance Reddick</a>, American actor (b. 1962)<sup id=\"cite_ref-81\" class=\"reference\"><a href=\"#cite_note-81\"><span class=\"cite-bracket\">[</span>81<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Lance Reddick",
+          "url": "/wiki/Lance_Reddick",
+          "length": 77901
+        }
+      ]
+    }
+  ]
+}

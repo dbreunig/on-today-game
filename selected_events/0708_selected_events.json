@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1933",
+      "description": "The first rugby union test match between the Wallabies of Australia and the Springboks of South Africa is played at Newlands Stadium in Cape Town.",
+      "html": "<li>\n<a href=\"/wiki/1933\" title=\"1933\">1933</a> – The first <a href=\"/wiki/Rugby_union\" title=\"Rugby union\">rugby union</a> <a href=\"/wiki/Test_match_(rugby_union)\" title=\"Test match (rugby union)\">test match</a> between the <a href=\"/wiki/Australia_national_rugby_union_team\" title=\"Australia national rugby union team\">Wallabies of Australia</a> and the <a href=\"/wiki/South_Africa_national_rugby_union_team\" title=\"South Africa national rugby union team\">Springboks of South Africa</a> is played at <a href=\"/wiki/Newlands_Stadium\" title=\"Newlands Stadium\">Newlands Stadium</a> in <a href=\"/wiki/Cape_Town\" title=\"Cape Town\">Cape Town</a>.</li>",
+      "entities": [
+        {
+          "name": "Rugby union",
+          "url": "/wiki/Rugby_union",
+          "length": 170917
+        },
+        {
+          "name": "Test match (rugby union)",
+          "url": "/wiki/Test_match_(rugby_union)",
+          "length": 7796
+        },
+        {
+          "name": "Australia national rugby union team",
+          "url": "/wiki/Australia_national_rugby_union_team",
+          "length": 142809
+        },
+        {
+          "name": "South Africa national rugby union team",
+          "url": "/wiki/South_Africa_national_rugby_union_team",
+          "length": 126544
+        },
+        {
+          "name": "Newlands Stadium",
+          "url": "/wiki/Newlands_Stadium",
+          "length": 9625
+        },
+        {
+          "name": "Cape Town",
+          "url": "/wiki/Cape_Town",
+          "length": 207320
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "Ikedaya Incident: The Choshu Han shishi's planned Shinsengumi sabotage on Kyoto, Japan at Ikedaya.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/Ikedaya_Incident\" class=\"mw-redirect\" title=\"Ikedaya Incident\">Ikedaya Incident</a>: The <a href=\"/wiki/Ch%C5%8Dsh%C5%AB_Domain\" title=\"Chōshū Domain\">Choshu Han</a> <a href=\"/wiki/Shishi_(organization)\" class=\"mw-redirect\" title=\"Shishi (organization)\">shishi</a>'s planned <a href=\"/wiki/Shinsengumi\" title=\"Shinsengumi\">Shinsengumi</a> sabotage on <a href=\"/wiki/Kyoto\" title=\"Kyoto\">Kyoto</a>, Japan at Ikedaya.</li>",
+      "entities": [
+        {
+          "name": "Ikedaya Incident",
+          "url": "/wiki/Ikedaya_Incident",
+          "length": 47
+        },
+        {
+          "name": "Chōshū Domain",
+          "url": "/wiki/Ch%C5%8Dsh%C5%AB_Domain",
+          "length": 21223
+        },
+        {
+          "name": "Shishi (organization)",
+          "url": "/wiki/Shishi_(organization)",
+          "length": 75
+        },
+        {
+          "name": "Shinsengumi",
+          "url": "/wiki/Shinsengumi",
+          "length": 35740
+        },
+        {
+          "name": "Kyoto",
+          "url": "/wiki/Kyoto",
+          "length": 73535
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Kim Jong Il begins to assume supreme leadership of North Korea upon the death of his father, Kim Il Sung.",
+      "html": "<li>\n<a href=\"/wiki/1994\" title=\"1994\">1994</a> – <a href=\"/wiki/Kim_Jong_Il\" title=\"Kim Jong Il\">Kim Jong Il</a> begins to assume <a href=\"/wiki/List_of_leaders_of_North_Korea\" class=\"mw-redirect\" title=\"List of leaders of North Korea\">supreme leadership</a> of <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a> upon the <a href=\"/wiki/Death_and_state_funeral_of_Kim_Il_Sung\" title=\"Death and state funeral of Kim Il Sung\">death</a> of his father, <a href=\"/wiki/Kim_Il_Sung\" title=\"Kim Il Sung\">Kim Il Sung</a>.</li>",
+      "entities": [
+        {
+          "name": "Kim Jong Il",
+          "url": "/wiki/Kim_Jong_Il",
+          "length": 134071
+        },
+        {
+          "name": "List of leaders of North Korea",
+          "url": "/wiki/List_of_leaders_of_North_Korea",
+          "length": 101
+        },
+        {
+          "name": "North Korea",
+          "url": "/wiki/North_Korea",
+          "length": 294085
+        },
+        {
+          "name": "Death and state funeral of Kim Il Sung",
+          "url": "/wiki/Death_and_state_funeral_of_Kim_Il_Sung",
+          "length": 16540
+        },
+        {
+          "name": "Kim Il Sung",
+          "url": "/wiki/Kim_Il_Sung",
+          "length": 114287
+        }
+      ]
+    },
+    {
+      "year": "1283",
+      "description": "Roger of Lauria, commanding the Aragonese fleet, defeats an Angevin fleet sent to put down a rebellion on Malta.",
+      "html": "<li>\n<a href=\"/wiki/1283\" title=\"1283\">1283</a> – <a href=\"/wiki/Roger_of_Lauria\" title=\"Roger of Lauria\">Roger of Lauria</a>, commanding the <a href=\"/wiki/Crown_of_Aragon\" title=\"Crown of Aragon\">Aragonese</a> fleet, <a href=\"/wiki/Battle_of_Malta\" title=\"Battle of Malta\">defeats</a> an <a href=\"/wiki/Capetian_House_of_Anjou\" title=\"Capetian House of Anjou\">Angevin</a> fleet sent to put down a rebellion on <a href=\"/wiki/Malta\" title=\"Malta\">Malta</a>.</li>",
+      "entities": [
+        {
+          "name": "Roger of Lauria",
+          "url": "/wiki/Roger_of_Lauria",
+          "length": 8229
+        },
+        {
+          "name": "Crown of Aragon",
+          "url": "/wiki/Crown_of_Aragon",
+          "length": 57440
+        },
+        {
+          "name": "Battle of Malta",
+          "url": "/wiki/Battle_of_Malta",
+          "length": 19180
+        },
+        {
+          "name": "Capetian House of Anjou",
+          "url": "/wiki/Capetian_House_of_Anjou",
+          "length": 52451
+        },
+        {
+          "name": "Malta",
+          "url": "/wiki/Malta",
+          "length": 222621
+        }
+      ]
+    },
+    {
+      "year": "1579",
+      "description": "Our Lady of Kazan, a holy icon of the Russian Orthodox Church, is discovered underground in the city of Kazan, Tatarstan.",
+      "html": "<li>\n<a href=\"/wiki/1579\" title=\"1579\">1579</a> – <a href=\"/wiki/Our_Lady_of_Kazan\" title=\"Our Lady of Kazan\">Our Lady of Kazan</a>, a holy <a href=\"/wiki/Icon\" title=\"Icon\">icon</a> of the <a href=\"/wiki/Russian_Orthodox_Church\" title=\"Russian Orthodox Church\">Russian Orthodox Church</a>, is discovered underground in the city of <a href=\"/wiki/Kazan\" title=\"Kazan\">Kazan</a>, <a href=\"/wiki/Tatarstan\" title=\"Tatarstan\">Tatarstan</a>.</li>",
+      "entities": [
+        {
+          "name": "Our Lady of Kazan",
+          "url": "/wiki/Our_Lady_of_Kazan",
+          "length": 13058
+        },
+        {
+          "name": "Icon",
+          "url": "/wiki/Icon",
+          "length": 62993
+        },
+        {
+          "name": "Russian Orthodox Church",
+          "url": "/wiki/Russian_Orthodox_Church",
+          "length": 151979
+        },
+        {
+          "name": "Kazan",
+          "url": "/wiki/Kazan",
+          "length": 87298
+        },
+        {
+          "name": "Tatarstan",
+          "url": "/wiki/Tatarstan",
+          "length": 88872
+        }
+      ]
+    },
+    {
+      "year": "1912",
+      "description": "Henrique Mitchell de Paiva Couceiro leads an unsuccessful royalist attack against the First Portuguese Republic in Chaves.",
+      "html": "<li>\n<a href=\"/wiki/1912\" title=\"1912\">1912</a> – <a href=\"/wiki/Henrique_Mitchell_de_Paiva_Couceiro\" class=\"mw-redirect\" title=\"Henrique Mitchell de Paiva Couceiro\">Henrique Mitchell de Paiva Couceiro</a> leads <a href=\"/wiki/Royalist_attack_on_Chaves\" title=\"Royalist attack on Chaves\">an unsuccessful royalist attack</a> against the <a href=\"/wiki/First_Portuguese_Republic\" title=\"First Portuguese Republic\">First Portuguese Republic</a> in <a href=\"/wiki/Chaves_Municipality,_Portugal\" class=\"mw-redirect\" title=\"Chaves Municipality, Portugal\">Chaves</a>.</li>",
+      "entities": [
+        {
+          "name": "Henrique Mitchell de Paiva Couceiro",
+          "url": "/wiki/Henrique_Mitchell_de_Paiva_Couceiro",
+          "length": 103
+        },
+        {
+          "name": "Royalist attack on Chaves",
+          "url": "/wiki/Royalist_attack_on_Chaves",
+          "length": 9602
+        },
+        {
+          "name": "First Portuguese Republic",
+          "url": "/wiki/First_Portuguese_Republic",
+          "length": 21814
+        },
+        {
+          "name": "Chaves Municipality, Portugal",
+          "url": "/wiki/Chaves_Municipality,_Portugal",
+          "length": 46
+        }
+      ]
+    },
+    {
+      "year": "1907",
+      "description": "George W. Romney, American businessman and politician, 43rd Governor of Michigan, was born.",
+      "html": "<li>\n<a href=\"/wiki/1907\" title=\"1907\">1907</a> – <a href=\"/wiki/George_W._Romney\" title=\"George W. Romney\">George W. Romney</a>, American businessman and politician, 43rd <a href=\"/wiki/Governor_of_Michigan\" title=\"Governor of Michigan\">Governor of Michigan</a> (d. 1995)</li>",
+      "entities": [
+        {
+          "name": "George W. Romney",
+          "url": "/wiki/George_W._Romney",
+          "length": 181246
+        },
+        {
+          "name": "Governor of Michigan",
+          "url": "/wiki/Governor_of_Michigan",
+          "length": 9243
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "description": "Betty Ford, First Lady of the United States, died.",
+      "html": "<li>2011   – <a href=\"/wiki/Betty_Ford\" title=\"Betty Ford\">Betty Ford</a>, First Lady of the United States (b. 1918)</li>",
+      "entities": [
+        {
+          "name": "Betty Ford",
+          "url": "/wiki/Betty_Ford",
+          "length": 139650
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1992",
+      "description": "Son Heung-min, Korean footballer, was born.",
+      "html": "<li>1992   – <a href=\"/wiki/Son_Heung-min\" title=\"Son Heung-min\">Son Heung-min</a>, Korean footballer</li>",
+      "entities": [
+        {
+          "name": "Son Heung-min",
+          "url": "/wiki/Son_Heung-min",
+          "length": 192353
+        }
+      ]
+    },
+    {
+      "year": "1907",
+      "description": "George W. Romney, American businessman and politician, 43rd Governor of Michigan, was born.",
+      "html": "<li>\n<a href=\"/wiki/1907\" title=\"1907\">1907</a> – <a href=\"/wiki/George_W._Romney\" title=\"George W. Romney\">George W. Romney</a>, American businessman and politician, 43rd <a href=\"/wiki/Governor_of_Michigan\" title=\"Governor of Michigan\">Governor of Michigan</a> (d. 1995)</li>",
+      "entities": [
+        {
+          "name": "George W. Romney",
+          "url": "/wiki/George_W._Romney",
+          "length": 181246
+        },
+        {
+          "name": "Governor of Michigan",
+          "url": "/wiki/Governor_of_Michigan",
+          "length": 9243
+        }
+      ]
+    },
+    {
+      "year": "1914",
+      "description": "Jyoti Basu, Indian politician, 6th Chief Minister of West Bengal, was born.",
+      "html": "<li>\n<a href=\"/wiki/1914\" title=\"1914\">1914</a> – <a href=\"/wiki/Jyoti_Basu\" title=\"Jyoti Basu\">Jyoti Basu</a>, Indian politician, 6th <a href=\"/wiki/Chief_Minister_of_West_Bengal\" class=\"mw-redirect\" title=\"Chief Minister of West Bengal\">Chief Minister of West Bengal</a> (d. 2010)</li>",
+      "entities": [
+        {
+          "name": "Jyoti Basu",
+          "url": "/wiki/Jyoti_Basu",
+          "length": 172355
+        },
+        {
+          "name": "Chief Minister of West Bengal",
+          "url": "/wiki/Chief_Minister_of_West_Bengal",
+          "length": 52
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2022",
+      "description": "Shinzo Abe, Japanese politician, died.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – <a href=\"/wiki/Shinzo_Abe\" title=\"Shinzo Abe\">Shinzo Abe</a>, Japanese politician (b. 1954)<sup id=\"cite_ref-50\" class=\"reference\"><a href=\"#cite_note-50\"><span class=\"cite-bracket\">[</span>50<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Shinzo Abe",
+          "url": "/wiki/Shinzo_Abe",
+          "length": 312143
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Naya Rivera, American actress, model and singer, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Naya_Rivera\" title=\"Naya Rivera\">Naya Rivera</a>, American actress, model and singer (b. 1987)<sup id=\"cite_ref-48\" class=\"reference\"><a href=\"#cite_note-48\"><span class=\"cite-bracket\">[</span>48<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Naya Rivera",
+          "url": "/wiki/Naya_Rivera",
+          "length": 210202
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "description": "Betty Ford, First Lady of the United States, died.",
+      "html": "<li>2011   – <a href=\"/wiki/Betty_Ford\" title=\"Betty Ford\">Betty Ford</a>, First Lady of the United States (b. 1918)</li>",
+      "entities": [
+        {
+          "name": "Betty Ford",
+          "url": "/wiki/Betty_Ford",
+          "length": 139650
+        }
+      ]
+    }
+  ]
+}

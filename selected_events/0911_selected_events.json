@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "year": "1943",
+      "description": "World War II: German troops occupy Corsica and Kosovo-Metohija ending the Italian occupation of Corsica.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Wehrmacht\" title=\"Wehrmacht\">German troops</a> occupy <a href=\"/wiki/Corsica\" title=\"Corsica\">Corsica</a> and <a href=\"/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a>-<a href=\"/wiki/Metohija\" title=\"Metohija\">Metohija</a> ending the <a href=\"/wiki/Italian_occupation_of_Corsica\" title=\"Italian occupation of Corsica\">Italian occupation of Corsica</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Wehrmacht",
+          "url": "/wiki/Wehrmacht",
+          "length": 107453
+        },
+        {
+          "name": "Corsica",
+          "url": "/wiki/Corsica",
+          "length": 74709
+        },
+        {
+          "name": "Kosovo",
+          "url": "/wiki/Kosovo",
+          "length": 256126
+        },
+        {
+          "name": "Metohija",
+          "url": "/wiki/Metohija",
+          "length": 17652
+        },
+        {
+          "name": "Italian occupation of Corsica",
+          "url": "/wiki/Italian_occupation_of_Corsica",
+          "length": 32872
+        }
+      ]
+    },
+    {
+      "year": "1708",
+      "description": "Charles XII of Sweden stops his march to conquer Moscow outside Smolensk, marking the turning point in the Great Northern War. The army is defeated nine months later in the Battle of Poltava, and the Swedish Empire ceases to be a major power.",
+      "html": "<li>\n<a href=\"/wiki/1708\" title=\"1708\">1708</a> – <a href=\"/wiki/Charles_XII_of_Sweden\" title=\"Charles XII of Sweden\">Charles XII of Sweden</a> stops his march to conquer Moscow outside <a href=\"/wiki/Smolensk\" title=\"Smolensk\">Smolensk</a>, marking the turning point in the <a href=\"/wiki/Great_Northern_War\" title=\"Great Northern War\">Great Northern War</a>. The army is defeated nine months later in the <a href=\"/wiki/Battle_of_Poltava\" title=\"Battle of Poltava\">Battle of Poltava</a>, and the <a href=\"/wiki/Swedish_Empire\" title=\"Swedish Empire\">Swedish Empire</a> ceases to be a <a href=\"/wiki/Major_power\" class=\"mw-redirect\" title=\"Major power\">major power</a>.</li>",
+      "entities": [
+        {
+          "name": "Charles XII of Sweden",
+          "url": "/wiki/Charles_XII_of_Sweden",
+          "length": 78071
+        },
+        {
+          "name": "Smolensk",
+          "url": "/wiki/Smolensk",
+          "length": 45821
+        },
+        {
+          "name": "Great Northern War",
+          "url": "/wiki/Great_Northern_War",
+          "length": 73548
+        },
+        {
+          "name": "Battle of Poltava",
+          "url": "/wiki/Battle_of_Poltava",
+          "length": 32472
+        },
+        {
+          "name": "Swedish Empire",
+          "url": "/wiki/Swedish_Empire",
+          "length": 44475
+        },
+        {
+          "name": "Major power",
+          "url": "/wiki/Major_power",
+          "length": 25
+        }
+      ]
+    },
+    {
+      "year": "1914",
+      "description": "The Second Period of Russification: The teaching of the Russian language and Russian history in Finnish schools is ordered to be considerably increased as part of the forced Russification program in Finland run by Tsar Nicholas II.",
+      "html": "<li>1914   – The <a href=\"/wiki/Second_Period_of_Russification\" class=\"mw-redirect\" title=\"Second Period of Russification\">Second Period of Russification</a>: The teaching of the <a href=\"/wiki/Russian_language\" title=\"Russian language\">Russian language</a> and <a href=\"/wiki/History_of_Russia\" title=\"History of Russia\">Russian history</a> in Finnish schools is ordered to be considerably increased as part of the <a href=\"/wiki/Russification_of_Finland\" title=\"Russification of Finland\">forced Russification program</a> in <a href=\"/wiki/Grand_Duchy_of_Finland\" title=\"Grand Duchy of Finland\">Finland</a> run by Tsar <a href=\"/wiki/Nicholas_II_of_Russia\" class=\"mw-redirect\" title=\"Nicholas II of Russia\">Nicholas II</a>.<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Second Period of Russification",
+          "url": "/wiki/Second_Period_of_Russification",
+          "length": 69
+        },
+        {
+          "name": "Russian language",
+          "url": "/wiki/Russian_language",
+          "length": 125101
+        },
+        {
+          "name": "History of Russia",
+          "url": "/wiki/History_of_Russia",
+          "length": 218939
+        },
+        {
+          "name": "Russification of Finland",
+          "url": "/wiki/Russification_of_Finland",
+          "length": 12712
+        },
+        {
+          "name": "Grand Duchy of Finland",
+          "url": "/wiki/Grand_Duchy_of_Finland",
+          "length": 45054
+        },
+        {
+          "name": "Nicholas II of Russia",
+          "url": "/wiki/Nicholas_II_of_Russia",
+          "length": 120
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Indo-Pakistani War: The Indian Army captures the town of Burki, just southeast of Lahore.",
+      "html": "<li>\n<a href=\"/wiki/1965\" title=\"1965\">1965</a> – <a href=\"/wiki/Indo-Pakistani_War_of_1965\" class=\"mw-redirect\" title=\"Indo-Pakistani War of 1965\">Indo-Pakistani War</a>: The <a href=\"/wiki/Indian_Army\" title=\"Indian Army\">Indian Army</a> <a href=\"/wiki/Battle_of_Burki\" title=\"Battle of Burki\">captures</a> the town of <a href=\"/wiki/Barki,_Pakistan\" title=\"Barki, Pakistan\">Burki</a>, just southeast of <a href=\"/wiki/Lahore\" title=\"Lahore\">Lahore</a>.</li>",
+      "entities": [
+        {
+          "name": "Indo-Pakistani War of 1965",
+          "url": "/wiki/Indo-Pakistani_War_of_1965",
+          "length": 111
+        },
+        {
+          "name": "Indian Army",
+          "url": "/wiki/Indian_Army",
+          "length": 198219
+        },
+        {
+          "name": "Battle of Burki",
+          "url": "/wiki/Battle_of_Burki",
+          "length": 15035
+        },
+        {
+          "name": "Barki, Pakistan",
+          "url": "/wiki/Barki,_Pakistan",
+          "length": 2615
+        },
+        {
+          "name": "Lahore",
+          "url": "/wiki/Lahore",
+          "length": 195380
+        }
+      ]
+    },
+    {
+      "year": "1714",
+      "description": "Siege of Barcelona: Barcelona, capital city of the Principality of Catalonia, surrenders to Spanish and French Bourbon armies in the War of the Spanish Succession.",
+      "html": "<li>\n<a href=\"/wiki/1714\" title=\"1714\">1714</a> – <a href=\"/wiki/Siege_of_Barcelona_(1713%E2%80%9314)\" class=\"mw-redirect\" title=\"Siege of Barcelona (1713–14)\">Siege of Barcelona</a>: <a href=\"/wiki/Barcelona\" title=\"Barcelona\">Barcelona</a>, capital city of the <a href=\"/wiki/Principality_of_Catalonia\" title=\"Principality of Catalonia\">Principality of Catalonia</a>, surrenders to Spanish and French <a href=\"/wiki/Philip_V_of_Spain\" title=\"Philip V of Spain\">Bourbon</a> armies in the <a href=\"/wiki/War_of_the_Spanish_Succession\" title=\"War of the Spanish Succession\">War of the Spanish Succession</a>.</li>",
+      "entities": [
+        {
+          "name": "Siege of Barcelona (1713–14)",
+          "url": "/wiki/Siege_of_Barcelona_(1713%E2%80%9314)",
+          "length": 93
+        },
+        {
+          "name": "Barcelona",
+          "url": "/wiki/Barcelona",
+          "length": 166229
+        },
+        {
+          "name": "Principality of Catalonia",
+          "url": "/wiki/Principality_of_Catalonia",
+          "length": 84372
+        },
+        {
+          "name": "Philip V of Spain",
+          "url": "/wiki/Philip_V_of_Spain",
+          "length": 41451
+        },
+        {
+          "name": "War of the Spanish Succession",
+          "url": "/wiki/War_of_the_Spanish_Succession",
+          "length": 87351
+        }
+      ]
+    },
+    {
+      "year": "1803",
+      "description": "The Battle of Delhi, during the Second Anglo-Maratha War, between British troops under General Lake, and Marathas of Scindia's army under General Louis Bourquin ends in a British victory.",
+      "html": "<li>\n<a href=\"/wiki/1803\" title=\"1803\">1803</a> – The <a href=\"/wiki/Battle_of_Delhi_(1803)\" title=\"Battle of Delhi (1803)\">Battle of Delhi</a>, during the <a href=\"/wiki/Second_Anglo-Maratha_War\" title=\"Second Anglo-Maratha War\">Second Anglo-Maratha War</a>, between British troops under <a href=\"/wiki/Gerard_Lake,_1st_Viscount_Lake\" title=\"Gerard Lake, 1st Viscount Lake\">General Lake</a>, and <a href=\"/wiki/Maratha\" class=\"mw-redirect\" title=\"Maratha\">Marathas</a> of <a href=\"/wiki/Scindia\" class=\"mw-redirect\" title=\"Scindia\">Scindia</a>'s army under General Louis Bourquin ends in a British victory.<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Battle of Delhi (1803)",
+          "url": "/wiki/Battle_of_Delhi_(1803)",
+          "length": 3294
+        },
+        {
+          "name": "Second Anglo-Maratha War",
+          "url": "/wiki/Second_Anglo-Maratha_War",
+          "length": 12820
+        },
+        {
+          "name": "Gerard Lake, 1st Viscount Lake",
+          "url": "/wiki/Gerard_Lake,_1st_Viscount_Lake",
+          "length": 19679
+        },
+        {
+          "name": "Maratha",
+          "url": "/wiki/Maratha",
+          "length": 45
+        },
+        {
+          "name": "Scindia",
+          "url": "/wiki/Scindia",
+          "length": 77
+        }
+      ]
+    },
+    {
+      "year": "1917",
+      "description": "Ferdinand Marcos, Filipino soldier, lawyer, and politician, 10th President of the Philippines, was born.",
+      "html": "<li>1917   – <a href=\"/wiki/Ferdinand_Marcos\" title=\"Ferdinand Marcos\">Ferdinand Marcos</a>, Filipino soldier, lawyer, and politician, 10th <a href=\"/wiki/President_of_the_Philippines\" title=\"President of the Philippines\">President of the Philippines</a> (d. 1989)<sup id=\"cite_ref-UPI_34-1\" class=\"reference\"><a href=\"#cite_note-UPI-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ferdinand Marcos",
+          "url": "/wiki/Ferdinand_Marcos",
+          "length": 385091
+        },
+        {
+          "name": "President of the Philippines",
+          "url": "/wiki/President_of_the_Philippines",
+          "length": 102655
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "description": "Nikita Khrushchev, Russian general and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/1971\" title=\"1971\">1971</a> – <a href=\"/wiki/Nikita_Khrushchev\" title=\"Nikita Khrushchev\">Nikita Khrushchev</a>, Russian general and politician (b. 1894)</li>",
+      "entities": [
+        {
+          "name": "Nikita Khrushchev",
+          "url": "/wiki/Nikita_Khrushchev",
+          "length": 156535
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1917",
+      "description": "Ferdinand Marcos, Filipino soldier, lawyer, and politician, 10th President of the Philippines, was born.",
+      "html": "<li>1917   – <a href=\"/wiki/Ferdinand_Marcos\" title=\"Ferdinand Marcos\">Ferdinand Marcos</a>, Filipino soldier, lawyer, and politician, 10th <a href=\"/wiki/President_of_the_Philippines\" title=\"President of the Philippines\">President of the Philippines</a> (d. 1989)<sup id=\"cite_ref-UPI_34-1\" class=\"reference\"><a href=\"#cite_note-UPI-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ferdinand Marcos",
+          "url": "/wiki/Ferdinand_Marcos",
+          "length": 385091
+        },
+        {
+          "name": "President of the Philippines",
+          "url": "/wiki/President_of_the_Philippines",
+          "length": 102655
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Bashar al-Assad, Syrian politician, 21st President of Syria, was born.",
+      "html": "<li>\n<a href=\"/wiki/1965\" title=\"1965\">1965</a> – <a href=\"/wiki/Bashar_al-Assad\" title=\"Bashar al-Assad\">Bashar al-Assad</a>, Syrian politician, 21st <a href=\"/wiki/President_of_Syria\" title=\"President of Syria\">President of Syria</a><sup id=\"cite_ref-51\" class=\"reference\"><a href=\"#cite_note-51\"><span class=\"cite-bracket\">[</span>51<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bashar al-Assad",
+          "url": "/wiki/Bashar_al-Assad",
+          "length": 321810
+        },
+        {
+          "name": "President of Syria",
+          "url": "/wiki/President_of_Syria",
+          "length": 8571
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Moby, American singer-songwriter, musician, and DJ, was born.",
+      "html": "<li>1965   – <a href=\"/wiki/Moby\" title=\"Moby\">Moby</a>, American singer-songwriter, musician, and DJ<sup id=\"cite_ref-AP_37-12\" class=\"reference\"><a href=\"#cite_note-AP-37\"><span class=\"cite-bracket\">[</span>37<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Moby",
+          "url": "/wiki/Moby",
+          "length": 175784
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2024",
+      "description": "Alberto Fujimori, Peruvian politician, professor, and engineer, 54th President of Peru, died.",
+      "html": "<li>2024 – <a href=\"/wiki/Alberto_Fujimori\" title=\"Alberto Fujimori\">Alberto Fujimori</a>, Peruvian politician, professor, and engineer, 54th <a href=\"/wiki/President_of_Peru\" title=\"President of Peru\">President of Peru</a> (b. 1938)<sup id=\"cite_ref-90\" class=\"reference\"><a href=\"#cite_note-90\"><span class=\"cite-bracket\">[</span>90<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Alberto Fujimori",
+          "url": "/wiki/Alberto_Fujimori",
+          "length": 176021
+        },
+        {
+          "name": "President of Peru",
+          "url": "/wiki/President_of_Peru",
+          "length": 50831
+        }
+      ]
+    },
+    {
+      "year": "2001",
+      "description": "Casualties of the September 11 attacks: see Category:Victims of the September 11 attacks, died.",
+      "html": "<li>2001   – <a href=\"/wiki/Casualties_of_the_September_11_attacks\" title=\"Casualties of the September 11 attacks\">Casualties of the September 11 attacks</a>: <i>see</i> <a href=\"/wiki/Category:Victims_of_the_September_11_attacks\" title=\"Category:Victims of the September 11 attacks\">Category:Victims of the September 11 attacks</a>\n</li>",
+      "entities": [
+        {
+          "name": "Casualties of the September 11 attacks",
+          "url": "/wiki/Casualties_of_the_September_11_attacks",
+          "length": 174417
+        },
+        {
+          "name": "Category:Victims of the September 11 attacks",
+          "url": "/wiki/Category:Victims_of_the_September_11_attacks",
+          "length": 730
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "description": "Nikita Khrushchev, Russian general and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/1971\" title=\"1971\">1971</a> – <a href=\"/wiki/Nikita_Khrushchev\" title=\"Nikita Khrushchev\">Nikita Khrushchev</a>, Russian general and politician (b. 1894)</li>",
+      "entities": [
+        {
+          "name": "Nikita Khrushchev",
+          "url": "/wiki/Nikita_Khrushchev",
+          "length": 156535
+        }
+      ]
+    }
+  ]
+}

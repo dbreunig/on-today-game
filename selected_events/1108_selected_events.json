@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1950",
+      "description": "Korean War: United States Air Force Lt. Russell J. Brown, while piloting an F-80 Shooting Star, shoots down two North Korean MiG-15s in the first jet aircraft-to-jet aircraft dogfight in history.",
+      "html": "<li>\n<a href=\"/wiki/1950\" title=\"1950\">1950</a> – <a href=\"/wiki/Korean_War\" title=\"Korean War\">Korean War</a>: <a href=\"/wiki/United_States_Air_Force\" title=\"United States Air Force\">United States Air Force</a> Lt. Russell J. Brown, while piloting an <a href=\"/wiki/F-80_Shooting_Star\" class=\"mw-redirect\" title=\"F-80 Shooting Star\">F-80 Shooting Star</a>, shoots down two <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korean</a> <a href=\"/wiki/Mikoyan-Gurevich_MiG-15\" title=\"Mikoyan-Gurevich MiG-15\">MiG-15s</a> in the first <a href=\"/wiki/Jet_aircraft\" title=\"Jet aircraft\">jet aircraft</a>-to-jet aircraft <a href=\"/wiki/Dogfight\" title=\"Dogfight\">dogfight</a> in history.</li>",
+      "entities": [
+        {
+          "name": "Korean War",
+          "url": "/wiki/Korean_War",
+          "length": 262347
+        },
+        {
+          "name": "United States Air Force",
+          "url": "/wiki/United_States_Air_Force",
+          "length": 177380
+        },
+        {
+          "name": "F-80 Shooting Star",
+          "url": "/wiki/F-80_Shooting_Star",
+          "length": 41
+        },
+        {
+          "name": "North Korea",
+          "url": "/wiki/North_Korea",
+          "length": 294071
+        },
+        {
+          "name": "Mikoyan-Gurevich MiG-15",
+          "url": "/wiki/Mikoyan-Gurevich_MiG-15",
+          "length": 126135
+        },
+        {
+          "name": "Jet aircraft",
+          "url": "/wiki/Jet_aircraft",
+          "length": 21674
+        },
+        {
+          "name": "Dogfight",
+          "url": "/wiki/Dogfight",
+          "length": 72853
+        }
+      ]
+    },
+    {
+      "year": "960",
+      "description": "Battle of Andrassos: Byzantines under Leo Phokas the Younger score a crushing victory over the Hamdanid Emir of Aleppo, Sayf al-Dawla.",
+      "html": "<li>\n<a href=\"/wiki/960\" title=\"960\">960</a> – <a href=\"/wiki/Battle_of_Andrassos\" title=\"Battle of Andrassos\">Battle of Andrassos</a>: <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantines</a> under <a href=\"/wiki/Leo_Phokas_the_Younger\" title=\"Leo Phokas the Younger\">Leo Phokas the Younger</a> score a crushing victory over the <a href=\"/wiki/Hamdanid\" class=\"mw-redirect\" title=\"Hamdanid\">Hamdanid</a> <a href=\"/wiki/Emir_of_Aleppo\" class=\"mw-redirect\" title=\"Emir of Aleppo\">Emir of Aleppo</a>, <a href=\"/wiki/Sayf_al-Dawla\" title=\"Sayf al-Dawla\">Sayf al-Dawla</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Andrassos",
+          "url": "/wiki/Battle_of_Andrassos",
+          "length": 25698
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201623
+        },
+        {
+          "name": "Leo Phokas the Younger",
+          "url": "/wiki/Leo_Phokas_the_Younger",
+          "length": 3945
+        },
+        {
+          "name": "Hamdanid",
+          "url": "/wiki/Hamdanid",
+          "length": 30
+        },
+        {
+          "name": "Emir of Aleppo",
+          "url": "/wiki/Emir_of_Aleppo",
+          "length": 40
+        },
+        {
+          "name": "Sayf al-Dawla",
+          "url": "/wiki/Sayf_al-Dawla",
+          "length": 69979
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "description": "Former Massachusetts Attorney General Edward Brooke becomes the first African American elected to the United States Senate since Reconstruction.",
+      "html": "<li>\n<a href=\"/wiki/1966\" title=\"1966\">1966</a> – Former <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a> Attorney General <a href=\"/wiki/Edward_Brooke\" title=\"Edward Brooke\">Edward Brooke</a> becomes the first <a href=\"/wiki/African_American\" class=\"mw-redirect\" title=\"African American\">African American</a> <a href=\"/wiki/1966_United_States_Senate_election_in_Massachusetts\" title=\"1966 United States Senate election in Massachusetts\">elected</a> to the <a href=\"/wiki/United_States_Senate\" title=\"United States Senate\">United States Senate</a> since <a href=\"/wiki/Reconstruction_Era\" class=\"mw-redirect\" title=\"Reconstruction Era\">Reconstruction</a>.</li>",
+      "entities": [
+        {
+          "name": "Massachusetts",
+          "url": "/wiki/Massachusetts",
+          "length": 258656
+        },
+        {
+          "name": "Edward Brooke",
+          "url": "/wiki/Edward_Brooke",
+          "length": 52501
+        },
+        {
+          "name": "African American",
+          "url": "/wiki/African_American",
+          "length": 135
+        },
+        {
+          "name": "1966 United States Senate election in Massachusetts",
+          "url": "/wiki/1966_United_States_Senate_election_in_Massachusetts",
+          "length": 9343
+        },
+        {
+          "name": "United States Senate",
+          "url": "/wiki/United_States_Senate",
+          "length": 107428
+        },
+        {
+          "name": "Reconstruction Era",
+          "url": "/wiki/Reconstruction_Era",
+          "length": 64
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "description": "Donald Trump is elected the 45th President of the United States, defeating Hillary Clinton, the first woman ever to receive a major party's nomination.",
+      "html": "<li>2016   – <a href=\"/wiki/Donald_Trump\" title=\"Donald Trump\">Donald Trump</a> is <a href=\"/wiki/2016_United_States_presidential_election\" title=\"2016 United States presidential election\">elected</a> the <a href=\"/wiki/First_presidency_of_Donald_Trump\" title=\"First presidency of Donald Trump\">45th</a> President of the United States, defeating <a href=\"/wiki/Hillary_Clinton\" title=\"Hillary Clinton\">Hillary Clinton</a>, the first woman ever to receive a major party's <a href=\"/wiki/2016_Democratic_Party_presidential_primaries\" title=\"2016 Democratic Party presidential primaries\">nomination</a>.</li>",
+      "entities": [
+        {
+          "name": "Donald Trump",
+          "url": "/wiki/Donald_Trump",
+          "length": 404744
+        },
+        {
+          "name": "2016 United States presidential election",
+          "url": "/wiki/2016_United_States_presidential_election",
+          "length": 466445
+        },
+        {
+          "name": "First presidency of Donald Trump",
+          "url": "/wiki/First_presidency_of_Donald_Trump",
+          "length": 538380
+        },
+        {
+          "name": "Hillary Clinton",
+          "url": "/wiki/Hillary_Clinton",
+          "length": 317778
+        },
+        {
+          "name": "2016 Democratic Party presidential primaries",
+          "url": "/wiki/2016_Democratic_Party_presidential_primaries",
+          "length": 118603
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "Spanish Civil War: Francoist troops fail in their effort to capture Madrid, but begin the three-year Siege of Madrid afterwards.",
+      "html": "<li>\n<a href=\"/wiki/1936\" title=\"1936\">1936</a> – <a href=\"/wiki/Spanish_Civil_War\" title=\"Spanish Civil War\">Spanish Civil War</a>: <a href=\"/wiki/Francoist_Spain\" title=\"Francoist Spain\">Francoist</a> troops fail in their effort to capture <a href=\"/wiki/Madrid\" title=\"Madrid\">Madrid</a>, but begin the three-year <a href=\"/wiki/Siege_of_Madrid\" title=\"Siege of Madrid\">Siege of Madrid</a> afterwards.</li>",
+      "entities": [
+        {
+          "name": "Spanish Civil War",
+          "url": "/wiki/Spanish_Civil_War",
+          "length": 276646
+        },
+        {
+          "name": "Francoist Spain",
+          "url": "/wiki/Francoist_Spain",
+          "length": 86224
+        },
+        {
+          "name": "Madrid",
+          "url": "/wiki/Madrid",
+          "length": 259589
+        },
+        {
+          "name": "Siege of Madrid",
+          "url": "/wiki/Siege_of_Madrid",
+          "length": 38392
+        }
+      ]
+    },
+    {
+      "year": "1923",
+      "description": "Beer Hall Putsch: In Munich, Adolf Hitler leads the Nazis in an unsuccessful attempt to overthrow the German government.",
+      "html": "<li>\n<a href=\"/wiki/1923\" title=\"1923\">1923</a> – <a href=\"/wiki/Beer_Hall_Putsch\" title=\"Beer Hall Putsch\">Beer Hall Putsch</a>: In <a href=\"/wiki/Munich\" title=\"Munich\">Munich</a>, <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a> leads the <a href=\"/wiki/Nazism\" title=\"Nazism\">Nazis</a> in an unsuccessful attempt to overthrow the German government.</li>",
+      "entities": [
+        {
+          "name": "Beer Hall Putsch",
+          "url": "/wiki/Beer_Hall_Putsch",
+          "length": 53661
+        },
+        {
+          "name": "Munich",
+          "url": "/wiki/Munich",
+          "length": 198128
+        },
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Nazism",
+          "url": "/wiki/Nazism",
+          "length": 245234
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Aaron Swartz, American computer programmer and activist, was born.",
+      "html": "<li>1986   – <a href=\"/wiki/Aaron_Swartz\" title=\"Aaron Swartz\">Aaron Swartz</a>, American computer programmer and activist (d. 2013)<sup id=\"cite_ref-31\" class=\"reference\"><a href=\"#cite_note-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Aaron Swartz",
+          "url": "/wiki/Aaron_Swartz",
+          "length": 195373
+        }
+      ]
+    },
+    {
+      "year": "1674",
+      "description": "John Milton, English poet and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1674\" title=\"1674\">1674</a> – <a href=\"/wiki/John_Milton\" title=\"John Milton\">John Milton</a>, English poet and philosopher (b. 1608)</li>",
+      "entities": [
+        {
+          "name": "John Milton",
+          "url": "/wiki/John_Milton",
+          "length": 101032
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1935",
+      "description": "Alain Delon, French-Swiss actor, producer, screenwriter, was born.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/Alain_Delon\" title=\"Alain Delon\">Alain Delon</a>, French-Swiss actor, producer, screenwriter (d. 2024)<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Alain Delon",
+          "url": "/wiki/Alain_Delon",
+          "length": 223470
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Aaron Swartz, American computer programmer and activist, was born.",
+      "html": "<li>1986   – <a href=\"/wiki/Aaron_Swartz\" title=\"Aaron Swartz\">Aaron Swartz</a>, American computer programmer and activist (d. 2013)<sup id=\"cite_ref-31\" class=\"reference\"><a href=\"#cite_note-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Aaron Swartz",
+          "url": "/wiki/Aaron_Swartz",
+          "length": 195373
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "Joseph James DeAngelo, American serial killer, was born.",
+      "html": "<li>1945   – <a href=\"/wiki/Joseph_James_DeAngelo\" title=\"Joseph James DeAngelo\">Joseph James DeAngelo</a>, American serial killer</li>",
+      "entities": [
+        {
+          "name": "Joseph James DeAngelo",
+          "url": "/wiki/Joseph_James_DeAngelo",
+          "length": 162314
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2020",
+      "description": "Alex Trebek, Canadian-American television personality and longtime host of Jeopardy!, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Alex_Trebek\" title=\"Alex Trebek\">Alex Trebek</a>, Canadian-American television personality and longtime host of <i><a href=\"/wiki/Jeopardy!\" title=\"Jeopardy!\">Jeopardy!</a></i> (b. 1940)<sup id=\"cite_ref-43\" class=\"reference\"><a href=\"#cite_note-43\"><span class=\"cite-bracket\">[</span>43<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Alex Trebek",
+          "url": "/wiki/Alex_Trebek",
+          "length": 133508
+        },
+        {
+          "name": "Jeopardy!",
+          "url": "/wiki/Jeopardy!",
+          "length": 160481
+        }
+      ]
+    },
+    {
+      "year": "1674",
+      "description": "John Milton, English poet and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1674\" title=\"1674\">1674</a> – <a href=\"/wiki/John_Milton\" title=\"John Milton\">John Milton</a>, English poet and philosopher (b. 1608)</li>",
+      "entities": [
+        {
+          "name": "John Milton",
+          "url": "/wiki/John_Milton",
+          "length": 101032
+        }
+      ]
+    },
+    {
+      "year": "1887",
+      "description": "Doc Holliday, American dentist and poker player, died.",
+      "html": "<li>\n<a href=\"/wiki/1887\" title=\"1887\">1887</a> – <a href=\"/wiki/Doc_Holliday\" title=\"Doc Holliday\">Doc Holliday</a>, American dentist and poker player (b. 1851)</li>",
+      "entities": [
+        {
+          "name": "Doc Holliday",
+          "url": "/wiki/Doc_Holliday",
+          "length": 97401
+        }
+      ]
+    }
+  ]
+}

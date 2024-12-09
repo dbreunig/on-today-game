@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1953",
+      "description": "Ernesto \"Che\" Guevara sets out on a trip through Bolivia, Peru, Ecuador, Panama, Costa Rica, Nicaragua, Honduras, and El Salvador.",
+      "html": "<li>\n<a href=\"/wiki/1953\" title=\"1953\">1953</a> – <a href=\"/wiki/Che_Guevara\" title=\"Che Guevara\">Ernesto \"Che\" Guevara</a> sets out on a trip through <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a>, <a href=\"/wiki/Nicaragua\" title=\"Nicaragua\">Nicaragua</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a>, and <a href=\"/wiki/El_Salvador\" title=\"El Salvador\">El Salvador</a>.</li>",
+      "entities": [
+        {
+          "name": "Che Guevara",
+          "url": "/wiki/Che_Guevara",
+          "length": 204383
+        },
+        {
+          "name": "Bolivia",
+          "url": "/wiki/Bolivia",
+          "length": 195968
+        },
+        {
+          "name": "Peru",
+          "url": "/wiki/Peru",
+          "length": 220977
+        },
+        {
+          "name": "Ecuador",
+          "url": "/wiki/Ecuador",
+          "length": 201541
+        },
+        {
+          "name": "Panama",
+          "url": "/wiki/Panama",
+          "length": 136142
+        },
+        {
+          "name": "Costa Rica",
+          "url": "/wiki/Costa_Rica",
+          "length": 140821
+        },
+        {
+          "name": "Nicaragua",
+          "url": "/wiki/Nicaragua",
+          "length": 213613
+        },
+        {
+          "name": "Honduras",
+          "url": "/wiki/Honduras",
+          "length": 149585
+        },
+        {
+          "name": "El Salvador",
+          "url": "/wiki/El_Salvador",
+          "length": 189342
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Buddhist crisis: Police commanded by Ngô Đình Nhu, brother and chief political adviser of South Vietnam President Ngo Dinh Diem, attacked a group of American journalists who were covering a protest.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Buddhist_crisis\" title=\"Buddhist crisis\">Buddhist crisis</a>: Police commanded by <a href=\"/wiki/Ng%C3%B4_%C4%90%C3%ACnh_Nhu\" title=\"Ngô Đình Nhu\">Ngô Đình Nhu</a>, brother and chief political adviser of <a href=\"/wiki/South_Vietnam\" title=\"South Vietnam\">South Vietnam</a> President <a href=\"/wiki/Ngo_Dinh_Diem\" title=\"Ngo Dinh Diem\">Ngo Dinh Diem</a>, <a href=\"/wiki/Double_Seven_Day_scuffle\" title=\"Double Seven Day scuffle\">attacked</a> a group of American journalists who were covering a protest.</li>",
+      "entities": [
+        {
+          "name": "Buddhist crisis",
+          "url": "/wiki/Buddhist_crisis",
+          "length": 38174
+        },
+        {
+          "name": "Ngô Đình Nhu",
+          "url": "/wiki/Ng%C3%B4_%C4%90%C3%ACnh_Nhu",
+          "length": 56792
+        },
+        {
+          "name": "South Vietnam",
+          "url": "/wiki/South_Vietnam",
+          "length": 263792
+        },
+        {
+          "name": "Ngo Dinh Diem",
+          "url": "/wiki/Ngo_Dinh_Diem",
+          "length": 118554
+        },
+        {
+          "name": "Double Seven Day scuffle",
+          "url": "/wiki/Double_Seven_Day_scuffle",
+          "length": 16717
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Cold War: Samantha Smith, a US schoolgirl, flies to the Soviet Union at the invitation of Secretary General Yuri Andropov.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Cold_War\" title=\"Cold War\">Cold War</a>: <a href=\"/wiki/Samantha_Smith\" title=\"Samantha Smith\">Samantha Smith</a>, a US schoolgirl, flies to the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a> at the invitation of <a href=\"/wiki/List_of_leaders_of_the_Soviet_Union\" title=\"List of leaders of the Soviet Union\">Secretary General</a> <a href=\"/wiki/Yuri_Andropov\" title=\"Yuri Andropov\">Yuri Andropov</a>.</li>",
+      "entities": [
+        {
+          "name": "Cold War",
+          "url": "/wiki/Cold_War",
+          "length": 267374
+        },
+        {
+          "name": "Samantha Smith",
+          "url": "/wiki/Samantha_Smith",
+          "length": 48355
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "List of leaders of the Soviet Union",
+          "url": "/wiki/List_of_leaders_of_the_Soviet_Union",
+          "length": 43548
+        },
+        {
+          "name": "Yuri Andropov",
+          "url": "/wiki/Yuri_Andropov",
+          "length": 86171
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "Yugoslav Wars: The Brioni Agreement ends the ten-day independence war in Slovenia against the rest of the Socialist Federal Republic of Yugoslavia.",
+      "html": "<li>\n<a href=\"/wiki/1991\" title=\"1991\">1991</a> – <a href=\"/wiki/Yugoslav_Wars\" title=\"Yugoslav Wars\">Yugoslav Wars</a>: The <a href=\"/wiki/Brioni_Agreement\" title=\"Brioni Agreement\">Brioni Agreement</a> ends the <a href=\"/wiki/Ten-Day_War\" title=\"Ten-Day War\">ten-day independence war</a> in <a href=\"/wiki/Slovenia\" title=\"Slovenia\">Slovenia</a> against the rest of the <a href=\"/wiki/Socialist_Federal_Republic_of_Yugoslavia\" title=\"Socialist Federal Republic of Yugoslavia\">Socialist Federal Republic of Yugoslavia</a>.</li>",
+      "entities": [
+        {
+          "name": "Yugoslav Wars",
+          "url": "/wiki/Yugoslav_Wars",
+          "length": 172409
+        },
+        {
+          "name": "Brioni Agreement",
+          "url": "/wiki/Brioni_Agreement",
+          "length": 17229
+        },
+        {
+          "name": "Ten-Day War",
+          "url": "/wiki/Ten-Day_War",
+          "length": 45252
+        },
+        {
+          "name": "Slovenia",
+          "url": "/wiki/Slovenia",
+          "length": 230508
+        },
+        {
+          "name": "Socialist Federal Republic of Yugoslavia",
+          "url": "/wiki/Socialist_Federal_Republic_of_Yugoslavia",
+          "length": 201927
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "description": "The Turkish Armed Forces withdraw from northern Iraq after assisting the Kurdistan Democratic Party in the Iraqi Kurdish Civil War.",
+      "html": "<li>\n<a href=\"/wiki/1997\" title=\"1997\">1997</a> – The <a href=\"/wiki/Turkish_Armed_Forces\" title=\"Turkish Armed Forces\">Turkish Armed Forces</a> withdraw from northern <a href=\"/wiki/Ba%27athist_Iraq\" title=\"Ba'athist Iraq\">Iraq</a> after <a href=\"/wiki/Operation_Hammer_(1997)\" title=\"Operation Hammer (1997)\">assisting</a> the <a href=\"/wiki/Kurdistan_Democratic_Party\" title=\"Kurdistan Democratic Party\">Kurdistan Democratic Party</a> in the <a href=\"/wiki/Iraqi_Kurdish_Civil_War\" title=\"Iraqi Kurdish Civil War\">Iraqi Kurdish Civil War</a>.</li>",
+      "entities": [
+        {
+          "name": "Turkish Armed Forces",
+          "url": "/wiki/Turkish_Armed_Forces",
+          "length": 87663
+        },
+        {
+          "name": "Ba'athist Iraq",
+          "url": "/wiki/Ba%27athist_Iraq",
+          "length": 109859
+        },
+        {
+          "name": "Operation Hammer (1997)",
+          "url": "/wiki/Operation_Hammer_(1997)",
+          "length": 8232
+        },
+        {
+          "name": "Kurdistan Democratic Party",
+          "url": "/wiki/Kurdistan_Democratic_Party",
+          "length": 47974
+        },
+        {
+          "name": "Iraqi Kurdish Civil War",
+          "url": "/wiki/Iraqi_Kurdish_Civil_War",
+          "length": 27662
+        }
+      ]
+    },
+    {
+      "year": "1915",
+      "description": "Colombo Town Guard officer Henry Pedris is executed in British Ceylon for allegedly inciting persecution of Muslims.",
+      "html": "<li>1915   – <a href=\"/wiki/Colombo_Town_Guard\" title=\"Colombo Town Guard\">Colombo Town Guard</a> officer <a href=\"/wiki/Henry_Pedris\" title=\"Henry Pedris\">Henry Pedris</a> is executed in <a href=\"/wiki/British_Ceylon\" title=\"British Ceylon\">British Ceylon</a> for allegedly inciting <a href=\"/wiki/Persecution_of_Muslims\" title=\"Persecution of Muslims\">persecution of Muslims</a>.</li>",
+      "entities": [
+        {
+          "name": "Colombo Town Guard",
+          "url": "/wiki/Colombo_Town_Guard",
+          "length": 4926
+        },
+        {
+          "name": "Henry Pedris",
+          "url": "/wiki/Henry_Pedris",
+          "length": 17226
+        },
+        {
+          "name": "British Ceylon",
+          "url": "/wiki/British_Ceylon",
+          "length": 40371
+        },
+        {
+          "name": "Persecution of Muslims",
+          "url": "/wiki/Persecution_of_Muslims",
+          "length": 302450
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Mahendra Singh Dhoni, Indian cricketer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/MS_Dhoni\" title=\"MS Dhoni\">Mahendra Singh Dhoni</a>, Indian cricketer</li>",
+      "entities": [
+        {
+          "name": "MS Dhoni",
+          "url": "/wiki/MS_Dhoni",
+          "length": 162247
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "Syd Barrett, English singer-songwriter and guitarist, died.",
+      "html": "<li>\n<a href=\"/wiki/2006\" title=\"2006\">2006</a> – <a href=\"/wiki/Syd_Barrett\" title=\"Syd Barrett\">Syd Barrett</a>, English singer-songwriter and guitarist (b. 1946)</li>",
+      "entities": [
+        {
+          "name": "Syd Barrett",
+          "url": "/wiki/Syd_Barrett",
+          "length": 100738
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1901",
+      "description": "Eiji Tsuburaya, Japanese cinematographer and producer, was born.",
+      "html": "<li>1901   – <a href=\"/wiki/Eiji_Tsuburaya\" title=\"Eiji Tsuburaya\">Eiji Tsuburaya</a>, Japanese cinematographer and producer (d. 1970)</li>",
+      "entities": [
+        {
+          "name": "Eiji Tsuburaya",
+          "url": "/wiki/Eiji_Tsuburaya",
+          "length": 166720
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Mahendra Singh Dhoni, Indian cricketer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/MS_Dhoni\" title=\"MS Dhoni\">Mahendra Singh Dhoni</a>, Indian cricketer</li>",
+      "entities": [
+        {
+          "name": "MS Dhoni",
+          "url": "/wiki/MS_Dhoni",
+          "length": 162247
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "description": "Ringo Starr, English singer-songwriter, drummer, and actor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/Ringo_Starr\" title=\"Ringo Starr\">Ringo Starr</a>, English singer-songwriter, drummer, and actor</li>",
+      "entities": [
+        {
+          "name": "Ringo Starr",
+          "url": "/wiki/Ringo_Starr",
+          "length": 147596
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1307",
+      "description": "Edward I, king of England, died.",
+      "html": "<li>\n<a href=\"/wiki/1307\" title=\"1307\">1307</a> – <a href=\"/wiki/Edward_I_of_England\" title=\"Edward I of England\">Edward I</a>, king of England (b. 1239)</li>",
+      "entities": [
+        {
+          "name": "Edward I of England",
+          "url": "/wiki/Edward_I_of_England",
+          "length": 142091
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "description": "Dilip Kumar, Indian film actor, died.",
+      "html": "<li>2021 – <a href=\"/wiki/Dilip_Kumar\" title=\"Dilip Kumar\">Dilip Kumar</a>, Indian film actor (b. 1922)<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Dilip Kumar",
+          "url": "/wiki/Dilip_Kumar",
+          "length": 107054
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "Syd Barrett, English singer-songwriter and guitarist, died.",
+      "html": "<li>\n<a href=\"/wiki/2006\" title=\"2006\">2006</a> – <a href=\"/wiki/Syd_Barrett\" title=\"Syd Barrett\">Syd Barrett</a>, English singer-songwriter and guitarist (b. 1946)</li>",
+      "entities": [
+        {
+          "name": "Syd Barrett",
+          "url": "/wiki/Syd_Barrett",
+          "length": 100738
+        }
+      ]
+    }
+  ]
+}

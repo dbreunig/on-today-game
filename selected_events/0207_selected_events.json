@@ -1,0 +1,291 @@
+{
+  "events": [
+    {
+      "year": "1943",
+      "description": "World War II: Imperial Japanese Navy forces complete the evacuation of Imperial Japanese Army troops from Guadalcanal during Operation Ke, ending Japanese attempts to retake the island from Allied forces in the Guadalcanal Campaign.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Imperial_Japanese_Navy\" title=\"Imperial Japanese Navy\">Imperial Japanese Navy</a> forces complete the evacuation of <a href=\"/wiki/Imperial_Japanese_Army\" title=\"Imperial Japanese Army\">Imperial Japanese Army</a> troops from <a href=\"/wiki/Guadalcanal\" title=\"Guadalcanal\">Guadalcanal</a> during <a href=\"/wiki/Operation_Ke\" title=\"Operation Ke\">Operation Ke</a>, ending Japanese attempts to retake the island from <a href=\"/wiki/Allies_of_World_War_II\" title=\"Allies of World War II\">Allied</a> forces in the <a href=\"/wiki/Guadalcanal_Campaign\" class=\"mw-redirect\" title=\"Guadalcanal Campaign\">Guadalcanal Campaign</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Imperial Japanese Navy",
+          "url": "/wiki/Imperial_Japanese_Navy",
+          "length": 106515
+        },
+        {
+          "name": "Imperial Japanese Army",
+          "url": "/wiki/Imperial_Japanese_Army",
+          "length": 69918
+        },
+        {
+          "name": "Guadalcanal",
+          "url": "/wiki/Guadalcanal",
+          "length": 21755
+        },
+        {
+          "name": "Operation Ke",
+          "url": "/wiki/Operation_Ke",
+          "length": 65585
+        },
+        {
+          "name": "Allies of World War II",
+          "url": "/wiki/Allies_of_World_War_II",
+          "length": 166559
+        },
+        {
+          "name": "Guadalcanal Campaign",
+          "url": "/wiki/Guadalcanal_Campaign",
+          "length": 51
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "description": "Space Shuttle program: STS-41-B Mission: astronauts Bruce McCandless II and Robert L. Stewart make the first untethered space walk using the Manned Maneuvering Unit (MMU).",
+      "html": "<li>\n<a href=\"/wiki/1984\" title=\"1984\">1984</a> – <a href=\"/wiki/Space_Shuttle_program\" title=\"Space Shuttle program\">Space Shuttle program</a>: <a href=\"/wiki/STS-41-B\" title=\"STS-41-B\">STS-41-B</a> Mission: astronauts <a href=\"/wiki/Bruce_McCandless_II\" title=\"Bruce McCandless II\">Bruce McCandless II</a> and <a href=\"/wiki/Robert_L._Stewart\" title=\"Robert L. Stewart\">Robert L. Stewart</a> make the first untethered <a href=\"/wiki/Space_walk\" class=\"mw-redirect\" title=\"Space walk\">space walk</a> using the <a href=\"/wiki/Manned_Maneuvering_Unit\" title=\"Manned Maneuvering Unit\">Manned Maneuvering Unit</a> (MMU).<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Space Shuttle program",
+          "url": "/wiki/Space_Shuttle_program",
+          "length": 63244
+        },
+        {
+          "name": "STS-41-B",
+          "url": "/wiki/STS-41-B",
+          "length": 18927
+        },
+        {
+          "name": "Bruce McCandless II",
+          "url": "/wiki/Bruce_McCandless_II",
+          "length": 23734
+        },
+        {
+          "name": "Robert L. Stewart",
+          "url": "/wiki/Robert_L._Stewart",
+          "length": 11890
+        },
+        {
+          "name": "Space walk",
+          "url": "/wiki/Space_walk",
+          "length": 37
+        },
+        {
+          "name": "Manned Maneuvering Unit",
+          "url": "/wiki/Manned_Maneuvering_Unit",
+          "length": 10156
+        }
+      ]
+    },
+    {
+      "year": "1898",
+      "description": "Dreyfus affair: Émile Zola is brought to trial for libel for publishing J'Accuse...!",
+      "html": "<li>\n<a href=\"/wiki/1898\" title=\"1898\">1898</a> – <a href=\"/wiki/Dreyfus_affair\" title=\"Dreyfus affair\">Dreyfus affair</a>: <a href=\"/wiki/%C3%89mile_Zola\" title=\"Émile Zola\">Émile Zola</a> is brought to trial for <a href=\"/wiki/Libel\" class=\"mw-redirect\" title=\"Libel\">libel</a> for publishing <i><a href=\"/wiki/J%27Accuse...!\" title=\"J'Accuse...!\">J'Accuse...!</a></i><sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Dreyfus affair",
+          "url": "/wiki/Dreyfus_affair",
+          "length": 170870
+        },
+        {
+          "name": "Émile Zola",
+          "url": "/wiki/%C3%89mile_Zola",
+          "length": 55774
+        },
+        {
+          "name": "Libel",
+          "url": "/wiki/Libel",
+          "length": 122
+        },
+        {
+          "name": "J'Accuse...!",
+          "url": "/wiki/J%27Accuse...!",
+          "length": 24823
+        }
+      ]
+    },
+    {
+      "year": "1365",
+      "description": "Albert III of Mecklenburg (King Albert of Sweden) grants city rights to Ulvila (Swedish: Ulvsby).",
+      "html": "<li>\n<a href=\"/wiki/1365\" title=\"1365\">1365</a> – Albert III of <a href=\"/wiki/House_of_Mecklenburg\" title=\"House of Mecklenburg\">Mecklenburg</a> (King <a href=\"/wiki/Albert,_King_of_Sweden\" title=\"Albert, King of Sweden\">Albert of Sweden</a>) grants city rights to <a href=\"/wiki/Ulvila\" title=\"Ulvila\">Ulvila</a> (<a href=\"/wiki/Swedish_language\" title=\"Swedish language\">Swedish</a>: <i lang=\"sv\">Ulvsby</i>).<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "House of Mecklenburg",
+          "url": "/wiki/House_of_Mecklenburg",
+          "length": 15424
+        },
+        {
+          "name": "Albert, King of Sweden",
+          "url": "/wiki/Albert,_King_of_Sweden",
+          "length": 13084
+        },
+        {
+          "name": "Ulvila",
+          "url": "/wiki/Ulvila",
+          "length": 8308
+        },
+        {
+          "name": "Swedish language",
+          "url": "/wiki/Swedish_language",
+          "length": 82660
+        }
+      ]
+    },
+    {
+      "year": "1842",
+      "description": "Battle of Debre Tabor: Ras Ali Alula, Regent of the Emperor of Ethiopia defeats warlord Wube Haile Maryam of Semien.",
+      "html": "<li>\n<a href=\"/wiki/1842\" title=\"1842\">1842</a> – <a href=\"/wiki/Battle_of_Debre_Tabor\" title=\"Battle of Debre Tabor\">Battle of Debre Tabor</a>: Ras <a href=\"/wiki/Ali_II_of_Yejju\" title=\"Ali II of Yejju\">Ali Alula</a>, Regent of the <a href=\"/wiki/Emperor_of_Ethiopia\" title=\"Emperor of Ethiopia\">Emperor of Ethiopia</a> defeats warlord <a href=\"/wiki/Wube_Haile_Maryam\" title=\"Wube Haile Maryam\">Wube Haile Maryam</a> of Semien.</li>",
+      "entities": [
+        {
+          "name": "Battle of Debre Tabor",
+          "url": "/wiki/Battle_of_Debre_Tabor",
+          "length": 5325
+        },
+        {
+          "name": "Ali II of Yejju",
+          "url": "/wiki/Ali_II_of_Yejju",
+          "length": 7099
+        },
+        {
+          "name": "Emperor of Ethiopia",
+          "url": "/wiki/Emperor_of_Ethiopia",
+          "length": 35002
+        },
+        {
+          "name": "Wube Haile Maryam",
+          "url": "/wiki/Wube_Haile_Maryam",
+          "length": 19423
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "The Troubles: The Provisional IRA launches a mortar attack on 10 Downing Street in London, the headquarters of the British government.",
+      "html": "<li>1991   – <a href=\"/wiki/The_Troubles\" title=\"The Troubles\">The Troubles</a>: The <a href=\"/wiki/Provisional_IRA\" class=\"mw-redirect\" title=\"Provisional IRA\">Provisional IRA</a> launches <a href=\"/wiki/Downing_Street_mortar_attack\" title=\"Downing Street mortar attack\">a mortar attack</a> on <a href=\"/wiki/10_Downing_Street\" title=\"10 Downing Street\">10 Downing Street</a> in London, the headquarters of the British government.</li>",
+      "entities": [
+        {
+          "name": "The Troubles",
+          "url": "/wiki/The_Troubles",
+          "length": 218680
+        },
+        {
+          "name": "Provisional IRA",
+          "url": "/wiki/Provisional_IRA",
+          "length": 100
+        },
+        {
+          "name": "Downing Street mortar attack",
+          "url": "/wiki/Downing_Street_mortar_attack",
+          "length": 17208
+        },
+        {
+          "name": "10 Downing Street",
+          "url": "/wiki/10_Downing_Street",
+          "length": 96376
+        }
+      ]
+    },
+    {
+      "year": "1812",
+      "description": "Charles Dickens, English novelist and critic, was born.",
+      "html": "<li>\n<a href=\"/wiki/1812\" title=\"1812\">1812</a> – <a href=\"/wiki/Charles_Dickens\" title=\"Charles Dickens\">Charles Dickens</a>, English novelist and critic (d. 1870)<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Charles Dickens",
+          "url": "/wiki/Charles_Dickens",
+          "length": 183464
+        }
+      ]
+    },
+    {
+      "year": "1799",
+      "description": "Qianlong Emperor of China, died.",
+      "html": "<li>\n<a href=\"/wiki/1799\" title=\"1799\">1799</a> – <a href=\"/wiki/Qianlong_Emperor\" title=\"Qianlong Emperor\">Qianlong Emperor</a> of China (b. 1711)</li>",
+      "entities": [
+        {
+          "name": "Qianlong Emperor",
+          "url": "/wiki/Qianlong_Emperor",
+          "length": 108795
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1988",
+      "description": "Matthew Stafford, American football player, was born.",
+      "html": "<li>1988   – <a href=\"/wiki/Matthew_Stafford\" title=\"Matthew Stafford\">Matthew Stafford</a>, American football player<sup id=\"cite_ref-85\" class=\"reference\"><a href=\"#cite_note-85\"><span class=\"cite-bracket\">[</span>85<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Matthew Stafford",
+          "url": "/wiki/Matthew_Stafford",
+          "length": 212110
+        }
+      ]
+    },
+    {
+      "year": "1812",
+      "description": "Charles Dickens, English novelist and critic, was born.",
+      "html": "<li>\n<a href=\"/wiki/1812\" title=\"1812\">1812</a> – <a href=\"/wiki/Charles_Dickens\" title=\"Charles Dickens\">Charles Dickens</a>, English novelist and critic (d. 1870)<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Charles Dickens",
+          "url": "/wiki/Charles_Dickens",
+          "length": 183464
+        }
+      ]
+    },
+    {
+      "year": "1973",
+      "description": "Juwan Howard, American basketball player and coach, was born.",
+      "html": "<li>\n<a href=\"/wiki/1973\" title=\"1973\">1973</a> – <a href=\"/wiki/Juwan_Howard\" title=\"Juwan Howard\">Juwan Howard</a>, American basketball player and coach</li>",
+      "entities": [
+        {
+          "name": "Juwan Howard",
+          "url": "/wiki/Juwan_Howard",
+          "length": 175924
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1999",
+      "description": "King Hussein of Jordan, died.",
+      "html": "<li>\n<a href=\"/wiki/1999\" title=\"1999\">1999</a> – <a href=\"/wiki/Hussein_of_Jordan\" title=\"Hussein of Jordan\">King Hussein of Jordan</a> (b. 1935)</li>",
+      "entities": [
+        {
+          "name": "Hussein of Jordan",
+          "url": "/wiki/Hussein_of_Jordan",
+          "length": 124478
+        }
+      ]
+    },
+    {
+      "year": "1799",
+      "description": "Qianlong Emperor of China, died.",
+      "html": "<li>\n<a href=\"/wiki/1799\" title=\"1799\">1799</a> – <a href=\"/wiki/Qianlong_Emperor\" title=\"Qianlong Emperor\">Qianlong Emperor</a> of China (b. 1711)</li>",
+      "entities": [
+        {
+          "name": "Qianlong Emperor",
+          "url": "/wiki/Qianlong_Emperor",
+          "length": 108795
+        }
+      ]
+    },
+    {
+      "year": "1878",
+      "description": "Pope Pius IX, died.",
+      "html": "<li>\n<a href=\"/wiki/1878\" title=\"1878\">1878</a> – <a href=\"/wiki/Pope_Pius_IX\" title=\"Pope Pius IX\">Pope Pius IX</a> (b. 1792)<sup id=\"cite_ref-117\" class=\"reference\"><a href=\"#cite_note-117\"><span class=\"cite-bracket\">[</span>117<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pope Pius IX",
+          "url": "/wiki/Pope_Pius_IX",
+          "length": 84094
+        }
+      ]
+    }
+  ]
+}

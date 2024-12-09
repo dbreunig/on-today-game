@@ -1,0 +1,286 @@
+{
+  "events": [
+    {
+      "year": "1942",
+      "description": "World War II: The Doolittle Raid on Japan: Tokyo, Yokohama, Kobe and Nagoya are bombed.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The <a href=\"/wiki/Doolittle_Raid\" title=\"Doolittle Raid\">Doolittle Raid</a> on Japan: Tokyo, <a href=\"/wiki/Yokohama\" title=\"Yokohama\">Yokohama</a>, <a href=\"/wiki/Kobe\" title=\"Kobe\">Kobe</a> and <a href=\"/wiki/Nagoya\" title=\"Nagoya\">Nagoya</a> are bombed.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Doolittle Raid",
+          "url": "/wiki/Doolittle_Raid",
+          "length": 96352
+        },
+        {
+          "name": "Yokohama",
+          "url": "/wiki/Yokohama",
+          "length": 65858
+        },
+        {
+          "name": "Kobe",
+          "url": "/wiki/Kobe",
+          "length": 65105
+        },
+        {
+          "name": "Nagoya",
+          "url": "/wiki/Nagoya",
+          "length": 96413
+        }
+      ]
+    },
+    {
+      "year": "1949",
+      "description": "The Republic of Ireland Act comes into force, declaring Éire to be a republic and severing Ireland's \"association\" with the Commonwealth of Nations.",
+      "html": "<li>\n<a href=\"/wiki/1949\" title=\"1949\">1949</a> – The <a href=\"/wiki/Republic_of_Ireland_Act_1948\" class=\"mw-redirect\" title=\"Republic of Ireland Act 1948\">Republic of Ireland Act</a> comes into force, declaring <i><a href=\"/wiki/%C3%89ire\" title=\"Éire\">Éire</a></i> to be a <a href=\"/wiki/Republic\" title=\"Republic\">republic</a> and severing <a href=\"/wiki/Ireland\" title=\"Ireland\">Ireland</a><span class=\"nowrap\" style=\"padding-left:0.1em;\">'s</span> \"association\" with the <a href=\"/wiki/Commonwealth_of_Nations\" title=\"Commonwealth of Nations\">Commonwealth of Nations</a>.<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Republic of Ireland Act 1948",
+          "url": "/wiki/Republic_of_Ireland_Act_1948",
+          "length": 93
+        },
+        {
+          "name": "Éire",
+          "url": "/wiki/%C3%89ire",
+          "length": 22888
+        },
+        {
+          "name": "Republic",
+          "url": "/wiki/Republic",
+          "length": 77039
+        },
+        {
+          "name": "Ireland",
+          "url": "/wiki/Ireland",
+          "length": 216077
+        },
+        {
+          "name": "Commonwealth of Nations",
+          "url": "/wiki/Commonwealth_of_Nations",
+          "length": 171901
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "The Republic of Zimbabwe (formerly Rhodesia) comes into being, with Canaan Banana as the country's first President. The Zimbabwean dollar replaces the Rhodesian dollar as the official currency.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – The <a href=\"/wiki/Republic_of_Zimbabwe\" class=\"mw-redirect\" title=\"Republic of Zimbabwe\">Republic of Zimbabwe</a> (formerly <a href=\"/wiki/Rhodesia\" title=\"Rhodesia\">Rhodesia</a>) comes into being, with <a href=\"/wiki/Canaan_Banana\" title=\"Canaan Banana\">Canaan Banana</a> as the country's first President. The <a href=\"/wiki/Zimbabwean_dollar\" title=\"Zimbabwean dollar\">Zimbabwean dollar</a> replaces the <a href=\"/wiki/Rhodesian_dollar\" title=\"Rhodesian dollar\">Rhodesian dollar</a> as the official currency.</li>",
+      "entities": [
+        {
+          "name": "Republic of Zimbabwe",
+          "url": "/wiki/Republic_of_Zimbabwe",
+          "length": 22
+        },
+        {
+          "name": "Rhodesia",
+          "url": "/wiki/Rhodesia",
+          "length": 160945
+        },
+        {
+          "name": "Canaan Banana",
+          "url": "/wiki/Canaan_Banana",
+          "length": 20959
+        },
+        {
+          "name": "Zimbabwean dollar",
+          "url": "/wiki/Zimbabwean_dollar",
+          "length": 107986
+        },
+        {
+          "name": "Rhodesian dollar",
+          "url": "/wiki/Rhodesian_dollar",
+          "length": 9838
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "Battle of Dybbøl: A Prussian-Austrian army defeats Denmark and gains control of Schleswig. Denmark surrenders the province in the following peace settlement.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/Battle_of_Dybb%C3%B8l\" title=\"Battle of Dybbøl\">Battle of Dybbøl</a>: A <a href=\"/wiki/Kingdom_of_Prussia\" title=\"Kingdom of Prussia\">Prussian</a>-<a href=\"/wiki/Austrian_Empire\" title=\"Austrian Empire\">Austrian</a> army defeats Denmark and gains control of <a href=\"/wiki/Duchy_of_Schleswig\" title=\"Duchy of Schleswig\">Schleswig</a>. Denmark surrenders the province in the following peace settlement.</li>",
+      "entities": [
+        {
+          "name": "Battle of Dybbøl",
+          "url": "/wiki/Battle_of_Dybb%C3%B8l",
+          "length": 21043
+        },
+        {
+          "name": "Kingdom of Prussia",
+          "url": "/wiki/Kingdom_of_Prussia",
+          "length": 76583
+        },
+        {
+          "name": "Austrian Empire",
+          "url": "/wiki/Austrian_Empire",
+          "length": 49621
+        },
+        {
+          "name": "Duchy of Schleswig",
+          "url": "/wiki/Duchy_of_Schleswig",
+          "length": 22720
+        }
+      ]
+    },
+    {
+      "year": "1775",
+      "description": "American Revolution: The British advancement by sea begins; Paul Revere and other riders warn the countryside of the troop movements.",
+      "html": "<li>\n<a href=\"/wiki/1775\" title=\"1775\">1775</a> – <a href=\"/wiki/American_Revolution\" title=\"American Revolution\">American Revolution</a>: The <a href=\"/wiki/Battles_of_Lexington_and_Concord\" title=\"Battles of Lexington and Concord\">British advancement by sea</a> begins; <a href=\"/wiki/Paul_Revere\" title=\"Paul Revere\">Paul Revere</a> and other riders <a href=\"/wiki/Paul_Revere%27s_Midnight_Ride\" class=\"mw-redirect\" title=\"Paul Revere's Midnight Ride\">warn the countryside</a> of the troop movements.</li>",
+      "entities": [
+        {
+          "name": "American Revolution",
+          "url": "/wiki/American_Revolution",
+          "length": 188028
+        },
+        {
+          "name": "Battles of Lexington and Concord",
+          "url": "/wiki/Battles_of_Lexington_and_Concord",
+          "length": 125350
+        },
+        {
+          "name": "Paul Revere",
+          "url": "/wiki/Paul_Revere",
+          "length": 51194
+        },
+        {
+          "name": "Paul Revere's Midnight Ride",
+          "url": "/wiki/Paul_Revere%27s_Midnight_Ride",
+          "length": 88
+        }
+      ]
+    },
+    {
+      "year": "796",
+      "description": "King Æthelred I of Northumbria is murdered in Corbridge by a group led by his ealdormen, Ealdred and Wada. The patrician Osbald is crowned, but abdicates within 27 days.",
+      "html": "<li>\n<a href=\"/wiki/796\" title=\"796\">796</a> – King <a href=\"/wiki/%C3%86thelred_I_of_Northumbria\" title=\"Æthelred I of Northumbria\">Æthelred I of Northumbria</a> is murdered in <a href=\"/wiki/Coria_(Corbridge)\" title=\"Coria (Corbridge)\">Corbridge</a> by a group led by his <a href=\"/wiki/Ealdormen\" class=\"mw-redirect\" title=\"Ealdormen\">ealdormen</a>, Ealdred and Wada. The <i>patrician</i> <a href=\"/wiki/Osbald_of_Northumbria\" title=\"Osbald of Northumbria\">Osbald</a> is crowned, but abdicates within 27 days.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Æthelred I of Northumbria",
+          "url": "/wiki/%C3%86thelred_I_of_Northumbria",
+          "length": 5959
+        },
+        {
+          "name": "Coria (Corbridge)",
+          "url": "/wiki/Coria_(Corbridge)",
+          "length": 16309
+        },
+        {
+          "name": "Ealdormen",
+          "url": "/wiki/Ealdormen",
+          "length": 41
+        },
+        {
+          "name": "Osbald of Northumbria",
+          "url": "/wiki/Osbald_of_Northumbria",
+          "length": 2990
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Miguel Cabrera, Venezuelan baseball player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Miguel_Cabrera\" title=\"Miguel Cabrera\">Miguel Cabrera</a>, Venezuelan baseball player<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Miguel Cabrera",
+          "url": "/wiki/Miguel_Cabrera",
+          "length": 137557
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "Albert Einstein, German-American physicist, engineer, and academic, died.",
+      "html": "<li>\n<a href=\"/wiki/1955\" title=\"1955\">1955</a> – <a href=\"/wiki/Albert_Einstein\" title=\"Albert Einstein\">Albert Einstein</a>, German-American physicist, engineer, and academic (b. 1879)</li>",
+      "entities": [
+        {
+          "name": "Albert Einstein",
+          "url": "/wiki/Albert_Einstein",
+          "length": 228918
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1963",
+      "description": "Conan O'Brien, American television host, comedian, and podcaster, was born.",
+      "html": "<li>1963   – <a href=\"/wiki/Conan_O%27Brien\" title=\"Conan O'Brien\">Conan O'Brien</a>, American television host, comedian, and podcaster<sup id=\"cite_ref-:1_27-0\" class=\"reference\"><a href=\"#cite_note-:1-27\"><span class=\"cite-bracket\">[</span>27<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Conan O'Brien",
+          "url": "/wiki/Conan_O%27Brien",
+          "length": 206678
+        }
+      ]
+    },
+    {
+      "year": "1964",
+      "description": "Niall Ferguson, Scottish historian and academic, was born.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Niall_Ferguson\" title=\"Niall Ferguson\">Niall Ferguson</a>, Scottish historian and academic</li>",
+      "entities": [
+        {
+          "name": "Niall Ferguson",
+          "url": "/wiki/Niall_Ferguson",
+          "length": 144903
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Miguel Cabrera, Venezuelan baseball player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Miguel_Cabrera\" title=\"Miguel Cabrera\">Miguel Cabrera</a>, Venezuelan baseball player<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Miguel Cabrera",
+          "url": "/wiki/Miguel_Cabrera",
+          "length": 137557
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1955",
+      "description": "Albert Einstein, German-American physicist, engineer, and academic, died.",
+      "html": "<li>\n<a href=\"/wiki/1955\" title=\"1955\">1955</a> – <a href=\"/wiki/Albert_Einstein\" title=\"Albert Einstein\">Albert Einstein</a>, German-American physicist, engineer, and academic (b. 1879)</li>",
+      "entities": [
+        {
+          "name": "Albert Einstein",
+          "url": "/wiki/Albert_Einstein",
+          "length": 228918
+        }
+      ]
+    },
+    {
+      "year": "1964",
+      "description": "Ben Hecht, American director, producer, and screenwriter, died.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Ben_Hecht\" title=\"Ben Hecht\">Ben Hecht</a>, American director, producer, and screenwriter (b. 1894)</li>",
+      "entities": [
+        {
+          "name": "Ben Hecht",
+          "url": "/wiki/Ben_Hecht",
+          "length": 87847
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Arturo Frondizi, Argentinian lawyer and politician, 32nd President of Argentina, died.",
+      "html": "<li>\n<a href=\"/wiki/1995\" title=\"1995\">1995</a> – <a href=\"/wiki/Arturo_Frondizi\" title=\"Arturo Frondizi\">Arturo Frondizi</a>, Argentinian lawyer and politician, 32nd <a href=\"/wiki/President_of_Argentina\" title=\"President of Argentina\">President of Argentina</a> (b. 1908)</li>",
+      "entities": [
+        {
+          "name": "Arturo Frondizi",
+          "url": "/wiki/Arturo_Frondizi",
+          "length": 84079
+        },
+        {
+          "name": "President of Argentina",
+          "url": "/wiki/President_of_Argentina",
+          "length": 25698
+        }
+      ]
+    }
+  ]
+}

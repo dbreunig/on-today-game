@@ -1,0 +1,351 @@
+{
+  "events": [
+    {
+      "year": "1863",
+      "description": "American Civil War: Battle of Lookout Mountain: Near Chattanooga, Tennessee, Union forces under General Ulysses S. Grant capture Lookout Mountain and begin to break the Confederate siege of the city led by General Braxton Bragg.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Third_Battle_of_Chattanooga\" class=\"mw-redirect\" title=\"Third Battle of Chattanooga\">Battle of Lookout Mountain</a>: Near <a href=\"/wiki/Chattanooga,_Tennessee\" title=\"Chattanooga, Tennessee\">Chattanooga, Tennessee</a>, <a href=\"/wiki/United_States\" title=\"United States\">Union</a> forces under General <a href=\"/wiki/Ulysses_S._Grant\" title=\"Ulysses S. Grant\">Ulysses S. Grant</a> capture <a href=\"/wiki/Lookout_Mountain\" title=\"Lookout Mountain\">Lookout Mountain</a> and begin to break the <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> siege of the city led by General <a href=\"/wiki/Braxton_Bragg\" title=\"Braxton Bragg\">Braxton Bragg</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Third Battle of Chattanooga",
+          "url": "/wiki/Third_Battle_of_Chattanooga",
+          "length": 34
+        },
+        {
+          "name": "Chattanooga, Tennessee",
+          "url": "/wiki/Chattanooga,_Tennessee",
+          "length": 208701
+        },
+        {
+          "name": "United States",
+          "url": "/wiki/United_States",
+          "length": 336851
+        },
+        {
+          "name": "Ulysses S. Grant",
+          "url": "/wiki/Ulysses_S._Grant",
+          "length": 190178
+        },
+        {
+          "name": "Lookout Mountain",
+          "url": "/wiki/Lookout_Mountain",
+          "length": 16637
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Braxton Bragg",
+          "url": "/wiki/Braxton_Bragg",
+          "length": 67894
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "description": "Donald Johanson and Tom Gray discover the 40% complete Australopithecus afarensis skeleton, nicknamed \"Lucy\" (after The Beatles song \"Lucy in the Sky with Diamonds\"), in the Awash Valley of Ethiopia's Afar Depression.",
+      "html": "<li>\n<a href=\"/wiki/1974\" title=\"1974\">1974</a> – <a href=\"/wiki/Donald_Johanson\" title=\"Donald Johanson\">Donald Johanson</a> and Tom Gray discover the 40% complete <i><a href=\"/wiki/Australopithecus_afarensis\" title=\"Australopithecus afarensis\">Australopithecus afarensis</a></i> skeleton, nicknamed \"<a href=\"/wiki/Lucy_(Australopithecus)\" title=\"Lucy (Australopithecus)\">Lucy</a>\" (after <a href=\"/wiki/The_Beatles\" title=\"The Beatles\">The Beatles</a> song \"<a href=\"/wiki/Lucy_in_the_Sky_with_Diamonds\" title=\"Lucy in the Sky with Diamonds\">Lucy in the Sky with Diamonds</a>\"), in the <a href=\"/wiki/Awash_River\" title=\"Awash River\">Awash Valley</a> of <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a>'s <a href=\"/wiki/Afar_Triangle\" title=\"Afar Triangle\">Afar Depression</a>.</li>",
+      "entities": [
+        {
+          "name": "Donald Johanson",
+          "url": "/wiki/Donald_Johanson",
+          "length": 11217
+        },
+        {
+          "name": "Australopithecus afarensis",
+          "url": "/wiki/Australopithecus_afarensis",
+          "length": 67825
+        },
+        {
+          "name": "Lucy (Australopithecus)",
+          "url": "/wiki/Lucy_(Australopithecus)",
+          "length": 40401
+        },
+        {
+          "name": "The Beatles",
+          "url": "/wiki/The_Beatles",
+          "length": 222474
+        },
+        {
+          "name": "Lucy in the Sky with Diamonds",
+          "url": "/wiki/Lucy_in_the_Sky_with_Diamonds",
+          "length": 50723
+        },
+        {
+          "name": "Awash River",
+          "url": "/wiki/Awash_River",
+          "length": 33590
+        },
+        {
+          "name": "Ethiopia",
+          "url": "/wiki/Ethiopia",
+          "length": 231706
+        },
+        {
+          "name": "Afar Triangle",
+          "url": "/wiki/Afar_Triangle",
+          "length": 15702
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "description": "Five days after the general elections which resulted in a hung parliament, opposition leader and former deputy prime minister Anwar Ibrahim is officially named as the 10th prime minister of Malaysia.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – Five days after <a href=\"/wiki/2022_Malaysian_general_election\" title=\"2022 Malaysian general election\">the general elections</a> which resulted in a <a href=\"/wiki/Hung_parliament\" title=\"Hung parliament\">hung parliament</a>, <a href=\"/wiki/Leader_of_the_Opposition\" title=\"Leader of the Opposition\">opposition leader</a> and <a href=\"/wiki/Deputy_Prime_Minister_of_Malaysia\" title=\"Deputy Prime Minister of Malaysia\">former deputy prime minister</a> <a href=\"/wiki/Anwar_Ibrahim\" title=\"Anwar Ibrahim\">Anwar Ibrahim</a> is officially named as <a href=\"/wiki/Prime_Minister_of_Malaysia\" title=\"Prime Minister of Malaysia\">the 10th prime minister of Malaysia</a>.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "2022 Malaysian general election",
+          "url": "/wiki/2022_Malaysian_general_election",
+          "length": 344514
+        },
+        {
+          "name": "Hung parliament",
+          "url": "/wiki/Hung_parliament",
+          "length": 58147
+        },
+        {
+          "name": "Leader of the Opposition",
+          "url": "/wiki/Leader_of_the_Opposition",
+          "length": 8072
+        },
+        {
+          "name": "Deputy Prime Minister of Malaysia",
+          "url": "/wiki/Deputy_Prime_Minister_of_Malaysia",
+          "length": 19663
+        },
+        {
+          "name": "Anwar Ibrahim",
+          "url": "/wiki/Anwar_Ibrahim",
+          "length": 178943
+        },
+        {
+          "name": "Prime Minister of Malaysia",
+          "url": "/wiki/Prime_Minister_of_Malaysia",
+          "length": 23419
+        }
+      ]
+    },
+    {
+      "year": "1906",
+      "description": "A 13–6 victory by the Massillon Tigers over their rivals, the Canton Bulldogs, for the \"Ohio League\" Championship, leads to accusations that the championship series was fixed and results in the first major scandal in professional American football.",
+      "html": "<li>\n<a href=\"/wiki/1906\" title=\"1906\">1906</a> – A 13–6 victory by the <a href=\"/wiki/Massillon_Tigers\" title=\"Massillon Tigers\">Massillon Tigers</a> over their rivals, the <a href=\"/wiki/Canton_Bulldogs\" title=\"Canton Bulldogs\">Canton Bulldogs</a>, for the \"<a href=\"/wiki/Ohio_League\" title=\"Ohio League\">Ohio League</a>\" Championship, leads to accusations that the championship series was <a href=\"/wiki/Match_fixing\" title=\"Match fixing\">fixed</a> and results in <a href=\"/wiki/Canton_Bulldogs%E2%80%93Massillon_Tigers_betting_scandal\" title=\"Canton Bulldogs–Massillon Tigers betting scandal\">the first major scandal</a> in professional <a href=\"/wiki/American_football\" title=\"American football\">American football</a>.</li>",
+      "entities": [
+        {
+          "name": "Massillon Tigers",
+          "url": "/wiki/Massillon_Tigers",
+          "length": 30402
+        },
+        {
+          "name": "Canton Bulldogs",
+          "url": "/wiki/Canton_Bulldogs",
+          "length": 30910
+        },
+        {
+          "name": "Ohio League",
+          "url": "/wiki/Ohio_League",
+          "length": 12921
+        },
+        {
+          "name": "Match fixing",
+          "url": "/wiki/Match_fixing",
+          "length": 93540
+        },
+        {
+          "name": "Canton Bulldogs–Massillon Tigers betting scandal",
+          "url": "/wiki/Canton_Bulldogs%E2%80%93Massillon_Tigers_betting_scandal",
+          "length": 26085
+        },
+        {
+          "name": "American football",
+          "url": "/wiki/American_football",
+          "length": 160030
+        }
+      ]
+    },
+    {
+      "year": "1929",
+      "description": "The Finnish far-right Lapua Movement officially begins when a group of mainly the former White Guard members, led by Vihtori Kosola, interrupted communism occasion at the Workers' House in Lapua, Finland.",
+      "html": "<li>\n<a href=\"/wiki/1929\" title=\"1929\">1929</a> – The Finnish far-right <a href=\"/wiki/Lapua_Movement\" title=\"Lapua Movement\">Lapua Movement</a> officially begins when a group of mainly the former <a href=\"/wiki/White_Guard_(Finland)\" title=\"White Guard (Finland)\">White Guard</a> members, led by <a href=\"/wiki/Vihtori_Kosola\" title=\"Vihtori Kosola\">Vihtori Kosola</a>, interrupted <a href=\"/wiki/Communism\" title=\"Communism\">communism</a> occasion at the Workers' House in <a href=\"/wiki/Lapua,_Finland\" class=\"mw-redirect\" title=\"Lapua, Finland\">Lapua, Finland</a>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Lapua Movement",
+          "url": "/wiki/Lapua_Movement",
+          "length": 18551
+        },
+        {
+          "name": "White Guard (Finland)",
+          "url": "/wiki/White_Guard_(Finland)",
+          "length": 25811
+        },
+        {
+          "name": "Vihtori Kosola",
+          "url": "/wiki/Vihtori_Kosola",
+          "length": 6499
+        },
+        {
+          "name": "Communism",
+          "url": "/wiki/Communism",
+          "length": 287701
+        },
+        {
+          "name": "Lapua, Finland",
+          "url": "/wiki/Lapua,_Finland",
+          "length": 19
+        }
+      ]
+    },
+    {
+      "year": "1750",
+      "description": "Tarabai, regent of the Maratha Empire, imprisons Rajaram II of Satara for refusing to remove Balaji Baji Rao from the post of peshwa.",
+      "html": "<li>\n<a href=\"/wiki/1750\" title=\"1750\">1750</a> – <a href=\"/wiki/Tarabai\" title=\"Tarabai\">Tarabai</a>, regent of the <a href=\"/wiki/Maratha_Confederacy\" title=\"Maratha Confederacy\">Maratha Empire</a>, imprisons <a href=\"/wiki/Rajaram_II_of_Satara\" title=\"Rajaram II of Satara\">Rajaram II of Satara</a> for refusing to remove <a href=\"/wiki/Balaji_Baji_Rao\" title=\"Balaji Baji Rao\">Balaji Baji Rao</a> from the post of <a href=\"/wiki/Peshwa\" title=\"Peshwa\">peshwa</a>.</li>",
+      "entities": [
+        {
+          "name": "Tarabai",
+          "url": "/wiki/Tarabai",
+          "length": 15818
+        },
+        {
+          "name": "Maratha Confederacy",
+          "url": "/wiki/Maratha_Confederacy",
+          "length": 105420
+        },
+        {
+          "name": "Rajaram II of Satara",
+          "url": "/wiki/Rajaram_II_of_Satara",
+          "length": 5917
+        },
+        {
+          "name": "Balaji Baji Rao",
+          "url": "/wiki/Balaji_Baji_Rao",
+          "length": 35548
+        },
+        {
+          "name": "Peshwa",
+          "url": "/wiki/Peshwa",
+          "length": 19369
+        }
+      ]
+    },
+    {
+      "year": "1729",
+      "description": "Alexander Suvorov, Russian field marshal, was born.",
+      "html": "<li>\n<a href=\"/wiki/1729\" title=\"1729\">1729</a> – <a href=\"/wiki/Alexander_Suvorov\" title=\"Alexander Suvorov\">Alexander Suvorov</a>, Russian field marshal (d. 1800)</li>",
+      "entities": [
+        {
+          "name": "Alexander Suvorov",
+          "url": "/wiki/Alexander_Suvorov",
+          "length": 201773
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "Freddie Mercury, Tanzanian-English singer-songwriter, lead vocalist of Queen, and producer, died.",
+      "html": "<li>\n<a href=\"/wiki/1991\" title=\"1991\">1991</a> – <a href=\"/wiki/Freddie_Mercury\" title=\"Freddie Mercury\">Freddie Mercury</a>, Tanzanian-English singer-songwriter, lead vocalist of <a href=\"/wiki/Queen_(band)\" title=\"Queen (band)\">Queen</a>, and producer (b. 1946)<sup id=\"cite_ref-39\" class=\"reference\"><a href=\"#cite_note-39\"><span class=\"cite-bracket\">[</span>39<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Freddie Mercury",
+          "url": "/wiki/Freddie_Mercury",
+          "length": 186318
+        },
+        {
+          "name": "Queen (band)",
+          "url": "/wiki/Queen_(band)",
+          "length": 284631
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1946",
+      "description": "Ted Bundy, American serial killer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – <a href=\"/wiki/Ted_Bundy\" title=\"Ted Bundy\">Ted Bundy</a>, American serial killer (d. 1989)<sup id=\"cite_ref-UPI_19-3\" class=\"reference\"><a href=\"#cite_note-UPI-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ted Bundy",
+          "url": "/wiki/Ted_Bundy",
+          "length": 203005
+        }
+      ]
+    },
+    {
+      "year": "1729",
+      "description": "Alexander Suvorov, Russian field marshal, was born.",
+      "html": "<li>\n<a href=\"/wiki/1729\" title=\"1729\">1729</a> – <a href=\"/wiki/Alexander_Suvorov\" title=\"Alexander Suvorov\">Alexander Suvorov</a>, Russian field marshal (d. 1800)</li>",
+      "entities": [
+        {
+          "name": "Alexander Suvorov",
+          "url": "/wiki/Alexander_Suvorov",
+          "length": 201773
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "Ian Botham, English cricketer, footballer, and sportscaster, was born.",
+      "html": "<li>\n<a href=\"/wiki/1955\" title=\"1955\">1955</a> – <a href=\"/wiki/Ian_Botham\" title=\"Ian Botham\">Ian Botham</a>, English cricketer, footballer, and sportscaster</li>",
+      "entities": [
+        {
+          "name": "Ian Botham",
+          "url": "/wiki/Ian_Botham",
+          "length": 159888
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1991",
+      "description": "Freddie Mercury, Tanzanian-English singer-songwriter, lead vocalist of Queen, and producer, died.",
+      "html": "<li>\n<a href=\"/wiki/1991\" title=\"1991\">1991</a> – <a href=\"/wiki/Freddie_Mercury\" title=\"Freddie Mercury\">Freddie Mercury</a>, Tanzanian-English singer-songwriter, lead vocalist of <a href=\"/wiki/Queen_(band)\" title=\"Queen (band)\">Queen</a>, and producer (b. 1946)<sup id=\"cite_ref-39\" class=\"reference\"><a href=\"#cite_note-39\"><span class=\"cite-bracket\">[</span>39<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Freddie Mercury",
+          "url": "/wiki/Freddie_Mercury",
+          "length": 186318
+        },
+        {
+          "name": "Queen (band)",
+          "url": "/wiki/Queen_(band)",
+          "length": 284631
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Lee Harvey Oswald, American assassin of John F. Kennedy, died.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Lee_Harvey_Oswald\" title=\"Lee Harvey Oswald\">Lee Harvey Oswald</a>, American assassin of <a href=\"/wiki/John_F._Kennedy\" title=\"John F. Kennedy\">John F. Kennedy</a> (b. 1939)</li>",
+      "entities": [
+        {
+          "name": "Lee Harvey Oswald",
+          "url": "/wiki/Lee_Harvey_Oswald",
+          "length": 172098
+        },
+        {
+          "name": "John F. Kennedy",
+          "url": "/wiki/John_F._Kennedy",
+          "length": 236120
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "description": "Alexandru Macedonski, Romanian author and poet, died.",
+      "html": "<li>1920   – <a href=\"/wiki/Alexandru_Macedonski\" title=\"Alexandru Macedonski\">Alexandru Macedonski</a>, Romanian author and poet (b. 1854)</li>",
+      "entities": [
+        {
+          "name": "Alexandru Macedonski",
+          "url": "/wiki/Alexandru_Macedonski",
+          "length": 146902
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": "1862",
+      "description": "American Civil War: General Ulysses S. Grant issues General Order No. 11, expelling Jews from parts of Tennessee, Mississippi, and Kentucky.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: General <a href=\"/wiki/Ulysses_S._Grant\" title=\"Ulysses S. Grant\">Ulysses S. Grant</a> issues <i><a href=\"/wiki/General_Order_No._11_(1862)\" title=\"General Order No. 11 (1862)\">General Order No. 11</a></i>, expelling <a href=\"/wiki/Jews\" title=\"Jews\">Jews</a> from parts of <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, and <a href=\"/wiki/Kentucky\" title=\"Kentucky\">Kentucky</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Ulysses S. Grant",
+          "url": "/wiki/Ulysses_S._Grant",
+          "length": 190178
+        },
+        {
+          "name": "General Order No. 11 (1862)",
+          "url": "/wiki/General_Order_No._11_(1862)",
+          "length": 37549
+        },
+        {
+          "name": "Jews",
+          "url": "/wiki/Jews",
+          "length": 219420
+        },
+        {
+          "name": "Tennessee",
+          "url": "/wiki/Tennessee",
+          "length": 254762
+        },
+        {
+          "name": "Mississippi",
+          "url": "/wiki/Mississippi",
+          "length": 170103
+        },
+        {
+          "name": "Kentucky",
+          "url": "/wiki/Kentucky",
+          "length": 216666
+        }
+      ]
+    },
+    {
+      "year": "1933",
+      "description": "The first NFL Championship Game is played at Wrigley Field in Chicago between the New York Giants and Chicago Bears. The Bears won 23–21.",
+      "html": "<li>\n<a href=\"/wiki/1933\" title=\"1933\">1933</a> – The <a href=\"/wiki/1933_NFL_Championship_Game\" title=\"1933 NFL Championship Game\">first NFL Championship Game</a> is played at <a href=\"/wiki/Wrigley_Field\" title=\"Wrigley Field\">Wrigley Field</a> in <a href=\"/wiki/Chicago\" title=\"Chicago\">Chicago</a> between the <a href=\"/wiki/New_York_Giants\" title=\"New York Giants\">New York Giants</a> and <a href=\"/wiki/Chicago_Bears\" title=\"Chicago Bears\">Chicago Bears</a>. The Bears won 23–21.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "1933 NFL Championship Game",
+          "url": "/wiki/1933_NFL_Championship_Game",
+          "length": 17102
+        },
+        {
+          "name": "Wrigley Field",
+          "url": "/wiki/Wrigley_Field",
+          "length": 137966
+        },
+        {
+          "name": "Chicago",
+          "url": "/wiki/Chicago",
+          "length": 258829
+        },
+        {
+          "name": "New York Giants",
+          "url": "/wiki/New_York_Giants",
+          "length": 176356
+        },
+        {
+          "name": "Chicago Bears",
+          "url": "/wiki/Chicago_Bears",
+          "length": 240856
+        }
+      ]
+    },
+    {
+      "year": "1939",
+      "description": "World War II: Battle of the River Plate: The Admiral Graf Spee is scuttled by Captain Hans Langsdorff outside Montevideo.",
+      "html": "<li>\n<a href=\"/wiki/1939\" title=\"1939\">1939</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Battle_of_the_River_Plate\" title=\"Battle of the River Plate\">Battle of the River Plate</a>: The <i><a href=\"/wiki/German_cruiser_Admiral_Graf_Spee\" title=\"German cruiser Admiral Graf Spee\">Admiral Graf Spee</a></i> is scuttled by Captain <a href=\"/wiki/Hans_Langsdorff\" title=\"Hans Langsdorff\">Hans Langsdorff</a> outside <a href=\"/wiki/Montevideo\" title=\"Montevideo\">Montevideo</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 254994
+        },
+        {
+          "name": "Battle of the River Plate",
+          "url": "/wiki/Battle_of_the_River_Plate",
+          "length": 67128
+        },
+        {
+          "name": "German cruiser Admiral Graf Spee",
+          "url": "/wiki/German_cruiser_Admiral_Graf_Spee",
+          "length": 36601
+        },
+        {
+          "name": "Hans Langsdorff",
+          "url": "/wiki/Hans_Langsdorff",
+          "length": 13700
+        },
+        {
+          "name": "Montevideo",
+          "url": "/wiki/Montevideo",
+          "length": 214596
+        }
+      ]
+    },
+    {
+      "year": "1819",
+      "description": "Simón Bolívar declares the independence of Gran Colombia in Angostura (now Ciudad Bolívar in Venezuela).",
+      "html": "<li>\n<a href=\"/wiki/1819\" title=\"1819\">1819</a> – <a href=\"/wiki/Sim%C3%B3n_Bol%C3%ADvar\" title=\"Simón Bolívar\">Simón Bolívar</a> declares the independence of <a href=\"/wiki/Gran_Colombia\" title=\"Gran Colombia\">Gran Colombia</a> in Angostura (now <a href=\"/wiki/Ciudad_Bol%C3%ADvar\" title=\"Ciudad Bolívar\">Ciudad Bolívar</a> in <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a>).</li>",
+      "entities": [
+        {
+          "name": "Simón Bolívar",
+          "url": "/wiki/Sim%C3%B3n_Bol%C3%ADvar",
+          "length": 108711
+        },
+        {
+          "name": "Gran Colombia",
+          "url": "/wiki/Gran_Colombia",
+          "length": 33155
+        },
+        {
+          "name": "Ciudad Bolívar",
+          "url": "/wiki/Ciudad_Bol%C3%ADvar",
+          "length": 25168
+        },
+        {
+          "name": "Venezuela",
+          "url": "/wiki/Venezuela",
+          "length": 306614
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "description": "Mohamed Bouazizi sets himself on fire. This act became the catalyst for the Tunisian Revolution and the wider Arab Spring.",
+      "html": "<li>\n<a href=\"/wiki/2010\" title=\"2010\">2010</a> – <a href=\"/wiki/Mohamed_Bouazizi\" title=\"Mohamed Bouazizi\">Mohamed Bouazizi</a> <a href=\"/wiki/Self-immolation\" title=\"Self-immolation\">sets himself on fire</a>. This act became the catalyst for the <a href=\"/wiki/Tunisian_Revolution\" class=\"mw-redirect\" title=\"Tunisian Revolution\">Tunisian Revolution</a> and the wider <a href=\"/wiki/Arab_Spring\" title=\"Arab Spring\">Arab Spring</a>.</li>",
+      "entities": [
+        {
+          "name": "Mohamed Bouazizi",
+          "url": "/wiki/Mohamed_Bouazizi",
+          "length": 54393
+        },
+        {
+          "name": "Self-immolation",
+          "url": "/wiki/Self-immolation",
+          "length": 30217
+        },
+        {
+          "name": "Tunisian Revolution",
+          "url": "/wiki/Tunisian_Revolution",
+          "length": 111
+        },
+        {
+          "name": "Arab Spring",
+          "url": "/wiki/Arab_Spring",
+          "length": 301277
+        }
+      ]
+    },
+    {
+      "year": "546",
+      "description": "Siege of Rome: The Ostrogoths under king Totila plunder the city, by bribing the Byzantine garrison.",
+      "html": "<li>\n<a href=\"/wiki/546\" title=\"546\">546</a> – <a href=\"/wiki/Sack_of_Rome_(546)\" title=\"Sack of Rome (546)\">Siege of Rome</a>: The <a href=\"/wiki/Ostrogoths\" title=\"Ostrogoths\">Ostrogoths</a> under king <a href=\"/wiki/Totila\" title=\"Totila\">Totila</a> plunder the city, by bribing the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine</a> garrison.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sack of Rome (546)",
+          "url": "/wiki/Sack_of_Rome_(546)",
+          "length": 5566
+        },
+        {
+          "name": "Ostrogoths",
+          "url": "/wiki/Ostrogoths",
+          "length": 58978
+        },
+        {
+          "name": "Totila",
+          "url": "/wiki/Totila",
+          "length": 31047
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201623
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Chelsea Manning, American soldier and intelligence analyst, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Chelsea_Manning\" title=\"Chelsea Manning\">Chelsea Manning</a>, American soldier and intelligence analyst<sup id=\"cite_ref-UPI_20-3\" class=\"reference\"><a href=\"#cite_note-UPI-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Chelsea Manning",
+          "url": "/wiki/Chelsea_Manning",
+          "length": 257362
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "description": "Captain Beefheart, American singer-songwriter, died.",
+      "html": "<li>\n<a href=\"/wiki/2010\" title=\"2010\">2010</a> – <a href=\"/wiki/Captain_Beefheart\" title=\"Captain Beefheart\">Captain Beefheart</a>, American singer-songwriter (b. 1941)</li>",
+      "entities": [
+        {
+          "name": "Captain Beefheart",
+          "url": "/wiki/Captain_Beefheart",
+          "length": 124223
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1936",
+      "description": "Pope Francis, was born.",
+      "html": "<li>\n<a href=\"/wiki/1936\" title=\"1936\">1936</a> – <a href=\"/wiki/Pope_Francis\" title=\"Pope Francis\">Pope Francis</a><sup id=\"cite_ref-AP_21-0\" class=\"reference\"><a href=\"#cite_note-AP-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pope Francis",
+          "url": "/wiki/Pope_Francis",
+          "length": 389976
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "description": "Paul Tracy, Canadian race car driver and sportscaster, was born.",
+      "html": "<li>1968   – <a href=\"/wiki/Paul_Tracy\" title=\"Paul Tracy\">Paul Tracy</a>, Canadian race car driver and sportscaster</li>",
+      "entities": [
+        {
+          "name": "Paul Tracy",
+          "url": "/wiki/Paul_Tracy",
+          "length": 266907
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Chelsea Manning, American soldier and intelligence analyst, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Chelsea_Manning\" title=\"Chelsea Manning\">Chelsea Manning</a>, American soldier and intelligence analyst<sup id=\"cite_ref-UPI_20-3\" class=\"reference\"><a href=\"#cite_note-UPI-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Chelsea Manning",
+          "url": "/wiki/Chelsea_Manning",
+          "length": 257362
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2010",
+      "description": "Captain Beefheart, American singer-songwriter, died.",
+      "html": "<li>\n<a href=\"/wiki/2010\" title=\"2010\">2010</a> – <a href=\"/wiki/Captain_Beefheart\" title=\"Captain Beefheart\">Captain Beefheart</a>, American singer-songwriter (b. 1941)</li>",
+      "entities": [
+        {
+          "name": "Captain Beefheart",
+          "url": "/wiki/Captain_Beefheart",
+          "length": 124223
+        }
+      ]
+    },
+    {
+      "year": "1830",
+      "description": "Simón Bolívar, Venezuelan general and politician, second President of Venezuela, died.",
+      "html": "<li>\n<a href=\"/wiki/1830\" title=\"1830\">1830</a> – <a href=\"/wiki/Sim%C3%B3n_Bol%C3%ADvar\" title=\"Simón Bolívar\">Simón Bolívar</a>, Venezuelan general and politician, second <a href=\"/wiki/President_of_Venezuela\" title=\"President of Venezuela\">President of Venezuela</a> (b. 1783)</li>",
+      "entities": [
+        {
+          "name": "Simón Bolívar",
+          "url": "/wiki/Sim%C3%B3n_Bol%C3%ADvar",
+          "length": 108711
+        },
+        {
+          "name": "President of Venezuela",
+          "url": "/wiki/President_of_Venezuela",
+          "length": 30926
+        }
+      ]
+    },
+    {
+      "year": "1957",
+      "description": "Dorothy L. Sayers, English author, poet, and playwright, died.",
+      "html": "<li>\n<a href=\"/wiki/1957\" title=\"1957\">1957</a> – <a href=\"/wiki/Dorothy_L._Sayers\" title=\"Dorothy L. Sayers\">Dorothy L. Sayers</a>, English author, poet, and playwright (b. 1893)</li>",
+      "entities": [
+        {
+          "name": "Dorothy L. Sayers",
+          "url": "/wiki/Dorothy_L._Sayers",
+          "length": 107570
+        }
+      ]
+    }
+  ]
+}

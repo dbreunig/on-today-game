@@ -1,0 +1,306 @@
+{
+  "events": [
+    {
+      "year": "1979",
+      "description": "Cold War: Nuclear false alarm: The NORAD computers and the Alternate National Military Command Center in Fort Ritchie, Maryland, detect a purported massive Soviet nuclear strike. After reviewing the raw data from satellites and checking the early-warning radars, the alert is cancelled.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Cold_War\" title=\"Cold War\">Cold War</a>: <a href=\"/wiki/North_American_Aerospace_Defense_Command#False_alarms\" class=\"mw-redirect\" title=\"North American Aerospace Defense Command\">Nuclear false alarm</a>: The <a href=\"/wiki/North_American_Aerospace_Defense_Command\" class=\"mw-redirect\" title=\"North American Aerospace Defense Command\">NORAD</a> computers and the Alternate National Military Command Center in <a href=\"/wiki/Fort_Ritchie,_Maryland\" title=\"Fort Ritchie, Maryland\">Fort Ritchie, Maryland</a>, detect a purported massive <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet</a> nuclear strike. After reviewing the raw data from satellites and checking the <a href=\"/wiki/Early-warning_radar\" title=\"Early-warning radar\">early-warning radars</a>, the alert is cancelled.</li>",
+      "entities": [
+        {
+          "name": "Cold War",
+          "url": "/wiki/Cold_War",
+          "length": null
+        },
+        {
+          "name": "North American Aerospace Defense Command",
+          "url": "/wiki/North_American_Aerospace_Defense_Command#False_alarms",
+          "length": null
+        },
+        {
+          "name": "North American Aerospace Defense Command",
+          "url": "/wiki/North_American_Aerospace_Defense_Command",
+          "length": null
+        },
+        {
+          "name": "Fort Ritchie, Maryland",
+          "url": "/wiki/Fort_Ritchie,_Maryland",
+          "length": null
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": null
+        },
+        {
+          "name": "Early-warning radar",
+          "url": "/wiki/Early-warning_radar",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "694",
+      "description": "At the Seventeenth Council of Toledo, Egica, a king of the Visigoths of Hispania, accuses Jews of aiding Muslims, sentencing all Jews to slavery.",
+      "html": "<li>\n<a href=\"/wiki/694\" title=\"694\">694</a> – At the <a href=\"/wiki/Seventeenth_Council_of_Toledo\" title=\"Seventeenth Council of Toledo\">Seventeenth Council of Toledo</a>, <a href=\"/wiki/Egica\" title=\"Egica\">Egica</a>, a king of the <a href=\"/wiki/Visigoths\" title=\"Visigoths\">Visigoths</a> of <a href=\"/wiki/Hispania\" title=\"Hispania\">Hispania</a>, accuses Jews of aiding Muslims, sentencing all Jews to <a href=\"/wiki/Slavery\" title=\"Slavery\">slavery</a>.</li>",
+      "entities": [
+        {
+          "name": "Seventeenth Council of Toledo",
+          "url": "/wiki/Seventeenth_Council_of_Toledo",
+          "length": 4145
+        },
+        {
+          "name": "Egica",
+          "url": "/wiki/Egica",
+          "length": 6742
+        },
+        {
+          "name": "Visigoths",
+          "url": "/wiki/Visigoths",
+          "length": 64770
+        },
+        {
+          "name": "Hispania",
+          "url": "/wiki/Hispania",
+          "length": 45935
+        },
+        {
+          "name": "Slavery",
+          "url": "/wiki/Slavery",
+          "length": 284640
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: Union General Ambrose Burnside assumes command of the Army of the Potomac, after George B. McClellan is removed.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/United_States\" title=\"United States\">Union</a> General <a href=\"/wiki/Ambrose_Burnside\" title=\"Ambrose Burnside\">Ambrose Burnside</a> assumes command of the <a href=\"/wiki/Army_of_the_Potomac\" title=\"Army of the Potomac\">Army of the Potomac</a>, after <a href=\"/wiki/George_B._McClellan\" title=\"George B. McClellan\">George B. McClellan</a> is removed.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "United States",
+          "url": "/wiki/United_States",
+          "length": 336851
+        },
+        {
+          "name": "Ambrose Burnside",
+          "url": "/wiki/Ambrose_Burnside",
+          "length": 48531
+        },
+        {
+          "name": "Army of the Potomac",
+          "url": "/wiki/Army_of_the_Potomac",
+          "length": 24403
+        },
+        {
+          "name": "George B. McClellan",
+          "url": "/wiki/George_B._McClellan",
+          "length": 114412
+        }
+      ]
+    },
+    {
+      "year": "1918",
+      "description": "Kaiser Wilhelm II of Germany abdicates after the German Revolution, and Germany is proclaimed a Republic.",
+      "html": "<li>\n<a href=\"/wiki/1918\" title=\"1918\">1918</a> – <a href=\"/wiki/Kaiser\" title=\"Kaiser\">Kaiser</a> <a href=\"/wiki/Wilhelm_II,_German_Emperor\" class=\"mw-redirect\" title=\"Wilhelm II, German Emperor\">Wilhelm II of Germany</a> abdicates after the <a href=\"/wiki/German_Revolution_of_1918%E2%80%9319\" class=\"mw-redirect\" title=\"German Revolution of 1918–19\">German Revolution</a>, and <a href=\"/wiki/Proclamation_of_the_republic_in_Germany\" title=\"Proclamation of the republic in Germany\">Germany is proclaimed</a> a <a href=\"/wiki/Weimar_Republic\" title=\"Weimar Republic\">Republic</a>.</li>",
+      "entities": [
+        {
+          "name": "Kaiser",
+          "url": "/wiki/Kaiser",
+          "length": 11378
+        },
+        {
+          "name": "Wilhelm II, German Emperor",
+          "url": "/wiki/Wilhelm_II,_German_Emperor",
+          "length": 40
+        },
+        {
+          "name": "German Revolution of 1918–19",
+          "url": "/wiki/German_Revolution_of_1918%E2%80%9319",
+          "length": 63
+        },
+        {
+          "name": "Proclamation of the republic in Germany",
+          "url": "/wiki/Proclamation_of_the_republic_in_Germany",
+          "length": 23542
+        },
+        {
+          "name": "Weimar Republic",
+          "url": "/wiki/Weimar_Republic",
+          "length": 162644
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "A Catholic Worker Movement member, Roger Allen LaPorte, protesting against the Vietnam War, sets himself on fire in front of the United Nations building.",
+      "html": "<li>1965   – A <a href=\"/wiki/Catholic_Worker_Movement\" title=\"Catholic Worker Movement\">Catholic Worker Movement</a> member, <a href=\"/wiki/Roger_Allen_LaPorte\" title=\"Roger Allen LaPorte\">Roger Allen LaPorte</a>, protesting against the <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>, <a href=\"/wiki/Self-immolation\" title=\"Self-immolation\">sets himself on fire</a> in front of the <a href=\"/wiki/United_Nations\" title=\"United Nations\">United Nations</a> building.</li>",
+      "entities": [
+        {
+          "name": "Catholic Worker Movement",
+          "url": "/wiki/Catholic_Worker_Movement",
+          "length": 17732
+        },
+        {
+          "name": "Roger Allen LaPorte",
+          "url": "/wiki/Roger_Allen_LaPorte",
+          "length": 7850
+        },
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "Self-immolation",
+          "url": "/wiki/Self-immolation",
+          "length": 30217
+        },
+        {
+          "name": "United Nations",
+          "url": "/wiki/United_Nations",
+          "length": 173187
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Second Nagorno-Karabakh War: An armistice agreement is signed by Armenia, Azerbaijan and Russia.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Second_Nagorno-Karabakh_War\" title=\"Second Nagorno-Karabakh War\">Second Nagorno-Karabakh War</a>: An armistice <a href=\"/wiki/2020_Nagorno-Karabakh_ceasefire_agreement\" title=\"2020 Nagorno-Karabakh ceasefire agreement\">agreement</a> is signed by <a href=\"/wiki/Armenia\" title=\"Armenia\">Armenia</a>, <a href=\"/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a> and <a href=\"/wiki/Russia\" title=\"Russia\">Russia</a>.<sup id=\"cite_ref-RIANovosti_33-0\" class=\"reference\"><a href=\"#cite_note-RIANovosti-33\"><span class=\"cite-bracket\">[</span>33<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-RIA_Novosti_34-0\" class=\"reference\"><a href=\"#cite_note-RIA_Novosti-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Second Nagorno-Karabakh War",
+          "url": "/wiki/Second_Nagorno-Karabakh_War",
+          "length": 232190
+        },
+        {
+          "name": "2020 Nagorno-Karabakh ceasefire agreement",
+          "url": "/wiki/2020_Nagorno-Karabakh_ceasefire_agreement",
+          "length": 66990
+        },
+        {
+          "name": "Armenia",
+          "url": "/wiki/Armenia",
+          "length": 227772
+        },
+        {
+          "name": "Azerbaijan",
+          "url": "/wiki/Azerbaijan",
+          "length": 257174
+        },
+        {
+          "name": "Russia",
+          "url": "/wiki/Russia",
+          "length": 381337
+        }
+      ]
+    },
+    {
+      "year": "1970",
+      "description": "Chris Jericho, American-Canadian wrestler, was born.",
+      "html": "<li>1970   – <a href=\"/wiki/Chris_Jericho\" title=\"Chris Jericho\">Chris Jericho</a>, American-Canadian wrestler<sup id=\"cite_ref-AP_47-2\" class=\"reference\"><a href=\"#cite_note-AP-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Chris Jericho",
+          "url": "/wiki/Chris_Jericho",
+          "length": 315712
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "description": "Bobby Allison, American race car driver and businessman, died.",
+      "html": "<li>\n<a href=\"/wiki/2024\" title=\"2024\">2024</a> – <a href=\"/wiki/Bobby_Allison\" title=\"Bobby Allison\">Bobby Allison</a>, American race car driver and businessman (b. 1937)<sup id=\"cite_ref-79\" class=\"reference\"><a href=\"#cite_note-79\"><span class=\"cite-bracket\">[</span>79<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bobby Allison",
+          "url": "/wiki/Bobby_Allison",
+          "length": 134141
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1970",
+      "description": "Chris Jericho, American-Canadian wrestler, was born.",
+      "html": "<li>1970   – <a href=\"/wiki/Chris_Jericho\" title=\"Chris Jericho\">Chris Jericho</a>, American-Canadian wrestler<sup id=\"cite_ref-AP_47-2\" class=\"reference\"><a href=\"#cite_note-AP-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Chris Jericho",
+          "url": "/wiki/Chris_Jericho",
+          "length": 315712
+        }
+      ]
+    },
+    {
+      "year": "1731",
+      "description": "Benjamin Banneker, American farmer, surveyor, and author, was born.",
+      "html": "<li>\n<a href=\"/wiki/1731\" title=\"1731\">1731</a> – <a href=\"/wiki/Benjamin_Banneker\" title=\"Benjamin Banneker\">Benjamin Banneker</a>, American farmer, surveyor, and author (d. 1806)</li>",
+      "entities": [
+        {
+          "name": "Benjamin Banneker",
+          "url": "/wiki/Benjamin_Banneker",
+          "length": 310871
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "description": "Alessandro Del Piero, Italian footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1974\" title=\"1974\">1974</a> – <a href=\"/wiki/Alessandro_Del_Piero\" title=\"Alessandro Del Piero\">Alessandro Del Piero</a>, Italian footballer</li>",
+      "entities": [
+        {
+          "name": "Alessandro Del Piero",
+          "url": "/wiki/Alessandro_Del_Piero",
+          "length": 208288
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1970",
+      "description": "Charles de Gaulle, French general and politician, 18th President of France, died.",
+      "html": "<li>\n<a href=\"/wiki/1970\" title=\"1970\">1970</a> – <a href=\"/wiki/Charles_de_Gaulle\" title=\"Charles de Gaulle\">Charles de Gaulle</a>, French general and politician, 18th <a href=\"/wiki/List_of_Presidents_of_France\" class=\"mw-redirect\" title=\"List of Presidents of France\">President of France</a> (b. 1890)</li>",
+      "entities": [
+        {
+          "name": "Charles de Gaulle",
+          "url": "/wiki/Charles_de_Gaulle",
+          "length": 174671
+        },
+        {
+          "name": "List of Presidents of France",
+          "url": "/wiki/List_of_Presidents_of_France",
+          "length": 59
+        }
+      ]
+    },
+    {
+      "year": "1953",
+      "description": "Dylan Thomas, Welsh poet and author, died.",
+      "html": "<li>1953   – <a href=\"/wiki/Dylan_Thomas\" title=\"Dylan Thomas\">Dylan Thomas</a>, Welsh poet and author (b. 1914)</li>",
+      "entities": [
+        {
+          "name": "Dylan Thomas",
+          "url": "/wiki/Dylan_Thomas",
+          "length": 136515
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "description": "Bobby Allison, American race car driver and businessman, died.",
+      "html": "<li>\n<a href=\"/wiki/2024\" title=\"2024\">2024</a> – <a href=\"/wiki/Bobby_Allison\" title=\"Bobby Allison\">Bobby Allison</a>, American race car driver and businessman (b. 1937)<sup id=\"cite_ref-79\" class=\"reference\"><a href=\"#cite_note-79\"><span class=\"cite-bracket\">[</span>79<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bobby Allison",
+          "url": "/wiki/Bobby_Allison",
+          "length": 134141
+        }
+      ]
+    }
+  ]
+}

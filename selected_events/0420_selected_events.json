@@ -1,0 +1,321 @@
+{
+  "events": [
+    {
+      "year": "1770",
+      "description": "The Georgian king, Erekle II, abandoned by his Russian ally Count Totleben, wins a victory over Ottoman forces at Aspindza.",
+      "html": "<li>\n<a href=\"/wiki/1770\" title=\"1770\">1770</a> – The <a href=\"/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgian</a> king, <a href=\"/wiki/Erekle_II\" class=\"mw-redirect\" title=\"Erekle II\">Erekle II</a>, abandoned by his <a href=\"/wiki/Russian_Empire\" title=\"Russian Empire\">Russian</a> ally <a href=\"/wiki/Gottlieb_Heinrich_Totleben\" class=\"mw-redirect\" title=\"Gottlieb Heinrich Totleben\">Count Totleben</a>, wins a victory over <a href=\"/wiki/Ottoman_Empire\" title=\"Ottoman Empire\">Ottoman forces</a> at <a href=\"/wiki/Battle_of_Aspindza\" title=\"Battle of Aspindza\">Aspindza</a>.</li>",
+      "entities": [
+        {
+          "name": "Georgia (country)",
+          "url": "/wiki/Georgia_(country)",
+          "length": 237125
+        },
+        {
+          "name": "Erekle II",
+          "url": "/wiki/Erekle_II",
+          "length": 37
+        },
+        {
+          "name": "Russian Empire",
+          "url": "/wiki/Russian_Empire",
+          "length": 215756
+        },
+        {
+          "name": "Gottlieb Heinrich Totleben",
+          "url": "/wiki/Gottlieb_Heinrich_Totleben",
+          "length": 66
+        },
+        {
+          "name": "Ottoman Empire",
+          "url": "/wiki/Ottoman_Empire",
+          "length": 268337
+        },
+        {
+          "name": "Battle of Aspindza",
+          "url": "/wiki/Battle_of_Aspindza",
+          "length": 6822
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "description": "Johnson Space Center shooting: William Phillips barricades himself with a handgun in NASA's Johnson Space Center in Houston, Texas before killing a male hostage and himself.",
+      "html": "<li>\n<a href=\"/wiki/2007\" title=\"2007\">2007</a> – <a href=\"/wiki/Johnson_Space_Center_shooting\" title=\"Johnson Space Center shooting\">Johnson Space Center shooting</a>: William Phillips barricades himself with a <a href=\"/wiki/Handgun\" title=\"Handgun\">handgun</a> in <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a>'s <a href=\"/wiki/Johnson_Space_Center\" title=\"Johnson Space Center\">Johnson Space Center</a> in <a href=\"/wiki/Houston,_Texas\" class=\"mw-redirect\" title=\"Houston, Texas\">Houston, Texas</a> before killing a male hostage and himself.<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Johnson Space Center shooting",
+          "url": "/wiki/Johnson_Space_Center_shooting",
+          "length": 7103
+        },
+        {
+          "name": "Handgun",
+          "url": "/wiki/Handgun",
+          "length": 60888
+        },
+        {
+          "name": "NASA",
+          "url": "/wiki/NASA",
+          "length": 228390
+        },
+        {
+          "name": "Johnson Space Center",
+          "url": "/wiki/Johnson_Space_Center",
+          "length": 39012
+        },
+        {
+          "name": "Houston, Texas",
+          "url": "/wiki/Houston,_Texas",
+          "length": 65
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "Apollo program: Apollo 16 Lunar Module, commanded by John Young and piloted by Charles Duke, lands on the Moon.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Apollo_program\" title=\"Apollo program\">Apollo program</a>: <a href=\"/wiki/Apollo_16\" title=\"Apollo 16\">Apollo 16</a> <a href=\"/wiki/Apollo_Lunar_Module\" title=\"Apollo Lunar Module\">Lunar Module</a>, commanded by <a href=\"/wiki/John_Young_(astronaut)\" title=\"John Young (astronaut)\">John Young</a> and piloted by <a href=\"/wiki/Charles_Duke\" title=\"Charles Duke\">Charles Duke</a>, lands on the Moon.</li>",
+      "entities": [
+        {
+          "name": "Apollo program",
+          "url": "/wiki/Apollo_program",
+          "length": 155122
+        },
+        {
+          "name": "Apollo 16",
+          "url": "/wiki/Apollo_16",
+          "length": 104071
+        },
+        {
+          "name": "Apollo Lunar Module",
+          "url": "/wiki/Apollo_Lunar_Module",
+          "length": 62978
+        },
+        {
+          "name": "John Young (astronaut)",
+          "url": "/wiki/John_Young_(astronaut)",
+          "length": 68675
+        },
+        {
+          "name": "Charles Duke",
+          "url": "/wiki/Charles_Duke",
+          "length": 72433
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "description": "State of Minnesota v. Derek Michael Chauvin: Derek Chauvin is found guilty of all charges in the murder of George Floyd by the Fourth Judicial District Court of Minnesota.",
+      "html": "<li>\n<a href=\"/wiki/2021\" title=\"2021\">2021</a> – <a href=\"/wiki/State_of_Minnesota_v._Derek_Michael_Chauvin\" class=\"mw-redirect\" title=\"State of Minnesota v. Derek Michael Chauvin\">State of Minnesota v. Derek Michael Chauvin</a>: <a href=\"/wiki/Derek_Chauvin\" title=\"Derek Chauvin\">Derek Chauvin</a> is found guilty of all charges in the <a href=\"/wiki/Murder_of_George_Floyd\" title=\"Murder of George Floyd\">murder of George Floyd</a> by the <a href=\"/wiki/District_Court_of_Minnesota\" title=\"District Court of Minnesota\">Fourth Judicial District Court of Minnesota</a>.<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "State of Minnesota v. Derek Michael Chauvin",
+          "url": "/wiki/State_of_Minnesota_v._Derek_Michael_Chauvin",
+          "length": 56
+        },
+        {
+          "name": "Derek Chauvin",
+          "url": "/wiki/Derek_Chauvin",
+          "length": 117438
+        },
+        {
+          "name": "Murder of George Floyd",
+          "url": "/wiki/Murder_of_George_Floyd",
+          "length": 213246
+        },
+        {
+          "name": "District Court of Minnesota",
+          "url": "/wiki/District_Court_of_Minnesota",
+          "length": 10220
+        }
+      ]
+    },
+    {
+      "year": "1861",
+      "description": "American Civil War: Robert E. Lee resigns his commission in the United States Army in order to command the forces of the state of Virginia.",
+      "html": "<li>\n<a href=\"/wiki/1861\" title=\"1861\">1861</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Robert_E._Lee\" title=\"Robert E. Lee\">Robert E. Lee</a> resigns his commission in the <a href=\"/wiki/United_States_Army\" title=\"United States Army\">United States Army</a> in order to command the forces of the state of <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Robert E. Lee",
+          "url": "/wiki/Robert_E._Lee",
+          "length": 164568
+        },
+        {
+          "name": "United States Army",
+          "url": "/wiki/United_States_Army",
+          "length": 174349
+        },
+        {
+          "name": "Virginia",
+          "url": "/wiki/Virginia",
+          "length": 287921
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "description": "Ten people are killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland.",
+      "html": "<li>\n<a href=\"/wiki/2015\" title=\"2015\">2015</a> – Ten people are killed in a <a href=\"/wiki/2015_Garowe_attack\" class=\"mw-redirect\" title=\"2015 Garowe attack\">bomb attack</a> on a convoy carrying food supplies to a <a href=\"/wiki/United_Nations\" title=\"United Nations\">United Nations</a> compound in <a href=\"/wiki/Garowe\" class=\"mw-redirect\" title=\"Garowe\">Garowe</a> in the Somali region of <a href=\"/wiki/Puntland\" title=\"Puntland\">Puntland</a>.</li>",
+      "entities": [
+        {
+          "name": "2015 Garowe attack",
+          "url": "/wiki/2015_Garowe_attack",
+          "length": 115
+        },
+        {
+          "name": "United Nations",
+          "url": "/wiki/United_Nations",
+          "length": 173187
+        },
+        {
+          "name": "Garowe",
+          "url": "/wiki/Garowe",
+          "length": 21
+        },
+        {
+          "name": "Puntland",
+          "url": "/wiki/Puntland",
+          "length": 85810
+        }
+      ]
+    },
+    {
+      "year": "1889",
+      "description": "Adolf Hitler, Austrian-born German politician, Führer of Nazi Germany, was born.",
+      "html": "<li>1889   – <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a>, Austrian-born German politician, <a href=\"/wiki/F%C3%BChrer\" title=\"Führer\">Führer</a> of <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">Nazi Germany</a> (d. 1945)</li>",
+      "entities": [
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Führer",
+          "url": "/wiki/F%C3%BChrer",
+          "length": 24399
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        }
+      ]
+    },
+    {
+      "year": "1881",
+      "description": "William Burges, English architect and designer, died.",
+      "html": "<li>\n<a href=\"/wiki/1881\" title=\"1881\">1881</a> – <a href=\"/wiki/William_Burges\" title=\"William Burges\">William Burges</a>, English architect and designer (b. 1827)</li>",
+      "entities": [
+        {
+          "name": "William Burges",
+          "url": "/wiki/William_Burges",
+          "length": 142598
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1997",
+      "description": "Alexander Zverev, German tennis player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1997\" title=\"1997\">1997</a> – <a href=\"/wiki/Alexander_Zverev\" title=\"Alexander Zverev\">Alexander Zverev</a>, German tennis player<sup id=\"cite_ref-71\" class=\"reference\"><a href=\"#cite_note-71\"><span class=\"cite-bracket\">[</span>71<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Alexander Zverev",
+          "url": "/wiki/Alexander_Zverev",
+          "length": 225780
+        }
+      ]
+    },
+    {
+      "year": "1808",
+      "description": "Napoleon III, French politician, 1st President of France, Emperor of French Second Empire, was born.",
+      "html": "<li>\n<a href=\"/wiki/1808\" title=\"1808\">1808</a> – <a href=\"/wiki/Napoleon_III\" title=\"Napoleon III\">Napoleon III</a>, French politician, 1st <a href=\"/wiki/President_of_France\" title=\"President of France\">President of France</a>, Emperor of <a href=\"/wiki/Second_French_Empire\" title=\"Second French Empire\">French Second Empire</a> (d. 1873)</li>",
+      "entities": [
+        {
+          "name": "Napoleon III",
+          "url": "/wiki/Napoleon_III",
+          "length": 180852
+        },
+        {
+          "name": "President of France",
+          "url": "/wiki/President_of_France",
+          "length": 37236
+        },
+        {
+          "name": "Second French Empire",
+          "url": "/wiki/Second_French_Empire",
+          "length": 52144
+        }
+      ]
+    },
+    {
+      "year": "1889",
+      "description": "Adolf Hitler, Austrian-born German politician, Führer of Nazi Germany, was born.",
+      "html": "<li>1889   – <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a>, Austrian-born German politician, <a href=\"/wiki/F%C3%BChrer\" title=\"Führer\">Führer</a> of <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">Nazi Germany</a> (d. 1945)</li>",
+      "entities": [
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Führer",
+          "url": "/wiki/F%C3%BChrer",
+          "length": 24399
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2018",
+      "description": "Avicii, Swedish DJ and musician, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Avicii\" title=\"Avicii\">Avicii</a>, Swedish DJ and musician (b. 1989)<sup id=\"cite_ref-86\" class=\"reference\"><a href=\"#cite_note-86\"><span class=\"cite-bracket\">[</span>86<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Avicii",
+          "url": "/wiki/Avicii",
+          "length": 165097
+        }
+      ]
+    },
+    {
+      "year": "1881",
+      "description": "William Burges, English architect and designer, died.",
+      "html": "<li>\n<a href=\"/wiki/1881\" title=\"1881\">1881</a> – <a href=\"/wiki/William_Burges\" title=\"William Burges\">William Burges</a>, English architect and designer (b. 1827)</li>",
+      "entities": [
+        {
+          "name": "William Burges",
+          "url": "/wiki/William_Burges",
+          "length": 142598
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Vjekoslav Luburić, Croatian Ustaše official and concentration camp administrator, died.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Vjekoslav_Luburi%C4%87\" title=\"Vjekoslav Luburić\">Vjekoslav Luburić</a>, Croatian <a href=\"/wiki/Usta%C5%A1e\" title=\"Ustaše\">Ustaše</a> official and concentration camp administrator (b. 1914)</li>",
+      "entities": [
+        {
+          "name": "Vjekoslav Luburić",
+          "url": "/wiki/Vjekoslav_Luburi%C4%87",
+          "length": 99846
+        },
+        {
+          "name": "Ustaše",
+          "url": "/wiki/Usta%C5%A1e",
+          "length": 135547
+        }
+      ]
+    }
+  ]
+}

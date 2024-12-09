@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "1946",
+      "description": "African American United States Army veteran Isaac Woodard is severely beaten by a South Carolina police officer to the point where he loses his vision in both eyes. The incident later galvanizes the civil rights movement and partially inspires Orson Welles' film Touch of Evil.",
+      "html": "<li>1946   – <a href=\"/wiki/African_Americans\" title=\"African Americans\">African American</a> <a href=\"/wiki/United_States_Army\" title=\"United States Army\">United States Army</a> veteran <a href=\"/wiki/Isaac_Woodard\" title=\"Isaac Woodard\">Isaac Woodard</a> is severely beaten by a <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a> police officer to the point where he loses his vision in both eyes. The incident later galvanizes the <a href=\"/wiki/Civil_rights_movement\" title=\"Civil rights movement\">civil rights movement</a> and partially inspires <a href=\"/wiki/Orson_Welles\" title=\"Orson Welles\">Orson Welles</a>' film <i><a href=\"/wiki/Touch_of_Evil\" title=\"Touch of Evil\">Touch of Evil</a></i>.</li>",
+      "entities": [
+        {
+          "name": "African Americans",
+          "url": "/wiki/African_Americans",
+          "length": 288154
+        },
+        {
+          "name": "United States Army",
+          "url": "/wiki/United_States_Army",
+          "length": 174349
+        },
+        {
+          "name": "Isaac Woodard",
+          "url": "/wiki/Isaac_Woodard",
+          "length": 25474
+        },
+        {
+          "name": "South Carolina",
+          "url": "/wiki/South_Carolina",
+          "length": 130953
+        },
+        {
+          "name": "Civil rights movement",
+          "url": "/wiki/Civil_rights_movement",
+          "length": 299940
+        },
+        {
+          "name": "Orson Welles",
+          "url": "/wiki/Orson_Welles",
+          "length": 206138
+        },
+        {
+          "name": "Touch of Evil",
+          "url": "/wiki/Touch_of_Evil",
+          "length": 61395
+        }
+      ]
+    },
+    {
+      "year": "1733",
+      "description": "Georgia Day: Englishman James Oglethorpe founds Georgia, the 13th colony of the Thirteen Colonies, by settling at Savannah.",
+      "html": "<li>\n<a href=\"/wiki/1733\" title=\"1733\">1733</a> – <a href=\"/wiki/Georgia_Day\" title=\"Georgia Day\">Georgia Day</a>: Englishman <a href=\"/wiki/James_Oglethorpe\" title=\"James Oglethorpe\">James Oglethorpe</a> founds <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, the 13th colony of the <a href=\"/wiki/Thirteen_Colonies\" title=\"Thirteen Colonies\">Thirteen Colonies</a>, by settling at <a href=\"/wiki/Savannah,_Georgia\" title=\"Savannah, Georgia\">Savannah</a>.<sup id=\"cite_ref-Bowman1986_7-0\" class=\"reference\"><a href=\"#cite_note-Bowman1986-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Georgia Day",
+          "url": "/wiki/Georgia_Day",
+          "length": 2387
+        },
+        {
+          "name": "James Oglethorpe",
+          "url": "/wiki/James_Oglethorpe",
+          "length": 72568
+        },
+        {
+          "name": "Georgia (U.S. state)",
+          "url": "/wiki/Georgia_(U.S._state)",
+          "length": 177017
+        },
+        {
+          "name": "Thirteen Colonies",
+          "url": "/wiki/Thirteen_Colonies",
+          "length": 101998
+        },
+        {
+          "name": "Savannah, Georgia",
+          "url": "/wiki/Savannah,_Georgia",
+          "length": 113747
+        }
+      ]
+    },
+    {
+      "year": "2002",
+      "description": "The trial of Slobodan Milošević, the former President of the Federal Republic of Yugoslavia, begins at the United Nations International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. He dies four years later before its conclusion.",
+      "html": "<li>\n<a href=\"/wiki/2002\" title=\"2002\">2002</a> – The <a href=\"/wiki/Trial_of_Slobodan_Milo%C5%A1evi%C4%87\" title=\"Trial of Slobodan Milošević\">trial of Slobodan Milošević</a>, the former President of the <a href=\"/wiki/Serbia_and_Montenegro\" title=\"Serbia and Montenegro\">Federal Republic of Yugoslavia</a>, begins at the <a href=\"/wiki/United_Nations\" title=\"United Nations\">United Nations</a> <a href=\"/wiki/International_Criminal_Tribunal_for_the_former_Yugoslavia\" title=\"International Criminal Tribunal for the former Yugoslavia\">International Criminal Tribunal for the former Yugoslavia</a> in <a href=\"/wiki/The_Hague\" title=\"The Hague\">The Hague</a>, Netherlands. He dies four years later before its conclusion.</li>",
+      "entities": [
+        {
+          "name": "Trial of Slobodan Milošević",
+          "url": "/wiki/Trial_of_Slobodan_Milo%C5%A1evi%C4%87",
+          "length": 21194
+        },
+        {
+          "name": "Serbia and Montenegro",
+          "url": "/wiki/Serbia_and_Montenegro",
+          "length": 100120
+        },
+        {
+          "name": "United Nations",
+          "url": "/wiki/United_Nations",
+          "length": 173187
+        },
+        {
+          "name": "International Criminal Tribunal for the former Yugoslavia",
+          "url": "/wiki/International_Criminal_Tribunal_for_the_former_Yugoslavia",
+          "length": 72325
+        },
+        {
+          "name": "The Hague",
+          "url": "/wiki/The_Hague",
+          "length": 86800
+        }
+      ]
+    },
+    {
+      "year": "1096",
+      "description": "Pope Urban II confirms the foundation of the abbey of La Roë under Robert of Arbrissel as a community of canons regular.",
+      "html": "<li>\n<a href=\"/wiki/1096\" title=\"1096\">1096</a> – <a href=\"/wiki/Pope_Urban_II\" title=\"Pope Urban II\">Pope Urban II</a> confirms the foundation of the abbey of <a href=\"/wiki/La_Ro%C3%AB\" title=\"La Roë\">La Roë</a> under <a href=\"/wiki/Robert_of_Arbrissel\" title=\"Robert of Arbrissel\">Robert of Arbrissel</a> as a community of <a href=\"/wiki/Canon_regular\" title=\"Canon regular\">canons regular</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pope Urban II",
+          "url": "/wiki/Pope_Urban_II",
+          "length": 29116
+        },
+        {
+          "name": "La Roë",
+          "url": "/wiki/La_Ro%C3%AB",
+          "length": 2251
+        },
+        {
+          "name": "Robert of Arbrissel",
+          "url": "/wiki/Robert_of_Arbrissel",
+          "length": 17171
+        },
+        {
+          "name": "Canon regular",
+          "url": "/wiki/Canon_regular",
+          "length": 64448
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "description": "The country known as the Republic of Macedonia renames itself the Republic of North Macedonia in accordance with the Prespa agreement, settling a long-standing naming dispute with Greece.",
+      "html": "<li>\n<a href=\"/wiki/2019\" title=\"2019\">2019</a> – The country known as the Republic of Macedonia renames itself the <a href=\"/wiki/Republic_of_North_Macedonia\" class=\"mw-redirect\" title=\"Republic of North Macedonia\">Republic of North Macedonia</a> in accordance with the <a href=\"/wiki/Prespa_agreement\" class=\"mw-redirect\" title=\"Prespa agreement\">Prespa agreement</a>, settling <a href=\"/wiki/Macedonia_naming_dispute\" title=\"Macedonia naming dispute\">a long-standing naming dispute</a> with <a href=\"/wiki/Greece\" title=\"Greece\">Greece</a>.<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Republic of North Macedonia",
+          "url": "/wiki/Republic_of_North_Macedonia",
+          "length": 81
+        },
+        {
+          "name": "Prespa agreement",
+          "url": "/wiki/Prespa_agreement",
+          "length": 68
+        },
+        {
+          "name": "Macedonia naming dispute",
+          "url": "/wiki/Macedonia_naming_dispute",
+          "length": 258897
+        },
+        {
+          "name": "Greece",
+          "url": "/wiki/Greece",
+          "length": 292640
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "description": "USS Macon, one of the two largest helium-filled airships ever created, crashes into the Pacific Ocean off the coast of California and sinks.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/USS_Macon_(ZRS-5)\" title=\"USS Macon (ZRS-5)\">USS <i>Macon</i></a>, one of the two largest <a href=\"/wiki/Helium\" title=\"Helium\">helium</a>-filled <a href=\"/wiki/Airship\" title=\"Airship\">airships</a> ever created, crashes into the Pacific Ocean off the coast of <a href=\"/wiki/California\" title=\"California\">California</a> and sinks.</li>",
+      "entities": [
+        {
+          "name": "USS Macon (ZRS-5)",
+          "url": "/wiki/USS_Macon_(ZRS-5)",
+          "length": 36574
+        },
+        {
+          "name": "Helium",
+          "url": "/wiki/Helium",
+          "length": 150626
+        },
+        {
+          "name": "Airship",
+          "url": "/wiki/Airship",
+          "length": 133957
+        },
+        {
+          "name": "California",
+          "url": "/wiki/California",
+          "length": 281839
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "description": "Brad Keselowski, American race car driver, was born.",
+      "html": "<li>\n<a href=\"/wiki/1984\" title=\"1984\">1984</a> – <a href=\"/wiki/Brad_Keselowski\" title=\"Brad Keselowski\">Brad Keselowski</a>, American race car driver</li>",
+      "entities": [
+        {
+          "name": "Brad Keselowski",
+          "url": "/wiki/Brad_Keselowski",
+          "length": 214506
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "description": "Lyndon LaRouche, American political activist, died.",
+      "html": "<li>2019   – <a href=\"/wiki/Lyndon_LaRouche\" title=\"Lyndon LaRouche\">Lyndon LaRouche</a>, American political activist (b. 1922)<sup id=\"cite_ref-75\" class=\"reference\"><a href=\"#cite_note-75\"><span class=\"cite-bracket\">[</span>75<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Lyndon LaRouche",
+          "url": "/wiki/Lyndon_LaRouche",
+          "length": 199722
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1965",
+      "description": "Brett Kavanaugh, American lawyer and jurist, Associate Justice of the Supreme Court of the United States, was born.",
+      "html": "<li>1965   – <a href=\"/wiki/Brett_Kavanaugh\" title=\"Brett Kavanaugh\">Brett Kavanaugh</a>, American lawyer and jurist, <a href=\"/wiki/Associate_Justice_of_the_Supreme_Court_of_the_United_States\" title=\"Associate Justice of the Supreme Court of the United States\">Associate Justice of the Supreme Court of the United States</a><sup id=\"cite_ref-50\" class=\"reference\"><a href=\"#cite_note-50\"><span class=\"cite-bracket\">[</span>50<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Brett Kavanaugh",
+          "url": "/wiki/Brett_Kavanaugh",
+          "length": 223190
+        },
+        {
+          "name": "Associate Justice of the Supreme Court of the United States",
+          "url": "/wiki/Associate_Justice_of_the_Supreme_Court_of_the_United_States",
+          "length": 63818
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "description": "Brad Keselowski, American race car driver, was born.",
+      "html": "<li>\n<a href=\"/wiki/1984\" title=\"1984\">1984</a> – <a href=\"/wiki/Brad_Keselowski\" title=\"Brad Keselowski\">Brad Keselowski</a>, American race car driver</li>",
+      "entities": [
+        {
+          "name": "Brad Keselowski",
+          "url": "/wiki/Brad_Keselowski",
+          "length": 214506
+        }
+      ]
+    },
+    {
+      "year": "1809",
+      "description": "Abraham Lincoln, American lawyer and statesman, 16th President of the United States, was born.",
+      "html": "<li>1809   – <a href=\"/wiki/Abraham_Lincoln\" title=\"Abraham Lincoln\">Abraham Lincoln</a>, American lawyer and statesman, 16th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (d. 1865)</li>",
+      "entities": [
+        {
+          "name": "Abraham Lincoln",
+          "url": "/wiki/Abraham_Lincoln",
+          "length": 209994
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2019",
+      "description": "Lyndon LaRouche, American political activist, died.",
+      "html": "<li>2019   – <a href=\"/wiki/Lyndon_LaRouche\" title=\"Lyndon LaRouche\">Lyndon LaRouche</a>, American political activist (b. 1922)<sup id=\"cite_ref-75\" class=\"reference\"><a href=\"#cite_note-75\"><span class=\"cite-bracket\">[</span>75<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Lyndon LaRouche",
+          "url": "/wiki/Lyndon_LaRouche",
+          "length": 199722
+        }
+      ]
+    },
+    {
+      "year": "1804",
+      "description": "Immanuel Kant, German anthropologist, philosopher, and academic, died.",
+      "html": "<li>\n<a href=\"/wiki/1804\" title=\"1804\">1804</a> – <a href=\"/wiki/Immanuel_Kant\" title=\"Immanuel Kant\">Immanuel Kant</a>, German anthropologist, philosopher, and academic (b. 1724)</li>",
+      "entities": [
+        {
+          "name": "Immanuel Kant",
+          "url": "/wiki/Immanuel_Kant",
+          "length": 159136
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "description": "Pedro Morales, Puerto Rican professional wrestler and commentator, died.",
+      "html": "<li>2019   – <a href=\"/wiki/Pedro_Morales\" title=\"Pedro Morales\">Pedro Morales</a>, Puerto Rican professional wrestler and commentator (b. 1942)<sup id=\"cite_ref-76\" class=\"reference\"><a href=\"#cite_note-76\"><span class=\"cite-bracket\">[</span>76<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pedro Morales",
+          "url": "/wiki/Pedro_Morales",
+          "length": 99614
+        }
+      ]
+    }
+  ]
+}

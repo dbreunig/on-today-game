@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1904",
+      "description": "Pitching against the Philadelphia Athletics at the Huntington Avenue Grounds, Cy Young of the Boston Americans throws the first perfect game in the modern era of baseball.",
+      "html": "<li>\n<a href=\"/wiki/1904\" title=\"1904\">1904</a> – <a href=\"/wiki/Pitcher\" title=\"Pitcher\">Pitching</a> against the <a href=\"/wiki/Philadelphia_Athletics\" title=\"Philadelphia Athletics\">Philadelphia Athletics</a> at the <a href=\"/wiki/Huntington_Avenue_Grounds\" title=\"Huntington Avenue Grounds\">Huntington Avenue Grounds</a>, <a href=\"/wiki/Cy_Young\" title=\"Cy Young\">Cy Young</a> of the <a href=\"/wiki/Boston_Red_Sox\" title=\"Boston Red Sox\">Boston Americans</a> throws the first <a href=\"/wiki/Perfect_game_(baseball)\" title=\"Perfect game (baseball)\">perfect game</a> in the modern era of <a href=\"/wiki/Baseball\" title=\"Baseball\">baseball</a>.</li>",
+      "entities": [
+        {
+          "name": "Pitcher",
+          "url": "/wiki/Pitcher",
+          "length": 27573
+        },
+        {
+          "name": "Philadelphia Athletics",
+          "url": "/wiki/Philadelphia_Athletics",
+          "length": 49970
+        },
+        {
+          "name": "Huntington Avenue Grounds",
+          "url": "/wiki/Huntington_Avenue_Grounds",
+          "length": 6374
+        },
+        {
+          "name": "Cy Young",
+          "url": "/wiki/Cy_Young",
+          "length": 41030
+        },
+        {
+          "name": "Boston Red Sox",
+          "url": "/wiki/Boston_Red_Sox",
+          "length": 171566
+        },
+        {
+          "name": "Perfect game (baseball)",
+          "url": "/wiki/Perfect_game_(baseball)",
+          "length": 30883
+        },
+        {
+          "name": "Baseball",
+          "url": "/wiki/Baseball",
+          "length": 143506
+        }
+      ]
+    },
+    {
+      "year": "1609",
+      "description": "Daimyō (Lord) Shimazu Tadatsune of the Satsuma Domain in southern Kyūshū, Japan, completes his successful invasion of the Ryūkyū Kingdom in Okinawa.",
+      "html": "<li>\n<a href=\"/wiki/1609\" title=\"1609\">1609</a> – <i>Daimyō</i> (Lord) <a href=\"/wiki/Shimazu_Tadatsune\" title=\"Shimazu Tadatsune\">Shimazu Tadatsune</a> of the <a href=\"/wiki/Satsuma_Domain\" title=\"Satsuma Domain\">Satsuma Domain</a> in southern <a href=\"/wiki/Ky%C5%ABsh%C5%AB\" class=\"mw-redirect\" title=\"Kyūshū\">Kyūshū</a>, <a href=\"/wiki/Tokugawa_shogunate\" title=\"Tokugawa shogunate\">Japan</a>, completes <a href=\"/wiki/Invasion_of_Ryukyu\" title=\"Invasion of Ryukyu\">his successful invasion</a> of the <a href=\"/wiki/Ry%C5%ABky%C5%AB_Kingdom\" class=\"mw-redirect\" title=\"Ryūkyū Kingdom\">Ryūkyū Kingdom</a> in <a href=\"/wiki/Okinawa_Prefecture\" title=\"Okinawa Prefecture\">Okinawa</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Shimazu Tadatsune",
+          "url": "/wiki/Shimazu_Tadatsune",
+          "length": 3830
+        },
+        {
+          "name": "Satsuma Domain",
+          "url": "/wiki/Satsuma_Domain",
+          "length": 20573
+        },
+        {
+          "name": "Kyūshū",
+          "url": "/wiki/Ky%C5%ABsh%C5%AB",
+          "length": 54
+        },
+        {
+          "name": "Tokugawa shogunate",
+          "url": "/wiki/Tokugawa_shogunate",
+          "length": 54094
+        },
+        {
+          "name": "Invasion of Ryukyu",
+          "url": "/wiki/Invasion_of_Ryukyu",
+          "length": 22020
+        },
+        {
+          "name": "Ryūkyū Kingdom",
+          "url": "/wiki/Ry%C5%ABky%C5%AB_Kingdom",
+          "length": 104
+        },
+        {
+          "name": "Okinawa Prefecture",
+          "url": "/wiki/Okinawa_Prefecture",
+          "length": 102712
+        }
+      ]
+    },
+    {
+      "year": "1809",
+      "description": "Mary Kies becomes the first woman awarded a U.S. patent, for a technique of weaving straw with silk and thread.",
+      "html": "<li>\n<a href=\"/wiki/1809\" title=\"1809\">1809</a> – <a href=\"/wiki/Mary_Kies\" class=\"mw-redirect\" title=\"Mary Kies\">Mary Kies</a> becomes the first woman awarded a U.S. <a href=\"/wiki/Patent\" title=\"Patent\">patent</a>, for a technique of <a href=\"/wiki/Weaving\" title=\"Weaving\">weaving</a> <a href=\"/wiki/Straw\" title=\"Straw\">straw</a> with <a href=\"/wiki/Silk\" title=\"Silk\">silk</a> and <a href=\"/wiki/Yarn\" title=\"Yarn\">thread</a>.</li>",
+      "entities": [
+        {
+          "name": "Mary Kies",
+          "url": "/wiki/Mary_Kies",
+          "length": 29
+        },
+        {
+          "name": "Patent",
+          "url": "/wiki/Patent",
+          "length": 109757
+        },
+        {
+          "name": "Weaving",
+          "url": "/wiki/Weaving",
+          "length": 76576
+        },
+        {
+          "name": "Straw",
+          "url": "/wiki/Straw",
+          "length": 15712
+        },
+        {
+          "name": "Silk",
+          "url": "/wiki/Silk",
+          "length": 83556
+        },
+        {
+          "name": "Yarn",
+          "url": "/wiki/Yarn",
+          "length": 31698
+        }
+      ]
+    },
+    {
+      "year": "1877",
+      "description": "American Indian Wars: Sitting Bull leads his band of Lakota into Canada to avoid harassment by the United States Army under Colonel Nelson Miles.",
+      "html": "<li>\n<a href=\"/wiki/1877\" title=\"1877\">1877</a> – <a href=\"/wiki/American_Indian_Wars\" title=\"American Indian Wars\">American Indian Wars</a>: <a href=\"/wiki/Sitting_Bull\" title=\"Sitting Bull\">Sitting Bull</a> leads his band of <a href=\"/wiki/Lakota_people\" title=\"Lakota people\">Lakota</a> into Canada to avoid harassment by the <a href=\"/wiki/United_States_Army\" title=\"United States Army\">United States Army</a> under <a href=\"/wiki/Colonel_(United_States)\" title=\"Colonel (United States)\">Colonel</a> <a href=\"/wiki/Nelson_Miles\" class=\"mw-redirect\" title=\"Nelson Miles\">Nelson Miles</a>.</li>",
+      "entities": [
+        {
+          "name": "American Indian Wars",
+          "url": "/wiki/American_Indian_Wars",
+          "length": 104743
+        },
+        {
+          "name": "Sitting Bull",
+          "url": "/wiki/Sitting_Bull",
+          "length": 62146
+        },
+        {
+          "name": "Lakota people",
+          "url": "/wiki/Lakota_people",
+          "length": 37471
+        },
+        {
+          "name": "United States Army",
+          "url": "/wiki/United_States_Army",
+          "length": 174349
+        },
+        {
+          "name": "Colonel (United States)",
+          "url": "/wiki/Colonel_(United_States)",
+          "length": 25268
+        },
+        {
+          "name": "Nelson Miles",
+          "url": "/wiki/Nelson_Miles",
+          "length": 82
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "description": "World War II: Norwegian Campaign: Norwegian squads in Hegra Fortress and Vinjesvingen capitulate to German forces after all other Norwegian forces in southern Norway had laid down their arms.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a>   – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Norwegian_Campaign\" class=\"mw-redirect\" title=\"Norwegian Campaign\">Norwegian Campaign</a>: Norwegian squads in <a href=\"/wiki/Battle_of_Hegra_Fortress\" title=\"Battle of Hegra Fortress\">Hegra Fortress</a> and <a href=\"/wiki/Battle_of_Vinjesvingen\" title=\"Battle of Vinjesvingen\">Vinjesvingen</a> capitulate to <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">German forces</a> after all other Norwegian forces in southern Norway had laid down their arms.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Norwegian Campaign",
+          "url": "/wiki/Norwegian_Campaign",
+          "length": 49
+        },
+        {
+          "name": "Battle of Hegra Fortress",
+          "url": "/wiki/Battle_of_Hegra_Fortress",
+          "length": 35070
+        },
+        {
+          "name": "Battle of Vinjesvingen",
+          "url": "/wiki/Battle_of_Vinjesvingen",
+          "length": 3664
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        }
+      ]
+    },
+    {
+      "year": "1886",
+      "description": "Workers marching for the Eight-hour day in Milwaukee, Wisconsin were shot at by Wisconsin National Guardsmen in what became known as the Bay View Massacre.",
+      "html": "<li>\n<a href=\"/wiki/1886\" title=\"1886\">1886</a> – Workers marching for the <a href=\"/wiki/Eight-hour_day\" class=\"mw-redirect\" title=\"Eight-hour day\">Eight-hour day</a> in <a href=\"/wiki/Milwaukee\" title=\"Milwaukee\">Milwaukee</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a> were shot at by <a href=\"/wiki/Wisconsin_National_Guard\" title=\"Wisconsin National Guard\">Wisconsin National Guardsmen</a> in what became known as the <a href=\"/wiki/Bay_View_Massacre\" class=\"mw-redirect\" title=\"Bay View Massacre\">Bay View Massacre</a>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Eight-hour day",
+          "url": "/wiki/Eight-hour_day",
+          "length": 84
+        },
+        {
+          "name": "Milwaukee",
+          "url": "/wiki/Milwaukee",
+          "length": 179923
+        },
+        {
+          "name": "Wisconsin",
+          "url": "/wiki/Wisconsin",
+          "length": 189525
+        },
+        {
+          "name": "Wisconsin National Guard",
+          "url": "/wiki/Wisconsin_National_Guard",
+          "length": 4458
+        },
+        {
+          "name": "Bay View Massacre",
+          "url": "/wiki/Bay_View_Massacre",
+          "length": 78
+        }
+      ]
+    },
+    {
+      "year": "1999",
+      "description": "Nathan Chen, American figure skater, was born.",
+      "html": "<li>\n<a href=\"/wiki/1999\" title=\"1999\">1999</a> – <a href=\"/wiki/Nathan_Chen\" title=\"Nathan Chen\">Nathan Chen</a>, American figure skater</li>",
+      "entities": [
+        {
+          "name": "Nathan Chen",
+          "url": "/wiki/Nathan_Chen",
+          "length": 246596
+        }
+      ]
+    },
+    {
+      "year": "1821",
+      "description": "Napoleon, French general and emperor, died.",
+      "html": "<li>\n<a href=\"/wiki/1821\" title=\"1821\">1821</a> – <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon</a>, French general and emperor (b. 1769)<sup id=\"cite_ref-50\" class=\"reference\"><a href=\"#cite_note-50\"><span class=\"cite-bracket\">[</span>50<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189162
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1988",
+      "description": "Adele, English singer-songwriter, was born.",
+      "html": "<li>\n<a href=\"/wiki/1988\" title=\"1988\">1988</a> – <a href=\"/wiki/Adele\" title=\"Adele\">Adele</a>, English singer-songwriter</li>",
+      "entities": [
+        {
+          "name": "Adele",
+          "url": "/wiki/Adele",
+          "length": 269758
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Chris Brown, American singer-songwriter, dancer, and actor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1989\" title=\"1989\">1989</a> – <a href=\"/wiki/Chris_Brown\" title=\"Chris Brown\">Chris Brown</a>, American singer-songwriter, dancer, and actor</li>",
+      "entities": [
+        {
+          "name": "Chris Brown",
+          "url": "/wiki/Chris_Brown",
+          "length": 251100
+        }
+      ]
+    },
+    {
+      "year": "1999",
+      "description": "Nathan Chen, American figure skater, was born.",
+      "html": "<li>\n<a href=\"/wiki/1999\" title=\"1999\">1999</a> – <a href=\"/wiki/Nathan_Chen\" title=\"Nathan Chen\">Nathan Chen</a>, American figure skater</li>",
+      "entities": [
+        {
+          "name": "Nathan Chen",
+          "url": "/wiki/Nathan_Chen",
+          "length": 246596
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1821",
+      "description": "Napoleon, French general and emperor, died.",
+      "html": "<li>\n<a href=\"/wiki/1821\" title=\"1821\">1821</a> – <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon</a>, French general and emperor (b. 1769)<sup id=\"cite_ref-50\" class=\"reference\"><a href=\"#cite_note-50\"><span class=\"cite-bracket\">[</span>50<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189162
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Mikhail Botvinnik, Russian chess player and coach, died.",
+      "html": "<li>\n<a href=\"/wiki/1995\" title=\"1995\">1995</a> – <a href=\"/wiki/Mikhail_Botvinnik\" title=\"Mikhail Botvinnik\">Mikhail Botvinnik</a>, Russian chess player and coach (b. 1911)</li>",
+      "entities": [
+        {
+          "name": "Mikhail Botvinnik",
+          "url": "/wiki/Mikhail_Botvinnik",
+          "length": 109910
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "description": "Gino Bartali, Italian cyclist, died.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Gino_Bartali\" title=\"Gino Bartali\">Gino Bartali</a>, Italian cyclist (b. 1914)</li>",
+      "entities": [
+        {
+          "name": "Gino Bartali",
+          "url": "/wiki/Gino_Bartali",
+          "length": 53797
+        }
+      ]
+    }
+  ]
+}

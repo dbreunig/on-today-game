@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1862",
+      "description": "American Civil War: George B. McClellan's Army of the Potomac halts the first invasion of the North by Robert E. Lee and his Army of Northern Virginia in the single-day Battle of Antietam, the bloodiest day in American military history.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/George_B._McClellan\" title=\"George B. McClellan\">George B. McClellan</a>'s <a href=\"/wiki/Army_of_the_Potomac\" title=\"Army of the Potomac\">Army of the Potomac</a> halts the first <a href=\"/wiki/Maryland_campaign\" title=\"Maryland campaign\">invasion</a> of the <a href=\"/wiki/Northern_United_States#American_Civil_War\" title=\"Northern United States\">North</a> by <a href=\"/wiki/Robert_E._Lee\" title=\"Robert E. Lee\">Robert E. Lee</a> and his <a href=\"/wiki/Army_of_Northern_Virginia\" title=\"Army of Northern Virginia\">Army of Northern Virginia</a> in the single-day <a href=\"/wiki/Battle_of_Antietam\" title=\"Battle of Antietam\">Battle of Antietam</a>, the bloodiest day in American military history.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": null
+        },
+        {
+          "name": "George B. McClellan",
+          "url": "/wiki/George_B._McClellan",
+          "length": null
+        },
+        {
+          "name": "Army of the Potomac",
+          "url": "/wiki/Army_of_the_Potomac",
+          "length": null
+        },
+        {
+          "name": "Maryland campaign",
+          "url": "/wiki/Maryland_campaign",
+          "length": null
+        },
+        {
+          "name": "Northern United States",
+          "url": "/wiki/Northern_United_States#American_Civil_War",
+          "length": null
+        },
+        {
+          "name": "Robert E. Lee",
+          "url": "/wiki/Robert_E._Lee",
+          "length": null
+        },
+        {
+          "name": "Army of Northern Virginia",
+          "url": "/wiki/Army_of_Northern_Virginia",
+          "length": null
+        },
+        {
+          "name": "Battle of Antietam",
+          "url": "/wiki/Battle_of_Antietam",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "Estonia, North Korea, South Korea, Latvia, Lithuania, the Marshall Islands and Micronesia join the United Nations.",
+      "html": "<li>\n<a href=\"/wiki/1991\" title=\"1991\">1991</a> – <a href=\"/wiki/Estonia\" title=\"Estonia\">Estonia</a>, <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a>, <a href=\"/wiki/Latvia\" title=\"Latvia\">Latvia</a>, <a href=\"/wiki/Lithuania\" title=\"Lithuania\">Lithuania</a>, the <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a> and <a href=\"/wiki/Federated_States_of_Micronesia\" title=\"Federated States of Micronesia\">Micronesia</a> join the United Nations.</li>",
+      "entities": [
+        {
+          "name": "Estonia",
+          "url": "/wiki/Estonia",
+          "length": 321951
+        },
+        {
+          "name": "North Korea",
+          "url": "/wiki/North_Korea",
+          "length": 294085
+        },
+        {
+          "name": "South Korea",
+          "url": "/wiki/South_Korea",
+          "length": 279973
+        },
+        {
+          "name": "Latvia",
+          "url": "/wiki/Latvia",
+          "length": 203399
+        },
+        {
+          "name": "Lithuania",
+          "url": "/wiki/Lithuania",
+          "length": 313986
+        },
+        {
+          "name": "Marshall Islands",
+          "url": "/wiki/Marshall_Islands",
+          "length": 133330
+        },
+        {
+          "name": "Federated States of Micronesia",
+          "url": "/wiki/Federated_States_of_Micronesia",
+          "length": 67315
+        }
+      ]
+    },
+    {
+      "year": "1787",
+      "description": "The United States Constitution is signed at Independence Hall in Philadelphia, bringing the Constitutional Convention to an end.",
+      "html": "<li>\n<a href=\"/wiki/1787\" title=\"1787\">1787</a> – The <a href=\"/wiki/Constitution_of_the_United_States\" title=\"Constitution of the United States\">United States Constitution</a> is <a href=\"/wiki/Signing_of_the_United_States_Constitution\" title=\"Signing of the United States Constitution\">signed</a> at <a href=\"/wiki/Independence_Hall\" title=\"Independence Hall\">Independence Hall</a> in <a href=\"/wiki/Philadelphia\" title=\"Philadelphia\">Philadelphia</a>, bringing the <a href=\"/wiki/Constitutional_Convention_(United_States)\" title=\"Constitutional Convention (United States)\">Constitutional Convention</a> to an end.<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Constitution of the United States",
+          "url": "/wiki/Constitution_of_the_United_States",
+          "length": 192814
+        },
+        {
+          "name": "Signing of the United States Constitution",
+          "url": "/wiki/Signing_of_the_United_States_Constitution",
+          "length": 23980
+        },
+        {
+          "name": "Independence Hall",
+          "url": "/wiki/Independence_Hall",
+          "length": 42049
+        },
+        {
+          "name": "Philadelphia",
+          "url": "/wiki/Philadelphia",
+          "length": 284500
+        },
+        {
+          "name": "Constitutional Convention (United States)",
+          "url": "/wiki/Constitutional_Convention_(United_States)",
+          "length": 106188
+        }
+      ]
+    },
+    {
+      "year": "2001",
+      "description": "George W. Bush, president of the United States, delivers remarks at the Islamic Center of Washington praising Muslim Americans and condemning Islamophobia in the aftermath of the September 11 attacks.",
+      "html": "<li>2001 – <a href=\"/wiki/George_W._Bush\" title=\"George W. Bush\">George W. Bush</a>, <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">president of the United States</a>, delivers <a href=\"/wiki/Remarks_at_the_Islamic_Center_of_Washington\" title=\"Remarks at the Islamic Center of Washington\">remarks at the Islamic Center of Washington</a> praising Muslim Americans and condemning <a href=\"/wiki/Islamophobia_in_the_United_States\" title=\"Islamophobia in the United States\">Islamophobia</a> in the <a href=\"/wiki/Aftermath_of_the_September_11_attacks\" title=\"Aftermath of the September 11 attacks\">aftermath of the September 11 attacks</a>.<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "George W. Bush",
+          "url": "/wiki/George_W._Bush",
+          "length": 335073
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "Remarks at the Islamic Center of Washington",
+          "url": "/wiki/Remarks_at_the_Islamic_Center_of_Washington",
+          "length": 16383
+        },
+        {
+          "name": "Islamophobia in the United States",
+          "url": "/wiki/Islamophobia_in_the_United_States",
+          "length": 97996
+        },
+        {
+          "name": "Aftermath of the September 11 attacks",
+          "url": "/wiki/Aftermath_of_the_September_11_attacks",
+          "length": 58369
+        }
+      ]
+    },
+    {
+      "year": "1111",
+      "description": "Highest Galician nobility led by Pedro Fróilaz de Traba and the bishop Diego Gelmírez crown Alfonso VII as \"King of Galicia\".",
+      "html": "<li>\n<a href=\"/wiki/1111\" title=\"1111\">1111</a> – Highest <a href=\"/wiki/Kingdom_of_Galicia\" title=\"Kingdom of Galicia\">Galician</a> nobility led by <a href=\"/wiki/Pedro_Fr%C3%B3ilaz_de_Traba\" title=\"Pedro Fróilaz de Traba\">Pedro Fróilaz de Traba</a> and the bishop <a href=\"/wiki/Diego_Gelm%C3%ADrez\" title=\"Diego Gelmírez\">Diego Gelmírez</a> crown <a href=\"/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile\" title=\"Alfonso VII of León and Castile\">Alfonso VII</a> as \"King of Galicia\".<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kingdom of Galicia",
+          "url": "/wiki/Kingdom_of_Galicia",
+          "length": 172324
+        },
+        {
+          "name": "Pedro Fróilaz de Traba",
+          "url": "/wiki/Pedro_Fr%C3%B3ilaz_de_Traba",
+          "length": 38884
+        },
+        {
+          "name": "Diego Gelmírez",
+          "url": "/wiki/Diego_Gelm%C3%ADrez",
+          "length": 8643
+        },
+        {
+          "name": "Alfonso VII of León and Castile",
+          "url": "/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile",
+          "length": 19753
+        }
+      ]
+    },
+    {
+      "year": "1775",
+      "description": "American Revolutionary War: The invasion of Quebec by the Continental Army begins with the Siege of Fort St. Jean.",
+      "html": "<li>\n<a href=\"/wiki/1775\" title=\"1775\">1775</a> – <a href=\"/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: The <a href=\"/wiki/Invasion_of_Quebec_(1775)\" title=\"Invasion of Quebec (1775)\">invasion of Quebec</a> by the <a href=\"/wiki/Continental_Army\" title=\"Continental Army\">Continental Army</a> begins with the <a href=\"/wiki/Siege_of_Fort_St._Jean\" title=\"Siege of Fort St. Jean\">Siege of Fort St. Jean</a>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 285512
+        },
+        {
+          "name": "Invasion of Quebec (1775)",
+          "url": "/wiki/Invasion_of_Quebec_(1775)",
+          "length": 66944
+        },
+        {
+          "name": "Continental Army",
+          "url": "/wiki/Continental_Army",
+          "length": 56496
+        },
+        {
+          "name": "Siege of Fort St. Jean",
+          "url": "/wiki/Siege_of_Fort_St._Jean",
+          "length": 33562
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Patrick Mahomes, American football player, was born.",
+      "html": "<li>1995   – <a href=\"/wiki/Patrick_Mahomes\" title=\"Patrick Mahomes\">Patrick Mahomes</a>, American football player<sup id=\"cite_ref-58\" class=\"reference\"><a href=\"#cite_note-58\"><span class=\"cite-bracket\">[</span>58<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Patrick Mahomes",
+          "url": "/wiki/Patrick_Mahomes",
+          "length": 210536
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "description": "Red Skelton, American actor and comedian, died.",
+      "html": "<li>\n<a href=\"/wiki/1997\" title=\"1997\">1997</a> – <a href=\"/wiki/Red_Skelton\" title=\"Red Skelton\">Red Skelton</a>, American actor and comedian (b. 1913)</li>",
+      "entities": [
+        {
+          "name": "Red Skelton",
+          "url": "/wiki/Red_Skelton",
+          "length": 159573
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1950",
+      "description": "Narendra Modi, Indian politician; Chief Minister of Gujarat and 14th Prime Minister of India, was born.",
+      "html": "<li>\n<a href=\"/wiki/1950\" title=\"1950\">1950</a> – <a href=\"/wiki/Narendra_Modi\" title=\"Narendra Modi\">Narendra Modi</a>, Indian politician; Chief Minister of <a href=\"/wiki/Gujarat\" title=\"Gujarat\">Gujarat</a> and 14th <a href=\"/wiki/Prime_Minister_of_India\" title=\"Prime Minister of India\">Prime Minister of India</a><sup id=\"cite_ref-UPI_31-16\" class=\"reference\"><a href=\"#cite_note-UPI-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Narendra Modi",
+          "url": "/wiki/Narendra_Modi",
+          "length": 360902
+        },
+        {
+          "name": "Gujarat",
+          "url": "/wiki/Gujarat",
+          "length": 216118
+        },
+        {
+          "name": "Prime Minister of India",
+          "url": "/wiki/Prime_Minister_of_India",
+          "length": 87530
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Patrick Mahomes, American football player, was born.",
+      "html": "<li>1995   – <a href=\"/wiki/Patrick_Mahomes\" title=\"Patrick Mahomes\">Patrick Mahomes</a>, American football player<sup id=\"cite_ref-58\" class=\"reference\"><a href=\"#cite_note-58\"><span class=\"cite-bracket\">[</span>58<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Patrick Mahomes",
+          "url": "/wiki/Patrick_Mahomes",
+          "length": 210536
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "Jimmie Johnson, American race car driver, was born.",
+      "html": "<li>1975   – <a href=\"/wiki/Jimmie_Johnson\" title=\"Jimmie Johnson\">Jimmie Johnson</a>, American race car driver</li>",
+      "entities": [
+        {
+          "name": "Jimmie Johnson",
+          "url": "/wiki/Jimmie_Johnson",
+          "length": 206325
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1997",
+      "description": "Red Skelton, American actor and comedian, died.",
+      "html": "<li>\n<a href=\"/wiki/1997\" title=\"1997\">1997</a> – <a href=\"/wiki/Red_Skelton\" title=\"Red Skelton\">Red Skelton</a>, American actor and comedian (b. 1913)</li>",
+      "entities": [
+        {
+          "name": "Red Skelton",
+          "url": "/wiki/Red_Skelton",
+          "length": 159573
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Karl Popper, Austrian-English philosopher and academic, died.",
+      "html": "<li>1994   – <a href=\"/wiki/Karl_Popper\" title=\"Karl Popper\">Karl Popper</a>, Austrian-English philosopher and academic (b. 1902)</li>",
+      "entities": [
+        {
+          "name": "Karl Popper",
+          "url": "/wiki/Karl_Popper",
+          "length": 116550
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "description": "Spiro Agnew, American soldier and politician, 39th Vice President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1996\" title=\"1996\">1996</a> – <a href=\"/wiki/Spiro_Agnew\" title=\"Spiro Agnew\">Spiro Agnew</a>, American soldier and politician, 39th <a href=\"/wiki/Vice_President_of_the_United_States\" title=\"Vice President of the United States\">Vice President of the United States</a> (b. 1918)</li>",
+      "entities": [
+        {
+          "name": "Spiro Agnew",
+          "url": "/wiki/Spiro_Agnew",
+          "length": 104661
+        },
+        {
+          "name": "Vice President of the United States",
+          "url": "/wiki/Vice_President_of_the_United_States",
+          "length": 123376
+        }
+      ]
+    }
+  ]
+}

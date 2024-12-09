@@ -1,0 +1,316 @@
+{
+  "events": [
+    {
+      "year": "1536",
+      "description": "Anne Boleyn, Queen of England, is arrested and imprisoned on charges of adultery, incest, treason and witchcraft.",
+      "html": "<li>\n<a href=\"/wiki/1536\" title=\"1536\">1536</a> – <a href=\"/wiki/Anne_Boleyn\" title=\"Anne Boleyn\">Anne Boleyn</a>, <a href=\"/wiki/Queen_consort\" title=\"Queen consort\">Queen of England</a>, is arrested and imprisoned on charges of <a href=\"/wiki/Adultery\" title=\"Adultery\">adultery</a>, <a href=\"/wiki/Incest\" title=\"Incest\">incest</a>, <a href=\"/wiki/Treason\" title=\"Treason\">treason</a> and <a href=\"/wiki/Witchcraft\" title=\"Witchcraft\">witchcraft</a>.</li>",
+      "entities": [
+        {
+          "name": "Anne Boleyn",
+          "url": "/wiki/Anne_Boleyn",
+          "length": 109690
+        },
+        {
+          "name": "Queen consort",
+          "url": "/wiki/Queen_consort",
+          "length": 32043
+        },
+        {
+          "name": "Adultery",
+          "url": "/wiki/Adultery",
+          "length": 133413
+        },
+        {
+          "name": "Incest",
+          "url": "/wiki/Incest",
+          "length": 107288
+        },
+        {
+          "name": "Treason",
+          "url": "/wiki/Treason",
+          "length": 78764
+        },
+        {
+          "name": "Witchcraft",
+          "url": "/wiki/Witchcraft",
+          "length": 96794
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "description": "Osama bin Laden, the suspected mastermind behind the September 11 attacks and the FBI's most wanted man, is killed by the United States Navy SEALs in Abbottabad, Pakistan.",
+      "html": "<li>\n<a href=\"/wiki/2011\" title=\"2011\">2011</a> – <a href=\"/wiki/Osama_bin_Laden\" title=\"Osama bin Laden\">Osama bin Laden</a>, the suspected mastermind behind the <a href=\"/wiki/September_11_attacks\" title=\"September 11 attacks\">September 11 attacks</a> and the <a href=\"/wiki/Federal_Bureau_of_Investigation\" title=\"Federal Bureau of Investigation\">FBI</a>'s most wanted man, is <a href=\"/wiki/Killing_of_Osama_bin_Laden\" title=\"Killing of Osama bin Laden\">killed</a> by the <a href=\"/wiki/United_States_Navy_SEALs\" title=\"United States Navy SEALs\">United States Navy SEALs</a> in <a href=\"/wiki/Abbottabad\" title=\"Abbottabad\">Abbottabad</a>, Pakistan.</li>",
+      "entities": [
+        {
+          "name": "Osama bin Laden",
+          "url": "/wiki/Osama_bin_Laden",
+          "length": 198532
+        },
+        {
+          "name": "September 11 attacks",
+          "url": "/wiki/September_11_attacks",
+          "length": 323769
+        },
+        {
+          "name": "Federal Bureau of Investigation",
+          "url": "/wiki/Federal_Bureau_of_Investigation",
+          "length": 129345
+        },
+        {
+          "name": "Killing of Osama bin Laden",
+          "url": "/wiki/Killing_of_Osama_bin_Laden",
+          "length": 243366
+        },
+        {
+          "name": "United States Navy SEALs",
+          "url": "/wiki/United_States_Navy_SEALs",
+          "length": 151117
+        },
+        {
+          "name": "Abbottabad",
+          "url": "/wiki/Abbottabad",
+          "length": 30815
+        }
+      ]
+    },
+    {
+      "year": "1625",
+      "description": "Afonso Mendes, appointed by Pope Gregory XV as Latin Patriarch of Ethiopia, arrives at Beilul from Goa.",
+      "html": "<li>\n<a href=\"/wiki/1625\" title=\"1625\">1625</a> – <a href=\"/wiki/Afonso_Mendes\" title=\"Afonso Mendes\">Afonso Mendes</a>, appointed by <a href=\"/wiki/Pope_Gregory_XV\" title=\"Pope Gregory XV\">Pope Gregory XV</a> as <a href=\"/wiki/Latin_Patriarchate_of_Ethiopia\" title=\"Latin Patriarchate of Ethiopia\">Latin Patriarch of Ethiopia</a>, arrives at <a href=\"/wiki/Beilul\" title=\"Beilul\">Beilul</a> from <a href=\"/wiki/Goa\" title=\"Goa\">Goa</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Afonso Mendes",
+          "url": "/wiki/Afonso_Mendes",
+          "length": 11241
+        },
+        {
+          "name": "Pope Gregory XV",
+          "url": "/wiki/Pope_Gregory_XV",
+          "length": 13451
+        },
+        {
+          "name": "Latin Patriarchate of Ethiopia",
+          "url": "/wiki/Latin_Patriarchate_of_Ethiopia",
+          "length": 2350
+        },
+        {
+          "name": "Beilul",
+          "url": "/wiki/Beilul",
+          "length": 3247
+        },
+        {
+          "name": "Goa",
+          "url": "/wiki/Goa",
+          "length": 122265
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "description": "Falklands War: The British nuclear submarine HMS Conqueror sinks the Argentine cruiser ARA General Belgrano.",
+      "html": "<li>\n<a href=\"/wiki/1982\" title=\"1982\">1982</a> – <a href=\"/wiki/Falklands_War\" title=\"Falklands War\">Falklands War</a>: The British <a href=\"/wiki/Nuclear_submarine\" title=\"Nuclear submarine\">nuclear submarine</a> <a href=\"/wiki/HMS_Conqueror_(S48)\" title=\"HMS Conqueror (S48)\">HMS <i>Conqueror</i></a> sinks the <a href=\"/wiki/Argentina\" title=\"Argentina\">Argentine</a> cruiser <a href=\"/wiki/ARA_General_Belgrano\" title=\"ARA General Belgrano\">ARA <i>General Belgrano</i></a>.</li>",
+      "entities": [
+        {
+          "name": "Falklands War",
+          "url": "/wiki/Falklands_War",
+          "length": 217026
+        },
+        {
+          "name": "Nuclear submarine",
+          "url": "/wiki/Nuclear_submarine",
+          "length": 46631
+        },
+        {
+          "name": "HMS Conqueror (S48)",
+          "url": "/wiki/HMS_Conqueror_(S48)",
+          "length": 16268
+        },
+        {
+          "name": "Argentina",
+          "url": "/wiki/Argentina",
+          "length": 256551
+        },
+        {
+          "name": "ARA General Belgrano",
+          "url": "/wiki/ARA_General_Belgrano",
+          "length": 44891
+        }
+      ]
+    },
+    {
+      "year": "1941",
+      "description": "World War II: Following the coup d'état against Iraq Crown Prince 'Abd al-Ilah earlier that year, the United Kingdom launches the Anglo-Iraqi War to restore him to power.",
+      "html": "<li>\n<a href=\"/wiki/1941\" title=\"1941\">1941</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: Following the <i><a href=\"/wiki/1941_Iraqi_coup_d%27%C3%A9tat\" title=\"1941 Iraqi coup d'état\">coup d'état</a></i> against <a href=\"/wiki/Iraq\" title=\"Iraq\">Iraq</a> Crown Prince <a href=\"/wiki/%27Abd_al-Ilah\" class=\"mw-redirect\" title=\"'Abd al-Ilah\">'Abd al-Ilah</a> earlier that year, the United Kingdom launches the <a href=\"/wiki/Anglo-Iraqi_War\" title=\"Anglo-Iraqi War\">Anglo-Iraqi War</a> to restore him to power.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "1941 Iraqi coup d'état",
+          "url": "/wiki/1941_Iraqi_coup_d%27%C3%A9tat",
+          "length": 13077
+        },
+        {
+          "name": "Iraq",
+          "url": "/wiki/Iraq",
+          "length": 181589
+        },
+        {
+          "name": "'Abd al-Ilah",
+          "url": "/wiki/%27Abd_al-Ilah",
+          "length": 49
+        },
+        {
+          "name": "Anglo-Iraqi War",
+          "url": "/wiki/Anglo-Iraqi_War",
+          "length": 99290
+        }
+      ]
+    },
+    {
+      "year": "1964",
+      "description": "First ascent of Shishapangma, the fourteenth highest mountain in the world and the lowest of the Eight-thousanders.",
+      "html": "<li>1964   – <a href=\"/wiki/First_ascent\" title=\"First ascent\">First ascent</a> of <a href=\"/wiki/Shishapangma\" title=\"Shishapangma\">Shishapangma</a>, the fourteenth highest <a href=\"/wiki/Mountain\" title=\"Mountain\">mountain</a> in the world and the lowest of the <a href=\"/wiki/Eight-thousander\" title=\"Eight-thousander\">Eight-thousanders</a>.</li>",
+      "entities": [
+        {
+          "name": "First ascent",
+          "url": "/wiki/First_ascent",
+          "length": 30237
+        },
+        {
+          "name": "Shishapangma",
+          "url": "/wiki/Shishapangma",
+          "length": 24756
+        },
+        {
+          "name": "Mountain",
+          "url": "/wiki/Mountain",
+          "length": 43145
+        },
+        {
+          "name": "Eight-thousander",
+          "url": "/wiki/Eight-thousander",
+          "length": 97203
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "David Beckham, English footballer, coach, and model, was born.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/David_Beckham\" title=\"David Beckham\">David Beckham</a>, English footballer, coach, and model</li>",
+      "entities": [
+        {
+          "name": "David Beckham",
+          "url": "/wiki/David_Beckham",
+          "length": 287777
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "description": "Jack Kemp, American football player and politician, 9th United States Secretary of Housing and Urban Development, died.",
+      "html": "<li>2009   – <a href=\"/wiki/Jack_Kemp\" title=\"Jack Kemp\">Jack Kemp</a>, American football player and politician, 9th <a href=\"/wiki/United_States_Secretary_of_Housing_and_Urban_Development\" title=\"United States Secretary of Housing and Urban Development\">United States Secretary of Housing and Urban Development</a> (b. 1935)</li>",
+      "entities": [
+        {
+          "name": "Jack Kemp",
+          "url": "/wiki/Jack_Kemp",
+          "length": 217557
+        },
+        {
+          "name": "United States Secretary of Housing and Urban Development",
+          "url": "/wiki/United_States_Secretary_of_Housing_and_Urban_Development",
+          "length": 13663
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1975",
+      "description": "David Beckham, English footballer, coach, and model, was born.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/David_Beckham\" title=\"David Beckham\">David Beckham</a>, English footballer, coach, and model</li>",
+      "entities": [
+        {
+          "name": "David Beckham",
+          "url": "/wiki/David_Beckham",
+          "length": 287777
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "Dwayne Johnson, American actor and wrestler, was born.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Dwayne_Johnson\" title=\"Dwayne Johnson\">Dwayne Johnson</a>, American actor and wrestler</li>",
+      "entities": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "/wiki/Dwayne_Johnson",
+          "length": 242222
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Kyle Busch, American race car driver, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Kyle_Busch\" title=\"Kyle Busch\">Kyle Busch</a>, American race car driver</li>",
+      "entities": [
+        {
+          "name": "Kyle Busch",
+          "url": "/wiki/Kyle_Busch",
+          "length": 226542
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2009",
+      "description": "Jack Kemp, American football player and politician, 9th United States Secretary of Housing and Urban Development, died.",
+      "html": "<li>2009   – <a href=\"/wiki/Jack_Kemp\" title=\"Jack Kemp\">Jack Kemp</a>, American football player and politician, 9th <a href=\"/wiki/United_States_Secretary_of_Housing_and_Urban_Development\" title=\"United States Secretary of Housing and Urban Development\">United States Secretary of Housing and Urban Development</a> (b. 1935)</li>",
+      "entities": [
+        {
+          "name": "Jack Kemp",
+          "url": "/wiki/Jack_Kemp",
+          "length": 217557
+        },
+        {
+          "name": "United States Secretary of Housing and Urban Development",
+          "url": "/wiki/United_States_Secretary_of_Housing_and_Urban_Development",
+          "length": 13663
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "description": "Osama bin Laden, Saudi Arabian terrorist, founder of Al-Qaeda, died.",
+      "html": "<li>\n<a href=\"/wiki/2011\" title=\"2011\">2011</a> – <a href=\"/wiki/Osama_bin_Laden\" title=\"Osama bin Laden\">Osama bin Laden</a>, Saudi Arabian terrorist, founder of <a href=\"/wiki/Al-Qaeda\" title=\"Al-Qaeda\">Al-Qaeda</a> (b. 1957)</li>",
+      "entities": [
+        {
+          "name": "Osama bin Laden",
+          "url": "/wiki/Osama_bin_Laden",
+          "length": 198532
+        },
+        {
+          "name": "Al-Qaeda",
+          "url": "/wiki/Al-Qaeda",
+          "length": 257959
+        }
+      ]
+    },
+    {
+      "year": "1957",
+      "description": "Joseph McCarthy, American captain, lawyer, judge, and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/1957\" title=\"1957\">1957</a> – <a href=\"/wiki/Joseph_McCarthy\" title=\"Joseph McCarthy\">Joseph McCarthy</a>, American captain, lawyer, judge, and politician (b. 1908)</li>",
+      "entities": [
+        {
+          "name": "Joseph McCarthy",
+          "url": "/wiki/Joseph_McCarthy",
+          "length": 163092
+        }
+      ]
+    }
+  ]
+}

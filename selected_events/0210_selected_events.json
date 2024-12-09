@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "1943",
+      "description": "World War II: Attempting to completely lift the Siege of Leningrad, the Soviet Red Army engages German troops and Spanish volunteers in the Battle of Krasny Bor.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: Attempting to completely lift the <a href=\"/wiki/Siege_of_Leningrad\" title=\"Siege of Leningrad\">Siege of Leningrad</a>, the <a href=\"/wiki/Red_Army\" title=\"Red Army\">Soviet Red Army</a> engages <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">German</a> troops and <a href=\"/wiki/Francoist_Spain\" title=\"Francoist Spain\">Spanish</a> volunteers in the <a href=\"/wiki/Battle_of_Krasny_Bor\" title=\"Battle of Krasny Bor\">Battle of Krasny Bor</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Siege of Leningrad",
+          "url": "/wiki/Siege_of_Leningrad",
+          "length": 97693
+        },
+        {
+          "name": "Red Army",
+          "url": "/wiki/Red_Army",
+          "length": 98834
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        },
+        {
+          "name": "Francoist Spain",
+          "url": "/wiki/Francoist_Spain",
+          "length": 86224
+        },
+        {
+          "name": "Battle of Krasny Bor",
+          "url": "/wiki/Battle_of_Krasny_Bor",
+          "length": 22100
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: A Union naval flotilla destroys the bulk of the Confederate Mosquito Fleet in the Battle of Elizabeth City on the Pasquotank River in North Carolina.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: A <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> naval flotilla destroys the bulk of the Confederate <a href=\"/wiki/Mosquito_Fleet\" title=\"Mosquito Fleet\">Mosquito Fleet</a> in the <a href=\"/wiki/Battle_of_Elizabeth_City\" title=\"Battle of Elizabeth City\">Battle of Elizabeth City</a> on the <a href=\"/wiki/Pasquotank_River\" title=\"Pasquotank River\">Pasquotank River</a> in <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Mosquito Fleet",
+          "url": "/wiki/Mosquito_Fleet",
+          "length": 4881
+        },
+        {
+          "name": "Battle of Elizabeth City",
+          "url": "/wiki/Battle_of_Elizabeth_City",
+          "length": 23943
+        },
+        {
+          "name": "Pasquotank River",
+          "url": "/wiki/Pasquotank_River",
+          "length": 3521
+        },
+        {
+          "name": "North Carolina",
+          "url": "/wiki/North_Carolina",
+          "length": 236920
+        }
+      ]
+    },
+    {
+      "year": "1962",
+      "description": "Cold War: Captured American U2 spy-plane pilot Gary Powers is exchanged for captured Soviet spy Rudolf Abel.",
+      "html": "<li>\n<a href=\"/wiki/1962\" title=\"1962\">1962</a> – <a href=\"/wiki/Cold_War\" title=\"Cold War\">Cold War</a>: Captured American <a href=\"/wiki/Lockheed_U-2\" title=\"Lockheed U-2\">U2 spy-plane</a> pilot <a href=\"/wiki/Gary_Powers\" class=\"mw-redirect\" title=\"Gary Powers\">Gary Powers</a> is exchanged for captured <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet</a> spy <a href=\"/wiki/Rudolf_Abel\" title=\"Rudolf Abel\">Rudolf Abel</a>.</li>",
+      "entities": [
+        {
+          "name": "Cold War",
+          "url": "/wiki/Cold_War",
+          "length": 267374
+        },
+        {
+          "name": "Lockheed U-2",
+          "url": "/wiki/Lockheed_U-2",
+          "length": 171058
+        },
+        {
+          "name": "Gary Powers",
+          "url": "/wiki/Gary_Powers",
+          "length": 33
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Rudolf Abel",
+          "url": "/wiki/Rudolf_Abel",
+          "length": 41241
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "Second Italo-Abyssinian War: Italian troops launch the Battle of Amba Aradam against Ethiopian defenders.",
+      "html": "<li>\n<a href=\"/wiki/1936\" title=\"1936\">1936</a> – <a href=\"/wiki/Second_Italo-Abyssinian_War\" class=\"mw-redirect\" title=\"Second Italo-Abyssinian War\">Second Italo-Abyssinian War</a>: <a href=\"/wiki/Kingdom_of_Italy\" title=\"Kingdom of Italy\">Italian</a> troops launch the <a href=\"/wiki/Battle_of_Amba_Aradam\" title=\"Battle of Amba Aradam\">Battle of Amba Aradam</a> against <a href=\"/wiki/Ethiopian_Empire\" title=\"Ethiopian Empire\">Ethiopian</a> defenders.</li>",
+      "entities": [
+        {
+          "name": "Second Italo-Abyssinian War",
+          "url": "/wiki/Second_Italo-Abyssinian_War",
+          "length": 40
+        },
+        {
+          "name": "Kingdom of Italy",
+          "url": "/wiki/Kingdom_of_Italy",
+          "length": 173789
+        },
+        {
+          "name": "Battle of Amba Aradam",
+          "url": "/wiki/Battle_of_Amba_Aradam",
+          "length": 14768
+        },
+        {
+          "name": "Ethiopian Empire",
+          "url": "/wiki/Ethiopian_Empire",
+          "length": 76508
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Ron Brown is elected chairman of the Democratic National Committee, becoming the first African American to lead a major American political party.",
+      "html": "<li>\n<a href=\"/wiki/1989\" title=\"1989\">1989</a> – <a href=\"/wiki/Ron_Brown\" title=\"Ron Brown\">Ron Brown</a> is elected chairman of the <a href=\"/wiki/Democratic_National_Committee\" title=\"Democratic National Committee\">Democratic National Committee</a>, becoming the first <a href=\"/wiki/African_Americans\" title=\"African Americans\">African American</a> to lead a major American <a href=\"/wiki/Political_party\" title=\"Political party\">political party</a>.</li>",
+      "entities": [
+        {
+          "name": "Ron Brown",
+          "url": "/wiki/Ron_Brown",
+          "length": 21473
+        },
+        {
+          "name": "Democratic National Committee",
+          "url": "/wiki/Democratic_National_Committee",
+          "length": 93378
+        },
+        {
+          "name": "African Americans",
+          "url": "/wiki/African_Americans",
+          "length": 288154
+        },
+        {
+          "name": "Political party",
+          "url": "/wiki/Political_party",
+          "length": 126066
+        }
+      ]
+    },
+    {
+      "year": "1814",
+      "description": "Napoleonic Wars: The Battle of Champaubert ends in French victory over the Russians and the Prussians.",
+      "html": "<li>\n<a href=\"/wiki/1814\" title=\"1814\">1814</a> – <a href=\"/wiki/Napoleonic_Wars\" title=\"Napoleonic Wars\">Napoleonic Wars</a>: The <a href=\"/wiki/Battle_of_Champaubert\" title=\"Battle of Champaubert\">Battle of Champaubert</a> ends in French victory over the <a href=\"/wiki/Russian_Empire\" title=\"Russian Empire\">Russians</a> and the <a href=\"/wiki/Kingdom_of_Prussia\" title=\"Kingdom of Prussia\">Prussians</a>.</li>",
+      "entities": [
+        {
+          "name": "Napoleonic Wars",
+          "url": "/wiki/Napoleonic_Wars",
+          "length": 196704
+        },
+        {
+          "name": "Battle of Champaubert",
+          "url": "/wiki/Battle_of_Champaubert",
+          "length": 28887
+        },
+        {
+          "name": "Russian Empire",
+          "url": "/wiki/Russian_Empire",
+          "length": 215756
+        },
+        {
+          "name": "Kingdom of Prussia",
+          "url": "/wiki/Kingdom_of_Prussia",
+          "length": 76583
+        }
+      ]
+    },
+    {
+      "year": "1894",
+      "description": "Harold Macmillan, English captain and politician, Prime Minister of the United Kingdom, was born.",
+      "html": "<li>\n<a href=\"/wiki/1894\" title=\"1894\">1894</a> – <a href=\"/wiki/Harold_Macmillan\" title=\"Harold Macmillan\">Harold Macmillan</a>, English captain and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (d. 1986)</li>",
+      "entities": [
+        {
+          "name": "Harold Macmillan",
+          "url": "/wiki/Harold_Macmillan",
+          "length": 173013
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Aloysius Stepinac, Croatian cardinal, died.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Aloysius_Stepinac\" title=\"Aloysius Stepinac\">Aloysius Stepinac</a>, Croatian cardinal (b. 1898)</li>",
+      "entities": [
+        {
+          "name": "Aloysius Stepinac",
+          "url": "/wiki/Aloysius_Stepinac",
+          "length": 188886
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1986",
+      "description": "Radamel Falcao, Colombian footballer, was born.",
+      "html": "<li>1986   – <a href=\"/wiki/Radamel_Falcao\" title=\"Radamel Falcao\">Radamel Falcao</a>, Colombian footballer</li>",
+      "entities": [
+        {
+          "name": "Radamel Falcao",
+          "url": "/wiki/Radamel_Falcao",
+          "length": 192231
+        }
+      ]
+    },
+    {
+      "year": "1964",
+      "description": "Glenn Beck, American journalist, producer, and author, was born.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Glenn_Beck\" title=\"Glenn Beck\">Glenn Beck</a>, American journalist, producer, and author<sup id=\"cite_ref-UPI_16-3\" class=\"reference\"><a href=\"#cite_note-UPI-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Glenn Beck",
+          "url": "/wiki/Glenn_Beck",
+          "length": 184619
+        }
+      ]
+    },
+    {
+      "year": "1894",
+      "description": "Harold Macmillan, English captain and politician, Prime Minister of the United Kingdom, was born.",
+      "html": "<li>\n<a href=\"/wiki/1894\" title=\"1894\">1894</a> – <a href=\"/wiki/Harold_Macmillan\" title=\"Harold Macmillan\">Harold Macmillan</a>, English captain and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (d. 1986)</li>",
+      "entities": [
+        {
+          "name": "Harold Macmillan",
+          "url": "/wiki/Harold_Macmillan",
+          "length": 173013
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1960",
+      "description": "Aloysius Stepinac, Croatian cardinal, died.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Aloysius_Stepinac\" title=\"Aloysius Stepinac\">Aloysius Stepinac</a>, Croatian cardinal (b. 1898)</li>",
+      "entities": [
+        {
+          "name": "Aloysius Stepinac",
+          "url": "/wiki/Aloysius_Stepinac",
+          "length": 188886
+        }
+      ]
+    },
+    {
+      "year": "1939",
+      "description": "Pope Pius XI, died.",
+      "html": "<li>\n<a href=\"/wiki/1939\" title=\"1939\">1939</a> – <a href=\"/wiki/Pope_Pius_XI\" title=\"Pope Pius XI\">Pope Pius XI</a> (b. 1857)</li>",
+      "entities": [
+        {
+          "name": "Pope Pius XI",
+          "url": "/wiki/Pope_Pius_XI",
+          "length": 101818
+        }
+      ]
+    },
+    {
+      "year": "1918",
+      "description": "Abdul Hamid II, Ottoman sultan, died.",
+      "html": "<li>\n<a href=\"/wiki/1918\" title=\"1918\">1918</a> – <a href=\"/wiki/Abdul_Hamid_II\" title=\"Abdul Hamid II\">Abdul Hamid II</a>, Ottoman sultan (b. 1842)</li>",
+      "entities": [
+        {
+          "name": "Abdul Hamid II",
+          "url": "/wiki/Abdul_Hamid_II",
+          "length": 93848
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "events": [
+    {
+      "year": "1841",
+      "description": "The Sultanate of Brunei cedes Sarawak to James Brooke.",
+      "html": "<li>\n<a href=\"/wiki/1841\" title=\"1841\">1841</a> – The <a href=\"/wiki/Sultanate_of_Brunei\" class=\"mw-redirect\" title=\"Sultanate of Brunei\">Sultanate of Brunei</a> cedes <a href=\"/wiki/Kingdom_of_Sarawak\" class=\"mw-redirect\" title=\"Kingdom of Sarawak\">Sarawak</a> to <a href=\"/wiki/James_Brooke\" title=\"James Brooke\">James Brooke</a>.</li>",
+      "entities": [
+        {
+          "name": "Sultanate of Brunei",
+          "url": "/wiki/Sultanate_of_Brunei",
+          "length": 46
+        },
+        {
+          "name": "Kingdom of Sarawak",
+          "url": "/wiki/Kingdom_of_Sarawak",
+          "length": 45
+        },
+        {
+          "name": "James Brooke",
+          "url": "/wiki/James_Brooke",
+          "length": 32789
+        }
+      ]
+    },
+    {
+      "year": "787",
+      "description": "Second Council of Nicaea: The council assembles at the church of Hagia Sophia.",
+      "html": "<li>\n<a href=\"/wiki/AD_787\" title=\"AD 787\">787</a> – <a href=\"/wiki/Second_Council_of_Nicaea\" title=\"Second Council of Nicaea\">Second Council of Nicaea</a>: The council assembles at the church of Hagia Sophia.</li>",
+      "entities": [
+        {
+          "name": "AD 787",
+          "url": "/wiki/AD_787",
+          "length": 3560
+        },
+        {
+          "name": "Second Council of Nicaea",
+          "url": "/wiki/Second_Council_of_Nicaea",
+          "length": 24414
+        }
+      ]
+    },
+    {
+      "year": "1853",
+      "description": "Admiral Despointes formally takes possession of New Caledonia in the name of France.",
+      "html": "<li>\n<a href=\"/wiki/1853\" title=\"1853\">1853</a> – Admiral <a href=\"/wiki/Auguste_Febvrier_Despointes\" title=\"Auguste Febvrier Despointes\">Despointes</a> formally takes possession of <a href=\"/wiki/New_Caledonia\" title=\"New Caledonia\">New Caledonia</a> in the name of France.</li>",
+      "entities": [
+        {
+          "name": "Auguste Febvrier Despointes",
+          "url": "/wiki/Auguste_Febvrier_Despointes",
+          "length": 2623
+        },
+        {
+          "name": "New Caledonia",
+          "url": "/wiki/New_Caledonia",
+          "length": 152938
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "AEC Routemaster, the iconic London bus was introduced.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/AEC_Routemaster\" title=\"AEC Routemaster\">AEC Routemaster</a>, the iconic <a href=\"/wiki/London\" title=\"London\">London</a> bus was introduced.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "AEC Routemaster",
+          "url": "/wiki/AEC_Routemaster",
+          "length": 75233
+        },
+        {
+          "name": "London",
+          "url": "/wiki/London",
+          "length": 266260
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "description": "Hurricane Rita makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern Texas.",
+      "html": "<li>\n<a href=\"/wiki/2005\" title=\"2005\">2005</a> – <a href=\"/wiki/Hurricane_Rita\" title=\"Hurricane Rita\">Hurricane Rita</a> makes landfall in the United States, devastating portions of southwestern Louisiana and extreme southeastern <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>.</li>",
+      "entities": [
+        {
+          "name": "Hurricane Rita",
+          "url": "/wiki/Hurricane_Rita",
+          "length": 116068
+        },
+        {
+          "name": "Texas",
+          "url": "/wiki/Texas",
+          "length": 262159
+        }
+      ]
+    },
+    {
+      "year": "1906",
+      "description": "Racial tensions exacerbated by rumors lead to the Atlanta Race Riot, further increasing racial segregation.",
+      "html": "<li>1906   – Racial tensions exacerbated by rumors lead to the <a href=\"/wiki/Atlanta_Race_Riot\" class=\"mw-redirect\" title=\"Atlanta Race Riot\">Atlanta Race Riot</a>, further increasing racial segregation.</li>",
+      "entities": [
+        {
+          "name": "Atlanta Race Riot",
+          "url": "/wiki/Atlanta_Race_Riot",
+          "length": 56
+        }
+      ]
+    },
+    {
+      "year": "1755",
+      "description": "John Marshall, American Continental Army officer, jurist, and politician, 4th Chief Justice of the United States Supreme Court, was born.",
+      "html": "<li>\n<a href=\"/wiki/1755\" title=\"1755\">1755</a> – <a href=\"/wiki/John_Marshall\" title=\"John Marshall\">John Marshall</a>, American Continental Army officer, jurist, and politician, 4th <a href=\"/wiki/Chief_Justice_of_the_United_States_Supreme_Court\" class=\"mw-redirect\" title=\"Chief Justice of the United States Supreme Court\">Chief Justice of the United States Supreme Court</a> (d. 1835)</li>",
+      "entities": [
+        {
+          "name": "John Marshall",
+          "url": "/wiki/John_Marshall",
+          "length": 121053
+        },
+        {
+          "name": "Chief Justice of the United States Supreme Court",
+          "url": "/wiki/Chief_Justice_of_the_United_States_Supreme_Court",
+          "length": 48
+        }
+      ]
+    },
+    {
+      "year": "1180",
+      "description": "Manuel I Komnenos, Byzantine emperor, died.",
+      "html": "<li>\n<a href=\"/wiki/1180\" title=\"1180\">1180</a> – <a href=\"/wiki/Manuel_I_Komnenos\" title=\"Manuel I Komnenos\">Manuel I Komnenos</a>, Byzantine emperor (b. 1118)</li>",
+      "entities": [
+        {
+          "name": "Manuel I Komnenos",
+          "url": "/wiki/Manuel_I_Komnenos",
+          "length": 93458
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1896",
+      "description": "F. Scott Fitzgerald, American novelist and short story writer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1896\" title=\"1896\">1896</a> – <a href=\"/wiki/F._Scott_Fitzgerald\" title=\"F. Scott Fitzgerald\">F. Scott Fitzgerald</a>, American novelist and short story writer (d. 1940)</li>",
+      "entities": [
+        {
+          "name": "F. Scott Fitzgerald",
+          "url": "/wiki/F._Scott_Fitzgerald",
+          "length": 182667
+        }
+      ]
+    },
+    {
+      "year": "1755",
+      "description": "John Marshall, American Continental Army officer, jurist, and politician, 4th Chief Justice of the United States Supreme Court, was born.",
+      "html": "<li>\n<a href=\"/wiki/1755\" title=\"1755\">1755</a> – <a href=\"/wiki/John_Marshall\" title=\"John Marshall\">John Marshall</a>, American Continental Army officer, jurist, and politician, 4th <a href=\"/wiki/Chief_Justice_of_the_United_States_Supreme_Court\" class=\"mw-redirect\" title=\"Chief Justice of the United States Supreme Court\">Chief Justice of the United States Supreme Court</a> (d. 1835)</li>",
+      "entities": [
+        {
+          "name": "John Marshall",
+          "url": "/wiki/John_Marshall",
+          "length": 121053
+        },
+        {
+          "name": "Chief Justice of the United States Supreme Court",
+          "url": "/wiki/Chief_Justice_of_the_United_States_Supreme_Court",
+          "length": 48
+        }
+      ]
+    },
+    {
+      "year": "1898",
+      "description": "Howard Florey, Australian pharmacologist and pathologist, Nobel Prize laureate, was born.",
+      "html": "<li>\n<a href=\"/wiki/1898\" title=\"1898\">1898</a> – <a href=\"/wiki/Howard_Florey\" title=\"Howard Florey\">Howard Florey</a>, Australian pharmacologist and pathologist, <a href=\"/wiki/Nobel_Prize_in_Physiology_or_Medicine\" title=\"Nobel Prize in Physiology or Medicine\">Nobel Prize</a> laureate (d. 1968)</li>",
+      "entities": [
+        {
+          "name": "Howard Florey",
+          "url": "/wiki/Howard_Florey",
+          "length": 116487
+        },
+        {
+          "name": "Nobel Prize in Physiology or Medicine",
+          "url": "/wiki/Nobel_Prize_in_Physiology_or_Medicine",
+          "length": 59292
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1834",
+      "description": "Pedro I of Brazil, died.",
+      "html": "<li>\n<a href=\"/wiki/1834\" title=\"1834\">1834</a> – <a href=\"/wiki/Pedro_I_of_Brazil\" title=\"Pedro I of Brazil\">Pedro I of Brazil</a> (b. 1798)</li>",
+      "entities": [
+        {
+          "name": "Pedro I of Brazil",
+          "url": "/wiki/Pedro_I_of_Brazil",
+          "length": 99827
+        }
+      ]
+    },
+    {
+      "year": "1180",
+      "description": "Manuel I Komnenos, Byzantine emperor, died.",
+      "html": "<li>\n<a href=\"/wiki/1180\" title=\"1180\">1180</a> – <a href=\"/wiki/Manuel_I_Komnenos\" title=\"Manuel I Komnenos\">Manuel I Komnenos</a>, Byzantine emperor (b. 1118)</li>",
+      "entities": [
+        {
+          "name": "Manuel I Komnenos",
+          "url": "/wiki/Manuel_I_Komnenos",
+          "length": 93458
+        }
+      ]
+    },
+    {
+      "year": "1541",
+      "description": "Paracelsus, German-Swiss physician, botanist, and chemist, died.",
+      "html": "<li>\n<a href=\"/wiki/1541\" title=\"1541\">1541</a> – <a href=\"/wiki/Paracelsus\" title=\"Paracelsus\">Paracelsus</a>, German-Swiss physician, botanist, and chemist (b. 1493)</li>",
+      "entities": [
+        {
+          "name": "Paracelsus",
+          "url": "/wiki/Paracelsus",
+          "length": 86541
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "events": [
+    {
+      "year": "2008",
+      "description": "The International Court of Justice (ICJ) awards Middle Rocks to Malaysia and Pedra Branca (Pulau Batu Puteh) to Singapore, ending a 29-year territorial dispute between the two countries.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – The <a href=\"/wiki/International_Court_of_Justice\" title=\"International Court of Justice\">International Court of Justice</a> (ICJ) awards <a href=\"/wiki/Middle_Rocks\" title=\"Middle Rocks\">Middle Rocks</a> to <a href=\"/wiki/Malaysia\" title=\"Malaysia\">Malaysia</a> and <a href=\"/wiki/Pedra_Branca,_Singapore\" title=\"Pedra Branca, Singapore\">Pedra Branca</a> (Pulau Batu Puteh) to <a href=\"/wiki/Singapore\" title=\"Singapore\">Singapore</a>, ending a 29-year <a href=\"/wiki/Pedra_Branca_dispute\" title=\"Pedra Branca dispute\">territorial dispute</a> between the two countries.</li>",
+      "entities": [
+        {
+          "name": "International Court of Justice",
+          "url": "/wiki/International_Court_of_Justice",
+          "length": 89690
+        },
+        {
+          "name": "Middle Rocks",
+          "url": "/wiki/Middle_Rocks",
+          "length": 9741
+        },
+        {
+          "name": "Malaysia",
+          "url": "/wiki/Malaysia",
+          "length": 226653
+        },
+        {
+          "name": "Pedra Branca, Singapore",
+          "url": "/wiki/Pedra_Branca,_Singapore",
+          "length": 78959
+        },
+        {
+          "name": "Singapore",
+          "url": "/wiki/Singapore",
+          "length": 334732
+        },
+        {
+          "name": "Pedra Branca dispute",
+          "url": "/wiki/Pedra_Branca_dispute",
+          "length": 132143
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "description": "Philippine President Rodrigo Duterte declares martial law in Mindanao, following the Maute's attack in Marawi.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – Philippine President <a href=\"/wiki/Rodrigo_Duterte\" title=\"Rodrigo Duterte\">Rodrigo Duterte</a> declares <a href=\"/wiki/Martial_law\" title=\"Martial law\">martial law</a> in <a href=\"/wiki/Mindanao\" title=\"Mindanao\">Mindanao</a>, following the <a href=\"/wiki/Maute_group\" title=\"Maute group\">Maute's</a> <a href=\"/wiki/Battle_of_Marawi\" class=\"mw-redirect\" title=\"Battle of Marawi\">attack in Marawi</a>.</li>",
+      "entities": [
+        {
+          "name": "Rodrigo Duterte",
+          "url": "/wiki/Rodrigo_Duterte",
+          "length": 376043
+        },
+        {
+          "name": "Martial law",
+          "url": "/wiki/Martial_law",
+          "length": 77335
+        },
+        {
+          "name": "Mindanao",
+          "url": "/wiki/Mindanao",
+          "length": 86200
+        },
+        {
+          "name": "Maute group",
+          "url": "/wiki/Maute_group",
+          "length": 49466
+        },
+        {
+          "name": "Battle of Marawi",
+          "url": "/wiki/Battle_of_Marawi",
+          "length": 76
+        }
+      ]
+    },
+    {
+      "year": "1905",
+      "description": "Sultan Abdul Hamid II publicly announces the creation of the Ullah millet for the Aromanians of the empire, which had been established one day earlier. For this reason, the Aromanian National Day is usually celebrated on May 23, although some do so on May 22 instead.",
+      "html": "<li>\n<a href=\"/wiki/1905\" title=\"1905\">1905</a> – Sultan <a href=\"/wiki/Abdul_Hamid_II\" title=\"Abdul Hamid II\">Abdul Hamid II</a> publicly announces the creation of the <a href=\"/wiki/Ullah_millet\" title=\"Ullah millet\">Ullah millet</a> for the <a href=\"/wiki/Aromanians\" title=\"Aromanians\">Aromanians</a> of the empire, which had been established one day earlier. For this reason, the <a href=\"/wiki/Aromanian_National_Day\" title=\"Aromanian National Day\">Aromanian National Day</a> is usually celebrated on May 23,<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup> although some do so on <a href=\"/wiki/May_22\" title=\"May 22\">May 22</a> instead.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Abdul Hamid II",
+          "url": "/wiki/Abdul_Hamid_II",
+          "length": 93848
+        },
+        {
+          "name": "Ullah millet",
+          "url": "/wiki/Ullah_millet",
+          "length": 12541
+        },
+        {
+          "name": "Aromanians",
+          "url": "/wiki/Aromanians",
+          "length": 80152
+        },
+        {
+          "name": "Aromanian National Day",
+          "url": "/wiki/Aromanian_National_Day",
+          "length": 10363
+        },
+        {
+          "name": "May 22",
+          "url": "/wiki/May_22",
+          "length": 52785
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "World War II: Heinrich Himmler, head of the Schutzstaffel, commits suicide while in Allied custody.",
+      "html": "<li>\n<a href=\"/wiki/1945\" title=\"1945\">1945</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Heinrich_Himmler\" title=\"Heinrich Himmler\">Heinrich Himmler</a>, head of the <a href=\"/wiki/Schutzstaffel\" title=\"Schutzstaffel\">Schutzstaffel</a>, commits suicide while in <a href=\"/wiki/Allies_of_World_War_II\" title=\"Allies of World War II\">Allied</a> custody.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Heinrich Himmler",
+          "url": "/wiki/Heinrich_Himmler",
+          "length": 111942
+        },
+        {
+          "name": "Schutzstaffel",
+          "url": "/wiki/Schutzstaffel",
+          "length": 142678
+        },
+        {
+          "name": "Allies of World War II",
+          "url": "/wiki/Allies_of_World_War_II",
+          "length": 166559
+        }
+      ]
+    },
+    {
+      "year": "1939",
+      "description": "The U.S. Navy submarine USS Squalus sinks off the coast of New Hampshire during a test dive, causing the death of 24 sailors and two civilian technicians. The remaining 32 sailors and one civilian naval architect are rescued the following day.",
+      "html": "<li>\n<a href=\"/wiki/1939\" title=\"1939\">1939</a> – The <a href=\"/wiki/United_States_Navy\" title=\"United States Navy\">U.S. Navy</a> <a href=\"/wiki/Submarine\" title=\"Submarine\">submarine</a> <a href=\"/wiki/USS_Sailfish_(SS-192)\" title=\"USS Sailfish (SS-192)\">USS <i>Squalus</i></a> sinks off the coast of <a href=\"/wiki/New_Hampshire\" title=\"New Hampshire\">New Hampshire</a> during a test dive, causing the death of 24 sailors and two civilian technicians. The remaining 32 sailors and one civilian naval architect are rescued the following day.</li>",
+      "entities": [
+        {
+          "name": "United States Navy",
+          "url": "/wiki/United_States_Navy",
+          "length": 133517
+        },
+        {
+          "name": "Submarine",
+          "url": "/wiki/Submarine",
+          "length": 135774
+        },
+        {
+          "name": "USS Sailfish (SS-192)",
+          "url": "/wiki/USS_Sailfish_(SS-192)",
+          "length": 43394
+        },
+        {
+          "name": "New Hampshire",
+          "url": "/wiki/New_Hampshire",
+          "length": 130538
+        }
+      ]
+    },
+    {
+      "year": "1863",
+      "description": "The General German Workers' Association, a precursor of the modern Social Democratic Party of Germany, is founded in Leipzig, Kingdom of Saxony.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – The <a href=\"/wiki/General_German_Workers%27_Association\" title=\"General German Workers' Association\">General German Workers' Association</a>, a precursor of the modern <a href=\"/wiki/Social_Democratic_Party_of_Germany\" title=\"Social Democratic Party of Germany\">Social Democratic Party of Germany</a>, is founded in <a href=\"/wiki/Leipzig\" title=\"Leipzig\">Leipzig</a>, <a href=\"/wiki/Kingdom_of_Saxony\" title=\"Kingdom of Saxony\">Kingdom of Saxony</a>.</li>",
+      "entities": [
+        {
+          "name": "General German Workers' Association",
+          "url": "/wiki/General_German_Workers%27_Association",
+          "length": 8169
+        },
+        {
+          "name": "Social Democratic Party of Germany",
+          "url": "/wiki/Social_Democratic_Party_of_Germany",
+          "length": 138123
+        },
+        {
+          "name": "Leipzig",
+          "url": "/wiki/Leipzig",
+          "length": 169294
+        },
+        {
+          "name": "Kingdom of Saxony",
+          "url": "/wiki/Kingdom_of_Saxony",
+          "length": 30696
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Bray Wyatt, American wrestler, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Bray_Wyatt\" title=\"Bray Wyatt\">Bray Wyatt</a>, American wrestler (d. 2023)</li>",
+      "entities": [
+        {
+          "name": "Bray Wyatt",
+          "url": "/wiki/Bray_Wyatt",
+          "length": 227680
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "description": "Roger Moore, English actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – <a href=\"/wiki/Roger_Moore\" title=\"Roger Moore\">Roger Moore</a>, English actor (b. 1927)</li>",
+      "entities": [
+        {
+          "name": "Roger Moore",
+          "url": "/wiki/Roger_Moore",
+          "length": 95710
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1987",
+      "description": "Bray Wyatt, American wrestler, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Bray_Wyatt\" title=\"Bray Wyatt\">Bray Wyatt</a>, American wrestler (d. 2023)</li>",
+      "entities": [
+        {
+          "name": "Bray Wyatt",
+          "url": "/wiki/Bray_Wyatt",
+          "length": 227680
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Dan Evans, British tennis player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Dan_Evans_(tennis)\" title=\"Dan Evans (tennis)\">Dan Evans</a>, British tennis player</li>",
+      "entities": [
+        {
+          "name": "Dan Evans (tennis)",
+          "url": "/wiki/Dan_Evans_(tennis)",
+          "length": 164962
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "Rubens Barrichello, Brazilian race car driver, was born.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Rubens_Barrichello\" title=\"Rubens Barrichello\">Rubens Barrichello</a>, Brazilian race car driver</li>",
+      "entities": [
+        {
+          "name": "Rubens Barrichello",
+          "url": "/wiki/Rubens_Barrichello",
+          "length": 162382
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1945",
+      "description": "Heinrich Himmler, German commander and politician, Reich Minister of the Interior, died.",
+      "html": "<li>\n<a href=\"/wiki/1945\" title=\"1945\">1945</a> – <a href=\"/wiki/Heinrich_Himmler\" title=\"Heinrich Himmler\">Heinrich Himmler</a>, German commander and politician, <a href=\"/wiki/Federal_Ministry_of_the_Interior_(Germany)\" title=\"Federal Ministry of the Interior (Germany)\">Reich Minister of the Interior</a> (b. 1900)</li>",
+      "entities": [
+        {
+          "name": "Heinrich Himmler",
+          "url": "/wiki/Heinrich_Himmler",
+          "length": 111942
+        },
+        {
+          "name": "Federal Ministry of the Interior (Germany)",
+          "url": "/wiki/Federal_Ministry_of_the_Interior_(Germany)",
+          "length": 16345
+        }
+      ]
+    },
+    {
+      "year": "1868",
+      "description": "Kit Carson, American general, died.",
+      "html": "<li>\n<a href=\"/wiki/1868\" title=\"1868\">1868</a> – <a href=\"/wiki/Kit_Carson\" title=\"Kit Carson\">Kit Carson</a>, American general (b. 1809)</li>",
+      "entities": [
+        {
+          "name": "Kit Carson",
+          "url": "/wiki/Kit_Carson",
+          "length": 102530
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "description": "Roger Moore, English actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – <a href=\"/wiki/Roger_Moore\" title=\"Roger Moore\">Roger Moore</a>, English actor (b. 1927)</li>",
+      "entities": [
+        {
+          "name": "Roger Moore",
+          "url": "/wiki/Roger_Moore",
+          "length": 95710
+        }
+      ]
+    }
+  ]
+}

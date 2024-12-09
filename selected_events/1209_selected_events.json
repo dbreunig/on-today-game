@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1940",
+      "description": "World War II: Operation Compass: British and Indian troops under the command of Major-General Richard O'Connor attack Italian forces near Sidi Barrani in Egypt.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Operation_Compass\" title=\"Operation Compass\">Operation Compass</a>: British and Indian troops under the command of Major-General <a href=\"/wiki/Richard_O%27Connor\" title=\"Richard O'Connor\">Richard O'Connor</a> <a href=\"/wiki/Battle_of_Sidi_Barrani\" title=\"Battle of Sidi Barrani\">attack</a> <a href=\"/wiki/Military_history_of_Italy_during_World_War_II\" title=\"Military history of Italy during World War II\">Italian</a> forces near <a href=\"/wiki/Sidi_Barrani\" title=\"Sidi Barrani\">Sidi Barrani</a> in <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 254994
+        },
+        {
+          "name": "Operation Compass",
+          "url": "/wiki/Operation_Compass",
+          "length": 69864
+        },
+        {
+          "name": "Richard O'Connor",
+          "url": "/wiki/Richard_O%27Connor",
+          "length": 45796
+        },
+        {
+          "name": "Battle of Sidi Barrani",
+          "url": "/wiki/Battle_of_Sidi_Barrani",
+          "length": 39014
+        },
+        {
+          "name": "Military history of Italy during World War II",
+          "url": "/wiki/Military_history_of_Italy_during_World_War_II",
+          "length": 121424
+        },
+        {
+          "name": "Sidi Barrani",
+          "url": "/wiki/Sidi_Barrani",
+          "length": 10015
+        },
+        {
+          "name": "Egypt",
+          "url": "/wiki/Egypt",
+          "length": 242142
+        }
+      ]
+    },
+    {
+      "year": "1822",
+      "description": "French physicist Augustin-Jean Fresnel, in a memoir read to the Academy of Sciences, coins the terms linear polarization, circular polarization, and elliptical polarization, and reports a direct refraction experiment verifying his theory that optical rotation is a form of birefringence.",
+      "html": "<li>\n<a href=\"/wiki/1822\" title=\"1822\">1822</a> – French physicist <a href=\"/wiki/Augustin-Jean_Fresnel\" title=\"Augustin-Jean Fresnel\">Augustin-Jean Fresnel</a>, in a memoir read to the <a href=\"/wiki/French_Academy_of_Sciences\" title=\"French Academy of Sciences\">Academy of Sciences</a>, coins the terms <i><a href=\"/wiki/Linear_polarization\" title=\"Linear polarization\">linear polarization</a></i>, <i><a href=\"/wiki/Circular_polarization\" title=\"Circular polarization\">circular polarization</a></i>, and <i><a href=\"/wiki/Elliptical_polarization\" title=\"Elliptical polarization\">elliptical polarization</a></i>, and reports a direct refraction experiment verifying his theory that <a href=\"/wiki/Optical_rotation\" title=\"Optical rotation\">optical rotation</a> is a form of <a href=\"/wiki/Birefringence\" title=\"Birefringence\">birefringence</a>.<sup id=\"cite_ref-fresnel-1822z_8-0\" class=\"reference\"><a href=\"#cite_note-fresnel-1822z-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Augustin-Jean Fresnel",
+          "url": "/wiki/Augustin-Jean_Fresnel",
+          "length": 202975
+        },
+        {
+          "name": "French Academy of Sciences",
+          "url": "/wiki/French_Academy_of_Sciences",
+          "length": 33411
+        },
+        {
+          "name": "Linear polarization",
+          "url": "/wiki/Linear_polarization",
+          "length": 4965
+        },
+        {
+          "name": "Circular polarization",
+          "url": "/wiki/Circular_polarization",
+          "length": 40236
+        },
+        {
+          "name": "Elliptical polarization",
+          "url": "/wiki/Elliptical_polarization",
+          "length": 7762
+        },
+        {
+          "name": "Optical rotation",
+          "url": "/wiki/Optical_rotation",
+          "length": 37058
+        },
+        {
+          "name": "Birefringence",
+          "url": "/wiki/Birefringence",
+          "length": 60800
+        }
+      ]
+    },
+    {
+      "year": "1950",
+      "description": "Cold War: Harry Gold is sentenced to 30 years in jail for helping Klaus Fuchs pass information about the Manhattan Project to the Soviet Union. His testimony is later instrumental in the prosecution of Julius and Ethel Rosenberg.",
+      "html": "<li>\n<a href=\"/wiki/1950\" title=\"1950\">1950</a> – <a href=\"/wiki/Cold_War\" title=\"Cold War\">Cold War</a>: <a href=\"/wiki/Harry_Gold\" title=\"Harry Gold\">Harry Gold</a> is sentenced to 30 years in jail for helping <a href=\"/wiki/Klaus_Fuchs\" title=\"Klaus Fuchs\">Klaus Fuchs</a> pass information about the <a href=\"/wiki/Manhattan_Project\" title=\"Manhattan Project\">Manhattan Project</a> to the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a>. His testimony is later instrumental in the prosecution of <a href=\"/wiki/Julius_and_Ethel_Rosenberg\" title=\"Julius and Ethel Rosenberg\">Julius and Ethel Rosenberg</a>.</li>",
+      "entities": [
+        {
+          "name": "Cold War",
+          "url": "/wiki/Cold_War",
+          "length": 269629
+        },
+        {
+          "name": "Harry Gold",
+          "url": "/wiki/Harry_Gold",
+          "length": 14524
+        },
+        {
+          "name": "Klaus Fuchs",
+          "url": "/wiki/Klaus_Fuchs",
+          "length": 57283
+        },
+        {
+          "name": "Manhattan Project",
+          "url": "/wiki/Manhattan_Project",
+          "length": 185314
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Julius and Ethel Rosenberg",
+          "url": "/wiki/Julius_and_Ethel_Rosenberg",
+          "length": 84874
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "description": "Douglas Engelbart gave what became known as \"The Mother of All Demos\", publicly debuting the computer mouse, hypertext, and the bit-mapped graphical user interface using the oN-Line System (NLS).",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Douglas_Engelbart\" title=\"Douglas Engelbart\">Douglas Engelbart</a> gave what became known as \"<a href=\"/wiki/The_Mother_of_All_Demos\" title=\"The Mother of All Demos\">The Mother of All Demos</a>\", publicly debuting the <a href=\"/wiki/Computer_mouse\" title=\"Computer mouse\">computer mouse</a>, <a href=\"/wiki/Hypertext\" title=\"Hypertext\">hypertext</a>, and the bit-mapped <a href=\"/wiki/Graphical_user_interface\" title=\"Graphical user interface\">graphical user interface</a> using the <a href=\"/wiki/NLS_(computer_system)\" title=\"NLS (computer system)\">oN-Line System (NLS)</a>.</li>",
+      "entities": [
+        {
+          "name": "Douglas Engelbart",
+          "url": "/wiki/Douglas_Engelbart",
+          "length": 54278
+        },
+        {
+          "name": "The Mother of All Demos",
+          "url": "/wiki/The_Mother_of_All_Demos",
+          "length": 24637
+        },
+        {
+          "name": "Computer mouse",
+          "url": "/wiki/Computer_mouse",
+          "length": 129265
+        },
+        {
+          "name": "Hypertext",
+          "url": "/wiki/Hypertext",
+          "length": 34282
+        },
+        {
+          "name": "Graphical user interface",
+          "url": "/wiki/Graphical_user_interface",
+          "length": 35597
+        },
+        {
+          "name": "NLS (computer system)",
+          "url": "/wiki/NLS_(computer_system)",
+          "length": 18924
+        }
+      ]
+    },
+    {
+      "year": "1868",
+      "description": "The first traffic lights are installed, outside the Palace of Westminster in London. Resembling railway signals, they use semaphore arms and are illuminated at night by red and green gas lamps.",
+      "html": "<li>\n<a href=\"/wiki/1868\" title=\"1868\">1868</a> – The first <a href=\"/wiki/Traffic_light\" title=\"Traffic light\">traffic lights</a> are installed, outside the <a href=\"/wiki/Palace_of_Westminster\" title=\"Palace of Westminster\">Palace of Westminster</a> in London. Resembling <a href=\"/wiki/Railway_signal\" title=\"Railway signal\">railway signals</a>, they use <a href=\"/wiki/Railway_semaphore_signal\" title=\"Railway semaphore signal\">semaphore</a> arms and are illuminated at night by red and green <a href=\"/wiki/Gas_lamp\" class=\"mw-redirect\" title=\"Gas lamp\">gas lamps</a>.</li>",
+      "entities": [
+        {
+          "name": "Traffic light",
+          "url": "/wiki/Traffic_light",
+          "length": 102654
+        },
+        {
+          "name": "Palace of Westminster",
+          "url": "/wiki/Palace_of_Westminster",
+          "length": 125210
+        },
+        {
+          "name": "Railway signal",
+          "url": "/wiki/Railway_signal",
+          "length": 26972
+        },
+        {
+          "name": "Railway semaphore signal",
+          "url": "/wiki/Railway_semaphore_signal",
+          "length": 27295
+        },
+        {
+          "name": "Gas lamp",
+          "url": "/wiki/Gas_lamp",
+          "length": 26
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Governor of Illinois Rod Blagojevich is arrested by federal officials for crimes including attempting to sell the U.S. Senate seat being vacated by President-elect Barack Obama.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/Governor_of_Illinois\" title=\"Governor of Illinois\">Governor of Illinois</a> <a href=\"/wiki/Rod_Blagojevich\" title=\"Rod Blagojevich\">Rod Blagojevich</a> is arrested by federal officials for crimes including attempting to sell the <a href=\"/wiki/United_States_Senate\" title=\"United States Senate\">U.S. Senate</a> seat being vacated by <a href=\"/wiki/President-elect_of_the_United_States\" title=\"President-elect of the United States\">President-elect</a> <a href=\"/wiki/Barack_Obama\" title=\"Barack Obama\">Barack Obama</a>.</li>",
+      "entities": [
+        {
+          "name": "Governor of Illinois",
+          "url": "/wiki/Governor_of_Illinois",
+          "length": 9695
+        },
+        {
+          "name": "Rod Blagojevich",
+          "url": "/wiki/Rod_Blagojevich",
+          "length": 113445
+        },
+        {
+          "name": "United States Senate",
+          "url": "/wiki/United_States_Senate",
+          "length": 107428
+        },
+        {
+          "name": "President-elect of the United States",
+          "url": "/wiki/President-elect_of_the_United_States",
+          "length": 48666
+        },
+        {
+          "name": "Barack Obama",
+          "url": "/wiki/Barack_Obama",
+          "length": 394375
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Hikaru Nakamura, Japanese-American chess player, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Hikaru_Nakamura\" title=\"Hikaru Nakamura\">Hikaru Nakamura</a>, Japanese-American chess player</li>",
+      "entities": [
+        {
+          "name": "Hikaru Nakamura",
+          "url": "/wiki/Hikaru_Nakamura",
+          "length": 141221
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "description": "Archie Moore, American boxer and actor, died.",
+      "html": "<li>1998   – <a href=\"/wiki/Archie_Moore\" title=\"Archie Moore\">Archie Moore</a>, American boxer and actor (b. 1913)</li>",
+      "entities": [
+        {
+          "name": "Archie Moore",
+          "url": "/wiki/Archie_Moore",
+          "length": 98181
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1968",
+      "description": "Kurt Angle, American freestyle and professional wrestler, was born.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Kurt_Angle\" title=\"Kurt Angle\">Kurt Angle</a>, American freestyle and professional wrestler<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kurt Angle",
+          "url": "/wiki/Kurt_Angle",
+          "length": 216444
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Hikaru Nakamura, Japanese-American chess player, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Hikaru_Nakamura\" title=\"Hikaru Nakamura\">Hikaru Nakamura</a>, Japanese-American chess player</li>",
+      "entities": [
+        {
+          "name": "Hikaru Nakamura",
+          "url": "/wiki/Hikaru_Nakamura",
+          "length": 141221
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "description": "Kirsten Gillibrand, American lawyer and politician, was born.",
+      "html": "<li>\n<a href=\"/wiki/1966\" title=\"1966\">1966</a> – <a href=\"/wiki/Kirsten_Gillibrand\" title=\"Kirsten Gillibrand\">Kirsten Gillibrand</a>, American lawyer and politician</li>",
+      "entities": [
+        {
+          "name": "Kirsten Gillibrand",
+          "url": "/wiki/Kirsten_Gillibrand",
+          "length": 138395
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2021",
+      "description": "Demaryius Thomas, American football player, died.",
+      "html": "<li>2021   – <a href=\"/wiki/Demaryius_Thomas\" title=\"Demaryius Thomas\">Demaryius Thomas</a>, American football player (b. 1987)</li>",
+      "entities": [
+        {
+          "name": "Demaryius Thomas",
+          "url": "/wiki/Demaryius_Thomas",
+          "length": 126007
+        }
+      ]
+    },
+    {
+      "year": "1937",
+      "description": "Lilias Armstrong, English phonetician, died.",
+      "html": "<li>\n<a href=\"/wiki/1937\" title=\"1937\">1937</a> – <a href=\"/wiki/Lilias_Armstrong\" title=\"Lilias Armstrong\">Lilias Armstrong</a>, English phonetician (b. 1882)</li>",
+      "entities": [
+        {
+          "name": "Lilias Armstrong",
+          "url": "/wiki/Lilias_Armstrong",
+          "length": 109806
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "description": "Archie Moore, American boxer and actor, died.",
+      "html": "<li>1998   – <a href=\"/wiki/Archie_Moore\" title=\"Archie Moore\">Archie Moore</a>, American boxer and actor (b. 1913)</li>",
+      "entities": [
+        {
+          "name": "Archie Moore",
+          "url": "/wiki/Archie_Moore",
+          "length": 98181
+        }
+      ]
+    }
+  ]
+}

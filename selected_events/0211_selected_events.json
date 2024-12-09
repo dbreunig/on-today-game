@@ -1,0 +1,281 @@
+{
+  "events": [
+    {
+      "year": "1938",
+      "description": "BBC Television produces the world's first ever science fiction television programme, an adaptation of a section of the Karel Čapek play R.U.R., that coined the term \"robot\".",
+      "html": "<li>\n<a href=\"/wiki/1938\" title=\"1938\">1938</a> – <a href=\"/wiki/BBC_One\" title=\"BBC One\">BBC Television</a> produces the world's first ever <a href=\"/wiki/Science_fiction_on_television\" title=\"Science fiction on television\">science fiction television</a> programme, an adaptation of a section of the <a href=\"/wiki/Karel_%C4%8Capek\" title=\"Karel Čapek\">Karel Čapek</a> play <i><a href=\"/wiki/R.U.R.\" title=\"R.U.R.\">R.U.R.</a></i>, that coined the term \"<a href=\"/wiki/Robot\" title=\"Robot\">robot</a>\".<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\"><span class=\"cite-bracket\">[</span>29<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "BBC One",
+          "url": "/wiki/BBC_One",
+          "length": 86592
+        },
+        {
+          "name": "Science fiction on television",
+          "url": "/wiki/Science_fiction_on_television",
+          "length": 33245
+        },
+        {
+          "name": "Karel Čapek",
+          "url": "/wiki/Karel_%C4%8Capek",
+          "length": 42890
+        },
+        {
+          "name": "R.U.R.",
+          "url": "/wiki/R.U.R.",
+          "length": 48202
+        },
+        {
+          "name": "Robot",
+          "url": "/wiki/Robot",
+          "length": 149979
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "The New Testament of the Revised Standard Version of the Bible, the first significant challenge to the Authorized King James Version, is published.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – The <a href=\"/wiki/New_Testament\" title=\"New Testament\">New Testament</a> of the <a href=\"/wiki/Revised_Standard_Version\" title=\"Revised Standard Version\">Revised Standard Version</a> of the <a href=\"/wiki/Bible\" title=\"Bible\">Bible</a>, the first significant challenge to the <a href=\"/wiki/Authorized_King_James_Version\" class=\"mw-redirect\" title=\"Authorized King James Version\">Authorized King James Version</a>, is published.<sup id=\"cite_ref-31\" class=\"reference\"><a href=\"#cite_note-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\"><span class=\"cite-bracket\">[</span>32<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\"><span class=\"cite-bracket\">[</span>33<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-34\" class=\"reference\"><a href=\"#cite_note-34\"><span class=\"cite-bracket\">[</span>34<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "New Testament",
+          "url": "/wiki/New_Testament",
+          "length": 160528
+        },
+        {
+          "name": "Revised Standard Version",
+          "url": "/wiki/Revised_Standard_Version",
+          "length": 24681
+        },
+        {
+          "name": "Bible",
+          "url": "/wiki/Bible",
+          "length": 205006
+        },
+        {
+          "name": "Authorized King James Version",
+          "url": "/wiki/Authorized_King_James_Version",
+          "length": 32
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Buster Douglas, a 42:1 underdog, knocks out Mike Tyson in ten rounds at Tokyo to win boxing's world Heavyweight title.",
+      "html": "<li>1990   – <a href=\"/wiki/Buster_Douglas\" title=\"Buster Douglas\">Buster Douglas</a>, a 42:1 underdog, <a href=\"/wiki/Mike_Tyson_vs._Buster_Douglas\" title=\"Mike Tyson vs. Buster Douglas\">knocks out</a> <a href=\"/wiki/Mike_Tyson\" title=\"Mike Tyson\">Mike Tyson</a> in ten rounds at Tokyo to win <a href=\"/wiki/Boxing\" title=\"Boxing\">boxing</a>'s world Heavyweight title.<sup id=\"cite_ref-44\" class=\"reference\"><a href=\"#cite_note-44\"><span class=\"cite-bracket\">[</span>44<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Buster Douglas",
+          "url": "/wiki/Buster_Douglas",
+          "length": 35854
+        },
+        {
+          "name": "Mike Tyson vs. Buster Douglas",
+          "url": "/wiki/Mike_Tyson_vs._Buster_Douglas",
+          "length": 26936
+        },
+        {
+          "name": "Mike Tyson",
+          "url": "/wiki/Mike_Tyson",
+          "length": 224110
+        },
+        {
+          "name": "Boxing",
+          "url": "/wiki/Boxing",
+          "length": 115922
+        }
+      ]
+    },
+    {
+      "year": "1861",
+      "description": "American Civil War: The United States House of Representatives unanimously passes a resolution guaranteeing noninterference with slavery in any state.",
+      "html": "<li>\n<a href=\"/wiki/1861\" title=\"1861\">1861</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/United_States_House_of_Representatives\" title=\"United States House of Representatives\">United States House of Representatives</a> unanimously passes a resolution guaranteeing noninterference with <a href=\"/wiki/Slavery\" title=\"Slavery\">slavery</a> in any <a href=\"/wiki/U.S._state\" title=\"U.S. state\">state</a>.<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "United States House of Representatives",
+          "url": "/wiki/United_States_House_of_Representatives",
+          "length": 118918
+        },
+        {
+          "name": "Slavery",
+          "url": "/wiki/Slavery",
+          "length": 284640
+        },
+        {
+          "name": "U.S. state",
+          "url": "/wiki/U.S._state",
+          "length": 81815
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Rebel East Timorese soldiers seriously wound President José Ramos-Horta. Rebel leader Alfredo Reinado is killed in the attack.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – Rebel <a href=\"/wiki/East_Timor\" title=\"East Timor\">East Timorese</a> soldiers <a href=\"/wiki/2008_East_Timorese_assassination_attempts\" title=\"2008 East Timorese assassination attempts\">seriously wound</a> President <a href=\"/wiki/Jos%C3%A9_Ramos-Horta\" title=\"José Ramos-Horta\">José Ramos-Horta</a>. Rebel leader <a href=\"/wiki/Alfredo_Reinado\" title=\"Alfredo Reinado\">Alfredo Reinado</a> is killed in the attack.<sup id=\"cite_ref-48\" class=\"reference\"><a href=\"#cite_note-48\"><span class=\"cite-bracket\">[</span>48<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "East Timor",
+          "url": "/wiki/East_Timor",
+          "length": 164128
+        },
+        {
+          "name": "2008 East Timorese assassination attempts",
+          "url": "/wiki/2008_East_Timorese_assassination_attempts",
+          "length": 34173
+        },
+        {
+          "name": "José Ramos-Horta",
+          "url": "/wiki/Jos%C3%A9_Ramos-Horta",
+          "length": 53368
+        },
+        {
+          "name": "Alfredo Reinado",
+          "url": "/wiki/Alfredo_Reinado",
+          "length": 16671
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "COVID-19 pandemic: The World Health Organization officially names the coronavirus outbreak as COVID-19, with the virus being designated SARS-CoV-2.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/COVID-19_pandemic\" title=\"COVID-19 pandemic\">COVID-19 pandemic</a>: The <a href=\"/wiki/World_Health_Organization\" title=\"World Health Organization\">World Health Organization</a> officially names the coronavirus outbreak as <a href=\"/wiki/COVID-19\" title=\"COVID-19\">COVID-19</a>, with the virus being designated <a href=\"/wiki/Severe_acute_respiratory_syndrome_coronavirus_2\" class=\"mw-redirect\" title=\"Severe acute respiratory syndrome coronavirus 2\">SARS-CoV-2</a>.<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\"><span class=\"cite-bracket\">[</span>57<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "COVID-19 pandemic",
+          "url": "/wiki/COVID-19_pandemic",
+          "length": 377014
+        },
+        {
+          "name": "World Health Organization",
+          "url": "/wiki/World_Health_Organization",
+          "length": 193432
+        },
+        {
+          "name": "COVID-19",
+          "url": "/wiki/COVID-19",
+          "length": 294948
+        },
+        {
+          "name": "Severe acute respiratory syndrome coronavirus 2",
+          "url": "/wiki/Severe_acute_respiratory_syndrome_coronavirus_2",
+          "length": 24
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "Steve McManaman, English footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Steve_McManaman\" title=\"Steve McManaman\">Steve McManaman</a>, English footballer<sup id=\"cite_ref-171\" class=\"reference\"><a href=\"#cite_note-171\"><span class=\"cite-bracket\">[</span>170<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Steve McManaman",
+          "url": "/wiki/Steve_McManaman",
+          "length": 216522
+        }
+      ]
+    },
+    {
+      "year": "1650",
+      "description": "René Descartes, French mathematician and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1650\" title=\"1650\">1650</a> – <a href=\"/wiki/Ren%C3%A9_Descartes\" title=\"René Descartes\">René Descartes</a>, French mathematician and philosopher (b. 1596)<sup id=\"cite_ref-232\" class=\"reference\"><a href=\"#cite_note-232\"><span class=\"cite-bracket\">[</span>231<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "René Descartes",
+          "url": "/wiki/Ren%C3%A9_Descartes",
+          "length": 145500
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1974",
+      "description": "Alex Jones, American radio show host and conspiracy theorist, was born.",
+      "html": "<li>1974   – <a href=\"/wiki/Alex_Jones\" title=\"Alex Jones\">Alex Jones</a>, American radio show host and conspiracy theorist<sup id=\"cite_ref-175\" class=\"reference\"><a href=\"#cite_note-175\"><span class=\"cite-bracket\">[</span>174<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Alex Jones",
+          "url": "/wiki/Alex_Jones",
+          "length": 242231
+        }
+      ]
+    },
+    {
+      "year": "1964",
+      "description": "Sarah Palin, American politician, 9th Governor of Alaska, was born.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Sarah_Palin\" title=\"Sarah Palin\">Sarah Palin</a>, American politician, 9th <a href=\"/wiki/List_of_Governors_of_Alaska\" class=\"mw-redirect\" title=\"List of Governors of Alaska\">Governor of Alaska</a><sup id=\"cite_ref-163\" class=\"reference\"><a href=\"#cite_note-163\"><span class=\"cite-bracket\">[</span>162<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sarah Palin",
+          "url": "/wiki/Sarah_Palin",
+          "length": 223586
+        },
+        {
+          "name": "List of Governors of Alaska",
+          "url": "/wiki/List_of_Governors_of_Alaska",
+          "length": 58
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "Steve McManaman, English footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Steve_McManaman\" title=\"Steve McManaman\">Steve McManaman</a>, English footballer<sup id=\"cite_ref-171\" class=\"reference\"><a href=\"#cite_note-171\"><span class=\"cite-bracket\">[</span>170<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Steve McManaman",
+          "url": "/wiki/Steve_McManaman",
+          "length": 216522
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2012",
+      "description": "Whitney Houston, American singer-songwriter, producer, and actress, died.",
+      "html": "<li>2012   – <a href=\"/wiki/Whitney_Houston\" title=\"Whitney Houston\">Whitney Houston</a>, American singer-songwriter, producer, and actress (b. 1963)<sup id=\"cite_ref-297\" class=\"reference\"><a href=\"#cite_note-297\"><span class=\"cite-bracket\">[</span>296<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Whitney Houston",
+          "url": "/wiki/Whitney_Houston",
+          "length": 275990
+        }
+      ]
+    },
+    {
+      "year": "1650",
+      "description": "René Descartes, French mathematician and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1650\" title=\"1650\">1650</a> – <a href=\"/wiki/Ren%C3%A9_Descartes\" title=\"René Descartes\">René Descartes</a>, French mathematician and philosopher (b. 1596)<sup id=\"cite_ref-232\" class=\"reference\"><a href=\"#cite_note-232\"><span class=\"cite-bracket\">[</span>231<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "René Descartes",
+          "url": "/wiki/Ren%C3%A9_Descartes",
+          "length": 145500
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "Fakhruddin Ali Ahmed, Indian lawyer and politician, 5th President of India, died.",
+      "html": "<li>\n<a href=\"/wiki/1977\" title=\"1977\">1977</a> – <a href=\"/wiki/Fakhruddin_Ali_Ahmed\" title=\"Fakhruddin Ali Ahmed\">Fakhruddin Ali Ahmed</a>, Indian lawyer and politician, 5th <a href=\"/wiki/President_of_India\" title=\"President of India\">President of India</a> (b. 1905)<sup id=\"cite_ref-263\" class=\"reference\"><a href=\"#cite_note-263\"><span class=\"cite-bracket\">[</span>262<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Fakhruddin Ali Ahmed",
+          "url": "/wiki/Fakhruddin_Ali_Ahmed",
+          "length": 138785
+        },
+        {
+          "name": "President of India",
+          "url": "/wiki/President_of_India",
+          "length": 89042
+        }
+      ]
+    }
+  ]
+}

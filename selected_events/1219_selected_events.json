@@ -1,0 +1,306 @@
+{
+  "events": [
+    {
+      "year": "1972",
+      "description": "Apollo program: The last crewed lunar flight, Apollo 17, carrying Eugene Cernan, Ronald Evans, and Harrison Schmitt, returns to Earth.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Apollo_program\" title=\"Apollo program\">Apollo program</a>: The last crewed lunar flight, <a href=\"/wiki/Apollo_17\" title=\"Apollo 17\">Apollo 17</a>, carrying <a href=\"/wiki/Eugene_Cernan\" class=\"mw-redirect\" title=\"Eugene Cernan\">Eugene Cernan</a>, <a href=\"/wiki/Ronald_Evans_(astronaut)\" title=\"Ronald Evans (astronaut)\">Ronald Evans</a>, and <a href=\"/wiki/Harrison_Schmitt\" title=\"Harrison Schmitt\">Harrison Schmitt</a>, returns to <a href=\"/wiki/Earth\" title=\"Earth\">Earth</a>.</li>",
+      "entities": [
+        {
+          "name": "Apollo program",
+          "url": "/wiki/Apollo_program",
+          "length": 155122
+        },
+        {
+          "name": "Apollo 17",
+          "url": "/wiki/Apollo_17",
+          "length": 120407
+        },
+        {
+          "name": "Eugene Cernan",
+          "url": "/wiki/Eugene_Cernan",
+          "length": 94
+        },
+        {
+          "name": "Ronald Evans (astronaut)",
+          "url": "/wiki/Ronald_Evans_(astronaut)",
+          "length": 48746
+        },
+        {
+          "name": "Harrison Schmitt",
+          "url": "/wiki/Harrison_Schmitt",
+          "length": 38165
+        },
+        {
+          "name": "Earth",
+          "url": "/wiki/Earth",
+          "length": 223334
+        }
+      ]
+    },
+    {
+      "year": "1900",
+      "description": "Hopetoun Blunder: The first Governor-General of Australia John Hope, 7th Earl of Hopetoun, appoints Sir William Lyne premier of the new state of New South Wales, but he is unable to persuade other colonial politicians to join his government and is forced to resign.",
+      "html": "<li>\n<a href=\"/wiki/1900\" title=\"1900\">1900</a> – <a href=\"/wiki/Hopetoun_Blunder\" title=\"Hopetoun Blunder\">Hopetoun Blunder</a>: The first <a href=\"/wiki/Governor-General_of_Australia\" title=\"Governor-General of Australia\">Governor-General of Australia</a> <a href=\"/wiki/John_Hope,_7th_Earl_of_Hopetoun\" title=\"John Hope, 7th Earl of Hopetoun\">John Hope, 7th Earl of Hopetoun</a>, appoints Sir <a href=\"/wiki/William_Lyne\" title=\"William Lyne\">William Lyne</a> premier of the new state of <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, but he is unable to persuade other colonial politicians to join his government and is forced to resign.<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Hopetoun Blunder",
+          "url": "/wiki/Hopetoun_Blunder",
+          "length": 4105
+        },
+        {
+          "name": "Governor-General of Australia",
+          "url": "/wiki/Governor-General_of_Australia",
+          "length": 96774
+        },
+        {
+          "name": "John Hope, 7th Earl of Hopetoun",
+          "url": "/wiki/John_Hope,_7th_Earl_of_Hopetoun",
+          "length": 35381
+        },
+        {
+          "name": "William Lyne",
+          "url": "/wiki/William_Lyne",
+          "length": 22825
+        },
+        {
+          "name": "New South Wales",
+          "url": "/wiki/New_South_Wales",
+          "length": 115391
+        }
+      ]
+    },
+    {
+      "year": "1927",
+      "description": "Three Indian revolutionaries, Ram Prasad Bismil, Roshan Singh and Ashfaqulla Khan, are executed by the British Raj for participation in the Kakori conspiracy.",
+      "html": "<li>\n<a href=\"/wiki/1927\" title=\"1927\">1927</a> – Three Indian revolutionaries, <a href=\"/wiki/Ram_Prasad_Bismil\" title=\"Ram Prasad Bismil\">Ram Prasad Bismil</a>, <a href=\"/wiki/Roshan_Singh\" title=\"Roshan Singh\">Roshan Singh</a> and <a href=\"/wiki/Ashfaqulla_Khan\" title=\"Ashfaqulla Khan\">Ashfaqulla Khan</a>, are executed by the <a href=\"/wiki/British_Raj\" title=\"British Raj\">British Raj</a> for participation in the <a href=\"/wiki/Kakori_conspiracy\" title=\"Kakori conspiracy\">Kakori conspiracy</a>.</li>",
+      "entities": [
+        {
+          "name": "Ram Prasad Bismil",
+          "url": "/wiki/Ram_Prasad_Bismil",
+          "length": 25422
+        },
+        {
+          "name": "Roshan Singh",
+          "url": "/wiki/Roshan_Singh",
+          "length": 3247
+        },
+        {
+          "name": "Ashfaqulla Khan",
+          "url": "/wiki/Ashfaqulla_Khan",
+          "length": 13135
+        },
+        {
+          "name": "British Raj",
+          "url": "/wiki/British_Raj",
+          "length": 280006
+        },
+        {
+          "name": "Kakori conspiracy",
+          "url": "/wiki/Kakori_conspiracy",
+          "length": 17411
+        }
+      ]
+    },
+    {
+      "year": "1941",
+      "description": "World War II: Limpet mines placed by Italian divers heavily damage HMS Valiant and HMS Queen Elizabeth in Alexandria harbour.",
+      "html": "<li>1941   – World War II: <a href=\"/wiki/Limpet_mine\" title=\"Limpet mine\">Limpet mines</a> placed by <a href=\"/wiki/Italian_Navy\" title=\"Italian Navy\">Italian</a> divers heavily damage <a href=\"/wiki/HMS_Valiant_(1914)\" title=\"HMS Valiant (1914)\">HMS <i>Valiant</i></a> and <a href=\"/wiki/HMS_Queen_Elizabeth_(1913)\" title=\"HMS Queen Elizabeth (1913)\">HMS <i>Queen Elizabeth</i></a> in <a href=\"/wiki/Raid_on_Alexandria_(1941)\" title=\"Raid on Alexandria (1941)\">Alexandria harbour</a>.</li>",
+      "entities": [
+        {
+          "name": "Limpet mine",
+          "url": "/wiki/Limpet_mine",
+          "length": 20452
+        },
+        {
+          "name": "Italian Navy",
+          "url": "/wiki/Italian_Navy",
+          "length": 32360
+        },
+        {
+          "name": "HMS Valiant (1914)",
+          "url": "/wiki/HMS_Valiant_(1914)",
+          "length": 32830
+        },
+        {
+          "name": "HMS Queen Elizabeth (1913)",
+          "url": "/wiki/HMS_Queen_Elizabeth_(1913)",
+          "length": 28123
+        },
+        {
+          "name": "Raid on Alexandria (1941)",
+          "url": "/wiki/Raid_on_Alexandria_(1941)",
+          "length": 26754
+        }
+      ]
+    },
+    {
+      "year": "1606",
+      "description": "The ships Susan Constant, Godspeed, and Discovery depart England carrying settlers who founded, at Jamestown, Virginia, the first of the thirteen colonies that became the United States.",
+      "html": "<li>\n<a href=\"/wiki/1606\" title=\"1606\">1606</a> – The ships <a href=\"/wiki/Susan_Constant\" title=\"Susan Constant\"><i>Susan Constant</i></a>, <a href=\"/wiki/Godspeed_(ship)\" title=\"Godspeed (ship)\"><i>Godspeed</i></a>, and <a href=\"/wiki/Discovery_(1602_ship)\" title=\"Discovery (1602 ship)\"><i>Discovery</i></a> depart England carrying settlers who founded, at <a href=\"/wiki/Jamestown,_Virginia\" title=\"Jamestown, Virginia\">Jamestown, Virginia</a>, the first of the <a href=\"/wiki/Thirteen_Colonies\" title=\"Thirteen Colonies\">thirteen colonies</a> that became the United States.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Susan Constant",
+          "url": "/wiki/Susan_Constant",
+          "length": 5972
+        },
+        {
+          "name": "Godspeed (ship)",
+          "url": "/wiki/Godspeed_(ship)",
+          "length": 5862
+        },
+        {
+          "name": "Discovery (1602 ship)",
+          "url": "/wiki/Discovery_(1602_ship)",
+          "length": 6739
+        },
+        {
+          "name": "Jamestown, Virginia",
+          "url": "/wiki/Jamestown,_Virginia",
+          "length": 77143
+        },
+        {
+          "name": "Thirteen Colonies",
+          "url": "/wiki/Thirteen_Colonies",
+          "length": 101971
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Mikhail Gorbachev, leader of the Soviet Union, releases Andrei Sakharov and his wife from exile in Gorky.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Mikhail_Gorbachev\" title=\"Mikhail Gorbachev\">Mikhail Gorbachev</a>, leader of the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a>, releases <a href=\"/wiki/Andrei_Sakharov\" title=\"Andrei Sakharov\">Andrei Sakharov</a> and his wife from <a href=\"/wiki/Exile\" title=\"Exile\">exile</a> in <a href=\"/wiki/Nizhny_Novgorod\" title=\"Nizhny Novgorod\">Gorky</a>.</li>",
+      "entities": [
+        {
+          "name": "Mikhail Gorbachev",
+          "url": "/wiki/Mikhail_Gorbachev",
+          "length": 223430
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Andrei Sakharov",
+          "url": "/wiki/Andrei_Sakharov",
+          "length": 88492
+        },
+        {
+          "name": "Exile",
+          "url": "/wiki/Exile",
+          "length": 18445
+        },
+        {
+          "name": "Nizhny Novgorod",
+          "url": "/wiki/Nizhny_Novgorod",
+          "length": 93661
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Karim Benzema, French footballer, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Karim_Benzema\" title=\"Karim Benzema\">Karim Benzema</a>, French footballer</li>",
+      "entities": [
+        {
+          "name": "Karim Benzema",
+          "url": "/wiki/Karim_Benzema",
+          "length": 269156
+        }
+      ]
+    },
+    {
+      "year": "1111",
+      "description": "Al-Ghazali, Persian jurist, philosopher, theologian, and mystic, died.",
+      "html": "<li>\n<a href=\"/wiki/1111\" title=\"1111\">1111</a> – <a href=\"/wiki/Al-Ghazali\" title=\"Al-Ghazali\">Al-Ghazali</a>, Persian jurist, philosopher, theologian, and mystic (b. 1058)</li>",
+      "entities": [
+        {
+          "name": "Al-Ghazali",
+          "url": "/wiki/Al-Ghazali",
+          "length": 74689
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1987",
+      "description": "Karim Benzema, French footballer, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Karim_Benzema\" title=\"Karim Benzema\">Karim Benzema</a>, French footballer</li>",
+      "entities": [
+        {
+          "name": "Karim Benzema",
+          "url": "/wiki/Karim_Benzema",
+          "length": 269156
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "description": "Ricky Ponting, Australian cricketer and sportscaster, was born.",
+      "html": "<li>1974   – <a href=\"/wiki/Ricky_Ponting\" title=\"Ricky Ponting\">Ricky Ponting</a>, Australian cricketer and sportscaster</li>",
+      "entities": [
+        {
+          "name": "Ricky Ponting",
+          "url": "/wiki/Ricky_Ponting",
+          "length": 199342
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "Rob Portman, American lawyer and politician, was born.",
+      "html": "<li>1955   – <a href=\"/wiki/Rob_Portman\" title=\"Rob Portman\">Rob Portman</a>, American lawyer and politician</li>",
+      "entities": [
+        {
+          "name": "Rob Portman",
+          "url": "/wiki/Rob_Portman",
+          "length": 138737
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1111",
+      "description": "Al-Ghazali, Persian jurist, philosopher, theologian, and mystic, died.",
+      "html": "<li>\n<a href=\"/wiki/1111\" title=\"1111\">1111</a> – <a href=\"/wiki/Al-Ghazali\" title=\"Al-Ghazali\">Al-Ghazali</a>, Persian jurist, philosopher, theologian, and mystic (b. 1058)</li>",
+      "entities": [
+        {
+          "name": "Al-Ghazali",
+          "url": "/wiki/Al-Ghazali",
+          "length": 74689
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "description": "Robert Bork, American lawyer, judge, and scholar, United States Attorney General, died.",
+      "html": "<li>\n<a href=\"/wiki/2012\" title=\"2012\">2012</a> – <a href=\"/wiki/Robert_Bork\" title=\"Robert Bork\">Robert Bork</a>, American lawyer, judge, and scholar, <a href=\"/wiki/United_States_Attorney_General\" title=\"United States Attorney General\">United States Attorney General</a> (b. 1927)</li>",
+      "entities": [
+        {
+          "name": "Robert Bork",
+          "url": "/wiki/Robert_Bork",
+          "length": 68431
+        },
+        {
+          "name": "United States Attorney General",
+          "url": "/wiki/United_States_Attorney_General",
+          "length": 75489
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Dock Ellis, American baseball player and coach, died.",
+      "html": "<li>2008   – <a href=\"/wiki/Dock_Ellis\" title=\"Dock Ellis\">Dock Ellis</a>, American baseball player and coach (b. 1945)</li>",
+      "entities": [
+        {
+          "name": "Dock Ellis",
+          "url": "/wiki/Dock_Ellis",
+          "length": 61665
+        }
+      ]
+    }
+  ]
+}

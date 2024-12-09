@@ -1,0 +1,306 @@
+{
+  "events": [
+    {
+      "year": "2005",
+      "description": "A solar eclipse occurs, visible over areas of the Pacific Ocean and Latin American countries such as Costa Rica, Panama, Colombia and Venezuela.",
+      "html": "<li>\n<a href=\"/wiki/2005\" title=\"2005\">2005</a> – A <a href=\"/wiki/Solar_eclipse_of_April_8,_2005\" title=\"Solar eclipse of April 8, 2005\">solar eclipse</a> occurs, visible over areas of the <a href=\"/wiki/Pacific_Ocean\" title=\"Pacific Ocean\">Pacific Ocean</a> and Latin American countries such as <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a> and <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a>.<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Solar eclipse of April 8, 2005",
+          "url": "/wiki/Solar_eclipse_of_April_8,_2005",
+          "length": 11913
+        },
+        {
+          "name": "Pacific Ocean",
+          "url": "/wiki/Pacific_Ocean",
+          "length": 85391
+        },
+        {
+          "name": "Costa Rica",
+          "url": "/wiki/Costa_Rica",
+          "length": 140820
+        },
+        {
+          "name": "Panama",
+          "url": "/wiki/Panama",
+          "length": 136142
+        },
+        {
+          "name": "Colombia",
+          "url": "/wiki/Colombia",
+          "length": 301848
+        },
+        {
+          "name": "Venezuela",
+          "url": "/wiki/Venezuela",
+          "length": 306614
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "A Royal Canadian Air Force Canadair Harvard collides with a Trans-Canada Airlines Canadair North Star over Moose Jaw, Saskatchewan, killing 37 people.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – A Royal Canadian Air Force Canadair <a href=\"/wiki/T-6_Texan\" class=\"mw-redirect\" title=\"T-6 Texan\">Harvard</a> <a href=\"/wiki/Trans-Canada_Air_Lines_Flight_9\" title=\"Trans-Canada Air Lines Flight 9\">collides</a> with a <a href=\"/wiki/Trans-Canada_Air_Lines\" title=\"Trans-Canada Air Lines\">Trans-Canada Airlines</a> <a href=\"/wiki/Canadair_North_Star\" title=\"Canadair North Star\">Canadair North Star</a> over <a href=\"/wiki/Moose_Jaw,_Saskatchewan\" class=\"mw-redirect\" title=\"Moose Jaw, Saskatchewan\">Moose Jaw, Saskatchewan</a>, killing 37 people.</li>",
+      "entities": [
+        {
+          "name": "T-6 Texan",
+          "url": "/wiki/T-6_Texan",
+          "length": 38
+        },
+        {
+          "name": "Trans-Canada Air Lines Flight 9",
+          "url": "/wiki/Trans-Canada_Air_Lines_Flight_9",
+          "length": 8810
+        },
+        {
+          "name": "Trans-Canada Air Lines",
+          "url": "/wiki/Trans-Canada_Air_Lines",
+          "length": 23547
+        },
+        {
+          "name": "Canadair North Star",
+          "url": "/wiki/Canadair_North_Star",
+          "length": 21077
+        },
+        {
+          "name": "Moose Jaw, Saskatchewan",
+          "url": "/wiki/Moose_Jaw,_Saskatchewan",
+          "length": 59
+        }
+      ]
+    },
+    {
+      "year": "1812",
+      "description": "Czar Alexander I, the Russian Emperor and the Grand Duke of Finland, officially announces the transfer of the status of the Finnish capital from Turku to Helsinki.",
+      "html": "<li>\n<a href=\"/wiki/1812\" title=\"1812\">1812</a> – Czar <a href=\"/wiki/Alexander_I_of_Russia\" title=\"Alexander I of Russia\">Alexander I</a>, the <a href=\"/wiki/Emperor_of_Russia\" title=\"Emperor of Russia\">Russian Emperor</a> and the <a href=\"/wiki/Grand_Duke_of_Finland\" title=\"Grand Duke of Finland\">Grand Duke of Finland</a>, officially announces the transfer of the status of the Finnish capital from <a href=\"/wiki/Turku\" title=\"Turku\">Turku</a> to <a href=\"/wiki/Helsinki\" title=\"Helsinki\">Helsinki</a>.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Alexander I of Russia",
+          "url": "/wiki/Alexander_I_of_Russia",
+          "length": 82771
+        },
+        {
+          "name": "Emperor of Russia",
+          "url": "/wiki/Emperor_of_Russia",
+          "length": 24801
+        },
+        {
+          "name": "Grand Duke of Finland",
+          "url": "/wiki/Grand_Duke_of_Finland",
+          "length": 5689
+        },
+        {
+          "name": "Turku",
+          "url": "/wiki/Turku",
+          "length": 99840
+        },
+        {
+          "name": "Helsinki",
+          "url": "/wiki/Helsinki",
+          "length": 158461
+        }
+      ]
+    },
+    {
+      "year": "217",
+      "description": "Roman emperor Caracalla is assassinated and is succeeded by his Praetorian Guard prefect, Marcus Opellius Macrinus.",
+      "html": "<li>\n<a href=\"/wiki/217\" title=\"217\">217</a> – <a href=\"/wiki/Roman_emperor\" title=\"Roman emperor\">Roman emperor</a> <a href=\"/wiki/Caracalla\" title=\"Caracalla\">Caracalla</a> is assassinated and is succeeded by his <a href=\"/wiki/Praetorian_Guard\" title=\"Praetorian Guard\">Praetorian Guard</a> <a href=\"/wiki/Prefect\" title=\"Prefect\">prefect</a>, <a href=\"/wiki/Marcus_Opellius_Macrinus\" class=\"mw-redirect\" title=\"Marcus Opellius Macrinus\">Marcus Opellius Macrinus</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Roman emperor",
+          "url": "/wiki/Roman_emperor",
+          "length": 96438
+        },
+        {
+          "name": "Caracalla",
+          "url": "/wiki/Caracalla",
+          "length": 68838
+        },
+        {
+          "name": "Praetorian Guard",
+          "url": "/wiki/Praetorian_Guard",
+          "length": 45040
+        },
+        {
+          "name": "Prefect",
+          "url": "/wiki/Prefect",
+          "length": 15955
+        },
+        {
+          "name": "Marcus Opellius Macrinus",
+          "url": "/wiki/Marcus_Opellius_Macrinus",
+          "length": 22
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "description": "The Central Committee of the Mongolian People's Revolutionary Party elects Yumjaagiin Tsedenbal as General Secretary, marking the beginning of his 44-year-long tenure as de facto leader of Mongolia.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – The Central Committee of the <a href=\"/wiki/Mongolian_People%27s_Party\" title=\"Mongolian People's Party\">Mongolian People's Revolutionary Party</a> elects <a href=\"/wiki/Yumjaagiin_Tsedenbal\" title=\"Yumjaagiin Tsedenbal\">Yumjaagiin Tsedenbal</a> as <a href=\"/wiki/General_Secretary_of_the_Mongolian_People%27s_Party\" class=\"mw-redirect\" title=\"General Secretary of the Mongolian People's Party\">General Secretary</a>, marking the beginning of his 44-year-long tenure as <i>de facto</i> leader of <a href=\"/wiki/Mongolian_People%27s_Republic\" title=\"Mongolian People's Republic\">Mongolia</a>.<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mongolian People's Party",
+          "url": "/wiki/Mongolian_People%27s_Party",
+          "length": 37260
+        },
+        {
+          "name": "Yumjaagiin Tsedenbal",
+          "url": "/wiki/Yumjaagiin_Tsedenbal",
+          "length": 34953
+        },
+        {
+          "name": "General Secretary of the Mongolian People's Party",
+          "url": "/wiki/General_Secretary_of_the_Mongolian_People%27s_Party",
+          "length": 101
+        },
+        {
+          "name": "Mongolian People's Republic",
+          "url": "/wiki/Mongolian_People%27s_Republic",
+          "length": 51880
+        }
+      ]
+    },
+    {
+      "year": "1918",
+      "description": "World War I: Actors Douglas Fairbanks and Charlie Chaplin sell war bonds on the streets of New York City's financial district.",
+      "html": "<li>\n<a href=\"/wiki/1918\" title=\"1918\">1918</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: Actors <a href=\"/wiki/Douglas_Fairbanks\" title=\"Douglas Fairbanks\">Douglas Fairbanks</a> and <a href=\"/wiki/Charlie_Chaplin\" title=\"Charlie Chaplin\">Charlie Chaplin</a> sell <a href=\"/wiki/War_bond\" title=\"War bond\">war bonds</a> on the streets of New York City's financial district.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Douglas Fairbanks",
+          "url": "/wiki/Douglas_Fairbanks",
+          "length": 36830
+        },
+        {
+          "name": "Charlie Chaplin",
+          "url": "/wiki/Charlie_Chaplin",
+          "length": 175745
+        },
+        {
+          "name": "War bond",
+          "url": "/wiki/War_bond",
+          "length": 40081
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Ian Smith, Zimbabwean lieutenant and politician, 1st Prime Minister of Rhodesia, was born.",
+      "html": "<li>\n<a href=\"/wiki/1919\" title=\"1919\">1919</a> – <a href=\"/wiki/Ian_Smith\" title=\"Ian Smith\">Ian Smith</a>, Zimbabwean lieutenant and politician, 1st <a href=\"/wiki/Prime_Minister_of_Rhodesia\" title=\"Prime Minister of Rhodesia\">Prime Minister of Rhodesia</a> (d. 2007)</li>",
+      "entities": [
+        {
+          "name": "Ian Smith",
+          "url": "/wiki/Ian_Smith",
+          "length": 178307
+        },
+        {
+          "name": "Prime Minister of Rhodesia",
+          "url": "/wiki/Prime_Minister_of_Rhodesia",
+          "length": 19228
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Omar Bradley, American general, died.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Omar_Bradley\" title=\"Omar Bradley\">Omar Bradley</a>, American general (b. 1893)</li>",
+      "entities": [
+        {
+          "name": "Omar Bradley",
+          "url": "/wiki/Omar_Bradley",
+          "length": 96309
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1989",
+      "description": "Matty Healy, English singer-songwriter and producer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1989\" title=\"1989\">1989</a> – <a href=\"/wiki/Matty_Healy\" title=\"Matty Healy\">Matty Healy</a>, English singer-songwriter and producer<sup id=\"cite_ref-49\" class=\"reference\"><a href=\"#cite_note-49\"><span class=\"cite-bracket\">[</span>49<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Matty Healy",
+          "url": "/wiki/Matty_Healy",
+          "length": 199653
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "description": "Gennady Golovkin, Kazakhstani boxer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1982\" title=\"1982\">1982</a> – <a href=\"/wiki/Gennady_Golovkin\" title=\"Gennady Golovkin\">Gennady Golovkin</a>, Kazakhstani boxer</li>",
+      "entities": [
+        {
+          "name": "Gennady Golovkin",
+          "url": "/wiki/Gennady_Golovkin",
+          "length": 187544
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Ian Smith, Zimbabwean lieutenant and politician, 1st Prime Minister of Rhodesia, was born.",
+      "html": "<li>\n<a href=\"/wiki/1919\" title=\"1919\">1919</a> – <a href=\"/wiki/Ian_Smith\" title=\"Ian Smith\">Ian Smith</a>, Zimbabwean lieutenant and politician, 1st <a href=\"/wiki/Prime_Minister_of_Rhodesia\" title=\"Prime Minister of Rhodesia\">Prime Minister of Rhodesia</a> (d. 2007)</li>",
+      "entities": [
+        {
+          "name": "Ian Smith",
+          "url": "/wiki/Ian_Smith",
+          "length": 178307
+        },
+        {
+          "name": "Prime Minister of Rhodesia",
+          "url": "/wiki/Prime_Minister_of_Rhodesia",
+          "length": 19228
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2013",
+      "description": "Margaret Thatcher, English politician, first female Prime Minister of the United Kingdom, died.",
+      "html": "<li>2013   – <a href=\"/wiki/Margaret_Thatcher\" title=\"Margaret Thatcher\">Margaret Thatcher</a>, English politician, first female <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (b. 1925)<sup id=\"cite_ref-67\" class=\"reference\"><a href=\"#cite_note-67\"><span class=\"cite-bracket\">[</span>67<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Margaret Thatcher",
+          "url": "/wiki/Margaret_Thatcher",
+          "length": 270870
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "1973",
+      "description": "Pablo Picasso, Spanish painter and sculptor, died.",
+      "html": "<li>\n<a href=\"/wiki/1973\" title=\"1973\">1973</a> – <a href=\"/wiki/Pablo_Picasso\" title=\"Pablo Picasso\">Pablo Picasso</a>, Spanish painter and sculptor (b. 1881)</li>",
+      "entities": [
+        {
+          "name": "Pablo Picasso",
+          "url": "/wiki/Pablo_Picasso",
+          "length": 112144
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Omar Bradley, American general, died.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Omar_Bradley\" title=\"Omar Bradley\">Omar Bradley</a>, American general (b. 1893)</li>",
+      "entities": [
+        {
+          "name": "Omar Bradley",
+          "url": "/wiki/Omar_Bradley",
+          "length": 96309
+        }
+      ]
+    }
+  ]
+}

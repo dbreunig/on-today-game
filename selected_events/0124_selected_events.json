@@ -1,0 +1,316 @@
+{
+  "events": [
+    {
+      "year": "1968",
+      "description": "Vietnam War: The 1st Australian Task Force launches Operation Coburg against the North Vietnamese Army and Viet Cong during wider fighting around Long Bình and Biên Hòa.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: The <a href=\"/wiki/1st_Australian_Task_Force\" title=\"1st Australian Task Force\">1st Australian Task Force</a> launches <a href=\"/wiki/Operation_Coburg\" title=\"Operation Coburg\">Operation Coburg</a> against the <a href=\"/wiki/People%27s_Army_of_Vietnam\" title=\"People's Army of Vietnam\">North Vietnamese Army</a> and <a href=\"/wiki/Viet_Cong\" title=\"Viet Cong\">Viet Cong</a> during wider fighting around <a href=\"/wiki/Long_B%C3%ACnh,_%C4%90%E1%BB%93ng_Nai\" class=\"mw-redirect\" title=\"Long Bình, Đồng Nai\">Long Bình</a> and <a href=\"/wiki/Bi%C3%AAn_H%C3%B2a\" title=\"Biên Hòa\">Biên Hòa</a>.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "1st Australian Task Force",
+          "url": "/wiki/1st_Australian_Task_Force",
+          "length": 41220
+        },
+        {
+          "name": "Operation Coburg",
+          "url": "/wiki/Operation_Coburg",
+          "length": 40439
+        },
+        {
+          "name": "People's Army of Vietnam",
+          "url": "/wiki/People%27s_Army_of_Vietnam",
+          "length": 66719
+        },
+        {
+          "name": "Viet Cong",
+          "url": "/wiki/Viet_Cong",
+          "length": 57757
+        },
+        {
+          "name": "Long Bình, Đồng Nai",
+          "url": "/wiki/Long_B%C3%ACnh,_%C4%90%E1%BB%93ng_Nai",
+          "length": 83
+        },
+        {
+          "name": "Biên Hòa",
+          "url": "/wiki/Bi%C3%AAn_H%C3%B2a",
+          "length": 20534
+        }
+      ]
+    },
+    {
+      "year": "41",
+      "description": "Claudius is proclaimed Roman emperor by the Praetorian Guard after they assassinate the previous emperor, his nephew Caligula.",
+      "html": "<li>\n<a href=\"/wiki/AD_41\" title=\"AD 41\">41</a> – <a href=\"/wiki/Claudius\" title=\"Claudius\">Claudius</a> is proclaimed <a href=\"/wiki/Roman_emperor\" title=\"Roman emperor\">Roman emperor</a> by the <a href=\"/wiki/Praetorian_Guard\" title=\"Praetorian Guard\">Praetorian Guard</a> after they assassinate the previous emperor, his nephew <a href=\"/wiki/Caligula\" title=\"Caligula\">Caligula</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "AD 41",
+          "url": "/wiki/AD_41",
+          "length": 5244
+        },
+        {
+          "name": "Claudius",
+          "url": "/wiki/Claudius",
+          "length": 83017
+        },
+        {
+          "name": "Roman emperor",
+          "url": "/wiki/Roman_emperor",
+          "length": 96438
+        },
+        {
+          "name": "Praetorian Guard",
+          "url": "/wiki/Praetorian_Guard",
+          "length": 45040
+        },
+        {
+          "name": "Caligula",
+          "url": "/wiki/Caligula",
+          "length": 129012
+        }
+      ]
+    },
+    {
+      "year": "1915",
+      "description": "World War I: British Grand Fleet battle cruisers under Vice-Admiral Sir David Beatty engage Rear-Admiral Franz von Hipper's battle cruisers in the Battle of Dogger Bank.",
+      "html": "<li>\n<a href=\"/wiki/1915\" title=\"1915\">1915</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: British <a href=\"/wiki/Grand_Fleet\" title=\"Grand Fleet\">Grand Fleet</a> battle cruisers under Vice-Admiral Sir <a href=\"/wiki/David_Beatty,_1st_Earl_Beatty\" title=\"David Beatty, 1st Earl Beatty\">David Beatty</a> engage Rear-Admiral <a href=\"/wiki/Franz_von_Hipper\" title=\"Franz von Hipper\">Franz von Hipper</a>'s battle cruisers in the <a href=\"/wiki/Battle_of_Dogger_Bank_(1915)\" title=\"Battle of Dogger Bank (1915)\">Battle of Dogger Bank</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Grand Fleet",
+          "url": "/wiki/Grand_Fleet",
+          "length": 10220
+        },
+        {
+          "name": "David Beatty, 1st Earl Beatty",
+          "url": "/wiki/David_Beatty,_1st_Earl_Beatty",
+          "length": 58816
+        },
+        {
+          "name": "Franz von Hipper",
+          "url": "/wiki/Franz_von_Hipper",
+          "length": 40091
+        },
+        {
+          "name": "Battle of Dogger Bank (1915)",
+          "url": "/wiki/Battle_of_Dogger_Bank_(1915)",
+          "length": 36649
+        }
+      ]
+    },
+    {
+      "year": "1848",
+      "description": "California Gold Rush: James W. Marshall finds gold at Sutter's Mill near Sacramento.",
+      "html": "<li>\n<a href=\"/wiki/1848\" title=\"1848\">1848</a> – <a href=\"/wiki/California_Gold_Rush\" class=\"mw-redirect\" title=\"California Gold Rush\">California Gold Rush</a>: <a href=\"/wiki/James_W._Marshall\" title=\"James W. Marshall\">James W. Marshall</a> finds <a href=\"/wiki/Gold\" title=\"Gold\">gold</a> at <a href=\"/wiki/Sutter%27s_Mill\" title=\"Sutter's Mill\">Sutter's Mill</a> near <a href=\"/wiki/Sacramento,_California\" title=\"Sacramento, California\">Sacramento</a>.</li>",
+      "entities": [
+        {
+          "name": "California Gold Rush",
+          "url": "/wiki/California_Gold_Rush",
+          "length": 99
+        },
+        {
+          "name": "James W. Marshall",
+          "url": "/wiki/James_W._Marshall",
+          "length": 14307
+        },
+        {
+          "name": "Gold",
+          "url": "/wiki/Gold",
+          "length": 144613
+        },
+        {
+          "name": "Sutter's Mill",
+          "url": "/wiki/Sutter%27s_Mill",
+          "length": 14701
+        },
+        {
+          "name": "Sacramento, California",
+          "url": "/wiki/Sacramento,_California",
+          "length": 164019
+        }
+      ]
+    },
+    {
+      "year": "1900",
+      "description": "Second Boer War: Boers stop a British attempt to break the Siege of Ladysmith in the Battle of Spion Kop.",
+      "html": "<li>\n<a href=\"/wiki/1900\" title=\"1900\">1900</a> – <a href=\"/wiki/Second_Boer_War\" title=\"Second Boer War\">Second Boer War</a>: <a href=\"/wiki/Boer\" class=\"mw-redirect\" title=\"Boer\">Boers</a> stop a British attempt to break the <a href=\"/wiki/Siege_of_Ladysmith\" title=\"Siege of Ladysmith\">Siege of Ladysmith</a> in the <a href=\"/wiki/Battle_of_Spion_Kop\" title=\"Battle of Spion Kop\">Battle of Spion Kop</a>.</li>",
+      "entities": [
+        {
+          "name": "Second Boer War",
+          "url": "/wiki/Second_Boer_War",
+          "length": 204813
+        },
+        {
+          "name": "Boer",
+          "url": "/wiki/Boer",
+          "length": 84
+        },
+        {
+          "name": "Siege of Ladysmith",
+          "url": "/wiki/Siege_of_Ladysmith",
+          "length": 17421
+        },
+        {
+          "name": "Battle of Spion Kop",
+          "url": "/wiki/Battle_of_Spion_Kop",
+          "length": 36915
+        }
+      ]
+    },
+    {
+      "year": "1943",
+      "description": "World War II: Franklin D. Roosevelt and Winston Churchill conclude a conference in Casablanca.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – World War II: <a href=\"/wiki/Franklin_D._Roosevelt\" title=\"Franklin D. Roosevelt\">Franklin D. Roosevelt</a> and <a href=\"/wiki/Winston_Churchill\" title=\"Winston Churchill\">Winston Churchill</a> conclude a <a href=\"/wiki/Casablanca_Conference\" title=\"Casablanca Conference\">conference in Casablanca</a>.</li>",
+      "entities": [
+        {
+          "name": "Franklin D. Roosevelt",
+          "url": "/wiki/Franklin_D._Roosevelt",
+          "length": 172429
+        },
+        {
+          "name": "Winston Churchill",
+          "url": "/wiki/Winston_Churchill",
+          "length": 204011
+        },
+        {
+          "name": "Casablanca Conference",
+          "url": "/wiki/Casablanca_Conference",
+          "length": 22004
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Luis Suárez, Uruguayan footballer, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Luis_Su%C3%A1rez\" title=\"Luis Suárez\">Luis Suárez</a>, Uruguayan footballer</li>",
+      "entities": [
+        {
+          "name": "Luis Suárez",
+          "url": "/wiki/Luis_Su%C3%A1rez",
+          "length": 305265
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "L. Ron Hubbard, American religious leader and author, founded the Church of Scientology, died.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/L._Ron_Hubbard\" title=\"L. Ron Hubbard\">L. Ron Hubbard</a>, American religious leader and author, founded the <a href=\"/wiki/Church_of_Scientology\" title=\"Church of Scientology\">Church of Scientology</a> (b. 1911)<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\"><span class=\"cite-bracket\">[</span>57<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "L. Ron Hubbard",
+          "url": "/wiki/L._Ron_Hubbard",
+          "length": 150351
+        },
+        {
+          "name": "Church of Scientology",
+          "url": "/wiki/Church_of_Scientology",
+          "length": 147535
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1987",
+      "description": "Luis Suárez, Uruguayan footballer, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Luis_Su%C3%A1rez\" title=\"Luis Suárez\">Luis Suárez</a>, Uruguayan footballer</li>",
+      "entities": [
+        {
+          "name": "Luis Suárez",
+          "url": "/wiki/Luis_Su%C3%A1rez",
+          "length": 305265
+        }
+      ]
+    },
+    {
+      "year": "1712",
+      "description": "Frederick the Great, Prussian king, was born.",
+      "html": "<li>\n<a href=\"/wiki/1712\" title=\"1712\">1712</a> – <a href=\"/wiki/Frederick_the_Great\" title=\"Frederick the Great\">Frederick the Great</a>, Prussian king (d. 1786)<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Frederick the Great",
+          "url": "/wiki/Frederick_the_Great",
+          "length": 187022
+        }
+      ]
+    },
+    {
+      "year": "1953",
+      "description": "Moon Jae-in, South Korean politician, 19th President of South Korea, was born.",
+      "html": "<li>1953   – <a href=\"/wiki/Moon_Jae-in\" title=\"Moon Jae-in\">Moon Jae-in</a>, South Korean politician, 19th <a href=\"/wiki/President_of_South_Korea\" title=\"President of South Korea\">President of South Korea</a>\n</li>",
+      "entities": [
+        {
+          "name": "Moon Jae-in",
+          "url": "/wiki/Moon_Jae-in",
+          "length": 107144
+        },
+        {
+          "name": "President of South Korea",
+          "url": "/wiki/President_of_South_Korea",
+          "length": 29625
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1965",
+      "description": "Winston Churchill, English statesman, soldier, and writer, Prime Minister of the United Kingdom, Nobel Prize laureate, died.",
+      "html": "<li>\n<a href=\"/wiki/1965\" title=\"1965\">1965</a> – <a href=\"/wiki/Winston_Churchill\" title=\"Winston Churchill\">Winston Churchill</a>, English statesman, soldier, and writer, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a>, <a href=\"/wiki/Nobel_Prize_in_Literature\" title=\"Nobel Prize in Literature\">Nobel Prize</a> laureate (b. 1874)</li>",
+      "entities": [
+        {
+          "name": "Winston Churchill",
+          "url": "/wiki/Winston_Churchill",
+          "length": 204011
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        },
+        {
+          "name": "Nobel Prize in Literature",
+          "url": "/wiki/Nobel_Prize_in_Literature",
+          "length": 78775
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Ted Bundy, American serial killer, died.",
+      "html": "<li>\n<a href=\"/wiki/1989\" title=\"1989\">1989</a> – <a href=\"/wiki/Ted_Bundy\" title=\"Ted Bundy\">Ted Bundy</a>, American serial killer (b. 1946)</li>",
+      "entities": [
+        {
+          "name": "Ted Bundy",
+          "url": "/wiki/Ted_Bundy",
+          "length": 203005
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "L. Ron Hubbard, American religious leader and author, founded the Church of Scientology, died.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/L._Ron_Hubbard\" title=\"L. Ron Hubbard\">L. Ron Hubbard</a>, American religious leader and author, founded the <a href=\"/wiki/Church_of_Scientology\" title=\"Church of Scientology\">Church of Scientology</a> (b. 1911)<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\"><span class=\"cite-bracket\">[</span>57<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "L. Ron Hubbard",
+          "url": "/wiki/L._Ron_Hubbard",
+          "length": 150351
+        },
+        {
+          "name": "Church of Scientology",
+          "url": "/wiki/Church_of_Scientology",
+          "length": 147535
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1999",
+      "description": "NASA launches into orbit the Terra platform carrying five Earth Observation instruments, including ASTER, CERES, MISR, MODIS and MOPITT.",
+      "html": "<li>\n<a href=\"/wiki/1999\" title=\"1999\">1999</a> – <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a> launches into orbit the <a href=\"/wiki/Terra_(satellite)\" title=\"Terra (satellite)\">Terra</a> platform carrying five Earth Observation instruments, including <a href=\"/wiki/Advanced_Spaceborne_Thermal_Emission_and_Reflection_Radiometer\" title=\"Advanced Spaceborne Thermal Emission and Reflection Radiometer\">ASTER</a>, <a href=\"/wiki/Clouds_and_the_Earth%27s_Radiant_Energy_System\" title=\"Clouds and the Earth's Radiant Energy System\">CERES</a>, <a href=\"/wiki/Multi-angle_Imaging_SpectroRadiometer\" class=\"mw-redirect\" title=\"Multi-angle Imaging SpectroRadiometer\">MISR</a>, <a href=\"/wiki/Moderate-Resolution_Imaging_Spectroradiometer\" class=\"mw-redirect\" title=\"Moderate-Resolution Imaging Spectroradiometer\">MODIS</a> and <a href=\"/wiki/MOPITT\" title=\"MOPITT\">MOPITT</a>.</li>",
+      "entities": [
+        {
+          "name": "NASA",
+          "url": "/wiki/NASA",
+          "length": 228390
+        },
+        {
+          "name": "Terra (satellite)",
+          "url": "/wiki/Terra_(satellite)",
+          "length": 12215
+        },
+        {
+          "name": "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
+          "url": "/wiki/Advanced_Spaceborne_Thermal_Emission_and_Reflection_Radiometer",
+          "length": 13510
+        },
+        {
+          "name": "Clouds and the Earth's Radiant Energy System",
+          "url": "/wiki/Clouds_and_the_Earth%27s_Radiant_Energy_System",
+          "length": 20740
+        },
+        {
+          "name": "Multi-angle Imaging SpectroRadiometer",
+          "url": "/wiki/Multi-angle_Imaging_SpectroRadiometer",
+          "length": 68
+        },
+        {
+          "name": "Moderate-Resolution Imaging Spectroradiometer",
+          "url": "/wiki/Moderate-Resolution_Imaging_Spectroradiometer",
+          "length": 75
+        },
+        {
+          "name": "MOPITT",
+          "url": "/wiki/MOPITT",
+          "length": 15583
+        }
+      ]
+    },
+    {
+      "year": "1973",
+      "description": "Soviet Soyuz Programme: Soyuz 13, crewed by cosmonauts Valentin Lebedev and Pyotr Klimuk, is launched from Baikonur in the Soviet Union.",
+      "html": "<li>\n<a href=\"/wiki/1973\" title=\"1973\">1973</a> – <a href=\"/wiki/Soyuz_programme\" title=\"Soyuz programme\">Soviet Soyuz Programme</a>: <i><a href=\"/wiki/Soyuz_13\" title=\"Soyuz 13\">Soyuz 13</a></i>, crewed by <a href=\"/wiki/List_of_cosmonauts\" title=\"List of cosmonauts\">cosmonauts</a> <a href=\"/wiki/Valentin_Lebedev\" title=\"Valentin Lebedev\">Valentin Lebedev</a> and <a href=\"/wiki/Pyotr_Klimuk\" title=\"Pyotr Klimuk\">Pyotr Klimuk</a>, is launched from <a href=\"/wiki/Baikonur\" title=\"Baikonur\">Baikonur</a> in the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a>.</li>",
+      "entities": [
+        {
+          "name": "Soyuz programme",
+          "url": "/wiki/Soyuz_programme",
+          "length": 17379
+        },
+        {
+          "name": "Soyuz 13",
+          "url": "/wiki/Soyuz_13",
+          "length": 8624
+        },
+        {
+          "name": "List of cosmonauts",
+          "url": "/wiki/List_of_cosmonauts",
+          "length": 29310
+        },
+        {
+          "name": "Valentin Lebedev",
+          "url": "/wiki/Valentin_Lebedev",
+          "length": 10473
+        },
+        {
+          "name": "Pyotr Klimuk",
+          "url": "/wiki/Pyotr_Klimuk",
+          "length": 6050
+        },
+        {
+          "name": "Baikonur",
+          "url": "/wiki/Baikonur",
+          "length": 13786
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        }
+      ]
+    },
+    {
+      "year": "1622",
+      "description": "Portuguese forces score a military victory over the Kingdom of Kongo at the Battle of Mbumbi in present-day Angola.",
+      "html": "<li>\n<a href=\"/wiki/1622\" title=\"1622\">1622</a> – <a href=\"/wiki/Portuguese_Empire\" title=\"Portuguese Empire\">Portuguese</a> forces score a military victory over the <a href=\"/wiki/Kingdom_of_Kongo\" title=\"Kingdom of Kongo\">Kingdom of Kongo</a> at the <a href=\"/wiki/Battle_of_Mbumbi\" title=\"Battle of Mbumbi\">Battle of Mbumbi</a> in present-day <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a>.</li>",
+      "entities": [
+        {
+          "name": "Portuguese Empire",
+          "url": "/wiki/Portuguese_Empire",
+          "length": 139134
+        },
+        {
+          "name": "Kingdom of Kongo",
+          "url": "/wiki/Kingdom_of_Kongo",
+          "length": 105411
+        },
+        {
+          "name": "Battle of Mbumbi",
+          "url": "/wiki/Battle_of_Mbumbi",
+          "length": 7428
+        },
+        {
+          "name": "Angola",
+          "url": "/wiki/Angola",
+          "length": 172026
+        }
+      ]
+    },
+    {
+      "year": "1932",
+      "description": "The Chicago Bears defeat the Portsmouth Spartans in the first NFL playoff game to win the NFL Championship.",
+      "html": "<li>\n<a href=\"/wiki/1932\" title=\"1932\">1932</a> – The <a href=\"/wiki/Chicago_Bears\" title=\"Chicago Bears\">Chicago Bears</a> defeat the <a href=\"/wiki/Portsmouth_Spartans\" title=\"Portsmouth Spartans\">Portsmouth Spartans</a> in the <a href=\"/wiki/1932_NFL_Playoff_Game\" title=\"1932 NFL Playoff Game\">first NFL playoff game</a> to win the NFL Championship.</li>",
+      "entities": [
+        {
+          "name": "Chicago Bears",
+          "url": "/wiki/Chicago_Bears",
+          "length": 240856
+        },
+        {
+          "name": "Portsmouth Spartans",
+          "url": "/wiki/Portsmouth_Spartans",
+          "length": 10766
+        },
+        {
+          "name": "1932 NFL Playoff Game",
+          "url": "/wiki/1932_NFL_Playoff_Game",
+          "length": 19825
+        }
+      ]
+    },
+    {
+      "year": "1917",
+      "description": "The resolution containing the language of the Eighteenth Amendment to enact Prohibition is passed by the United States Congress.",
+      "html": "<li>\n<a href=\"/wiki/1917\" title=\"1917\">1917</a> – The resolution containing the language of the <a href=\"/wiki/Eighteenth_Amendment_to_the_United_States_Constitution\" title=\"Eighteenth Amendment to the United States Constitution\">Eighteenth Amendment</a> to enact <a href=\"/wiki/Prohibition_in_the_United_States\" title=\"Prohibition in the United States\">Prohibition</a> is passed by the <a href=\"/wiki/United_States_Congress\" title=\"United States Congress\">United States Congress</a>.</li>",
+      "entities": [
+        {
+          "name": "Eighteenth Amendment to the United States Constitution",
+          "url": "/wiki/Eighteenth_Amendment_to_the_United_States_Constitution",
+          "length": 26484
+        },
+        {
+          "name": "Prohibition in the United States",
+          "url": "/wiki/Prohibition_in_the_United_States",
+          "length": 134978
+        },
+        {
+          "name": "United States Congress",
+          "url": "/wiki/United_States_Congress",
+          "length": 192932
+        }
+      ]
+    },
+    {
+      "year": "1892",
+      "description": "Premiere performance of The Nutcracker by Pyotr Ilyich Tchaikovsky in Saint Petersburg, Russia.",
+      "html": "<li>\n<a href=\"/wiki/1892\" title=\"1892\">1892</a> – Premiere performance of <i><a href=\"/wiki/The_Nutcracker\" title=\"The Nutcracker\">The Nutcracker</a></i> by <a href=\"/wiki/Pyotr_Ilyich_Tchaikovsky\" title=\"Pyotr Ilyich Tchaikovsky\">Pyotr Ilyich Tchaikovsky</a> in <a href=\"/wiki/Saint_Petersburg\" title=\"Saint Petersburg\">Saint Petersburg</a>, Russia.</li>",
+      "entities": [
+        {
+          "name": "The Nutcracker",
+          "url": "/wiki/The_Nutcracker",
+          "length": 89590
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "/wiki/Pyotr_Ilyich_Tchaikovsky",
+          "length": 95048
+        },
+        {
+          "name": "Saint Petersburg",
+          "url": "/wiki/Saint_Petersburg",
+          "length": 210500
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "Steven Spielberg, American director, producer, and screenwriter, co-founded DreamWorks, was born.",
+      "html": "<li>1946   – <a href=\"/wiki/Steven_Spielberg\" title=\"Steven Spielberg\">Steven Spielberg</a>, American director, producer, and screenwriter, co-founded <a href=\"/wiki/DreamWorks_Pictures\" title=\"DreamWorks Pictures\">DreamWorks</a><sup id=\"cite_ref-AP_21-0\" class=\"reference\"><a href=\"#cite_note-AP-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Steven Spielberg",
+          "url": "/wiki/Steven_Spielberg",
+          "length": 266295
+        },
+        {
+          "name": "DreamWorks Pictures",
+          "url": "/wiki/DreamWorks_Pictures",
+          "length": 47030
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Mark Felt, American FBI agent and informant, died.",
+      "html": "<li>2008   – <a href=\"/wiki/Mark_Felt\" title=\"Mark Felt\">Mark Felt</a>, American <a href=\"/wiki/FBI\" class=\"mw-redirect\" title=\"FBI\">FBI</a> agent and informant (b. 1913)</li>",
+      "entities": [
+        {
+          "name": "Mark Felt",
+          "url": "/wiki/Mark_Felt",
+          "length": 89406
+        },
+        {
+          "name": "FBI",
+          "url": "/wiki/FBI",
+          "length": 159
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1946",
+      "description": "Steven Spielberg, American director, producer, and screenwriter, co-founded DreamWorks, was born.",
+      "html": "<li>1946   – <a href=\"/wiki/Steven_Spielberg\" title=\"Steven Spielberg\">Steven Spielberg</a>, American director, producer, and screenwriter, co-founded <a href=\"/wiki/DreamWorks_Pictures\" title=\"DreamWorks Pictures\">DreamWorks</a><sup id=\"cite_ref-AP_21-0\" class=\"reference\"><a href=\"#cite_note-AP-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Steven Spielberg",
+          "url": "/wiki/Steven_Spielberg",
+          "length": 266295
+        },
+        {
+          "name": "DreamWorks Pictures",
+          "url": "/wiki/DreamWorks_Pictures",
+          "length": 47030
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Christina Aguilera, American singer-songwriter, producer, and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Christina_Aguilera\" title=\"Christina Aguilera\">Christina Aguilera</a>, American singer-songwriter, producer, and actress<sup id=\"cite_ref-28\" class=\"reference\"><a href=\"#cite_note-28\"><span class=\"cite-bracket\">[</span>28<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Christina Aguilera",
+          "url": "/wiki/Christina_Aguilera",
+          "length": 237314
+        }
+      ]
+    },
+    {
+      "year": "2001",
+      "description": "Billie Eilish, American singer, was born.",
+      "html": "<li>\n<a href=\"/wiki/2001\" title=\"2001\">2001</a> – <a href=\"/wiki/Billie_Eilish\" title=\"Billie Eilish\">Billie Eilish</a>, American singer<sup id=\"cite_ref-41\" class=\"reference\"><a href=\"#cite_note-41\"><span class=\"cite-bracket\">[</span>41<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Billie Eilish",
+          "url": "/wiki/Billie_Eilish",
+          "length": 226681
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2011",
+      "description": "Václav Havel, Czech poet, playwright, and politician, 1st President of the Czech Republic, died.",
+      "html": "<li>\n<a href=\"/wiki/2011\" title=\"2011\">2011</a> – <a href=\"/wiki/V%C3%A1clav_Havel\" title=\"Václav Havel\">Václav Havel</a>, Czech poet, playwright, and politician, 1st <a href=\"/wiki/President_of_the_Czech_Republic\" title=\"President of the Czech Republic\">President of the Czech Republic</a> (b. 1936)</li>",
+      "entities": [
+        {
+          "name": "Václav Havel",
+          "url": "/wiki/V%C3%A1clav_Havel",
+          "length": 96726
+        },
+        {
+          "name": "President of the Czech Republic",
+          "url": "/wiki/President_of_the_Czech_Republic",
+          "length": 31916
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Mark Felt, American FBI agent and informant, died.",
+      "html": "<li>2008   – <a href=\"/wiki/Mark_Felt\" title=\"Mark Felt\">Mark Felt</a>, American <a href=\"/wiki/FBI\" class=\"mw-redirect\" title=\"FBI\">FBI</a> agent and informant (b. 1913)</li>",
+      "entities": [
+        {
+          "name": "Mark Felt",
+          "url": "/wiki/Mark_Felt",
+          "length": 89406
+        },
+        {
+          "name": "FBI",
+          "url": "/wiki/FBI",
+          "length": 159
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Alexei Kosygin, Russian soldier and politician, 8th Premier of the Soviet Union, died.",
+      "html": "<li>1980   – <a href=\"/wiki/Alexei_Kosygin\" title=\"Alexei Kosygin\">Alexei Kosygin</a>, Russian soldier and politician, 8th <a href=\"/wiki/Premier_of_the_Soviet_Union\" title=\"Premier of the Soviet Union\">Premier of the Soviet Union</a> (b. 1904)</li>",
+      "entities": [
+        {
+          "name": "Alexei Kosygin",
+          "url": "/wiki/Alexei_Kosygin",
+          "length": 72066
+        },
+        {
+          "name": "Premier of the Soviet Union",
+          "url": "/wiki/Premier_of_the_Soviet_Union",
+          "length": 22931
+        }
+      ]
+    }
+  ]
+}

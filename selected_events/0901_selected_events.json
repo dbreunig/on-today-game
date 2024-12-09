@@ -1,0 +1,286 @@
+{
+  "events": [
+    {
+      "year": "1864",
+      "description": "American Civil War: The Confederate Army General John Bell Hood orders the evacuation of Atlanta, ending a four-month siege by General William Tecumseh Sherman.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – American Civil War: The <a href=\"/wiki/Confederate_Army\" class=\"mw-redirect\" title=\"Confederate Army\">Confederate Army</a> General <a href=\"/wiki/John_Bell_Hood\" title=\"John Bell Hood\">John Bell Hood</a> orders the evacuation of <a href=\"/wiki/Atlanta\" title=\"Atlanta\">Atlanta</a>, ending a four-month <a href=\"/wiki/Siege\" title=\"Siege\">siege</a> by General <a href=\"/wiki/William_Tecumseh_Sherman\" title=\"William Tecumseh Sherman\">William Tecumseh Sherman</a>.</li>",
+      "entities": [
+        {
+          "name": "Confederate Army",
+          "url": "/wiki/Confederate_Army",
+          "length": 37
+        },
+        {
+          "name": "John Bell Hood",
+          "url": "/wiki/John_Bell_Hood",
+          "length": 52430
+        },
+        {
+          "name": "Atlanta",
+          "url": "/wiki/Atlanta",
+          "length": 234833
+        },
+        {
+          "name": "Siege",
+          "url": "/wiki/Siege",
+          "length": 79084
+        },
+        {
+          "name": "William Tecumseh Sherman",
+          "url": "/wiki/William_Tecumseh_Sherman",
+          "length": 145883
+        }
+      ]
+    },
+    {
+      "year": "1610",
+      "description": "Claudio Monteverdi's musical work Vespro della Beata Vergine (Vespers for the Blessed Virgin) is first published, printed in Venice and dedicated to Pope Paul V.",
+      "html": "<li>\n<a href=\"/wiki/1610\" title=\"1610\">1610</a> – <a href=\"/wiki/Claudio_Monteverdi\" title=\"Claudio Monteverdi\">Claudio Monteverdi</a>'s musical work <i><a href=\"/wiki/Vespro_della_Beata_Vergine\" title=\"Vespro della Beata Vergine\">Vespro della Beata Vergine</a></i> (<i><a href=\"/wiki/Vespers\" title=\"Vespers\">Vespers</a> for <a href=\"/wiki/Mary,_mother_of_Jesus\" title=\"Mary, mother of Jesus\">the Blessed Virgin</a></i>) is first published, printed in Venice and dedicated to <a href=\"/wiki/Pope_Paul_V\" title=\"Pope Paul V\">Pope Paul V</a>.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Claudio Monteverdi",
+          "url": "/wiki/Claudio_Monteverdi",
+          "length": 95382
+        },
+        {
+          "name": "Vespro della Beata Vergine",
+          "url": "/wiki/Vespro_della_Beata_Vergine",
+          "length": 52643
+        },
+        {
+          "name": "Vespers",
+          "url": "/wiki/Vespers",
+          "length": 45270
+        },
+        {
+          "name": "Mary, mother of Jesus",
+          "url": "/wiki/Mary,_mother_of_Jesus",
+          "length": 165977
+        },
+        {
+          "name": "Pope Paul V",
+          "url": "/wiki/Pope_Paul_V",
+          "length": 22390
+        }
+      ]
+    },
+    {
+      "year": "1644",
+      "description": "Battle of Tippermuir: James Graham, 1st Marquess of Montrose defeats the Earl of Wemyss's Covenanters, reviving the Royalist cause.",
+      "html": "<li>\n<a href=\"/wiki/1644\" title=\"1644\">1644</a> – <a href=\"/wiki/Battle_of_Tippermuir\" title=\"Battle of Tippermuir\">Battle of Tippermuir</a>: <a href=\"/wiki/James_Graham,_1st_Marquess_of_Montrose\" title=\"James Graham, 1st Marquess of Montrose\">James Graham, 1st Marquess of Montrose</a> defeats the <a href=\"/wiki/John_Wemyss,_1st_Earl_of_Wemyss\" title=\"John Wemyss, 1st Earl of Wemyss\">Earl of Wemyss</a>'s <a href=\"/wiki/Covenanter\" class=\"mw-redirect\" title=\"Covenanter\">Covenanters</a>, reviving the <a href=\"/wiki/Cavalier\" title=\"Cavalier\">Royalist</a> cause.</li>",
+      "entities": [
+        {
+          "name": "Battle of Tippermuir",
+          "url": "/wiki/Battle_of_Tippermuir",
+          "length": 15503
+        },
+        {
+          "name": "James Graham, 1st Marquess of Montrose",
+          "url": "/wiki/James_Graham,_1st_Marquess_of_Montrose",
+          "length": 34721
+        },
+        {
+          "name": "John Wemyss, 1st Earl of Wemyss",
+          "url": "/wiki/John_Wemyss,_1st_Earl_of_Wemyss",
+          "length": 3102
+        },
+        {
+          "name": "Covenanter",
+          "url": "/wiki/Covenanter",
+          "length": 42
+        },
+        {
+          "name": "Cavalier",
+          "url": "/wiki/Cavalier",
+          "length": 13358
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Iraq War: The United States Armed Forces transfers control of Anbar Province to the Iraqi Armed Forces.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/Iraq_War\" title=\"Iraq War\">Iraq War</a>: The <a href=\"/wiki/United_States_Armed_Forces\" title=\"United States Armed Forces\">United States Armed Forces</a> transfers control of <a href=\"/wiki/Al_Anbar_Governorate\" title=\"Al Anbar Governorate\">Anbar Province</a> to the <a href=\"/wiki/Iraqi_Armed_Forces\" title=\"Iraqi Armed Forces\">Iraqi Armed Forces</a>.<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\"><span class=\"cite-bracket\">[</span>23<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Iraq War",
+          "url": "/wiki/Iraq_War",
+          "length": 296388
+        },
+        {
+          "name": "United States Armed Forces",
+          "url": "/wiki/United_States_Armed_Forces",
+          "length": 224009
+        },
+        {
+          "name": "Al Anbar Governorate",
+          "url": "/wiki/Al_Anbar_Governorate",
+          "length": 16968
+        },
+        {
+          "name": "Iraqi Armed Forces",
+          "url": "/wiki/Iraqi_Armed_Forces",
+          "length": 77313
+        }
+      ]
+    },
+    {
+      "year": "1532",
+      "description": "Lady Anne Boleyn is made Marquess of Pembroke by her fiancé, King Henry VIII of England.",
+      "html": "<li>\n<a href=\"/wiki/1532\" title=\"1532\">1532</a> – Lady <a href=\"/wiki/Anne_Boleyn\" title=\"Anne Boleyn\">Anne Boleyn</a> is made <a href=\"/wiki/Marquess_of_Pembroke\" title=\"Marquess of Pembroke\">Marquess of Pembroke</a> by her <a href=\"/wiki/Engagement\" title=\"Engagement\">fiancé</a>, King <a href=\"/wiki/Henry_VIII_of_England\" class=\"mw-redirect\" title=\"Henry VIII of England\">Henry VIII of England</a>.</li>",
+      "entities": [
+        {
+          "name": "Anne Boleyn",
+          "url": "/wiki/Anne_Boleyn",
+          "length": 109690
+        },
+        {
+          "name": "Marquess of Pembroke",
+          "url": "/wiki/Marquess_of_Pembroke",
+          "length": 5489
+        },
+        {
+          "name": "Engagement",
+          "url": "/wiki/Engagement",
+          "length": 28373
+        },
+        {
+          "name": "Henry VIII of England",
+          "url": "/wiki/Henry_VIII_of_England",
+          "length": 149
+        }
+      ]
+    },
+    {
+      "year": "1604",
+      "description": "Adi Granth, now known as Guru Granth Sahib, the holy scripture of Sikhs, is first installed at Harmandir Sahib.",
+      "html": "<li>\n<a href=\"/wiki/1604\" title=\"1604\">1604</a> – <a href=\"/wiki/Adi_Granth\" class=\"mw-redirect\" title=\"Adi Granth\">Adi Granth</a>, now known as <a href=\"/wiki/Guru_Granth_Sahib\" title=\"Guru Granth Sahib\">Guru Granth Sahib</a>, the holy scripture of <a href=\"/wiki/Sikh\" class=\"mw-redirect\" title=\"Sikh\">Sikhs</a>, is first installed at <a href=\"/wiki/Harmandir_Sahib\" class=\"mw-redirect\" title=\"Harmandir Sahib\">Harmandir Sahib</a>.</li>",
+      "entities": [
+        {
+          "name": "Adi Granth",
+          "url": "/wiki/Adi_Granth",
+          "length": 31
+        },
+        {
+          "name": "Guru Granth Sahib",
+          "url": "/wiki/Guru_Granth_Sahib",
+          "length": 74162
+        },
+        {
+          "name": "Sikh",
+          "url": "/wiki/Sikh",
+          "length": 81
+        },
+        {
+          "name": "Harmandir Sahib",
+          "url": "/wiki/Harmandir_Sahib",
+          "length": 44
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Carlos Sainz Jr., Spanish racing driver, was born.",
+      "html": "<li>1994   – <a href=\"/wiki/Carlos_Sainz_Jr.\" title=\"Carlos Sainz Jr.\">Carlos Sainz Jr.</a>, Spanish racing driver <sup id=\"cite_ref-61\" class=\"reference\"><a href=\"#cite_note-61\"><span class=\"cite-bracket\">[</span>61<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Carlos Sainz Jr.",
+          "url": "/wiki/Carlos_Sainz_Jr.",
+          "length": 136137
+        }
+      ]
+    },
+    {
+      "year": "1159",
+      "description": "Pope Adrian IV, died.",
+      "html": "<li>\n<a href=\"/wiki/1159\" title=\"1159\">1159</a> – <a href=\"/wiki/Pope_Adrian_IV\" title=\"Pope Adrian IV\">Pope Adrian IV</a> (b. 1100)<sup id=\"cite_ref-73\" class=\"reference\"><a href=\"#cite_note-73\"><span class=\"cite-bracket\">[</span>73<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pope Adrian IV",
+          "url": "/wiki/Pope_Adrian_IV",
+          "length": 166768
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1896",
+      "description": "A. C. Bhaktivedanta Swami Prabhupada, Indian religious leader, founded the International Society for Krishna Consciousness, was born.",
+      "html": "<li>\n<a href=\"/wiki/1896\" title=\"1896\">1896</a> – <a href=\"/wiki/A._C._Bhaktivedanta_Swami_Prabhupada\" title=\"A. C. Bhaktivedanta Swami Prabhupada\">A. C. Bhaktivedanta Swami Prabhupada</a>, Indian religious leader, founded the <a href=\"/wiki/International_Society_for_Krishna_Consciousness\" title=\"International Society for Krishna Consciousness\">International Society for Krishna Consciousness</a> (d. 1977)</li>",
+      "entities": [
+        {
+          "name": "A. C. Bhaktivedanta Swami Prabhupada",
+          "url": "/wiki/A._C._Bhaktivedanta_Swami_Prabhupada",
+          "length": 209751
+        },
+        {
+          "name": "International Society for Krishna Consciousness",
+          "url": "/wiki/International_Society_for_Krishna_Consciousness",
+          "length": 94717
+        }
+      ]
+    },
+    {
+      "year": "1950",
+      "description": "Phillip Fulmer, American football player and coach, was born.",
+      "html": "<li>1950   – <a href=\"/wiki/Phillip_Fulmer\" title=\"Phillip Fulmer\">Phillip Fulmer</a>, American football player and coach</li>",
+      "entities": [
+        {
+          "name": "Phillip Fulmer",
+          "url": "/wiki/Phillip_Fulmer",
+          "length": 141898
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Carlos Sainz Jr., Spanish racing driver, was born.",
+      "html": "<li>1994   – <a href=\"/wiki/Carlos_Sainz_Jr.\" title=\"Carlos Sainz Jr.\">Carlos Sainz Jr.</a>, Spanish racing driver <sup id=\"cite_ref-61\" class=\"reference\"><a href=\"#cite_note-61\"><span class=\"cite-bracket\">[</span>61<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Carlos Sainz Jr.",
+          "url": "/wiki/Carlos_Sainz_Jr.",
+          "length": 136137
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1159",
+      "description": "Pope Adrian IV, died.",
+      "html": "<li>\n<a href=\"/wiki/1159\" title=\"1159\">1159</a> – <a href=\"/wiki/Pope_Adrian_IV\" title=\"Pope Adrian IV\">Pope Adrian IV</a> (b. 1100)<sup id=\"cite_ref-73\" class=\"reference\"><a href=\"#cite_note-73\"><span class=\"cite-bracket\">[</span>73<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pope Adrian IV",
+          "url": "/wiki/Pope_Adrian_IV",
+          "length": 166768
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "Frederick Russell Burnham, American soldier and adventurer, died.",
+      "html": "<li>\n<a href=\"/wiki/1947\" title=\"1947\">1947</a> – <a href=\"/wiki/Frederick_Russell_Burnham\" title=\"Frederick Russell Burnham\">Frederick Russell Burnham</a>, American soldier and adventurer (b. 1861)</li>",
+      "entities": [
+        {
+          "name": "Frederick Russell Burnham",
+          "url": "/wiki/Frederick_Russell_Burnham",
+          "length": 124330
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Jimmy Buffett, American singer-songwriter, musician, author and businessman, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Jimmy_Buffett\" title=\"Jimmy Buffett\">Jimmy Buffett</a>, American singer-songwriter, musician, author and businessman (b. 1946)<sup id=\"cite_ref-85\" class=\"reference\"><a href=\"#cite_note-85\"><span class=\"cite-bracket\">[</span>85<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "/wiki/Jimmy_Buffett",
+          "length": 119401
+        }
+      ]
+    }
+  ]
+}

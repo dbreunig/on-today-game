@@ -1,0 +1,351 @@
+{
+  "events": [
+    {
+      "year": "2017",
+      "description": "Six Arab countries—Bahrain, Egypt, Libya, Saudi Arabia, Yemen, and the United Arab Emirates—cut diplomatic ties with Qatar, accusing it of destabilising the region.",
+      "html": "<li>2017   – Six Arab countries—<a href=\"/wiki/Bahrain\" title=\"Bahrain\">Bahrain</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a>, <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a>, <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a>, and the <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a>—<a href=\"/wiki/Qatar_diplomatic_crisis\" title=\"Qatar diplomatic crisis\">cut diplomatic ties</a> with <a href=\"/wiki/Qatar\" title=\"Qatar\">Qatar</a>, accusing it of destabilising the region.</li>",
+      "entities": [
+        {
+          "name": "Bahrain",
+          "url": "/wiki/Bahrain",
+          "length": 237957
+        },
+        {
+          "name": "Egypt",
+          "url": "/wiki/Egypt",
+          "length": 242142
+        },
+        {
+          "name": "Libya",
+          "url": "/wiki/Libya",
+          "length": 225759
+        },
+        {
+          "name": "Saudi Arabia",
+          "url": "/wiki/Saudi_Arabia",
+          "length": 311890
+        },
+        {
+          "name": "Yemen",
+          "url": "/wiki/Yemen",
+          "length": 215460
+        },
+        {
+          "name": "United Arab Emirates",
+          "url": "/wiki/United_Arab_Emirates",
+          "length": 252334
+        },
+        {
+          "name": "Qatar diplomatic crisis",
+          "url": "/wiki/Qatar_diplomatic_crisis",
+          "length": 178488
+        },
+        {
+          "name": "Qatar",
+          "url": "/wiki/Qatar",
+          "length": 233670
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Movement of 15 Khordad: Protests against the arrest of Ayatollah Ruhollah Khomeini by the Shah of Iran, Mohammad Reza Pahlavi. In several cities, masses of angry demonstrators are confronted by tanks and paratroopers.",
+      "html": "<li>1963   – <a href=\"/wiki/Movement_of_15_Khordad\" class=\"mw-redirect\" title=\"Movement of 15 Khordad\">Movement of 15 Khordad</a>: Protests against the arrest of <a href=\"/wiki/Ayatollah\" title=\"Ayatollah\">Ayatollah</a> <a href=\"/wiki/Ruhollah_Khomeini\" title=\"Ruhollah Khomeini\">Ruhollah Khomeini</a> by the <a href=\"/wiki/Shah\" title=\"Shah\">Shah</a> of <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a>, <a href=\"/wiki/Mohammad_Reza_Pahlavi\" title=\"Mohammad Reza Pahlavi\">Mohammad Reza Pahlavi</a>. In several cities, masses of angry demonstrators are confronted by tanks and <a href=\"/wiki/Paratrooper\" title=\"Paratrooper\">paratroopers</a>.</li>",
+      "entities": [
+        {
+          "name": "Movement of 15 Khordad",
+          "url": "/wiki/Movement_of_15_Khordad",
+          "length": 41
+        },
+        {
+          "name": "Ayatollah",
+          "url": "/wiki/Ayatollah",
+          "length": 22144
+        },
+        {
+          "name": "Ruhollah Khomeini",
+          "url": "/wiki/Ruhollah_Khomeini",
+          "length": 172449
+        },
+        {
+          "name": "Shah",
+          "url": "/wiki/Shah",
+          "length": 18278
+        },
+        {
+          "name": "Iran",
+          "url": "/wiki/Iran",
+          "length": 379191
+        },
+        {
+          "name": "Mohammad Reza Pahlavi",
+          "url": "/wiki/Mohammad_Reza_Pahlavi",
+          "length": 244540
+        },
+        {
+          "name": "Paratrooper",
+          "url": "/wiki/Paratrooper",
+          "length": 55239
+        }
+      ]
+    },
+    {
+      "year": "1086",
+      "description": "Tutush, brother of Seljuk sultan Malik Shah, defeats Suleiman ibn Qutalmish, the Turkish ruler of Anatolia in the battle of Ain Salm.",
+      "html": "<li>\n<a href=\"/wiki/1086\" title=\"1086\">1086</a> – <a href=\"/wiki/Tutush_I\" title=\"Tutush I\">Tutush</a>, brother of <a href=\"/wiki/Seljuk_Sultanate\" class=\"mw-redirect\" title=\"Seljuk Sultanate\">Seljuk sultan</a> <a href=\"/wiki/Malik-Shah_I\" title=\"Malik-Shah I\">Malik Shah</a>, defeats <a href=\"/wiki/Suleiman_ibn_Qutalmish\" title=\"Suleiman ibn Qutalmish\">Suleiman ibn Qutalmish</a>, the <a href=\"/wiki/Sultanate_of_Rum\" title=\"Sultanate of Rum\">Turkish ruler of Anatolia</a> in the <a href=\"/wiki/Battle_of_Ain_Salm\" title=\"Battle of Ain Salm\">battle of Ain Salm</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Tutush I",
+          "url": "/wiki/Tutush_I",
+          "length": 8174
+        },
+        {
+          "name": "Seljuk Sultanate",
+          "url": "/wiki/Seljuk_Sultanate",
+          "length": 27
+        },
+        {
+          "name": "Malik-Shah I",
+          "url": "/wiki/Malik-Shah_I",
+          "length": 25361
+        },
+        {
+          "name": "Suleiman ibn Qutalmish",
+          "url": "/wiki/Suleiman_ibn_Qutalmish",
+          "length": 9140
+        },
+        {
+          "name": "Sultanate of Rum",
+          "url": "/wiki/Sultanate_of_Rum",
+          "length": 76989
+        },
+        {
+          "name": "Battle of Ain Salm",
+          "url": "/wiki/Battle_of_Ain_Salm",
+          "length": 4924
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "Cold War: Marshall Plan: In a speech at Harvard University, the United States Secretary of State George Marshall calls for economic aid to war-torn Europe.",
+      "html": "<li>\n<a href=\"/wiki/1947\" title=\"1947\">1947</a> – <a href=\"/wiki/Cold_War\" title=\"Cold War\">Cold War</a>: <a href=\"/wiki/Marshall_Plan\" title=\"Marshall Plan\">Marshall Plan</a>: In a speech at <a href=\"/wiki/Harvard_University\" title=\"Harvard University\">Harvard University</a>, the <a href=\"/wiki/United_States_Secretary_of_State\" title=\"United States Secretary of State\">United States Secretary of State</a> <a href=\"/wiki/George_Marshall\" class=\"mw-redirect\" title=\"George Marshall\">George Marshall</a> calls for economic aid to war-torn Europe.</li>",
+      "entities": [
+        {
+          "name": "Cold War",
+          "url": "/wiki/Cold_War",
+          "length": 267374
+        },
+        {
+          "name": "Marshall Plan",
+          "url": "/wiki/Marshall_Plan",
+          "length": 130147
+        },
+        {
+          "name": "Harvard University",
+          "url": "/wiki/Harvard_University",
+          "length": 119155
+        },
+        {
+          "name": "United States Secretary of State",
+          "url": "/wiki/United_States_Secretary_of_State",
+          "length": 18112
+        },
+        {
+          "name": "George Marshall",
+          "url": "/wiki/George_Marshall",
+          "length": 115
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "description": "The Six-Day War in Kisangani begins in Kisangani, in the Democratic Republic of the Congo, between Ugandan and Rwandan forces. A large part of the city is destroyed.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – The <a href=\"/wiki/Six-Day_War_(2000)\" title=\"Six-Day War (2000)\">Six-Day War in Kisangani</a> begins in <a href=\"/wiki/Kisangani\" title=\"Kisangani\">Kisangani</a>, in the <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a>, between <a href=\"/wiki/Uganda\" title=\"Uganda\">Ugandan</a> and <a href=\"/wiki/Rwanda\" title=\"Rwanda\">Rwandan</a> forces. A large part of the city is destroyed.</li>",
+      "entities": [
+        {
+          "name": "Six-Day War (2000)",
+          "url": "/wiki/Six-Day_War_(2000)",
+          "length": 5301
+        },
+        {
+          "name": "Kisangani",
+          "url": "/wiki/Kisangani",
+          "length": 128924
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "url": "/wiki/Democratic_Republic_of_the_Congo",
+          "length": 230380
+        },
+        {
+          "name": "Uganda",
+          "url": "/wiki/Uganda",
+          "length": 193636
+        },
+        {
+          "name": "Rwanda",
+          "url": "/wiki/Rwanda",
+          "length": 208095
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "The Morbidity and Mortality Weekly Report of the Centers for Disease Control and Prevention reports that five people in Los Angeles, California, have a rare form of pneumonia seen only in patients with weakened immune systems, in what turns out to be the first recognized cases of AIDS.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – The <i><a href=\"/wiki/Morbidity_and_Mortality_Weekly_Report\" title=\"Morbidity and Mortality Weekly Report\">Morbidity and Mortality Weekly Report</a></i> of the <a href=\"/wiki/Centers_for_Disease_Control_and_Prevention\" title=\"Centers for Disease Control and Prevention\">Centers for Disease Control and Prevention</a> reports that five people in Los Angeles, California, have a rare form of <a href=\"/wiki/Pneumonia\" title=\"Pneumonia\">pneumonia</a> seen only in patients with weakened <a href=\"/wiki/Immune_system\" title=\"Immune system\">immune systems</a>, in what turns out to be the first recognized cases of <a href=\"/wiki/AIDS\" class=\"mw-redirect\" title=\"AIDS\">AIDS</a>.</li>",
+      "entities": [
+        {
+          "name": "Morbidity and Mortality Weekly Report",
+          "url": "/wiki/Morbidity_and_Mortality_Weekly_Report",
+          "length": 24671
+        },
+        {
+          "name": "Centers for Disease Control and Prevention",
+          "url": "/wiki/Centers_for_Disease_Control_and_Prevention",
+          "length": 93037
+        },
+        {
+          "name": "Pneumonia",
+          "url": "/wiki/Pneumonia",
+          "length": 123359
+        },
+        {
+          "name": "Immune system",
+          "url": "/wiki/Immune_system",
+          "length": 121251
+        },
+        {
+          "name": "AIDS",
+          "url": "/wiki/AIDS",
+          "length": 80
+        }
+      ]
+    },
+    {
+      "year": "1878",
+      "description": "Pancho Villa, Mexican general and politician, Governor of Chihuahua, was born.",
+      "html": "<li>\n<a href=\"/wiki/1878\" title=\"1878\">1878</a> – <a href=\"/wiki/Pancho_Villa\" title=\"Pancho Villa\">Pancho Villa</a>, Mexican general and politician, <a href=\"/wiki/Governor_of_Chihuahua\" title=\"Governor of Chihuahua\">Governor of Chihuahua</a> (d. 1923)</li>",
+      "entities": [
+        {
+          "name": "Pancho Villa",
+          "url": "/wiki/Pancho_Villa",
+          "length": 96476
+        },
+        {
+          "name": "Governor of Chihuahua",
+          "url": "/wiki/Governor_of_Chihuahua",
+          "length": 62313
+        }
+      ]
+    },
+    {
+      "year": "1916",
+      "description": "Herbert Kitchener, 1st Earl Kitchener, Irish-born British field marshal and politician, Secretary of State for War, died.",
+      "html": "<li>\n<a href=\"/wiki/1916\" title=\"1916\">1916</a> – <a href=\"/wiki/Herbert_Kitchener,_1st_Earl_Kitchener\" title=\"Herbert Kitchener, 1st Earl Kitchener\">Herbert Kitchener, 1st Earl Kitchener</a>, Irish-born British field marshal and politician, <a href=\"/wiki/Secretary_of_State_for_War\" title=\"Secretary of State for War\">Secretary of State for War</a> (b. 1850)</li>",
+      "entities": [
+        {
+          "name": "Herbert Kitchener, 1st Earl Kitchener",
+          "url": "/wiki/Herbert_Kitchener,_1st_Earl_Kitchener",
+          "length": 123601
+        },
+        {
+          "name": "Secretary of State for War",
+          "url": "/wiki/Secretary_of_State_for_War",
+          "length": 25806
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1883",
+      "description": "John Maynard Keynes, English economist, philosopher, and academic, was born.",
+      "html": "<li>\n<a href=\"/wiki/1883\" title=\"1883\">1883</a> – <a href=\"/wiki/John_Maynard_Keynes\" title=\"John Maynard Keynes\">John Maynard Keynes</a>, English economist, philosopher, and academic (d. 1946)</li>",
+      "entities": [
+        {
+          "name": "John Maynard Keynes",
+          "url": "/wiki/John_Maynard_Keynes",
+          "length": 196281
+        }
+      ]
+    },
+    {
+      "year": "1868",
+      "description": "James Connolly, Scottish-born Irish rebel leader, was born.",
+      "html": "<li>\n<a href=\"/wiki/1868\" title=\"1868\">1868</a> – <a href=\"/wiki/James_Connolly\" title=\"James Connolly\">James Connolly</a>, Scottish-born Irish rebel leader (d. 1916)</li>",
+      "entities": [
+        {
+          "name": "James Connolly",
+          "url": "/wiki/James_Connolly",
+          "length": 112567
+        }
+      ]
+    },
+    {
+      "year": "1878",
+      "description": "Pancho Villa, Mexican general and politician, Governor of Chihuahua, was born.",
+      "html": "<li>\n<a href=\"/wiki/1878\" title=\"1878\">1878</a> – <a href=\"/wiki/Pancho_Villa\" title=\"Pancho Villa\">Pancho Villa</a>, Mexican general and politician, <a href=\"/wiki/Governor_of_Chihuahua\" title=\"Governor of Chihuahua\">Governor of Chihuahua</a> (d. 1923)</li>",
+      "entities": [
+        {
+          "name": "Pancho Villa",
+          "url": "/wiki/Pancho_Villa",
+          "length": 96476
+        },
+        {
+          "name": "Governor of Chihuahua",
+          "url": "/wiki/Governor_of_Chihuahua",
+          "length": 62313
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2004",
+      "description": "Ronald Reagan, American actor and politician, 40th President of the United States, died.",
+      "html": "<li>2004   – <a href=\"/wiki/Ronald_Reagan\" title=\"Ronald Reagan\">Ronald Reagan</a>, American actor and politician, 40th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1911)</li>",
+      "entities": [
+        {
+          "name": "Ronald Reagan",
+          "url": "/wiki/Ronald_Reagan",
+          "length": 171812
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1916",
+      "description": "Herbert Kitchener, 1st Earl Kitchener, Irish-born British field marshal and politician, Secretary of State for War, died.",
+      "html": "<li>\n<a href=\"/wiki/1916\" title=\"1916\">1916</a> – <a href=\"/wiki/Herbert_Kitchener,_1st_Earl_Kitchener\" title=\"Herbert Kitchener, 1st Earl Kitchener\">Herbert Kitchener, 1st Earl Kitchener</a>, Irish-born British field marshal and politician, <a href=\"/wiki/Secretary_of_State_for_War\" title=\"Secretary of State for War\">Secretary of State for War</a> (b. 1850)</li>",
+      "entities": [
+        {
+          "name": "Herbert Kitchener, 1st Earl Kitchener",
+          "url": "/wiki/Herbert_Kitchener,_1st_Earl_Kitchener",
+          "length": 123601
+        },
+        {
+          "name": "Secretary of State for War",
+          "url": "/wiki/Secretary_of_State_for_War",
+          "length": 25806
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "description": "Ray Bradbury, American science fiction writer and screenwriter, died.",
+      "html": "<li>\n<a href=\"/wiki/2012\" title=\"2012\">2012</a> – <a href=\"/wiki/Ray_Bradbury\" title=\"Ray Bradbury\">Ray Bradbury</a>, American science fiction writer and screenwriter  (b. 1920)</li>",
+      "entities": [
+        {
+          "name": "Ray Bradbury",
+          "url": "/wiki/Ray_Bradbury",
+          "length": 101690
+        }
+      ]
+    }
+  ]
+}

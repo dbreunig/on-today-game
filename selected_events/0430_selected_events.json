@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1945",
+      "description": "World War II: Führerbunker: Adolf Hitler and Eva Braun commit suicide after being married for less than 40 hours. Soviet soldiers raise the Victory Banner over the Reichstag building.",
+      "html": "<li>\n<a href=\"/wiki/1945\" title=\"1945\">1945</a> – World War II: <i><a href=\"/wiki/F%C3%BChrerbunker\" title=\"Führerbunker\">Führerbunker</a></i>: <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a> and <a href=\"/wiki/Eva_Braun\" title=\"Eva Braun\">Eva Braun</a> <a href=\"/wiki/Death_of_Adolf_Hitler\" title=\"Death of Adolf Hitler\">commit suicide</a> after being married for less than 40 hours. <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet</a> soldiers raise the <a href=\"/wiki/Victory_Banner\" title=\"Victory Banner\">Victory Banner</a> over the <a href=\"/wiki/Reichstag_building\" title=\"Reichstag building\">Reichstag building</a>.</li>",
+      "entities": [
+        {
+          "name": "Führerbunker",
+          "url": "/wiki/F%C3%BChrerbunker",
+          "length": 35820
+        },
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Eva Braun",
+          "url": "/wiki/Eva_Braun",
+          "length": 26346
+        },
+        {
+          "name": "Death of Adolf Hitler",
+          "url": "/wiki/Death_of_Adolf_Hitler",
+          "length": 60762
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Victory Banner",
+          "url": "/wiki/Victory_Banner",
+          "length": 16626
+        },
+        {
+          "name": "Reichstag building",
+          "url": "/wiki/Reichstag_building",
+          "length": 27338
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "Fall of Saigon: Communist forces gain control of Saigon. The Vietnam War formally ends with the unconditional surrender of South Vietnamese president Dương Văn Minh.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/Fall_of_Saigon\" title=\"Fall of Saigon\">Fall of Saigon</a>: <a href=\"/wiki/Communist\" class=\"mw-redirect\" title=\"Communist\">Communist</a> forces gain control of <a href=\"/wiki/Saigon\" class=\"mw-redirect\" title=\"Saigon\">Saigon</a>. The <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a> formally ends with the unconditional surrender of <a href=\"/wiki/South_Vietnam\" title=\"South Vietnam\">South Vietnamese</a> president <a href=\"/wiki/D%C6%B0%C6%A1ng_V%C4%83n_Minh\" title=\"Dương Văn Minh\">Dương Văn Minh</a>.</li>",
+      "entities": [
+        {
+          "name": "Fall of Saigon",
+          "url": "/wiki/Fall_of_Saigon",
+          "length": 80957
+        },
+        {
+          "name": "Communist",
+          "url": "/wiki/Communist",
+          "length": 133
+        },
+        {
+          "name": "Saigon",
+          "url": "/wiki/Saigon",
+          "length": 132
+        },
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "South Vietnam",
+          "url": "/wiki/South_Vietnam",
+          "length": 262921
+        },
+        {
+          "name": "Dương Văn Minh",
+          "url": "/wiki/D%C6%B0%C6%A1ng_V%C4%83n_Minh",
+          "length": 54878
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Formula One racing driver Roland Ratzenberger is killed in a crash during the qualifying session of the San Marino Grand Prix run at Autodromo Enzo e Dino Ferrari outside Imola, Italy.",
+      "html": "<li>\n<a href=\"/wiki/1994\" title=\"1994\">1994</a> – <a href=\"/wiki/Formula_One\" title=\"Formula One\">Formula One</a> racing driver <a href=\"/wiki/Roland_Ratzenberger\" title=\"Roland Ratzenberger\">Roland Ratzenberger</a> is killed in a crash during the qualifying session of the <a href=\"/wiki/San_Marino_Grand_Prix\" title=\"San Marino Grand Prix\">San Marino Grand Prix</a> run at <a href=\"/wiki/Autodromo_Enzo_e_Dino_Ferrari\" class=\"mw-redirect\" title=\"Autodromo Enzo e Dino Ferrari\">Autodromo Enzo e Dino Ferrari</a> outside <a href=\"/wiki/Imola\" title=\"Imola\">Imola</a>, Italy.</li>",
+      "entities": [
+        {
+          "name": "Formula One",
+          "url": "/wiki/Formula_One",
+          "length": 229731
+        },
+        {
+          "name": "Roland Ratzenberger",
+          "url": "/wiki/Roland_Ratzenberger",
+          "length": 39415
+        },
+        {
+          "name": "San Marino Grand Prix",
+          "url": "/wiki/San_Marino_Grand_Prix",
+          "length": 27233
+        },
+        {
+          "name": "Autodromo Enzo e Dino Ferrari",
+          "url": "/wiki/Autodromo_Enzo_e_Dino_Ferrari",
+          "length": 74
+        },
+        {
+          "name": "Imola",
+          "url": "/wiki/Imola",
+          "length": 18274
+        }
+      ]
+    },
+    {
+      "year": "1789",
+      "description": "On the balcony of Federal Hall on Wall Street in New York City, George Washington takes the oath of office to become the first President of the United States.",
+      "html": "<li>\n<a href=\"/wiki/1789\" title=\"1789\">1789</a> – On the balcony of <a href=\"/wiki/Federal_Hall\" title=\"Federal Hall\">Federal Hall</a> on <a href=\"/wiki/Wall_Street\" title=\"Wall Street\">Wall Street</a> in New York City, <a href=\"/wiki/George_Washington\" title=\"George Washington\">George Washington</a> takes the <a href=\"/wiki/First_inauguration_of_George_Washington\" title=\"First inauguration of George Washington\">oath of office</a> to become the first <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a>.</li>",
+      "entities": [
+        {
+          "name": "Federal Hall",
+          "url": "/wiki/Federal_Hall",
+          "length": 114082
+        },
+        {
+          "name": "Wall Street",
+          "url": "/wiki/Wall_Street",
+          "length": 107073
+        },
+        {
+          "name": "George Washington",
+          "url": "/wiki/George_Washington",
+          "length": 227867
+        },
+        {
+          "name": "First inauguration of George Washington",
+          "url": "/wiki/First_inauguration_of_George_Washington",
+          "length": 16740
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1598",
+      "description": "Henry IV of France issues the Edict of Nantes, allowing freedom of religion to the Huguenots.",
+      "html": "<li>1598   – <a href=\"/wiki/Henry_IV_of_France\" title=\"Henry IV of France\">Henry IV of France</a> issues the <a href=\"/wiki/Edict_of_Nantes\" title=\"Edict of Nantes\">Edict of Nantes</a>, allowing <a href=\"/wiki/Freedom_of_religion\" title=\"Freedom of religion\">freedom of religion</a> to the <a href=\"/wiki/Huguenot\" class=\"mw-redirect\" title=\"Huguenot\">Huguenots</a>.</li>",
+      "entities": [
+        {
+          "name": "Henry IV of France",
+          "url": "/wiki/Henry_IV_of_France",
+          "length": 62329
+        },
+        {
+          "name": "Edict of Nantes",
+          "url": "/wiki/Edict_of_Nantes",
+          "length": 24990
+        },
+        {
+          "name": "Freedom of religion",
+          "url": "/wiki/Freedom_of_religion",
+          "length": 125607
+        },
+        {
+          "name": "Huguenot",
+          "url": "/wiki/Huguenot",
+          "length": 88
+        }
+      ]
+    },
+    {
+      "year": "1939",
+      "description": "NBC inaugurates its regularly scheduled television service in New York City, broadcasting President Franklin D. Roosevelt's N.Y. World's Fair opening day ceremonial address.",
+      "html": "<li>1939   – <a href=\"/wiki/NBC\" title=\"NBC\">NBC</a> inaugurates its regularly scheduled <a href=\"/wiki/History_of_television#Mechanical_television\" title=\"History of television\">television</a> service in New York City, broadcasting President <a href=\"/wiki/Franklin_D._Roosevelt\" title=\"Franklin D. Roosevelt\">Franklin D. Roosevelt</a>'s <a href=\"/wiki/1939_New_York_World%27s_Fair\" title=\"1939 New York World's Fair\">N.Y. World's Fair</a> opening day ceremonial address.</li>",
+      "entities": [
+        {
+          "name": "NBC",
+          "url": "/wiki/NBC",
+          "length": null
+        },
+        {
+          "name": "History of television",
+          "url": "/wiki/History_of_television#Mechanical_television",
+          "length": null
+        },
+        {
+          "name": "Franklin D. Roosevelt",
+          "url": "/wiki/Franklin_D._Roosevelt",
+          "length": null
+        },
+        {
+          "name": "1939 New York World's Fair",
+          "url": "/wiki/1939_New_York_World%27s_Fair",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Dianna Agron, American actress and singer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Dianna_Agron\" title=\"Dianna Agron\">Dianna Agron</a>, American actress and singer</li>",
+      "entities": [
+        {
+          "name": "Dianna Agron",
+          "url": "/wiki/Dianna_Agron",
+          "length": 257115
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "Adolf Hitler, Austrian-German politician and author, dictator of Nazi Germany, died.",
+      "html": "<li>1945   – <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a>, Austrian-German politician and author, dictator of <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">Nazi Germany</a> (b. 1889)<sup id=\"cite_ref-Kershaw2001_54-1\" class=\"reference\"><a href=\"#cite_note-Kershaw2001-54\"><span class=\"cite-bracket\">[</span>54<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1986",
+      "description": "Dianna Agron, American actress and singer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Dianna_Agron\" title=\"Dianna Agron\">Dianna Agron</a>, American actress and singer</li>",
+      "entities": [
+        {
+          "name": "Dianna Agron",
+          "url": "/wiki/Dianna_Agron",
+          "length": 257115
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Michael Waltrip, American race car driver and sportscaster, was born.",
+      "html": "<li>1963   – <a href=\"/wiki/Michael_Waltrip\" title=\"Michael Waltrip\">Michael Waltrip</a>, American race car driver and sportscaster</li>",
+      "entities": [
+        {
+          "name": "Michael Waltrip",
+          "url": "/wiki/Michael_Waltrip",
+          "length": 214179
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Stephen Harper, Canadian economist and politician, 22nd Prime Minister of Canada, was born.",
+      "html": "<li>\n<a href=\"/wiki/1959\" title=\"1959\">1959</a> – <a href=\"/wiki/Stephen_Harper\" title=\"Stephen Harper\">Stephen Harper</a>, Canadian economist and politician, 22nd <a href=\"/wiki/Prime_Minister_of_Canada\" title=\"Prime Minister of Canada\">Prime Minister of Canada</a>\n</li>",
+      "entities": [
+        {
+          "name": "Stephen Harper",
+          "url": "/wiki/Stephen_Harper",
+          "length": 187024
+        },
+        {
+          "name": "Prime Minister of Canada",
+          "url": "/wiki/Prime_Minister_of_Canada",
+          "length": 55758
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1945",
+      "description": "Adolf Hitler, Austrian-German politician and author, dictator of Nazi Germany, died.",
+      "html": "<li>1945   – <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a>, Austrian-German politician and author, dictator of <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">Nazi Germany</a> (b. 1889)<sup id=\"cite_ref-Kershaw2001_54-1\" class=\"reference\"><a href=\"#cite_note-Kershaw2001-54\"><span class=\"cite-bracket\">[</span>54<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        }
+      ]
+    },
+    {
+      "year": "1632",
+      "description": "Sigismund III Vasa, Swedish-Polish son of John III of Sweden, died.",
+      "html": "<li>1632   – <a href=\"/wiki/Sigismund_III_Vasa\" title=\"Sigismund III Vasa\">Sigismund III Vasa</a>, Swedish-Polish son of <a href=\"/wiki/John_III_of_Sweden\" title=\"John III of Sweden\">John III of Sweden</a> (b. 1566)</li>",
+      "entities": [
+        {
+          "name": "Sigismund III Vasa",
+          "url": "/wiki/Sigismund_III_Vasa",
+          "length": 132214
+        },
+        {
+          "name": "John III of Sweden",
+          "url": "/wiki/John_III_of_Sweden",
+          "length": 36650
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "Alben W. Barkley, American lawyer and politician, 35th Vice President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1956\" title=\"1956\">1956</a> – <a href=\"/wiki/Alben_W._Barkley\" title=\"Alben W. Barkley\">Alben W. Barkley</a>, American lawyer and politician, 35th <a href=\"/wiki/Vice_President_of_the_United_States\" title=\"Vice President of the United States\">Vice President of the United States</a> (b. 1877)</li>",
+      "entities": [
+        {
+          "name": "Alben W. Barkley",
+          "url": "/wiki/Alben_W._Barkley",
+          "length": 106114
+        },
+        {
+          "name": "Vice President of the United States",
+          "url": "/wiki/Vice_President_of_the_United_States",
+          "length": 123376
+        }
+      ]
+    }
+  ]
+}

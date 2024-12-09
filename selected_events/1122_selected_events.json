@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1963",
+      "description": "U.S. President John F. Kennedy is assassinated and Texas Governor John Connally is seriously wounded by Lee Harvey Oswald, who also kills Dallas Police officer J. D. Tippit after fleeing the scene. Vice President Lyndon B. Johnson is sworn in as the 36th President of the United States afterwards.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – U.S. President <a href=\"/wiki/John_F._Kennedy\" title=\"John F. Kennedy\">John F. Kennedy</a> is <a href=\"/wiki/Assassination_of_John_F._Kennedy\" title=\"Assassination of John F. Kennedy\">assassinated</a> and <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a> Governor <a href=\"/wiki/John_Connally\" title=\"John Connally\">John Connally</a> is seriously wounded by <a href=\"/wiki/Lee_Harvey_Oswald\" title=\"Lee Harvey Oswald\">Lee Harvey Oswald</a>, who also kills Dallas Police officer <a href=\"/wiki/J._D._Tippit\" title=\"J. D. Tippit\">J. D. Tippit</a> after fleeing the scene.<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup> Vice President <a href=\"/wiki/Lyndon_B._Johnson\" title=\"Lyndon B. Johnson\">Lyndon B. Johnson</a> is <a href=\"/wiki/First_inauguration_of_Lyndon_B._Johnson\" title=\"First inauguration of Lyndon B. Johnson\">sworn in</a> as the 36th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> afterwards.<sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John F. Kennedy",
+          "url": "/wiki/John_F._Kennedy",
+          "length": 236120
+        },
+        {
+          "name": "Assassination of John F. Kennedy",
+          "url": "/wiki/Assassination_of_John_F._Kennedy",
+          "length": 158460
+        },
+        {
+          "name": "Texas",
+          "url": "/wiki/Texas",
+          "length": 262159
+        },
+        {
+          "name": "John Connally",
+          "url": "/wiki/John_Connally",
+          "length": 59156
+        },
+        {
+          "name": "Lee Harvey Oswald",
+          "url": "/wiki/Lee_Harvey_Oswald",
+          "length": 172098
+        },
+        {
+          "name": "J. D. Tippit",
+          "url": "/wiki/J._D._Tippit",
+          "length": 40376
+        },
+        {
+          "name": "Lyndon B. Johnson",
+          "url": "/wiki/Lyndon_B._Johnson",
+          "length": 200033
+        },
+        {
+          "name": "First inauguration of Lyndon B. Johnson",
+          "url": "/wiki/First_inauguration_of_Lyndon_B._Johnson",
+          "length": 14377
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "World War II: Battle of Stalingrad: General Friedrich Paulus sends Adolf Hitler a telegram saying that the German 6th Army is surrounded.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – World War II: <a href=\"/wiki/Battle_of_Stalingrad\" title=\"Battle of Stalingrad\">Battle of Stalingrad</a>: General <a href=\"/wiki/Friedrich_Paulus\" title=\"Friedrich Paulus\">Friedrich Paulus</a> sends <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a> a <a href=\"/wiki/Telegraphy\" title=\"Telegraphy\">telegram</a> saying that the German <a href=\"/wiki/6th_Army_(Wehrmacht)\" title=\"6th Army (Wehrmacht)\">6th Army</a> is surrounded.<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Battle of Stalingrad",
+          "url": "/wiki/Battle_of_Stalingrad",
+          "length": 202354
+        },
+        {
+          "name": "Friedrich Paulus",
+          "url": "/wiki/Friedrich_Paulus",
+          "length": 37568
+        },
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Telegraphy",
+          "url": "/wiki/Telegraphy",
+          "length": 80604
+        },
+        {
+          "name": "6th Army (Wehrmacht)",
+          "url": "/wiki/6th_Army_(Wehrmacht)",
+          "length": 25320
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "The Soviet Union launches RDS-37, a 1.6 megaton two stage hydrogen bomb designed by Andrei Sakharov. The bomb was dropped over Semipalatinsk.",
+      "html": "<li>\n<a href=\"/wiki/1955\" title=\"1955\">1955</a> – The <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a> launches <a href=\"/wiki/RDS-37\" title=\"RDS-37\">RDS-37</a>, a 1.6 megaton <a href=\"/wiki/Thermonuclear_weapon\" title=\"Thermonuclear weapon\">two stage hydrogen bomb</a> designed by <a href=\"/wiki/Andrei_Sakharov\" title=\"Andrei Sakharov\">Andrei Sakharov</a>. The bomb was dropped over <a href=\"/wiki/Semipalatinsk_Test_Site\" title=\"Semipalatinsk Test Site\">Semipalatinsk</a>.<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "RDS-37",
+          "url": "/wiki/RDS-37",
+          "length": 32890
+        },
+        {
+          "name": "Thermonuclear weapon",
+          "url": "/wiki/Thermonuclear_weapon",
+          "length": 101462
+        },
+        {
+          "name": "Andrei Sakharov",
+          "url": "/wiki/Andrei_Sakharov",
+          "length": 88492
+        },
+        {
+          "name": "Semipalatinsk Test Site",
+          "url": "/wiki/Semipalatinsk_Test_Site",
+          "length": 31161
+        }
+      ]
+    },
+    {
+      "year": "845",
+      "description": "The first duke of Brittany, Nominoe, defeats the Frankish king Charles the Bald at the Battle of Ballon near Redon.",
+      "html": "<li>\n<a href=\"/wiki/845\" title=\"845\">845</a> – The first duke of <a href=\"/wiki/Brittany\" title=\"Brittany\">Brittany</a>, <a href=\"/wiki/Nominoe\" title=\"Nominoe\">Nominoe</a>, defeats the Frankish king <a href=\"/wiki/Charles_the_Bald\" title=\"Charles the Bald\">Charles the Bald</a> at the <a href=\"/wiki/Battle_of_Ballon\" title=\"Battle of Ballon\">Battle of Ballon</a> near <a href=\"/wiki/Redon,_Ille-et-Vilaine\" title=\"Redon, Ille-et-Vilaine\">Redon</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Brittany",
+          "url": "/wiki/Brittany",
+          "length": 131774
+        },
+        {
+          "name": "Nominoe",
+          "url": "/wiki/Nominoe",
+          "length": 12062
+        },
+        {
+          "name": "Charles the Bald",
+          "url": "/wiki/Charles_the_Bald",
+          "length": 19244
+        },
+        {
+          "name": "Battle of Ballon",
+          "url": "/wiki/Battle_of_Ballon",
+          "length": 6259
+        },
+        {
+          "name": "Redon, Ille-et-Vilaine",
+          "url": "/wiki/Redon,_Ille-et-Vilaine",
+          "length": 5311
+        }
+      ]
+    },
+    {
+      "year": "498",
+      "description": "After the death of Anastasius II, Symmachus is elected Pope in the Lateran Palace, while Laurentius is elected Pope in Santa Maria Maggiore.",
+      "html": "<li>\n<a href=\"/wiki/498\" title=\"498\">498</a> – After the death of <a href=\"/wiki/Pope_Anastasius_II\" title=\"Pope Anastasius II\">Anastasius II</a>, <a href=\"/wiki/Pope_Symmachus\" title=\"Pope Symmachus\">Symmachus</a> is elected Pope in the <a href=\"/wiki/Lateran_Palace\" title=\"Lateran Palace\">Lateran Palace</a>, while <a href=\"/wiki/Antipope_Laurentius\" title=\"Antipope Laurentius\">Laurentius</a> is elected Pope in <a href=\"/wiki/Basilica_di_Santa_Maria_Maggiore\" class=\"mw-redirect\" title=\"Basilica di Santa Maria Maggiore\">Santa Maria Maggiore</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pope Anastasius II",
+          "url": "/wiki/Pope_Anastasius_II",
+          "length": 10469
+        },
+        {
+          "name": "Pope Symmachus",
+          "url": "/wiki/Pope_Symmachus",
+          "length": 17267
+        },
+        {
+          "name": "Lateran Palace",
+          "url": "/wiki/Lateran_Palace",
+          "length": 26490
+        },
+        {
+          "name": "Antipope Laurentius",
+          "url": "/wiki/Antipope_Laurentius",
+          "length": 6532
+        },
+        {
+          "name": "Basilica di Santa Maria Maggiore",
+          "url": "/wiki/Basilica_di_Santa_Maria_Maggiore",
+          "length": 51
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "British Prime Minister Margaret Thatcher withdraws from the Conservative Party leadership election, confirming the end of her Prime-Ministership.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – British <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister</a> <a href=\"/wiki/Margaret_Thatcher\" title=\"Margaret Thatcher\">Margaret Thatcher</a> withdraws from the <a href=\"/wiki/1990_Conservative_Party_leadership_election\" title=\"1990 Conservative Party leadership election\">Conservative Party leadership election</a>, confirming the end of her <a href=\"/wiki/Premiership_of_Margaret_Thatcher\" title=\"Premiership of Margaret Thatcher\">Prime-Ministership</a>.<sup id=\"cite_ref-Chase2019_31-0\" class=\"reference\"><a href=\"#cite_note-Chase2019-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        },
+        {
+          "name": "Margaret Thatcher",
+          "url": "/wiki/Margaret_Thatcher",
+          "length": 270883
+        },
+        {
+          "name": "1990 Conservative Party leadership election",
+          "url": "/wiki/1990_Conservative_Party_leadership_election",
+          "length": 33582
+        },
+        {
+          "name": "Premiership of Margaret Thatcher",
+          "url": "/wiki/Premiership_of_Margaret_Thatcher",
+          "length": 158507
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "Charles de Gaulle, French general and politician, President of France, was born.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – <a href=\"/wiki/Charles_de_Gaulle\" title=\"Charles de Gaulle\">Charles de Gaulle</a>, French general and politician, <a href=\"/wiki/List_of_presidents_of_France\" title=\"List of presidents of France\">President of France</a> (d. 1970)<sup id=\"cite_ref-Chase2019_31-3\" class=\"reference\"><a href=\"#cite_note-Chase2019-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Charles de Gaulle",
+          "url": "/wiki/Charles_de_Gaulle",
+          "length": 174671
+        },
+        {
+          "name": "List of presidents of France",
+          "url": "/wiki/List_of_presidents_of_France",
+          "length": 64581
+        }
+      ]
+    },
+    {
+      "year": "1900",
+      "description": "Arthur Sullivan, English composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1900\" title=\"1900\">1900</a> – <a href=\"/wiki/Arthur_Sullivan\" title=\"Arthur Sullivan\">Arthur Sullivan</a>, English composer (b. 1842)<sup id=\"cite_ref-247\" class=\"reference\"><a href=\"#cite_note-247\"><span class=\"cite-bracket\">[</span>247<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Arthur Sullivan",
+          "url": "/wiki/Arthur_Sullivan",
+          "length": 133281
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1984",
+      "description": "Scarlett Johansson, American actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1984\" title=\"1984\">1984</a> – <a href=\"/wiki/Scarlett_Johansson\" title=\"Scarlett Johansson\">Scarlett Johansson</a>, American actress<sup id=\"cite_ref-199\" class=\"reference\"><a href=\"#cite_note-199\"><span class=\"cite-bracket\">[</span>199<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "/wiki/Scarlett_Johansson",
+          "length": 207403
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "Charles de Gaulle, French general and politician, President of France, was born.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – <a href=\"/wiki/Charles_de_Gaulle\" title=\"Charles de Gaulle\">Charles de Gaulle</a>, French general and politician, <a href=\"/wiki/List_of_presidents_of_France\" title=\"List of presidents of France\">President of France</a> (d. 1970)<sup id=\"cite_ref-Chase2019_31-3\" class=\"reference\"><a href=\"#cite_note-Chase2019-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Charles de Gaulle",
+          "url": "/wiki/Charles_de_Gaulle",
+          "length": 174671
+        },
+        {
+          "name": "List of presidents of France",
+          "url": "/wiki/List_of_presidents_of_France",
+          "length": 64581
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Oscar Pistorius, South African sprinter and convicted murderer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Oscar_Pistorius\" title=\"Oscar Pistorius\">Oscar Pistorius</a>, South African sprinter and convicted murderer<sup id=\"cite_ref-205\" class=\"reference\"><a href=\"#cite_note-205\"><span class=\"cite-bracket\">[</span>205<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Oscar Pistorius",
+          "url": "/wiki/Oscar_Pistorius",
+          "length": 171805
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1963",
+      "description": "John F. Kennedy, American politician, 35th President of the United States, died.",
+      "html": "<li>1963   – <a href=\"/wiki/John_F._Kennedy\" title=\"John F. Kennedy\">John F. Kennedy</a>, American politician, 35th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1917)<sup id=\"cite_ref-261\" class=\"reference\"><a href=\"#cite_note-261\"><span class=\"cite-bracket\">[</span>261<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John F. Kennedy",
+          "url": "/wiki/John_F._Kennedy",
+          "length": 236120
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1900",
+      "description": "Arthur Sullivan, English composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1900\" title=\"1900\">1900</a> – <a href=\"/wiki/Arthur_Sullivan\" title=\"Arthur Sullivan\">Arthur Sullivan</a>, English composer (b. 1842)<sup id=\"cite_ref-247\" class=\"reference\"><a href=\"#cite_note-247\"><span class=\"cite-bracket\">[</span>247<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Arthur Sullivan",
+          "url": "/wiki/Arthur_Sullivan",
+          "length": 133281
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "C. S. Lewis, British writer, literary scholar, and Anglican lay theologian, died.",
+      "html": "<li>1963   – <a href=\"/wiki/C._S._Lewis\" title=\"C. S. Lewis\">C. S. Lewis</a>, British writer, literary scholar, and Anglican lay theologian (b. 1898)<sup id=\"cite_ref-262\" class=\"reference\"><a href=\"#cite_note-262\"><span class=\"cite-bracket\">[</span>262<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "C. S. Lewis",
+          "url": "/wiki/C._S._Lewis",
+          "length": 125416
+        }
+      ]
+    }
+  ]
+}

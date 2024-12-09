@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "1643",
+      "description": "English Civil War: Battle of Roundway Down: In England, Henry Wilmot, 1st Earl of Rochester, commanding the Royalist forces, heavily defeats the Parliamentarian forces led by Sir William Waller.",
+      "html": "<li>\n<a href=\"/wiki/1643\" title=\"1643\">1643</a> – <a href=\"/wiki/English_Civil_War\" title=\"English Civil War\">English Civil War</a>: <a href=\"/wiki/Battle_of_Roundway_Down\" title=\"Battle of Roundway Down\">Battle of Roundway Down</a>: In England, <a href=\"/wiki/Henry_Wilmot,_1st_Earl_of_Rochester\" title=\"Henry Wilmot, 1st Earl of Rochester\">Henry Wilmot, 1st Earl of Rochester</a>, commanding the <a href=\"/wiki/Cavalier\" title=\"Cavalier\">Royalist</a> forces, heavily defeats the <a href=\"/wiki/Roundhead\" title=\"Roundhead\">Parliamentarian</a> forces led by Sir <a href=\"/wiki/William_Waller\" title=\"William Waller\">William Waller</a>.</li>",
+      "entities": [
+        {
+          "name": "English Civil War",
+          "url": "/wiki/English_Civil_War",
+          "length": 123645
+        },
+        {
+          "name": "Battle of Roundway Down",
+          "url": "/wiki/Battle_of_Roundway_Down",
+          "length": 13951
+        },
+        {
+          "name": "Henry Wilmot, 1st Earl of Rochester",
+          "url": "/wiki/Henry_Wilmot,_1st_Earl_of_Rochester",
+          "length": 13786
+        },
+        {
+          "name": "Cavalier",
+          "url": "/wiki/Cavalier",
+          "length": 13358
+        },
+        {
+          "name": "Roundhead",
+          "url": "/wiki/Roundhead",
+          "length": 9700
+        },
+        {
+          "name": "William Waller",
+          "url": "/wiki/William_Waller",
+          "length": 21884
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Vice President George H. W. Bush becomes the Acting President for the day when President Ronald Reagan undergoes surgery to remove polyps from his colon.",
+      "html": "<li>1985   – <a href=\"/wiki/Vice_President_of_the_United_States\" title=\"Vice President of the United States\">Vice President</a> <a href=\"/wiki/George_H._W._Bush\" title=\"George H. W. Bush\">George H. W. Bush</a> becomes the <a href=\"/wiki/Acting_President_of_the_United_States\" title=\"Acting President of the United States\">Acting President for the day</a> when President <a href=\"/wiki/Ronald_Reagan\" title=\"Ronald Reagan\">Ronald Reagan</a> undergoes surgery to remove <a href=\"/wiki/Polyp_(medicine)\" title=\"Polyp (medicine)\">polyps</a> from his <a href=\"/wiki/Colon_(anatomy)\" class=\"mw-redirect\" title=\"Colon (anatomy)\">colon</a>.</li>",
+      "entities": [
+        {
+          "name": "Vice President of the United States",
+          "url": "/wiki/Vice_President_of_the_United_States",
+          "length": 123376
+        },
+        {
+          "name": "George H. W. Bush",
+          "url": "/wiki/George_H._W._Bush",
+          "length": 180095
+        },
+        {
+          "name": "Acting President of the United States",
+          "url": "/wiki/Acting_President_of_the_United_States",
+          "length": 24445
+        },
+        {
+          "name": "Ronald Reagan",
+          "url": "/wiki/Ronald_Reagan",
+          "length": 171812
+        },
+        {
+          "name": "Polyp (medicine)",
+          "url": "/wiki/Polyp_(medicine)",
+          "length": 26352
+        },
+        {
+          "name": "Colon (anatomy)",
+          "url": "/wiki/Colon_(anatomy)",
+          "length": 96
+        }
+      ]
+    },
+    {
+      "year": "1586",
+      "description": "Anglo–Spanish War: A convoy of English ships from the Levant Company manage to repel a fleet of eleven Spanish and Maltese galleys off the Mediterranean island of Pantelleria.",
+      "html": "<li>\n<a href=\"/wiki/1586\" title=\"1586\">1586</a> – <a href=\"/wiki/Anglo%E2%80%93Spanish_War_(1585)\" class=\"mw-redirect\" title=\"Anglo–Spanish War (1585)\">Anglo–Spanish War</a>: A convoy of English ships from the <a href=\"/wiki/Levant_Company\" title=\"Levant Company\">Levant Company</a> manage to <a href=\"/wiki/Battle_of_Pantelleria_(1586)\" title=\"Battle of Pantelleria (1586)\">repel a fleet</a> of eleven Spanish and <a href=\"/wiki/History_of_Malta_under_the_Order_of_Saint_John\" class=\"mw-redirect\" title=\"History of Malta under the Order of Saint John\">Maltese</a> galleys off the Mediterranean island of <a href=\"/wiki/Pantelleria\" title=\"Pantelleria\">Pantelleria</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Anglo–Spanish War (1585)",
+          "url": "/wiki/Anglo%E2%80%93Spanish_War_(1585)",
+          "length": 69
+        },
+        {
+          "name": "Levant Company",
+          "url": "/wiki/Levant_Company",
+          "length": 34042
+        },
+        {
+          "name": "Battle of Pantelleria (1586)",
+          "url": "/wiki/Battle_of_Pantelleria_(1586)",
+          "length": 13473
+        },
+        {
+          "name": "History of Malta under the Order of Saint John",
+          "url": "/wiki/History_of_Malta_under_the_Order_of_Saint_John",
+          "length": 78
+        },
+        {
+          "name": "Pantelleria",
+          "url": "/wiki/Pantelleria",
+          "length": 29082
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "description": "French DGSE personnel abort an operation to rescue Íngrid Betancourt from FARC rebels in Colombia, causing a political scandal when details are leaked to the press.",
+      "html": "<li>\n<a href=\"/wiki/2003\" title=\"2003\">2003</a> – French <a href=\"/wiki/Directorate-General_for_External_Security\" title=\"Directorate-General for External Security\">DGSE</a> personnel abort <a href=\"/wiki/Op%C3%A9ration_14_juillet\" class=\"mw-redirect\" title=\"Opération 14 juillet\">an operation</a> to rescue <a href=\"/wiki/%C3%8Dngrid_Betancourt\" title=\"Íngrid Betancourt\">Íngrid Betancourt</a> from <a href=\"/wiki/FARC\" class=\"mw-redirect\" title=\"FARC\">FARC</a> rebels in <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a>, causing a political scandal when details are leaked to the press.</li>",
+      "entities": [
+        {
+          "name": "Directorate-General for External Security",
+          "url": "/wiki/Directorate-General_for_External_Security",
+          "length": 57593
+        },
+        {
+          "name": "Opération 14 juillet",
+          "url": "/wiki/Op%C3%A9ration_14_juillet",
+          "length": 78
+        },
+        {
+          "name": "Íngrid Betancourt",
+          "url": "/wiki/%C3%8Dngrid_Betancourt",
+          "length": 67108
+        },
+        {
+          "name": "FARC",
+          "url": "/wiki/FARC",
+          "length": 135
+        },
+        {
+          "name": "Colombia",
+          "url": "/wiki/Colombia",
+          "length": 301848
+        }
+      ]
+    },
+    {
+      "year": "1830",
+      "description": "The General Assembly's Institution, now the Scottish Church College, one of the pioneering institutions that ushered the Bengali Renaissance, is founded by Alexander Duff and Raja Ram Mohan Roy, in Calcutta, India.",
+      "html": "<li>\n<a href=\"/wiki/1830\" title=\"1830\">1830</a> – The General Assembly's Institution, now the <a href=\"/wiki/Scottish_Church_College\" title=\"Scottish Church College\">Scottish Church College</a>, one of the pioneering institutions that ushered the <a href=\"/wiki/Bengali_Renaissance\" class=\"mw-redirect\" title=\"Bengali Renaissance\">Bengali Renaissance</a>, is founded by <a href=\"/wiki/Alexander_Duff_(missionary)\" title=\"Alexander Duff (missionary)\">Alexander Duff</a> and Raja <a href=\"/wiki/Ram_Mohan_Roy\" class=\"mw-redirect\" title=\"Ram Mohan Roy\">Ram Mohan Roy</a>, in <a href=\"/wiki/Kolkata\" title=\"Kolkata\">Calcutta</a>, India.</li>",
+      "entities": [
+        {
+          "name": "Scottish Church College",
+          "url": "/wiki/Scottish_Church_College",
+          "length": 28687
+        },
+        {
+          "name": "Bengali Renaissance",
+          "url": "/wiki/Bengali_Renaissance",
+          "length": 70
+        },
+        {
+          "name": "Alexander Duff (missionary)",
+          "url": "/wiki/Alexander_Duff_(missionary)",
+          "length": 32860
+        },
+        {
+          "name": "Ram Mohan Roy",
+          "url": "/wiki/Ram_Mohan_Roy",
+          "length": 79
+        },
+        {
+          "name": "Kolkata",
+          "url": "/wiki/Kolkata",
+          "length": 244588
+        }
+      ]
+    },
+    {
+      "year": "1878",
+      "description": "Treaty of Berlin: The European powers redraw the map of the Balkans. Serbia, Montenegro and Romania become completely independent of the Ottoman Empire.",
+      "html": "<li>\n<a href=\"/wiki/1878\" title=\"1878\">1878</a> – <a href=\"/wiki/Treaty_of_Berlin_(1878)\" title=\"Treaty of Berlin (1878)\">Treaty of Berlin</a>: The European powers redraw the map of the Balkans. <a href=\"/wiki/Serbia\" title=\"Serbia\">Serbia</a>, <a href=\"/wiki/Montenegro\" title=\"Montenegro\">Montenegro</a> and <a href=\"/wiki/Romania\" title=\"Romania\">Romania</a> become completely independent of the <a href=\"/wiki/Ottoman_Empire\" title=\"Ottoman Empire\">Ottoman Empire</a>.</li>",
+      "entities": [
+        {
+          "name": "Treaty of Berlin (1878)",
+          "url": "/wiki/Treaty_of_Berlin_(1878)",
+          "length": 21836
+        },
+        {
+          "name": "Serbia",
+          "url": "/wiki/Serbia",
+          "length": 316741
+        },
+        {
+          "name": "Montenegro",
+          "url": "/wiki/Montenegro",
+          "length": 121534
+        },
+        {
+          "name": "Romania",
+          "url": "/wiki/Romania",
+          "length": 248487
+        },
+        {
+          "name": "Ottoman Empire",
+          "url": "/wiki/Ottoman_Empire",
+          "length": 268337
+        }
+      ]
+    },
+    {
+      "year": "1821",
+      "description": "Nathan Bedford Forrest, American general and first Grand Wizard of the Ku Klux Klan, was born.",
+      "html": "<li>\n<a href=\"/wiki/1821\" title=\"1821\">1821</a> – <a href=\"/wiki/Nathan_Bedford_Forrest\" title=\"Nathan Bedford Forrest\">Nathan Bedford Forrest</a>, American general and first Grand Wizard of the <a href=\"/wiki/Ku_Klux_Klan\" title=\"Ku Klux Klan\">Ku Klux Klan</a> (d. 1877)</li>",
+      "entities": [
+        {
+          "name": "Nathan Bedford Forrest",
+          "url": "/wiki/Nathan_Bedford_Forrest",
+          "length": 199872
+        },
+        {
+          "name": "Ku Klux Klan",
+          "url": "/wiki/Ku_Klux_Klan",
+          "length": 227492
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "John C. Frémont, American general and politician, 5th Territorial Governor of Arizona, died.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – <a href=\"/wiki/John_C._Fr%C3%A9mont\" title=\"John C. Frémont\">John C. Frémont</a>, American general and politician, 5th <a href=\"/wiki/List_of_Governors_of_Arizona\" class=\"mw-redirect\" title=\"List of Governors of Arizona\">Territorial Governor of Arizona</a> (b. 1813)</li>",
+      "entities": [
+        {
+          "name": "John C. Frémont",
+          "url": "/wiki/John_C._Fr%C3%A9mont",
+          "length": 156510
+        },
+        {
+          "name": "List of Governors of Arizona",
+          "url": "/wiki/List_of_Governors_of_Arizona",
+          "length": 59
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1935",
+      "description": "Jack Kemp, American football player and politician, 9th United States Secretary of Housing and Urban Development, was born.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/Jack_Kemp\" title=\"Jack Kemp\">Jack Kemp</a>, American football player and politician, 9th <a href=\"/wiki/United_States_Secretary_of_Housing_and_Urban_Development\" title=\"United States Secretary of Housing and Urban Development\">United States Secretary of Housing and Urban Development</a> (d. 2009)</li>",
+      "entities": [
+        {
+          "name": "Jack Kemp",
+          "url": "/wiki/Jack_Kemp",
+          "length": 217557
+        },
+        {
+          "name": "United States Secretary of Housing and Urban Development",
+          "url": "/wiki/United_States_Secretary_of_Housing_and_Urban_Development",
+          "length": 13663
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "description": "Yadier Molina, Puerto Rican baseball player, was born.",
+      "html": "<li>1982   – <a href=\"/wiki/Yadier_Molina\" title=\"Yadier Molina\">Yadier Molina</a>, Puerto Rican baseball player</li>",
+      "entities": [
+        {
+          "name": "Yadier Molina",
+          "url": "/wiki/Yadier_Molina",
+          "length": 215429
+        }
+      ]
+    },
+    {
+      "year": "1821",
+      "description": "Nathan Bedford Forrest, American general and first Grand Wizard of the Ku Klux Klan, was born.",
+      "html": "<li>\n<a href=\"/wiki/1821\" title=\"1821\">1821</a> – <a href=\"/wiki/Nathan_Bedford_Forrest\" title=\"Nathan Bedford Forrest\">Nathan Bedford Forrest</a>, American general and first Grand Wizard of the <a href=\"/wiki/Ku_Klux_Klan\" title=\"Ku Klux Klan\">Ku Klux Klan</a> (d. 1877)</li>",
+      "entities": [
+        {
+          "name": "Nathan Bedford Forrest",
+          "url": "/wiki/Nathan_Bedford_Forrest",
+          "length": 199872
+        },
+        {
+          "name": "Ku Klux Klan",
+          "url": "/wiki/Ku_Klux_Klan",
+          "length": 227492
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2017",
+      "description": "Liu Xiaobo, Chinese literary critic, human rights activist, died.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – <a href=\"/wiki/Liu_Xiaobo\" title=\"Liu Xiaobo\">Liu Xiaobo</a>, Chinese literary critic, human rights activist (b. 1955)</li>",
+      "entities": [
+        {
+          "name": "Liu Xiaobo",
+          "url": "/wiki/Liu_Xiaobo",
+          "length": 171979
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "John C. Frémont, American general and politician, 5th Territorial Governor of Arizona, died.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – <a href=\"/wiki/John_C._Fr%C3%A9mont\" title=\"John C. Frémont\">John C. Frémont</a>, American general and politician, 5th <a href=\"/wiki/List_of_Governors_of_Arizona\" class=\"mw-redirect\" title=\"List of Governors of Arizona\">Territorial Governor of Arizona</a> (b. 1813)</li>",
+      "entities": [
+        {
+          "name": "John C. Frémont",
+          "url": "/wiki/John_C._Fr%C3%A9mont",
+          "length": 156510
+        },
+        {
+          "name": "List of Governors of Arizona",
+          "url": "/wiki/List_of_Governors_of_Arizona",
+          "length": 59
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "Frida Kahlo, Mexican painter and educator, died.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/Frida_Kahlo\" title=\"Frida Kahlo\">Frida Kahlo</a>, Mexican painter and educator (b. 1907)</li>",
+      "entities": [
+        {
+          "name": "Frida Kahlo",
+          "url": "/wiki/Frida_Kahlo",
+          "length": 142075
+        }
+      ]
+    }
+  ]
+}

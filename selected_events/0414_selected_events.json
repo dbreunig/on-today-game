@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1988",
+      "description": "In a United Nations ceremony in Geneva, Switzerland, the Soviet Union signs an agreement pledging to withdraw its troops from Afghanistan.",
+      "html": "<li>1988 – In a <a href=\"/wiki/United_Nations\" title=\"United Nations\">United Nations</a> ceremony in <a href=\"/wiki/Geneva\" title=\"Geneva\">Geneva</a>, <a href=\"/wiki/Switzerland\" title=\"Switzerland\">Switzerland</a>, the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a> signs <a href=\"/wiki/Geneva_Accords_(1988)\" title=\"Geneva Accords (1988)\">an agreement</a> pledging to <a href=\"/wiki/Soviet_withdrawal_from_Afghanistan\" title=\"Soviet withdrawal from Afghanistan\">withdraw its troops</a> from <a href=\"/wiki/Democratic_Republic_of_Afghanistan\" title=\"Democratic Republic of Afghanistan\">Afghanistan</a>.</li>",
+      "entities": [
+        {
+          "name": "United Nations",
+          "url": "/wiki/United_Nations",
+          "length": 173187
+        },
+        {
+          "name": "Geneva",
+          "url": "/wiki/Geneva",
+          "length": 161147
+        },
+        {
+          "name": "Switzerland",
+          "url": "/wiki/Switzerland",
+          "length": 244307
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Geneva Accords (1988)",
+          "url": "/wiki/Geneva_Accords_(1988)",
+          "length": 4223
+        },
+        {
+          "name": "Soviet withdrawal from Afghanistan",
+          "url": "/wiki/Soviet_withdrawal_from_Afghanistan",
+          "length": 29088
+        },
+        {
+          "name": "Democratic Republic of Afghanistan",
+          "url": "/wiki/Democratic_Republic_of_Afghanistan",
+          "length": 103388
+        }
+      ]
+    },
+    {
+      "year": "69",
+      "description": "Vitellius, commanding Rhine-based armies, defeats Roman emperor Otho in the First Battle of Bedriacum to take power over Rome.",
+      "html": "<li>\n<a href=\"/wiki/AD_69\" title=\"AD 69\">69</a> – <a href=\"/wiki/Vitellius\" title=\"Vitellius\">Vitellius</a>, commanding <a href=\"/wiki/Rhine\" title=\"Rhine\">Rhine</a>-based armies, defeats Roman emperor <a href=\"/wiki/Otho\" title=\"Otho\">Otho</a> in the <a href=\"/wiki/Battle_of_Bedriacum#First_Battle_of_Bedriacum\" title=\"Battle of Bedriacum\">First Battle of Bedriacum</a> to take power over <a href=\"/wiki/Rome\" title=\"Rome\">Rome</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "AD 69",
+          "url": "/wiki/AD_69",
+          "length": null
+        },
+        {
+          "name": "Vitellius",
+          "url": "/wiki/Vitellius",
+          "length": null
+        },
+        {
+          "name": "Rhine",
+          "url": "/wiki/Rhine",
+          "length": null
+        },
+        {
+          "name": "Otho",
+          "url": "/wiki/Otho",
+          "length": null
+        },
+        {
+          "name": "Battle of Bedriacum",
+          "url": "/wiki/Battle_of_Bedriacum#First_Battle_of_Bedriacum",
+          "length": null
+        },
+        {
+          "name": "Rome",
+          "url": "/wiki/Rome",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "966",
+      "description": "Following his marriage to the Christian Doubravka of Bohemia, the pagan ruler of the Polans, Mieszko I, converts to Christianity, an event considered to be the founding of the Polish state.",
+      "html": "<li>\n<a href=\"/wiki/966\" title=\"966\">966</a> – Following his marriage to the Christian <a href=\"/wiki/Doubravka_of_Bohemia\" title=\"Doubravka of Bohemia\">Doubravka of Bohemia</a>, the <a href=\"/wiki/Paganism\" title=\"Paganism\">pagan</a> ruler of the <a href=\"/wiki/Polans_(western)\" title=\"Polans (western)\">Polans</a>, <a href=\"/wiki/Mieszko_I\" title=\"Mieszko I\">Mieszko I</a>, <a href=\"/wiki/Christianization_of_Poland#Baptism\" title=\"Christianization of Poland\">converts to Christianity</a>, an event considered to be the <a href=\"/wiki/History_of_Poland_during_the_Piast_dynasty\" title=\"History of Poland during the Piast dynasty\">founding of the Polish state</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Doubravka of Bohemia",
+          "url": "/wiki/Doubravka_of_Bohemia",
+          "length": null
+        },
+        {
+          "name": "Paganism",
+          "url": "/wiki/Paganism",
+          "length": null
+        },
+        {
+          "name": "Polans (western)",
+          "url": "/wiki/Polans_(western)",
+          "length": null
+        },
+        {
+          "name": "Mieszko I",
+          "url": "/wiki/Mieszko_I",
+          "length": null
+        },
+        {
+          "name": "Christianization of Poland",
+          "url": "/wiki/Christianization_of_Poland#Baptism",
+          "length": null
+        },
+        {
+          "name": "History of Poland during the Piast dynasty",
+          "url": "/wiki/History_of_Poland_during_the_Piast_dynasty",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "In a friendly fire incident during Operation Provide Comfort in northern Iraq, two U.S. Air Force aircraft mistakenly shoot-down two U.S. Army helicopters, killing 26 people.",
+      "html": "<li>\n<a href=\"/wiki/1994\" title=\"1994\">1994</a> – In a <a href=\"/wiki/Friendly_fire\" title=\"Friendly fire\">friendly fire</a> incident during <a href=\"/wiki/Operation_Provide_Comfort\" title=\"Operation Provide Comfort\">Operation Provide Comfort</a> in northern <a href=\"/wiki/Iraq\" title=\"Iraq\">Iraq</a>, two <a href=\"/wiki/United_States_Air_Force\" title=\"United States Air Force\">U.S. Air Force</a> aircraft mistakenly <a href=\"/wiki/1994_Black_Hawk_shootdown_incident\" title=\"1994 Black Hawk shootdown incident\">shoot-down</a> two <a href=\"/wiki/United_States_Army\" title=\"United States Army\">U.S. Army</a> helicopters, killing 26 people.</li>",
+      "entities": [
+        {
+          "name": "Friendly fire",
+          "url": "/wiki/Friendly_fire",
+          "length": 28700
+        },
+        {
+          "name": "Operation Provide Comfort",
+          "url": "/wiki/Operation_Provide_Comfort",
+          "length": 23245
+        },
+        {
+          "name": "Iraq",
+          "url": "/wiki/Iraq",
+          "length": 181589
+        },
+        {
+          "name": "United States Air Force",
+          "url": "/wiki/United_States_Air_Force",
+          "length": 177380
+        },
+        {
+          "name": "1994 Black Hawk shootdown incident",
+          "url": "/wiki/1994_Black_Hawk_shootdown_incident",
+          "length": 77569
+        },
+        {
+          "name": "United States Army",
+          "url": "/wiki/United_States_Army",
+          "length": 174349
+        }
+      ]
+    },
+    {
+      "year": "43 BC",
+      "description": "Legions loyal to the Roman Senate, commanded by Gaius Pansa, defeat the forces of Mark Antony in the Battle of Forum Gallorum.",
+      "html": "<li>\n<a href=\"/wiki/43_BC\" title=\"43 BC\">43 BC</a> – Legions loyal to the <a href=\"/wiki/Roman_Senate\" title=\"Roman Senate\">Roman Senate</a>, commanded by <a href=\"/wiki/Gaius_Vibius_Pansa_Caetronianus\" title=\"Gaius Vibius Pansa Caetronianus\">Gaius Pansa</a>, defeat the forces of <a href=\"/wiki/Mark_Antony\" title=\"Mark Antony\">Mark Antony</a> in the <a href=\"/wiki/Battle_of_Forum_Gallorum\" title=\"Battle of Forum Gallorum\">Battle of Forum Gallorum</a>.<sup id=\"cite_ref-FOOTNOTECicero''Phil.''_XIV,_37_1-0\" class=\"reference\"><a href=\"#cite_note-FOOTNOTECicero''Phil.''_XIV,_37-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "43 BC",
+          "url": "/wiki/43_BC",
+          "length": 7956
+        },
+        {
+          "name": "Roman Senate",
+          "url": "/wiki/Roman_Senate",
+          "length": 36873
+        },
+        {
+          "name": "Gaius Vibius Pansa Caetronianus",
+          "url": "/wiki/Gaius_Vibius_Pansa_Caetronianus",
+          "length": 9573
+        },
+        {
+          "name": "Mark Antony",
+          "url": "/wiki/Mark_Antony",
+          "length": 142643
+        },
+        {
+          "name": "Battle of Forum Gallorum",
+          "url": "/wiki/Battle_of_Forum_Gallorum",
+          "length": 24020
+        }
+      ]
+    },
+    {
+      "year": "972",
+      "description": "Otto II, Co-Emperor of the Holy Roman Empire, marries Byzantine princess Theophanu. She is crowned empress by Pope John XIII in Rome the same day.",
+      "html": "<li>\n<a href=\"/wiki/972\" title=\"972\">972</a> – <a href=\"/wiki/Otto_II,_Holy_Roman_Emperor\" title=\"Otto II, Holy Roman Emperor\">Otto II</a>, Co-<a href=\"/wiki/Holy_Roman_Emperor\" title=\"Holy Roman Emperor\">Emperor</a> of the <a href=\"/wiki/Holy_Roman_Empire\" title=\"Holy Roman Empire\">Holy Roman Empire</a>, marries Byzantine princess <a href=\"/wiki/Theophanu\" title=\"Theophanu\">Theophanu</a>. She is crowned empress by Pope <a href=\"/wiki/Pope_John_XIII\" title=\"Pope John XIII\">John XIII</a> in Rome the same day.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Otto II, Holy Roman Emperor",
+          "url": "/wiki/Otto_II,_Holy_Roman_Emperor",
+          "length": 54004
+        },
+        {
+          "name": "Holy Roman Emperor",
+          "url": "/wiki/Holy_Roman_Emperor",
+          "length": 50177
+        },
+        {
+          "name": "Holy Roman Empire",
+          "url": "/wiki/Holy_Roman_Empire",
+          "length": 188213
+        },
+        {
+          "name": "Theophanu",
+          "url": "/wiki/Theophanu",
+          "length": 27911
+        },
+        {
+          "name": "Pope John XIII",
+          "url": "/wiki/Pope_John_XIII",
+          "length": 18152
+        }
+      ]
+    },
+    {
+      "year": "1629",
+      "description": "Christiaan Huygens, Dutch mathematician, astronomer, and physicist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1629\" title=\"1629\">1629</a> – <a href=\"/wiki/Christiaan_Huygens\" title=\"Christiaan Huygens\">Christiaan Huygens</a>, Dutch mathematician, astronomer, and physicist (d. 1695)<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\"><span class=\"cite-bracket\">[</span>38<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Christiaan Huygens",
+          "url": "/wiki/Christiaan_Huygens",
+          "length": 138419
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "description": "Emmy Noether, German-American mathematician and academic, died.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/Emmy_Noether\" title=\"Emmy Noether\">Emmy Noether</a>, German-American mathematician and academic (b. 1882)</li>",
+      "entities": [
+        {
+          "name": "Emmy Noether",
+          "url": "/wiki/Emmy_Noether",
+          "length": 134475
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1977",
+      "description": "Sarah Michelle Gellar, American actress and producer, was born.",
+      "html": "<li>1977   – <a href=\"/wiki/Sarah_Michelle_Gellar\" title=\"Sarah Michelle Gellar\">Sarah Michelle Gellar</a>, American actress and producer</li>",
+      "entities": [
+        {
+          "name": "Sarah Michelle Gellar",
+          "url": "/wiki/Sarah_Michelle_Gellar",
+          "length": 145925
+        }
+      ]
+    },
+    {
+      "year": "1629",
+      "description": "Christiaan Huygens, Dutch mathematician, astronomer, and physicist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1629\" title=\"1629\">1629</a> – <a href=\"/wiki/Christiaan_Huygens\" title=\"Christiaan Huygens\">Christiaan Huygens</a>, Dutch mathematician, astronomer, and physicist (d. 1695)<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\"><span class=\"cite-bracket\">[</span>38<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Christiaan Huygens",
+          "url": "/wiki/Christiaan_Huygens",
+          "length": 138419
+        }
+      ]
+    },
+    {
+      "year": "1906",
+      "description": "Faisal of Saudi Arabia, Saudi Arabian king, was born.",
+      "html": "<li>\n<a href=\"/wiki/1906\" title=\"1906\">1906</a> – <a href=\"/wiki/Faisal_of_Saudi_Arabia\" title=\"Faisal of Saudi Arabia\">Faisal of Saudi Arabia</a>, Saudi Arabian king (d. 1975)</li>",
+      "entities": [
+        {
+          "name": "Faisal of Saudi Arabia",
+          "url": "/wiki/Faisal_of_Saudi_Arabia",
+          "length": 132544
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2021",
+      "description": "Bernie Madoff, American mastermind of the world's largest Ponzi scheme, died.",
+      "html": "<li>\n<a href=\"/wiki/2021\" title=\"2021\">2021</a> – <a href=\"/wiki/Bernie_Madoff\" title=\"Bernie Madoff\">Bernie Madoff</a>, American mastermind of the world's largest <a href=\"/wiki/Ponzi_scheme\" title=\"Ponzi scheme\">Ponzi scheme</a> (b. 1938)<sup id=\"cite_ref-103\" class=\"reference\"><a href=\"#cite_note-103\"><span class=\"cite-bracket\">[</span>103<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bernie Madoff",
+          "url": "/wiki/Bernie_Madoff",
+          "length": 138380
+        },
+        {
+          "name": "Ponzi scheme",
+          "url": "/wiki/Ponzi_scheme",
+          "length": 33153
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "description": "Emmy Noether, German-American mathematician and academic, died.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/Emmy_Noether\" title=\"Emmy Noether\">Emmy Noether</a>, German-American mathematician and academic (b. 1882)</li>",
+      "entities": [
+        {
+          "name": "Emmy Noether",
+          "url": "/wiki/Emmy_Noether",
+          "length": 134475
+        }
+      ]
+    },
+    {
+      "year": "1910",
+      "description": "Mikhail Vrubel, Russian painter and sculptor, died.",
+      "html": "<li>\n<a href=\"/wiki/1910\" title=\"1910\">1910</a> – <a href=\"/wiki/Mikhail_Vrubel\" title=\"Mikhail Vrubel\">Mikhail Vrubel</a>, Russian painter and sculptor (b. 1856)</li>",
+      "entities": [
+        {
+          "name": "Mikhail Vrubel",
+          "url": "/wiki/Mikhail_Vrubel",
+          "length": 122802
+        }
+      ]
+    }
+  ]
+}

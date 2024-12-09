@@ -1,0 +1,341 @@
+{
+  "events": [
+    {
+      "year": "1863",
+      "description": "American Civil War: Morgan's Raid: At Buffington Island in Ohio, Confederate General John Hunt Morgan's raid into the north is mostly thwarted when a large group of his men are captured while trying to escape across the Ohio River.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Morgan%27s_Raid\" title=\"Morgan's Raid\">Morgan's Raid</a>: At <a href=\"/wiki/Buffington_Island\" title=\"Buffington Island\">Buffington Island</a> in <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> General <a href=\"/wiki/John_Hunt_Morgan\" title=\"John Hunt Morgan\">John Hunt Morgan</a>'s raid into the north is mostly thwarted when a large group of his men are <a href=\"/wiki/Battle_of_Buffington_Island\" title=\"Battle of Buffington Island\">captured</a> while trying to escape across the <a href=\"/wiki/Ohio_River\" title=\"Ohio River\">Ohio River</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Morgan's Raid",
+          "url": "/wiki/Morgan%27s_Raid",
+          "length": 35001
+        },
+        {
+          "name": "Buffington Island",
+          "url": "/wiki/Buffington_Island",
+          "length": 7909
+        },
+        {
+          "name": "Ohio",
+          "url": "/wiki/Ohio",
+          "length": 201953
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "John Hunt Morgan",
+          "url": "/wiki/John_Hunt_Morgan",
+          "length": 33158
+        },
+        {
+          "name": "Battle of Buffington Island",
+          "url": "/wiki/Battle_of_Buffington_Island",
+          "length": 17711
+        },
+        {
+          "name": "Ohio River",
+          "url": "/wiki/Ohio_River",
+          "length": 84182
+        }
+      ]
+    },
+    {
+      "year": "711",
+      "description": "Umayyad conquest of Hispania: Battle of Guadalete: Umayyad forces under Tariq ibn Ziyad defeat the Visigoths led by King Roderic.",
+      "html": "<li>\n<a href=\"/wiki/AD_711\" title=\"AD 711\">711</a> – <a href=\"/wiki/Umayyad_conquest_of_Hispania\" class=\"mw-redirect\" title=\"Umayyad conquest of Hispania\">Umayyad conquest of Hispania</a>: <a href=\"/wiki/Battle_of_Guadalete\" title=\"Battle of Guadalete\">Battle of Guadalete</a>: <a href=\"/wiki/Umayyad_Caliphate\" title=\"Umayyad Caliphate\">Umayyad</a> forces under <a href=\"/wiki/Tariq_ibn_Ziyad\" title=\"Tariq ibn Ziyad\">Tariq ibn Ziyad</a> defeat the <a href=\"/wiki/Visigoths\" title=\"Visigoths\">Visigoths</a> led by King <a href=\"/wiki/Roderic\" title=\"Roderic\">Roderic</a>.</li>",
+      "entities": [
+        {
+          "name": "AD 711",
+          "url": "/wiki/AD_711",
+          "length": 5634
+        },
+        {
+          "name": "Umayyad conquest of Hispania",
+          "url": "/wiki/Umayyad_conquest_of_Hispania",
+          "length": 101
+        },
+        {
+          "name": "Battle of Guadalete",
+          "url": "/wiki/Battle_of_Guadalete",
+          "length": 38711
+        },
+        {
+          "name": "Umayyad Caliphate",
+          "url": "/wiki/Umayyad_Caliphate",
+          "length": 114370
+        },
+        {
+          "name": "Tariq ibn Ziyad",
+          "url": "/wiki/Tariq_ibn_Ziyad",
+          "length": 18011
+        },
+        {
+          "name": "Visigoths",
+          "url": "/wiki/Visigoths",
+          "length": 64770
+        },
+        {
+          "name": "Roderic",
+          "url": "/wiki/Roderic",
+          "length": 15055
+        }
+      ]
+    },
+    {
+      "year": "1916",
+      "description": "World War I: Battle of Fromelles: British and Australian troops attack German trenches as part of the Battle of the Somme.",
+      "html": "<li>\n<a href=\"/wiki/1916\" title=\"1916\">1916</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: <a href=\"/wiki/Battle_of_Fromelles\" class=\"mw-redirect\" title=\"Battle of Fromelles\">Battle of Fromelles</a>: <a href=\"/wiki/61st_(2nd_South_Midland)_Division\" title=\"61st (2nd South Midland) Division\">British</a> and <a href=\"/wiki/First_Australian_Imperial_Force\" title=\"First Australian Imperial Force\">Australian</a> troops attack <a href=\"/wiki/German_Empire\" title=\"German Empire\">German</a> trenches as part of the <a href=\"/wiki/Battle_of_the_Somme\" title=\"Battle of the Somme\">Battle of the Somme</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Battle of Fromelles",
+          "url": "/wiki/Battle_of_Fromelles",
+          "length": 50
+        },
+        {
+          "name": "61st (2nd South Midland) Division",
+          "url": "/wiki/61st_(2nd_South_Midland)_Division",
+          "length": 9490
+        },
+        {
+          "name": "First Australian Imperial Force",
+          "url": "/wiki/First_Australian_Imperial_Force",
+          "length": 110967
+        },
+        {
+          "name": "German Empire",
+          "url": "/wiki/German_Empire",
+          "length": 155614
+        },
+        {
+          "name": "Battle of the Somme",
+          "url": "/wiki/Battle_of_the_Somme",
+          "length": 89761
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "Spanish Civil War: The CNT and UGT call a general strike in Spain",
+      "html": "<li>\n<a href=\"/wiki/1936\" title=\"1936\">1936</a> – <a href=\"/wiki/Spanish_Civil_War\" title=\"Spanish Civil War\">Spanish Civil War</a>: The <a href=\"/wiki/Confederaci%C3%B3n_Nacional_del_Trabajo\" title=\"Confederación Nacional del Trabajo\">CNT</a> and <a href=\"/wiki/Uni%C3%B3n_General_de_Trabajadores\" title=\"Unión General de Trabajadores\">UGT</a> call a <a href=\"/wiki/General_strike\" title=\"General strike\">general strike</a> in <a href=\"/wiki/Second_Spanish_Republic\" title=\"Second Spanish Republic\">Spain</a> – mobilizing workers' militias against the <a href=\"/wiki/Nationalist_faction_(Spanish_Civil_War)\" title=\"Nationalist faction (Spanish Civil War)\">Nationalist forces</a>.</li>",
+      "entities": [
+        {
+          "name": "Spanish Civil War",
+          "url": "/wiki/Spanish_Civil_War",
+          "length": 276646
+        },
+        {
+          "name": "Confederación Nacional del Trabajo",
+          "url": "/wiki/Confederaci%C3%B3n_Nacional_del_Trabajo",
+          "length": 61952
+        },
+        {
+          "name": "Unión General de Trabajadores",
+          "url": "/wiki/Uni%C3%B3n_General_de_Trabajadores",
+          "length": 10188
+        },
+        {
+          "name": "General strike",
+          "url": "/wiki/General_strike",
+          "length": 53346
+        },
+        {
+          "name": "Second Spanish Republic",
+          "url": "/wiki/Second_Spanish_Republic",
+          "length": 56187
+        },
+        {
+          "name": "Nationalist faction (Spanish Civil War)",
+          "url": "/wiki/Nationalist_faction_(Spanish_Civil_War)",
+          "length": 43210
+        }
+      ]
+    },
+    {
+      "year": "1964",
+      "description": "Vietnam War: At a rally in Saigon, South Vietnamese Prime Minister Nguyễn Khánh calls for expanding the war into North Vietnam.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: At a rally in <a href=\"/wiki/Ho_Chi_Minh_City\" title=\"Ho Chi Minh City\">Saigon</a>, <a href=\"/wiki/South_Vietnam\" title=\"South Vietnam\">South Vietnamese</a> <a href=\"/wiki/Prime_minister\" title=\"Prime minister\">Prime Minister</a> <a href=\"/wiki/Nguy%E1%BB%85n_Kh%C3%A1nh\" title=\"Nguyễn Khánh\">Nguyễn Khánh</a> calls for expanding the war into <a href=\"/wiki/North_Vietnam\" title=\"North Vietnam\">North Vietnam</a>.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "Ho Chi Minh City",
+          "url": "/wiki/Ho_Chi_Minh_City",
+          "length": 135974
+        },
+        {
+          "name": "South Vietnam",
+          "url": "/wiki/South_Vietnam",
+          "length": 263792
+        },
+        {
+          "name": "Prime minister",
+          "url": "/wiki/Prime_minister",
+          "length": 75495
+        },
+        {
+          "name": "Nguyễn Khánh",
+          "url": "/wiki/Nguy%E1%BB%85n_Kh%C3%A1nh",
+          "length": 89569
+        },
+        {
+          "name": "North Vietnam",
+          "url": "/wiki/North_Vietnam",
+          "length": 63962
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "The Knesset passes the controversial Nationality Bill, which defines the State of Israel as the nation-state of the Jewish people.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – The <a href=\"/wiki/Knesset\" title=\"Knesset\">Knesset</a> passes the controversial <a href=\"/wiki/Basic_Law:_Israel_as_the_Nation-State_of_the_Jewish_People\" title=\"Basic Law: Israel as the Nation-State of the Jewish People\">Nationality Bill</a>, which defines the <a href=\"/wiki/State_of_Israel\" class=\"mw-redirect\" title=\"State of Israel\">State of Israel</a> as the <a href=\"/wiki/Nation-state\" class=\"mw-redirect\" title=\"Nation-state\">nation-state</a> of the <a href=\"/wiki/Jewish_people\" class=\"mw-redirect\" title=\"Jewish people\">Jewish people</a>.<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Knesset",
+          "url": "/wiki/Knesset",
+          "length": 63501
+        },
+        {
+          "name": "Basic Law: Israel as the Nation-State of the Jewish People",
+          "url": "/wiki/Basic_Law:_Israel_as_the_Nation-State_of_the_Jewish_People",
+          "length": 48124
+        },
+        {
+          "name": "State of Israel",
+          "url": "/wiki/State_of_Israel",
+          "length": 78
+        },
+        {
+          "name": "Nation-state",
+          "url": "/wiki/Nation-state",
+          "length": 26
+        },
+        {
+          "name": "Jewish people",
+          "url": "/wiki/Jewish_people",
+          "length": 18
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Jon Jones, American mixed martial artist, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Jon_Jones\" title=\"Jon Jones\">Jon Jones</a>, American mixed martial artist</li>",
+      "entities": [
+        {
+          "name": "Jon Jones",
+          "url": "/wiki/Jon_Jones",
+          "length": 228092
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "description": "Ray Reardon, Welsh snooker player and police officer, died.",
+      "html": "<li>2024 – <a href=\"/wiki/Ray_Reardon\" title=\"Ray Reardon\">Ray Reardon</a>, Welsh snooker player and police officer (b. 1932)<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ray Reardon",
+          "url": "/wiki/Ray_Reardon",
+          "length": 104839
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1970",
+      "description": "Nicola Sturgeon, Scottish lawyer and politician, First Minister of Scotland, was born.",
+      "html": "<li>1970   – <a href=\"/wiki/Nicola_Sturgeon\" title=\"Nicola Sturgeon\">Nicola Sturgeon</a>, Scottish lawyer and politician, <a href=\"/wiki/First_Minister_of_Scotland\" title=\"First Minister of Scotland\">First Minister of Scotland</a><sup id=\"cite_ref-31\" class=\"reference\"><a href=\"#cite_note-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Nicola Sturgeon",
+          "url": "/wiki/Nicola_Sturgeon",
+          "length": 256297
+        },
+        {
+          "name": "First Minister of Scotland",
+          "url": "/wiki/First_Minister_of_Scotland",
+          "length": 47905
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Jon Jones, American mixed martial artist, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Jon_Jones\" title=\"Jon Jones\">Jon Jones</a>, American mixed martial artist</li>",
+      "entities": [
+        {
+          "name": "Jon Jones",
+          "url": "/wiki/Jon_Jones",
+          "length": 228092
+        }
+      ]
+    },
+    {
+      "year": "1922",
+      "description": "George McGovern, American lieutenant, historian, and politician, was born.",
+      "html": "<li>\n<a href=\"/wiki/1922\" title=\"1922\">1922</a> – <a href=\"/wiki/George_McGovern\" title=\"George McGovern\">George McGovern</a>, American lieutenant, historian, and politician (d. 2012)</li>",
+      "entities": [
+        {
+          "name": "George McGovern",
+          "url": "/wiki/George_McGovern",
+          "length": 193118
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2024",
+      "description": "Ray Reardon, Welsh snooker player and police officer, died.",
+      "html": "<li>2024 – <a href=\"/wiki/Ray_Reardon\" title=\"Ray Reardon\">Ray Reardon</a>, Welsh snooker player and police officer (b. 1932)<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ray Reardon",
+          "url": "/wiki/Ray_Reardon",
+          "length": 104839
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "description": "Sheila Jackson Lee, American lawyer and politician, died.",
+      "html": "<li>2024 – <a href=\"/wiki/Sheila_Jackson_Lee\" title=\"Sheila Jackson Lee\">Sheila Jackson Lee</a>, American lawyer and politician (b. 1950)<sup id=\"cite_ref-54\" class=\"reference\"><a href=\"#cite_note-54\"><span class=\"cite-bracket\">[</span>54<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sheila Jackson Lee",
+          "url": "/wiki/Sheila_Jackson_Lee",
+          "length": 99440
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "description": "James Garner, American actor, died.",
+      "html": "<li>2014   – <a href=\"/wiki/James_Garner\" title=\"James Garner\">James Garner</a>, American actor (b. 1928)</li>",
+      "entities": [
+        {
+          "name": "James Garner",
+          "url": "/wiki/James_Garner",
+          "length": 95439
+        }
+      ]
+    }
+  ]
+}

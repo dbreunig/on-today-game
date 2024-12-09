@@ -1,0 +1,351 @@
+{
+  "events": [
+    {
+      "year": "1917",
+      "description": "World War I: Arabian troops led by T. E. Lawrence (\"Lawrence of Arabia\") and Auda ibu Tayi capture Aqaba from the Ottoman Empire during the Arab Revolt.",
+      "html": "<li>\n<a href=\"/wiki/1917\" title=\"1917\">1917</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: <a href=\"/wiki/Arab\" class=\"mw-redirect\" title=\"Arab\">Arabian</a> troops led by <a href=\"/wiki/T._E._Lawrence\" title=\"T. E. Lawrence\">T. E. Lawrence</a> (\"Lawrence of Arabia\") and <a href=\"/wiki/Auda_ibu_Tayi\" class=\"mw-redirect\" title=\"Auda ibu Tayi\">Auda ibu Tayi</a> capture <a href=\"/wiki/Battle_of_Aqaba\" title=\"Battle of Aqaba\">Aqaba</a> from the <a href=\"/wiki/Ottoman_Empire\" title=\"Ottoman Empire\">Ottoman Empire</a> during the <a href=\"/wiki/Arab_Revolt\" title=\"Arab Revolt\">Arab Revolt</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Arab",
+          "url": "/wiki/Arab",
+          "length": 109
+        },
+        {
+          "name": "T. E. Lawrence",
+          "url": "/wiki/T._E._Lawrence",
+          "length": 119355
+        },
+        {
+          "name": "Auda ibu Tayi",
+          "url": "/wiki/Auda_ibu_Tayi",
+          "length": 44
+        },
+        {
+          "name": "Battle of Aqaba",
+          "url": "/wiki/Battle_of_Aqaba",
+          "length": 12486
+        },
+        {
+          "name": "Ottoman Empire",
+          "url": "/wiki/Ottoman_Empire",
+          "length": 268337
+        },
+        {
+          "name": "Arab Revolt",
+          "url": "/wiki/Arab_Revolt",
+          "length": 62017
+        }
+      ]
+    },
+    {
+      "year": "1411",
+      "description": "Ming China's Admiral Zheng He returns to Nanjing after the third treasure voyage and presents the Sinhalese king, captured during the Ming–Kotte War, to the Yongle Emperor.",
+      "html": "<li>\n<a href=\"/wiki/1411\" title=\"1411\">1411</a> – <a href=\"/wiki/Ming_dynasty\" title=\"Ming dynasty\">Ming China</a>'s Admiral <a href=\"/wiki/Zheng_He\" title=\"Zheng He\">Zheng He</a> returns to <a href=\"/wiki/Nanjing\" title=\"Nanjing\">Nanjing</a> after the <a href=\"/wiki/Ming_treasure_voyages#Third_voyage\" title=\"Ming treasure voyages\">third treasure voyage</a> and presents the <a href=\"/wiki/Sinhalese_people\" title=\"Sinhalese people\">Sinhalese</a> king, captured during the <a href=\"/wiki/Ming%E2%80%93Kotte_War\" title=\"Ming–Kotte War\">Ming–Kotte War</a>, to the <a href=\"/wiki/Yongle_Emperor\" title=\"Yongle Emperor\">Yongle Emperor</a>.</li>",
+      "entities": [
+        {
+          "name": "Ming dynasty",
+          "url": "/wiki/Ming_dynasty",
+          "length": null
+        },
+        {
+          "name": "Zheng He",
+          "url": "/wiki/Zheng_He",
+          "length": null
+        },
+        {
+          "name": "Nanjing",
+          "url": "/wiki/Nanjing",
+          "length": null
+        },
+        {
+          "name": "Ming treasure voyages",
+          "url": "/wiki/Ming_treasure_voyages#Third_voyage",
+          "length": null
+        },
+        {
+          "name": "Sinhalese people",
+          "url": "/wiki/Sinhalese_people",
+          "length": null
+        },
+        {
+          "name": "Ming–Kotte War",
+          "url": "/wiki/Ming%E2%80%93Kotte_War",
+          "length": null
+        },
+        {
+          "name": "Yongle Emperor",
+          "url": "/wiki/Yongle_Emperor",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1777",
+      "description": "American Revolutionary War: Siege of Fort Ticonderoga: After a bombardment by British artillery under General John Burgoyne, American forces retreat from Fort Ticonderoga, New York.",
+      "html": "<li>\n<a href=\"/wiki/1777\" title=\"1777\">1777</a> – <a href=\"/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: <a href=\"/wiki/Siege_of_Fort_Ticonderoga_(1777)\" title=\"Siege of Fort Ticonderoga (1777)\">Siege of Fort Ticonderoga</a>: After a bombardment by British <a href=\"/wiki/Artillery\" title=\"Artillery\">artillery</a> under General <a href=\"/wiki/John_Burgoyne\" title=\"John Burgoyne\">John Burgoyne</a>, <a href=\"/wiki/United_States\" title=\"United States\">American forces</a> retreat from <a href=\"/wiki/Fort_Ticonderoga\" title=\"Fort Ticonderoga\">Fort Ticonderoga</a>, New York.</li>",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 285512
+        },
+        {
+          "name": "Siege of Fort Ticonderoga (1777)",
+          "url": "/wiki/Siege_of_Fort_Ticonderoga_(1777)",
+          "length": 25175
+        },
+        {
+          "name": "Artillery",
+          "url": "/wiki/Artillery",
+          "length": 127449
+        },
+        {
+          "name": "John Burgoyne",
+          "url": "/wiki/John_Burgoyne",
+          "length": 34945
+        },
+        {
+          "name": "United States",
+          "url": "/wiki/United_States",
+          "length": 336851
+        },
+        {
+          "name": "Fort Ticonderoga",
+          "url": "/wiki/Fort_Ticonderoga",
+          "length": 54828
+        }
+      ]
+    },
+    {
+      "year": "640",
+      "description": "Battle of Heliopolis: The Muslim Arab army under 'Amr ibn al-'As defeat the Byzantine forces near Heliopolis (Egypt).",
+      "html": "<li>\n<a href=\"/wiki/640\" title=\"640\">640</a> – <a href=\"/wiki/Battle_of_Heliopolis\" title=\"Battle of Heliopolis\">Battle of Heliopolis</a>: The Muslim Arab army under <a href=\"/wiki/%27Amr_ibn_al-%27As\" class=\"mw-redirect\" title=\"'Amr ibn al-'As\">'Amr ibn al-'As</a> defeat the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine</a> forces near <a href=\"/wiki/Heliopolis_(Ancient_Egypt)\" class=\"mw-redirect\" title=\"Heliopolis (Ancient Egypt)\">Heliopolis</a> (<a href=\"/wiki/Diocese_of_Egypt_(Late_Antiquity)\" class=\"mw-redirect\" title=\"Diocese of Egypt (Late Antiquity)\">Egypt</a>).</li>",
+      "entities": [
+        {
+          "name": "Battle of Heliopolis",
+          "url": "/wiki/Battle_of_Heliopolis",
+          "length": 14468
+        },
+        {
+          "name": "'Amr ibn al-'As",
+          "url": "/wiki/%27Amr_ibn_al-%27As",
+          "length": 44
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201302
+        },
+        {
+          "name": "Heliopolis (Ancient Egypt)",
+          "url": "/wiki/Heliopolis_(Ancient_Egypt)",
+          "length": 56
+        },
+        {
+          "name": "Diocese of Egypt (Late Antiquity)",
+          "url": "/wiki/Diocese_of_Egypt_(Late_Antiquity)",
+          "length": 46
+        }
+      ]
+    },
+    {
+      "year": "1751",
+      "description": "Pope Benedict XIV suppresses the Patriarchate of Aquileia and establishes from its territory the Archdiocese of Udine and Gorizia.",
+      "html": "<li>\n<a href=\"/wiki/1751\" title=\"1751\">1751</a> – <a href=\"/wiki/Pope_Benedict_XIV\" title=\"Pope Benedict XIV\">Pope Benedict XIV</a> suppresses the <a href=\"/wiki/Patriarchate_of_Aquileia\" title=\"Patriarchate of Aquileia\">Patriarchate of Aquileia</a> and establishes from its territory the Arch<a href=\"/wiki/Diocese\" title=\"Diocese\">diocese</a> of <a href=\"/wiki/Udine\" title=\"Udine\">Udine</a> and <a href=\"/wiki/Gorizia\" title=\"Gorizia\">Gorizia</a>.</li>",
+      "entities": [
+        {
+          "name": "Pope Benedict XIV",
+          "url": "/wiki/Pope_Benedict_XIV",
+          "length": 52382
+        },
+        {
+          "name": "Patriarchate of Aquileia",
+          "url": "/wiki/Patriarchate_of_Aquileia",
+          "length": 19515
+        },
+        {
+          "name": "Diocese",
+          "url": "/wiki/Diocese",
+          "length": 21521
+        },
+        {
+          "name": "Udine",
+          "url": "/wiki/Udine",
+          "length": 30386
+        },
+        {
+          "name": "Gorizia",
+          "url": "/wiki/Gorizia",
+          "length": 42725
+        }
+      ]
+    },
+    {
+      "year": "1557",
+      "description": "King Philip II of Spain, consort of Queen Mary I of England, sets out from Dover to war with France, which eventually resulted in the loss of the city of Calais, the last English possession on the continent, and Mary I never seeing her husband again.",
+      "html": "<li>\n<a href=\"/wiki/1557\" title=\"1557\">1557</a> – <a href=\"/wiki/Philip_II_of_Spain\" title=\"Philip II of Spain\">King Philip II of Spain</a>, consort of <a href=\"/wiki/Mary_I_of_England\" title=\"Mary I of England\">Queen Mary I of England</a>, sets out from <a href=\"/wiki/Dover\" title=\"Dover\">Dover</a> to war with France, which eventually resulted in the loss of the city of <a href=\"/wiki/Calais\" title=\"Calais\">Calais</a>, the last <a href=\"/wiki/Countries_of_the_United_Kingdom\" title=\"Countries of the United Kingdom\">English</a> possession on the continent, and Mary I never seeing her husband again.</li>",
+      "entities": [
+        {
+          "name": "Philip II of Spain",
+          "url": "/wiki/Philip_II_of_Spain",
+          "length": 112133
+        },
+        {
+          "name": "Mary I of England",
+          "url": "/wiki/Mary_I_of_England",
+          "length": 68761
+        },
+        {
+          "name": "Dover",
+          "url": "/wiki/Dover",
+          "length": 52731
+        },
+        {
+          "name": "Calais",
+          "url": "/wiki/Calais",
+          "length": 95374
+        },
+        {
+          "name": "Countries of the United Kingdom",
+          "url": "/wiki/Countries_of_the_United_Kingdom",
+          "length": 42888
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "George W. Bush, American businessman and politician, 43rd President of the United States, was born.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – <a href=\"/wiki/George_W._Bush\" title=\"George W. Bush\">George W. Bush</a>, American businessman and politician, 43rd <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a><sup id=\"cite_ref-40\" class=\"reference\"><a href=\"#cite_note-40\"><span class=\"cite-bracket\">[</span>40<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "George W. Bush",
+          "url": "/wiki/George_W._Bush",
+          "length": 335073
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "description": "Robert McNamara, American businessman and politician, 8th United States Secretary of Defense, died.",
+      "html": "<li>2009   – <a href=\"/wiki/Robert_McNamara\" title=\"Robert McNamara\">Robert McNamara</a>, American businessman and politician, 8th <a href=\"/wiki/United_States_Secretary_of_Defense\" title=\"United States Secretary of Defense\">United States Secretary of Defense</a> (b. 1916)</li>",
+      "entities": [
+        {
+          "name": "Robert McNamara",
+          "url": "/wiki/Robert_McNamara",
+          "length": 174752
+        },
+        {
+          "name": "United States Secretary of Defense",
+          "url": "/wiki/United_States_Secretary_of_Defense",
+          "length": 84573
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1946",
+      "description": "George W. Bush, American businessman and politician, 43rd President of the United States, was born.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – <a href=\"/wiki/George_W._Bush\" title=\"George W. Bush\">George W. Bush</a>, American businessman and politician, 43rd <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a><sup id=\"cite_ref-40\" class=\"reference\"><a href=\"#cite_note-40\"><span class=\"cite-bracket\">[</span>40<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "George W. Bush",
+          "url": "/wiki/George_W._Bush",
+          "length": 335073
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "50 Cent, American rapper and actor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/50_Cent\" title=\"50 Cent\">50 Cent</a>, American rapper and actor<sup id=\"cite_ref-48\" class=\"reference\"><a href=\"#cite_note-48\"><span class=\"cite-bracket\">[</span>48<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "50 Cent",
+          "url": "/wiki/50_Cent",
+          "length": 203940
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "description": "Nursultan Nazarbayev, Kazakh politician, 1st President of Kazakhstan, was born.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/Nursultan_Nazarbayev\" title=\"Nursultan Nazarbayev\">Nursultan Nazarbayev</a>, Kazakh politician, 1st <a href=\"/wiki/President_of_Kazakhstan\" title=\"President of Kazakhstan\">President of Kazakhstan</a>\n</li>",
+      "entities": [
+        {
+          "name": "Nursultan Nazarbayev",
+          "url": "/wiki/Nursultan_Nazarbayev",
+          "length": 201485
+        },
+        {
+          "name": "President of Kazakhstan",
+          "url": "/wiki/President_of_Kazakhstan",
+          "length": 13440
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2009",
+      "description": "Robert McNamara, American businessman and politician, 8th United States Secretary of Defense, died.",
+      "html": "<li>2009   – <a href=\"/wiki/Robert_McNamara\" title=\"Robert McNamara\">Robert McNamara</a>, American businessman and politician, 8th <a href=\"/wiki/United_States_Secretary_of_Defense\" title=\"United States Secretary of Defense\">United States Secretary of Defense</a> (b. 1916)</li>",
+      "entities": [
+        {
+          "name": "Robert McNamara",
+          "url": "/wiki/Robert_McNamara",
+          "length": 174752
+        },
+        {
+          "name": "United States Secretary of Defense",
+          "url": "/wiki/United_States_Secretary_of_Defense",
+          "length": 84573
+        }
+      ]
+    },
+    {
+      "year": "1535",
+      "description": "Thomas More, English lawyer and politician, Chancellor of the Duchy of Lancaster, died.",
+      "html": "<li>\n<a href=\"/wiki/1535\" title=\"1535\">1535</a> – <a href=\"/wiki/Thomas_More\" title=\"Thomas More\">Thomas More</a>, English lawyer and politician, <a href=\"/wiki/Chancellor_of_the_Duchy_of_Lancaster\" title=\"Chancellor of the Duchy of Lancaster\">Chancellor of the Duchy of Lancaster</a> (b. 1478)</li>",
+      "entities": [
+        {
+          "name": "Thomas More",
+          "url": "/wiki/Thomas_More",
+          "length": 152826
+        },
+        {
+          "name": "Chancellor of the Duchy of Lancaster",
+          "url": "/wiki/Chancellor_of_the_Duchy_of_Lancaster",
+          "length": 12090
+        }
+      ]
+    },
+    {
+      "year": "1189",
+      "description": "Henry II, king of England, died.",
+      "html": "<li>\n<a href=\"/wiki/1189\" title=\"1189\">1189</a> – <a href=\"/wiki/Henry_II_of_England\" title=\"Henry II of England\">Henry II</a>, king of England (b. 1133)<sup id=\"cite_ref-64\" class=\"reference\"><a href=\"#cite_note-64\"><span class=\"cite-bracket\">[</span>64<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Henry II of England",
+          "url": "/wiki/Henry_II_of_England",
+          "length": 149351
+        }
+      ]
+    }
+  ]
+}

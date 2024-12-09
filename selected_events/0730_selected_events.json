@@ -1,0 +1,341 @@
+{
+  "events": [
+    {
+      "year": "1971",
+      "description": "Apollo program: On Apollo 15, David Scott and James Irwin in the Apollo Lunar Module Falcon land on the Moon with the first Lunar Rover.",
+      "html": "<li>\n<a href=\"/wiki/1971\" title=\"1971\">1971</a> – <a href=\"/wiki/Apollo_program\" title=\"Apollo program\">Apollo program</a>: On <a href=\"/wiki/Apollo_15\" title=\"Apollo 15\">Apollo 15</a>, <a href=\"/wiki/David_Scott\" title=\"David Scott\">David Scott</a> and <a href=\"/wiki/James_Irwin\" title=\"James Irwin\">James Irwin</a> in the <a href=\"/wiki/Apollo_Lunar_Module\" title=\"Apollo Lunar Module\">Apollo Lunar Module</a> <i>Falcon</i> land on the <a href=\"/wiki/Moon\" title=\"Moon\">Moon</a> with the first <a href=\"/wiki/Lunar_Roving_Vehicle\" title=\"Lunar Roving Vehicle\">Lunar Rover</a>.</li>",
+      "entities": [
+        {
+          "name": "Apollo program",
+          "url": "/wiki/Apollo_program",
+          "length": 155122
+        },
+        {
+          "name": "Apollo 15",
+          "url": "/wiki/Apollo_15",
+          "length": 106296
+        },
+        {
+          "name": "David Scott",
+          "url": "/wiki/David_Scott",
+          "length": 63405
+        },
+        {
+          "name": "James Irwin",
+          "url": "/wiki/James_Irwin",
+          "length": 29355
+        },
+        {
+          "name": "Apollo Lunar Module",
+          "url": "/wiki/Apollo_Lunar_Module",
+          "length": 62978
+        },
+        {
+          "name": "Moon",
+          "url": "/wiki/Moon",
+          "length": 274405
+        },
+        {
+          "name": "Lunar Roving Vehicle",
+          "url": "/wiki/Lunar_Roving_Vehicle",
+          "length": 44029
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "A joint resolution of the U.S. Congress is signed by President Dwight D. Eisenhower, authorizing In God We Trust as the U.S. national motto.",
+      "html": "<li>\n<a href=\"/wiki/1956\" title=\"1956\">1956</a> – A <a href=\"/wiki/Joint_resolution\" title=\"Joint resolution\">joint resolution</a> of the <a href=\"/wiki/United_States_Congress\" title=\"United States Congress\">U.S. Congress</a> is signed by <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President</a> <a href=\"/wiki/Dwight_D._Eisenhower\" title=\"Dwight D. Eisenhower\">Dwight D. Eisenhower</a>, authorizing <i><a href=\"/wiki/In_God_We_Trust\" title=\"In God We Trust\">In God We Trust</a></i> as the U.S. national <a href=\"/wiki/Motto\" title=\"Motto\">motto</a>.</li>",
+      "entities": [
+        {
+          "name": "Joint resolution",
+          "url": "/wiki/Joint_resolution",
+          "length": 3602
+        },
+        {
+          "name": "United States Congress",
+          "url": "/wiki/United_States_Congress",
+          "length": 192932
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "Dwight D. Eisenhower",
+          "url": "/wiki/Dwight_D._Eisenhower",
+          "length": 227478
+        },
+        {
+          "name": "In God We Trust",
+          "url": "/wiki/In_God_We_Trust",
+          "length": 144771
+        },
+        {
+          "name": "Motto",
+          "url": "/wiki/Motto",
+          "length": 13351
+        }
+      ]
+    },
+    {
+      "year": "1645",
+      "description": "English Civil War: Scottish Covenanter forces under the Earl of Leven launch the Siege of Hereford, a remaining Royalist stronghold.",
+      "html": "<li>\n<a href=\"/wiki/1645\" title=\"1645\">1645</a> – <a href=\"/wiki/English_Civil_War\" title=\"English Civil War\">English Civil War</a>: <a href=\"/wiki/Kingdom_of_Scotland\" title=\"Kingdom of Scotland\">Scottish</a> <a href=\"/wiki/Covenanter\" class=\"mw-redirect\" title=\"Covenanter\">Covenanter</a> forces under the <a href=\"/wiki/Alexander_Leslie,_1st_Earl_of_Leven\" title=\"Alexander Leslie, 1st Earl of Leven\">Earl of Leven</a> launch the <a href=\"/wiki/Siege_of_Hereford\" title=\"Siege of Hereford\">Siege of Hereford</a>, a remaining <a href=\"/wiki/Cavalier\" title=\"Cavalier\">Royalist</a> stronghold.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "English Civil War",
+          "url": "/wiki/English_Civil_War",
+          "length": 123645
+        },
+        {
+          "name": "Kingdom of Scotland",
+          "url": "/wiki/Kingdom_of_Scotland",
+          "length": 114588
+        },
+        {
+          "name": "Covenanter",
+          "url": "/wiki/Covenanter",
+          "length": 42
+        },
+        {
+          "name": "Alexander Leslie, 1st Earl of Leven",
+          "url": "/wiki/Alexander_Leslie,_1st_Earl_of_Leven",
+          "length": 24741
+        },
+        {
+          "name": "Siege of Hereford",
+          "url": "/wiki/Siege_of_Hereford",
+          "length": 9207
+        },
+        {
+          "name": "Cavalier",
+          "url": "/wiki/Cavalier",
+          "length": 13358
+        }
+      ]
+    },
+    {
+      "year": "1609",
+      "description": "Beaver Wars: At Ticonderoga (now Crown Point, New York), Samuel de Champlain shoots and kills two Iroquois chiefs on behalf of his native allies.",
+      "html": "<li>\n<a href=\"/wiki/1609\" title=\"1609\">1609</a> – <a href=\"/wiki/Beaver_Wars\" title=\"Beaver Wars\">Beaver Wars</a>: At <a href=\"/wiki/Fort_Ticonderoga\" title=\"Fort Ticonderoga\">Ticonderoga</a> (now <a href=\"/wiki/Crown_Point,_New_York\" title=\"Crown Point, New York\">Crown Point, New York</a>), <a href=\"/wiki/Samuel_de_Champlain\" title=\"Samuel de Champlain\">Samuel de Champlain</a> shoots and kills two <a href=\"/wiki/Iroquois\" title=\"Iroquois\">Iroquois</a> chiefs on behalf of his native allies.</li>",
+      "entities": [
+        {
+          "name": "Beaver Wars",
+          "url": "/wiki/Beaver_Wars",
+          "length": 47014
+        },
+        {
+          "name": "Fort Ticonderoga",
+          "url": "/wiki/Fort_Ticonderoga",
+          "length": 54828
+        },
+        {
+          "name": "Crown Point, New York",
+          "url": "/wiki/Crown_Point,_New_York",
+          "length": 15390
+        },
+        {
+          "name": "Samuel de Champlain",
+          "url": "/wiki/Samuel_de_Champlain",
+          "length": 64831
+        },
+        {
+          "name": "Iroquois",
+          "url": "/wiki/Iroquois",
+          "length": 259004
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "American Civil War: Battle of the Crater: Union forces attempt to break Confederate lines at Petersburg, Virginia by exploding a large bomb under their trenches.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Battle_of_the_Crater\" title=\"Battle of the Crater\">Battle of the Crater</a>: <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> forces attempt to break <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> lines at <a href=\"/wiki/Siege_of_Petersburg\" title=\"Siege of Petersburg\">Petersburg, Virginia</a> by exploding a large bomb under their trenches.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Battle of the Crater",
+          "url": "/wiki/Battle_of_the_Crater",
+          "length": 32577
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Siege of Petersburg",
+          "url": "/wiki/Siege_of_Petersburg",
+          "length": 97986
+        }
+      ]
+    },
+    {
+      "year": "1635",
+      "description": "Eighty Years' War: The Siege of Schenkenschans begins; Frederick Henry, Prince of Orange, begins the recapture of the strategically important fortress from the Spanish Army.",
+      "html": "<li>\n<a href=\"/wiki/1635\" title=\"1635\">1635</a> – <a href=\"/wiki/Eighty_Years%27_War\" title=\"Eighty Years' War\">Eighty Years' War</a>: The <a href=\"/wiki/Siege_of_Schenkenschans\" title=\"Siege of Schenkenschans\">Siege of Schenkenschans</a> begins; <a href=\"/wiki/Frederick_Henry,_Prince_of_Orange\" title=\"Frederick Henry, Prince of Orange\">Frederick Henry, Prince of Orange</a>, begins the recapture of the strategically important fortress from the <a href=\"/wiki/Spanish_Army\" title=\"Spanish Army\">Spanish Army</a>.</li>",
+      "entities": [
+        {
+          "name": "Eighty Years' War",
+          "url": "/wiki/Eighty_Years%27_War",
+          "length": 35259
+        },
+        {
+          "name": "Siege of Schenkenschans",
+          "url": "/wiki/Siege_of_Schenkenschans",
+          "length": 11221
+        },
+        {
+          "name": "Frederick Henry, Prince of Orange",
+          "url": "/wiki/Frederick_Henry,_Prince_of_Orange",
+          "length": 14004
+        },
+        {
+          "name": "Spanish Army",
+          "url": "/wiki/Spanish_Army",
+          "length": 46149
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "Arnold Schwarzenegger, Austrian-American bodybuilder, actor, and politician, 38th Governor of California, was born.",
+      "html": "<li>1947   – <a href=\"/wiki/Arnold_Schwarzenegger\" title=\"Arnold Schwarzenegger\">Arnold Schwarzenegger</a>, Austrian-American bodybuilder, actor, and politician, 38th <a href=\"/wiki/Governor_of_California\" title=\"Governor of California\">Governor of California</a>\n</li>",
+      "entities": [
+        {
+          "name": "Arnold Schwarzenegger",
+          "url": "/wiki/Arnold_Schwarzenegger",
+          "length": 249542
+        },
+        {
+          "name": "Governor of California",
+          "url": "/wiki/Governor_of_California",
+          "length": 17414
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Paul Reubens, American actor and comedian, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Paul_Reubens\" title=\"Paul Reubens\">Paul Reubens</a>, American actor and comedian (b. 1952)<sup id=\"cite_ref-51\" class=\"reference\"><a href=\"#cite_note-51\"><span class=\"cite-bracket\">[</span>51<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Paul Reubens",
+          "url": "/wiki/Paul_Reubens",
+          "length": 99438
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1947",
+      "description": "Arnold Schwarzenegger, Austrian-American bodybuilder, actor, and politician, 38th Governor of California, was born.",
+      "html": "<li>1947   – <a href=\"/wiki/Arnold_Schwarzenegger\" title=\"Arnold Schwarzenegger\">Arnold Schwarzenegger</a>, Austrian-American bodybuilder, actor, and politician, 38th <a href=\"/wiki/Governor_of_California\" title=\"Governor of California\">Governor of California</a>\n</li>",
+      "entities": [
+        {
+          "name": "Arnold Schwarzenegger",
+          "url": "/wiki/Arnold_Schwarzenegger",
+          "length": 249542
+        },
+        {
+          "name": "Governor of California",
+          "url": "/wiki/Governor_of_California",
+          "length": 17414
+        }
+      ]
+    },
+    {
+      "year": "1958",
+      "description": "Kate Bush, English singer-songwriter and producer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1958\" title=\"1958\">1958</a> – <a href=\"/wiki/Kate_Bush\" title=\"Kate Bush\">Kate Bush</a>, English singer-songwriter and producer</li>",
+      "entities": [
+        {
+          "name": "Kate Bush",
+          "url": "/wiki/Kate_Bush",
+          "length": 171267
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Nicky Hayden, American motorcycle racer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Nicky_Hayden\" title=\"Nicky Hayden\">Nicky Hayden</a>, American motorcycle racer (d. 2017)</li>",
+      "entities": [
+        {
+          "name": "Nicky Hayden",
+          "url": "/wiki/Nicky_Hayden",
+          "length": 153140
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1898",
+      "description": "Otto von Bismarck, German lawyer and politician, 1st Chancellor of Germany, died.",
+      "html": "<li>\n<a href=\"/wiki/1898\" title=\"1898\">1898</a> – <a href=\"/wiki/Otto_von_Bismarck\" title=\"Otto von Bismarck\">Otto von Bismarck</a>, German lawyer and politician, 1st <a href=\"/wiki/Chancellor_of_Germany\" title=\"Chancellor of Germany\">Chancellor of Germany</a> (b. 1815)</li>",
+      "entities": [
+        {
+          "name": "Otto von Bismarck",
+          "url": "/wiki/Otto_von_Bismarck",
+          "length": 175812
+        },
+        {
+          "name": "Chancellor of Germany",
+          "url": "/wiki/Chancellor_of_Germany",
+          "length": 56834
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Paul Reubens, American actor and comedian, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Paul_Reubens\" title=\"Paul Reubens\">Paul Reubens</a>, American actor and comedian (b. 1952)<sup id=\"cite_ref-51\" class=\"reference\"><a href=\"#cite_note-51\"><span class=\"cite-bracket\">[</span>51<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Paul Reubens",
+          "url": "/wiki/Paul_Reubens",
+          "length": 99438
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Lee Teng-hui, Taiwanese politician, President, Vice Presidentand mayor of Taipei, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Lee_Teng-hui\" title=\"Lee Teng-hui\">Lee Teng-hui</a>, Taiwanese politician, <a href=\"/wiki/List_of_presidents_of_the_Republic_of_China\" title=\"List of presidents of the Republic of China\">President</a> (1988–2000), <a href=\"/wiki/List_of_vice_presidents_of_the_Republic_of_China\" title=\"List of vice presidents of the Republic of China\">Vice President</a> (1984–1988) and <a href=\"/wiki/Mayor_of_Taipei\" title=\"Mayor of Taipei\">mayor of Taipei</a> (1978–1981) (b. 1923)<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-46\" class=\"reference\"><a href=\"#cite_note-46\"><span class=\"cite-bracket\">[</span>46<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Lee Teng-hui",
+          "url": "/wiki/Lee_Teng-hui",
+          "length": 94669
+        },
+        {
+          "name": "List of presidents of the Republic of China",
+          "url": "/wiki/List_of_presidents_of_the_Republic_of_China",
+          "length": 37669
+        },
+        {
+          "name": "List of vice presidents of the Republic of China",
+          "url": "/wiki/List_of_vice_presidents_of_the_Republic_of_China",
+          "length": 21492
+        },
+        {
+          "name": "Mayor of Taipei",
+          "url": "/wiki/Mayor_of_Taipei",
+          "length": 52287
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "events": [
+    {
+      "year": "1974",
+      "description": "In Nicosia, Cyprus, Greek junta-sponsored nationalists launch a coup d'état, deposing President Makarios and installing Nikos Sampson as Cypriot president.",
+      "html": "<li>\n<a href=\"/wiki/1974\" title=\"1974\">1974</a> – In <a href=\"/wiki/Nicosia\" title=\"Nicosia\">Nicosia</a>, <a href=\"/wiki/Cyprus\" title=\"Cyprus\">Cyprus</a>, <a href=\"/wiki/Greek_military_junta_of_1967%E2%80%9374\" class=\"mw-redirect\" title=\"Greek military junta of 1967–74\">Greek junta</a>-sponsored nationalists launch a <a href=\"/wiki/Coup_d%27%C3%A9tat\" title=\"Coup d'état\">coup d'état</a>, deposing President <a href=\"/wiki/Makarios_III\" title=\"Makarios III\">Makarios</a> and installing <a href=\"/wiki/Nikos_Sampson\" title=\"Nikos Sampson\">Nikos Sampson</a> as <a href=\"/wiki/Cyprus\" title=\"Cyprus\">Cypriot</a> <a href=\"/wiki/President_(government_title)\" title=\"President (government title)\">president</a>.</li>",
+      "entities": [
+        {
+          "name": "Nicosia",
+          "url": "/wiki/Nicosia",
+          "length": 129287
+        },
+        {
+          "name": "Cyprus",
+          "url": "/wiki/Cyprus",
+          "length": 219126
+        },
+        {
+          "name": "Greek military junta of 1967–74",
+          "url": "/wiki/Greek_military_junta_of_1967%E2%80%9374",
+          "length": 42
+        },
+        {
+          "name": "Coup d'état",
+          "url": "/wiki/Coup_d%27%C3%A9tat",
+          "length": 80001
+        },
+        {
+          "name": "Makarios III",
+          "url": "/wiki/Makarios_III",
+          "length": 32220
+        },
+        {
+          "name": "Nikos Sampson",
+          "url": "/wiki/Nikos_Sampson",
+          "length": 19443
+        },
+        {
+          "name": "Cyprus",
+          "url": "/wiki/Cyprus",
+          "length": null
+        },
+        {
+          "name": "President (government title)",
+          "url": "/wiki/President_(government_title)",
+          "length": 51921
+        }
+      ]
+    },
+    {
+      "year": "1799",
+      "description": "The Rosetta Stone is found in the Egyptian village of Rosetta by French Captain Pierre-François Bouchard during Napoleon's Egyptian Campaign.",
+      "html": "<li>\n<a href=\"/wiki/1799\" title=\"1799\">1799</a> – The <a href=\"/wiki/Rosetta_Stone\" title=\"Rosetta Stone\">Rosetta Stone</a> is found in the <a href=\"/wiki/Egypt\" title=\"Egypt\">Egyptian</a> village of <a href=\"/wiki/Rosetta\" title=\"Rosetta\">Rosetta</a> by French <a href=\"/wiki/Captain_(armed_forces)\" title=\"Captain (armed forces)\">Captain</a> <a href=\"/wiki/Pierre-Fran%C3%A7ois_Bouchard\" title=\"Pierre-François Bouchard\">Pierre-François Bouchard</a> during <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon</a>'s <a href=\"/wiki/French_campaign_in_Egypt_and_Syria\" class=\"mw-redirect\" title=\"French campaign in Egypt and Syria\">Egyptian Campaign</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rosetta Stone",
+          "url": "/wiki/Rosetta_Stone",
+          "length": 84098
+        },
+        {
+          "name": "Egypt",
+          "url": "/wiki/Egypt",
+          "length": 242142
+        },
+        {
+          "name": "Rosetta",
+          "url": "/wiki/Rosetta",
+          "length": 17094
+        },
+        {
+          "name": "Captain (armed forces)",
+          "url": "/wiki/Captain_(armed_forces)",
+          "length": 8235
+        },
+        {
+          "name": "Pierre-François Bouchard",
+          "url": "/wiki/Pierre-Fran%C3%A7ois_Bouchard",
+          "length": 10848
+        },
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189164
+        },
+        {
+          "name": "French campaign in Egypt and Syria",
+          "url": "/wiki/French_campaign_in_Egypt_and_Syria",
+          "length": 95
+        }
+      ]
+    },
+    {
+      "year": "1870",
+      "description": "Canadian Confederation: Rupert's Land and the North-Western Territory are transferred to Canada from the Hudson's Bay Company, and the province of Manitoba and the Northwest Territories are established from these vast territories.",
+      "html": "<li>1870   – <a href=\"/wiki/Canadian_Confederation\" title=\"Canadian Confederation\">Canadian Confederation</a>: <a href=\"/wiki/Rupert%27s_Land\" title=\"Rupert's Land\">Rupert's Land</a> and the <a href=\"/wiki/North-Western_Territory\" title=\"North-Western Territory\">North-Western Territory</a> are transferred to Canada from the <a href=\"/wiki/Hudson%27s_Bay_Company\" title=\"Hudson's Bay Company\">Hudson's Bay Company</a>, and the province of <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a> and the <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a> are established from these vast territories.</li>",
+      "entities": [
+        {
+          "name": "Canadian Confederation",
+          "url": "/wiki/Canadian_Confederation",
+          "length": 97017
+        },
+        {
+          "name": "Rupert's Land",
+          "url": "/wiki/Rupert%27s_Land",
+          "length": 29016
+        },
+        {
+          "name": "North-Western Territory",
+          "url": "/wiki/North-Western_Territory",
+          "length": 12551
+        },
+        {
+          "name": "Hudson's Bay Company",
+          "url": "/wiki/Hudson%27s_Bay_Company",
+          "length": 160910
+        },
+        {
+          "name": "Manitoba",
+          "url": "/wiki/Manitoba",
+          "length": 117940
+        },
+        {
+          "name": "Northwest Territories",
+          "url": "/wiki/Northwest_Territories",
+          "length": 81359
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: The CSS Arkansas, the most effective ironclad on the Mississippi River, battles with Union Navy ships commanded by Admiral David Farragut, severely damaging three ships and sustaining heavy damage herself.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/CSS_Arkansas\" title=\"CSS Arkansas\">CSS <i>Arkansas</i></a>, the most effective <a href=\"/wiki/Ironclad_warship\" title=\"Ironclad warship\">ironclad</a> on the <a href=\"/wiki/Mississippi_River\" title=\"Mississippi River\">Mississippi River</a>, battles with <a href=\"/wiki/Union_Navy\" title=\"Union Navy\">Union Navy</a> ships commanded by Admiral <a href=\"/wiki/David_Farragut\" title=\"David Farragut\">David Farragut</a>, severely damaging three ships and sustaining heavy damage herself.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "CSS Arkansas",
+          "url": "/wiki/CSS_Arkansas",
+          "length": 47855
+        },
+        {
+          "name": "Ironclad warship",
+          "url": "/wiki/Ironclad_warship",
+          "length": 81300
+        },
+        {
+          "name": "Mississippi River",
+          "url": "/wiki/Mississippi_River",
+          "length": 145492
+        },
+        {
+          "name": "Union Navy",
+          "url": "/wiki/Union_Navy",
+          "length": 36988
+        },
+        {
+          "name": "David Farragut",
+          "url": "/wiki/David_Farragut",
+          "length": 56097
+        }
+      ]
+    },
+    {
+      "year": "1838",
+      "description": "Ralph Waldo Emerson delivers the Divinity School Address at Harvard Divinity School, discounting Biblical miracles and declaring Jesus a great man, but not God. The Protestant community reacts with outrage.",
+      "html": "<li>\n<a href=\"/wiki/1838\" title=\"1838\">1838</a> – <a href=\"/wiki/Ralph_Waldo_Emerson\" title=\"Ralph Waldo Emerson\">Ralph Waldo Emerson</a> delivers the <a href=\"/wiki/Divinity_School_Address\" title=\"Divinity School Address\">Divinity School Address</a> at <a href=\"/wiki/Harvard_Divinity_School\" title=\"Harvard Divinity School\">Harvard Divinity School</a>, discounting <a href=\"/wiki/Biblical_miracles\" class=\"mw-redirect\" title=\"Biblical miracles\">Biblical miracles</a> and declaring <a href=\"/wiki/Jesus\" title=\"Jesus\">Jesus</a> a great man, but not God. The <a href=\"/wiki/Protestantism_in_the_United_States\" title=\"Protestantism in the United States\">Protestant</a> community reacts with outrage.</li>",
+      "entities": [
+        {
+          "name": "Ralph Waldo Emerson",
+          "url": "/wiki/Ralph_Waldo_Emerson",
+          "length": 88406
+        },
+        {
+          "name": "Divinity School Address",
+          "url": "/wiki/Divinity_School_Address",
+          "length": 6275
+        },
+        {
+          "name": "Harvard Divinity School",
+          "url": "/wiki/Harvard_Divinity_School",
+          "length": 54162
+        },
+        {
+          "name": "Biblical miracles",
+          "url": "/wiki/Biblical_miracles",
+          "length": 56
+        },
+        {
+          "name": "Jesus",
+          "url": "/wiki/Jesus",
+          "length": 258395
+        },
+        {
+          "name": "Protestantism in the United States",
+          "url": "/wiki/Protestantism_in_the_United_States",
+          "length": 57969
+        }
+      ]
+    },
+    {
+      "year": "1806",
+      "description": "Pike Expedition: United States Army Lieutenant Zebulon Pike begins an expedition from Fort Bellefontaine near St. Louis, Missouri,  to explore the west.",
+      "html": "<li>\n<a href=\"/wiki/1806\" title=\"1806\">1806</a> – <a href=\"/wiki/Pike_Expedition\" title=\"Pike Expedition\">Pike Expedition</a>: <a href=\"/wiki/United_States_Army\" title=\"United States Army\">United States Army</a> <a href=\"/wiki/Lieutenant\" title=\"Lieutenant\">Lieutenant</a> <a href=\"/wiki/Zebulon_Pike\" title=\"Zebulon Pike\">Zebulon Pike</a> begins an expedition from <a href=\"/wiki/Fort_Bellefontaine\" class=\"mw-redirect\" title=\"Fort Bellefontaine\">Fort Bellefontaine</a> near <a href=\"/wiki/St._Louis,_Missouri\" class=\"mw-redirect\" title=\"St. Louis, Missouri\">St. Louis, Missouri</a>,  to explore the west.</li>",
+      "entities": [
+        {
+          "name": "Pike Expedition",
+          "url": "/wiki/Pike_Expedition",
+          "length": 12629
+        },
+        {
+          "name": "United States Army",
+          "url": "/wiki/United_States_Army",
+          "length": 174349
+        },
+        {
+          "name": "Lieutenant",
+          "url": "/wiki/Lieutenant",
+          "length": 62881
+        },
+        {
+          "name": "Zebulon Pike",
+          "url": "/wiki/Zebulon_Pike",
+          "length": 29199
+        },
+        {
+          "name": "Fort Bellefontaine",
+          "url": "/wiki/Fort_Bellefontaine",
+          "length": 50
+        },
+        {
+          "name": "St. Louis, Missouri",
+          "url": "/wiki/St._Louis,_Missouri",
+          "length": 79
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "Linda Ronstadt, American singer-songwriter, producer, and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – <a href=\"/wiki/Linda_Ronstadt\" title=\"Linda Ronstadt\">Linda Ronstadt</a>, American singer-songwriter, producer, and actress</li>",
+      "entities": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "/wiki/Linda_Ronstadt",
+          "length": 192073
+        }
+      ]
+    },
+    {
+      "year": "1904",
+      "description": "Anton Chekhov, Russian playwright and short story writer, died.",
+      "html": "<li>\n<a href=\"/wiki/1904\" title=\"1904\">1904</a> – <a href=\"/wiki/Anton_Chekhov\" title=\"Anton Chekhov\">Anton Chekhov</a>, Russian playwright and short story writer (b. <a href=\"/wiki/1860\" title=\"1860\">1860</a>)<sup id=\"cite_ref-49\" class=\"reference\"><a href=\"#cite_note-49\"><span class=\"cite-bracket\">[</span>49<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Anton Chekhov",
+          "url": "/wiki/Anton_Chekhov",
+          "length": 73220
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1946",
+      "description": "Linda Ronstadt, American singer-songwriter, producer, and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – <a href=\"/wiki/Linda_Ronstadt\" title=\"Linda Ronstadt\">Linda Ronstadt</a>, American singer-songwriter, producer, and actress</li>",
+      "entities": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "/wiki/Linda_Ronstadt",
+          "length": 192073
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Jesse Ventura, American wrestler, actor, and politician, 38th Governor of Minnesota, was born.",
+      "html": "<li>1951   – <a href=\"/wiki/Jesse_Ventura\" title=\"Jesse Ventura\">Jesse Ventura</a>, American wrestler, actor, and politician, 38th <a href=\"/wiki/Governor_of_Minnesota\" title=\"Governor of Minnesota\">Governor of Minnesota</a>\n</li>",
+      "entities": [
+        {
+          "name": "Jesse Ventura",
+          "url": "/wiki/Jesse_Ventura",
+          "length": 157674
+        },
+        {
+          "name": "Governor of Minnesota",
+          "url": "/wiki/Governor_of_Minnesota",
+          "length": 16112
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Damian Lillard, American basketball player, was born.",
+      "html": "<li>1990   – <a href=\"/wiki/Damian_Lillard\" title=\"Damian Lillard\">Damian Lillard</a>, American basketball player<sup id=\"cite_ref-36\" class=\"reference\"><a href=\"#cite_note-36\"><span class=\"cite-bracket\">[</span>36<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Damian Lillard",
+          "url": "/wiki/Damian_Lillard",
+          "length": 147042
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1948",
+      "description": "John J. Pershing, American general, died.",
+      "html": "<li>\n<a href=\"/wiki/1948\" title=\"1948\">1948</a> – <a href=\"/wiki/John_J._Pershing\" title=\"John J. Pershing\">John J. Pershing</a>, American general (b. 1860)</li>",
+      "entities": [
+        {
+          "name": "John J. Pershing",
+          "url": "/wiki/John_J._Pershing",
+          "length": 138322
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "description": "John Edward Brownlee, Canadian lawyer and politician, 5th Premier of Alberta, died.",
+      "html": "<li>\n<a href=\"/wiki/1961\" title=\"1961\">1961</a> – <a href=\"/wiki/John_Edward_Brownlee\" title=\"John Edward Brownlee\">John Edward Brownlee</a>, Canadian lawyer and politician, 5th <a href=\"/wiki/Premier_of_Alberta\" title=\"Premier of Alberta\">Premier of Alberta</a> (b. 1884)</li>",
+      "entities": [
+        {
+          "name": "John Edward Brownlee",
+          "url": "/wiki/John_Edward_Brownlee",
+          "length": 73902
+        },
+        {
+          "name": "Premier of Alberta",
+          "url": "/wiki/Premier_of_Alberta",
+          "length": 5164
+        }
+      ]
+    },
+    {
+      "year": "1904",
+      "description": "Anton Chekhov, Russian playwright and short story writer, died.",
+      "html": "<li>\n<a href=\"/wiki/1904\" title=\"1904\">1904</a> – <a href=\"/wiki/Anton_Chekhov\" title=\"Anton Chekhov\">Anton Chekhov</a>, Russian playwright and short story writer (b. <a href=\"/wiki/1860\" title=\"1860\">1860</a>)<sup id=\"cite_ref-49\" class=\"reference\"><a href=\"#cite_note-49\"><span class=\"cite-bracket\">[</span>49<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Anton Chekhov",
+          "url": "/wiki/Anton_Chekhov",
+          "length": 73220
+        }
+      ]
+    }
+  ]
+}

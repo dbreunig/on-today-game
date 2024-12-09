@@ -1,0 +1,321 @@
+{
+  "events": [
+    {
+      "year": "1918",
+      "description": "Russia signs the Treaty of Brest-Litovsk, agreeing to withdraw from World War I, and conceding German control of the Baltic States, Belarus and Ukraine. It also conceded Turkish control of Ardahan, Kars and Batumi.",
+      "html": "<li>\n<a href=\"/wiki/1918\" title=\"1918\">1918</a> – <a href=\"/wiki/Russian_Soviet_Federative_Socialist_Republic\" title=\"Russian Soviet Federative Socialist Republic\">Russia</a> signs the <a href=\"/wiki/Treaty_of_Brest-Litovsk_(Russia%E2%80%93Central_Powers)\" class=\"mw-redirect\" title=\"Treaty of Brest-Litovsk (Russia–Central Powers)\">Treaty of Brest-Litovsk</a>, agreeing to withdraw from <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>, and conceding German control of the <a href=\"/wiki/Baltic_States\" class=\"mw-redirect\" title=\"Baltic States\">Baltic States</a>, <a href=\"/wiki/Belarus\" title=\"Belarus\">Belarus</a> and <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a>. It also conceded Turkish control of <a href=\"/wiki/Ardahan\" title=\"Ardahan\">Ardahan</a>, <a href=\"/wiki/Kars\" title=\"Kars\">Kars</a> and <a href=\"/wiki/Batumi\" title=\"Batumi\">Batumi</a>.</li>",
+      "entities": [
+        {
+          "name": "Russian Soviet Federative Socialist Republic",
+          "url": "/wiki/Russian_Soviet_Federative_Socialist_Republic",
+          "length": 70855
+        },
+        {
+          "name": "Treaty of Brest-Litovsk (Russia–Central Powers)",
+          "url": "/wiki/Treaty_of_Brest-Litovsk_(Russia%E2%80%93Central_Powers)",
+          "length": 109
+        },
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Baltic States",
+          "url": "/wiki/Baltic_States",
+          "length": 59
+        },
+        {
+          "name": "Belarus",
+          "url": "/wiki/Belarus",
+          "length": 183552
+        },
+        {
+          "name": "Ukraine",
+          "url": "/wiki/Ukraine",
+          "length": 254782
+        },
+        {
+          "name": "Ardahan",
+          "url": "/wiki/Ardahan",
+          "length": 18835
+        },
+        {
+          "name": "Kars",
+          "url": "/wiki/Kars",
+          "length": 49436
+        },
+        {
+          "name": "Batumi",
+          "url": "/wiki/Batumi",
+          "length": 42947
+        }
+      ]
+    },
+    {
+      "year": "1924",
+      "description": "The Ottoman Caliphate is abolished, when the Caliph Abdülmecid II of the Ottoman dynasty is deposed. The last remnant of the old monarchy gives way to the reformed Turkey of Kemal Atatürk.",
+      "html": "<li>\n<a href=\"/wiki/1924\" title=\"1924\">1924</a> – The <a href=\"/wiki/Ottoman_Caliphate\" title=\"Ottoman Caliphate\">Ottoman Caliphate</a> is abolished, when the <a href=\"/wiki/List_of_caliphs#Ottoman_Caliphate_(1517%E2%80%931924)\" title=\"List of caliphs\">Caliph</a> <a href=\"/wiki/Abd%C3%BClmecid_II\" title=\"Abdülmecid II\">Abdülmecid II</a> of the <a href=\"/wiki/Ottoman_dynasty\" title=\"Ottoman dynasty\">Ottoman dynasty</a> is deposed. The last remnant of the old monarchy gives way to the reformed <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a> of <a href=\"/wiki/Mustafa_Kemal_Atat%C3%BCrk\" title=\"Mustafa Kemal Atatürk\">Kemal Atatürk</a>.</li>",
+      "entities": [
+        {
+          "name": "Ottoman Caliphate",
+          "url": "/wiki/Ottoman_Caliphate",
+          "length": null
+        },
+        {
+          "name": "List of caliphs",
+          "url": "/wiki/List_of_caliphs#Ottoman_Caliphate_(1517–1924)",
+          "length": null
+        },
+        {
+          "name": "Abdülmecid II",
+          "url": "/wiki/Abd%C3%BClmecid_II",
+          "length": null
+        },
+        {
+          "name": "Ottoman dynasty",
+          "url": "/wiki/Ottoman_dynasty",
+          "length": null
+        },
+        {
+          "name": "Turkey",
+          "url": "/wiki/Turkey",
+          "length": null
+        },
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "url": "/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1575",
+      "description": "Mughal Emperor Akbar defeats Sultan of Bengal Daud Khan Karrani's army at the Battle of Tukaroi.",
+      "html": "<li>\n<a href=\"/wiki/1575\" title=\"1575\">1575</a> – <a href=\"/wiki/Mughal_Empire\" title=\"Mughal Empire\">Mughal</a> Emperor <a href=\"/wiki/Akbar\" title=\"Akbar\">Akbar</a> defeats <a href=\"/wiki/Bengal_Sultanate\" title=\"Bengal Sultanate\">Sultan of Bengal</a> <a href=\"/wiki/Daud_Khan_Karrani\" title=\"Daud Khan Karrani\">Daud Khan Karrani</a>'s army at the <a href=\"/wiki/Battle_of_Tukaroi\" title=\"Battle of Tukaroi\">Battle of Tukaroi</a>.</li>",
+      "entities": [
+        {
+          "name": "Mughal Empire",
+          "url": "/wiki/Mughal_Empire",
+          "length": 152023
+        },
+        {
+          "name": "Akbar",
+          "url": "/wiki/Akbar",
+          "length": 153397
+        },
+        {
+          "name": "Bengal Sultanate",
+          "url": "/wiki/Bengal_Sultanate",
+          "length": 116741
+        },
+        {
+          "name": "Daud Khan Karrani",
+          "url": "/wiki/Daud_Khan_Karrani",
+          "length": 5600
+        },
+        {
+          "name": "Battle of Tukaroi",
+          "url": "/wiki/Battle_of_Tukaroi",
+          "length": 17099
+        }
+      ]
+    },
+    {
+      "year": "1878",
+      "description": "The Russo-Turkish War ends with Bulgaria regaining its independence from the Ottoman Empire according to the Treaty of San Stefano.",
+      "html": "<li>\n<a href=\"/wiki/1878\" title=\"1878\">1878</a> – The <a href=\"/wiki/Russo-Turkish_War_(1877%E2%80%9378)\" class=\"mw-redirect\" title=\"Russo-Turkish War (1877–78)\">Russo-Turkish War</a> ends with <a href=\"/wiki/Bulgaria\" title=\"Bulgaria\">Bulgaria</a> <a href=\"/wiki/Liberation_of_Bulgaria\" title=\"Liberation of Bulgaria\">regaining its independence</a> from the <a href=\"/wiki/Ottoman_Empire\" title=\"Ottoman Empire\">Ottoman Empire</a> according to the <a href=\"/wiki/Treaty_of_San_Stefano\" title=\"Treaty of San Stefano\">Treaty of San Stefano</a>.</li>",
+      "entities": [
+        {
+          "name": "Russo-Turkish War (1877–78)",
+          "url": "/wiki/Russo-Turkish_War_(1877%E2%80%9378)",
+          "length": 62
+        },
+        {
+          "name": "Bulgaria",
+          "url": "/wiki/Bulgaria",
+          "length": 250439
+        },
+        {
+          "name": "Liberation of Bulgaria",
+          "url": "/wiki/Liberation_of_Bulgaria",
+          "length": 3812
+        },
+        {
+          "name": "Ottoman Empire",
+          "url": "/wiki/Ottoman_Empire",
+          "length": 268337
+        },
+        {
+          "name": "Treaty of San Stefano",
+          "url": "/wiki/Treaty_of_San_Stefano",
+          "length": 34471
+        }
+      ]
+    },
+    {
+      "year": "1776",
+      "description": "American Revolutionary War: The first amphibious landing of the United States Marine Corps begins the Battle of Nassau.",
+      "html": "<li>\n<a href=\"/wiki/1776\" title=\"1776\">1776</a> – <a href=\"/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: The first <a href=\"/wiki/Amphibious_landing\" class=\"mw-redirect\" title=\"Amphibious landing\">amphibious landing</a> of the <a href=\"/wiki/United_States_Marine_Corps\" title=\"United States Marine Corps\">United States Marine Corps</a> begins the <a href=\"/wiki/Battle_of_Nassau\" class=\"mw-redirect\" title=\"Battle of Nassau\">Battle of Nassau</a>.</li>",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 285512
+        },
+        {
+          "name": "Amphibious landing",
+          "url": "/wiki/Amphibious_landing",
+          "length": 32
+        },
+        {
+          "name": "United States Marine Corps",
+          "url": "/wiki/United_States_Marine_Corps",
+          "length": 185829
+        },
+        {
+          "name": "Battle of Nassau",
+          "url": "/wiki/Battle_of_Nassau",
+          "length": 45
+        }
+      ]
+    },
+    {
+      "year": "473",
+      "description": "Gundobad (nephew of Ricimer) nominates Glycerius as emperor of the Western Roman Empire.",
+      "html": "<li>\n<a href=\"/wiki/473\" title=\"473\">473</a> – <a href=\"/wiki/Gundobad\" title=\"Gundobad\">Gundobad</a> (nephew of <a href=\"/wiki/Ricimer\" title=\"Ricimer\">Ricimer</a>) nominates <a href=\"/wiki/Glycerius\" title=\"Glycerius\">Glycerius</a> as emperor of the <a href=\"/wiki/Western_Roman_Empire\" title=\"Western Roman Empire\">Western Roman Empire</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Gundobad",
+          "url": "/wiki/Gundobad",
+          "length": 12000
+        },
+        {
+          "name": "Ricimer",
+          "url": "/wiki/Ricimer",
+          "length": 38338
+        },
+        {
+          "name": "Glycerius",
+          "url": "/wiki/Glycerius",
+          "length": 18353
+        },
+        {
+          "name": "Western Roman Empire",
+          "url": "/wiki/Western_Roman_Empire",
+          "length": 144763
+        }
+      ]
+    },
+    {
+      "year": "1847",
+      "description": "Alexander Graham Bell, Scottish-American engineer and academic, invented the telephone, was born.",
+      "html": "<li>\n<a href=\"/wiki/1847\" title=\"1847\">1847</a> – <a href=\"/wiki/Alexander_Graham_Bell\" title=\"Alexander Graham Bell\">Alexander Graham Bell</a>, Scottish-American engineer and academic, invented the <a href=\"/wiki/Telephone\" title=\"Telephone\">telephone</a> (d. 1922)</li>",
+      "entities": [
+        {
+          "name": "Alexander Graham Bell",
+          "url": "/wiki/Alexander_Graham_Bell",
+          "length": 145674
+        },
+        {
+          "name": "Telephone",
+          "url": "/wiki/Telephone",
+          "length": 53347
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Hergé, Belgian author and illustrator, died.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Herg%C3%A9\" title=\"Hergé\">Hergé</a>, Belgian author and illustrator (b. 1907)</li>",
+      "entities": [
+        {
+          "name": "Hergé",
+          "url": "/wiki/Herg%C3%A9",
+          "length": 98242
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1847",
+      "description": "Alexander Graham Bell, Scottish-American engineer and academic, invented the telephone, was born.",
+      "html": "<li>\n<a href=\"/wiki/1847\" title=\"1847\">1847</a> – <a href=\"/wiki/Alexander_Graham_Bell\" title=\"Alexander Graham Bell\">Alexander Graham Bell</a>, Scottish-American engineer and academic, invented the <a href=\"/wiki/Telephone\" title=\"Telephone\">telephone</a> (d. 1922)</li>",
+      "entities": [
+        {
+          "name": "Alexander Graham Bell",
+          "url": "/wiki/Alexander_Graham_Bell",
+          "length": 145674
+        },
+        {
+          "name": "Telephone",
+          "url": "/wiki/Telephone",
+          "length": 53347
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "description": "Camila Cabello, Cuban-American singer-songwriter and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1997\" title=\"1997\">1997</a> – <a href=\"/wiki/Camila_Cabello\" title=\"Camila Cabello\">Camila Cabello</a>, Cuban-American singer-songwriter and actress<sup id=\"cite_ref-AP_31-19\" class=\"reference\"><a href=\"#cite_note-AP-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Camila Cabello",
+          "url": "/wiki/Camila_Cabello",
+          "length": 143441
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Shraddha Kapoor, Indian actress, singer, and designer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1987\" title=\"1987\">1987</a> – <a href=\"/wiki/Shraddha_Kapoor\" title=\"Shraddha Kapoor\">Shraddha Kapoor</a>, Indian actress, singer, and designer</li>",
+      "entities": [
+        {
+          "name": "Shraddha Kapoor",
+          "url": "/wiki/Shraddha_Kapoor",
+          "length": 129822
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1983",
+      "description": "Hergé, Belgian author and illustrator, died.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Herg%C3%A9\" title=\"Hergé\">Hergé</a>, Belgian author and illustrator (b. 1907)</li>",
+      "entities": [
+        {
+          "name": "Hergé",
+          "url": "/wiki/Herg%C3%A9",
+          "length": 98242
+        }
+      ]
+    },
+    {
+      "year": "1703",
+      "description": "Robert Hooke, English architect and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1703\" title=\"1703\">1703</a> – <a href=\"/wiki/Robert_Hooke\" title=\"Robert Hooke\">Robert Hooke</a>, English architect and philosopher (b. 1635)</li>",
+      "entities": [
+        {
+          "name": "Robert Hooke",
+          "url": "/wiki/Robert_Hooke",
+          "length": 92737
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "description": "Hayabusa, Japanese wrestler, died.",
+      "html": "<li>\n<a href=\"/wiki/2016\" title=\"2016\">2016</a> – <a href=\"/wiki/Hayabusa_(wrestler)\" title=\"Hayabusa (wrestler)\">Hayabusa</a>, Japanese wrestler (b. 1968)</li>",
+      "entities": [
+        {
+          "name": "Hayabusa (wrestler)",
+          "url": "/wiki/Hayabusa_(wrestler)",
+          "length": 82603
+        }
+      ]
+    }
+  ]
+}

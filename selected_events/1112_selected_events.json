@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": "1940",
+      "description": "World War II: The Battle of Gabon ends as Free French Forces take Libreville, Gabon, and all of French Equatorial Africa from Vichy French forces.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The <a href=\"/wiki/Battle_of_Gabon\" title=\"Battle of Gabon\">Battle of Gabon</a> ends as <a href=\"/wiki/Free_French_Forces\" class=\"mw-redirect\" title=\"Free French Forces\">Free French Forces</a> take <a href=\"/wiki/Libreville\" title=\"Libreville\">Libreville</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a>, and all of <a href=\"/wiki/French_Equatorial_Africa\" title=\"French Equatorial Africa\">French Equatorial Africa</a> from <a href=\"/wiki/Vichy_France\" title=\"Vichy France\">Vichy French</a> forces.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 254994
+        },
+        {
+          "name": "Battle of Gabon",
+          "url": "/wiki/Battle_of_Gabon",
+          "length": 16994
+        },
+        {
+          "name": "Free French Forces",
+          "url": "/wiki/Free_French_Forces",
+          "length": 78
+        },
+        {
+          "name": "Libreville",
+          "url": "/wiki/Libreville",
+          "length": 18761
+        },
+        {
+          "name": "Gabon",
+          "url": "/wiki/Gabon",
+          "length": 83153
+        },
+        {
+          "name": "French Equatorial Africa",
+          "url": "/wiki/French_Equatorial_Africa",
+          "length": 23241
+        },
+        {
+          "name": "Vichy France",
+          "url": "/wiki/Vichy_France",
+          "length": 205263
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "In the midst of the Suez Crisis, Palestinian refugees are shot dead in Rafah by Israel Defense Force soldiers following the invasion of the Gaza Strip.",
+      "html": "<li>1956   – In the midst of the <a href=\"/wiki/Suez_Crisis\" title=\"Suez Crisis\">Suez Crisis</a>, <a href=\"/wiki/Palestinian_refugees\" title=\"Palestinian refugees\">Palestinian refugees</a> are <a href=\"/wiki/1956_Rafah_massacre\" title=\"1956 Rafah massacre\">shot dead in Rafah</a> by <a href=\"/wiki/Israel_Defense_Forces\" title=\"Israel Defense Forces\">Israel Defense Force</a> soldiers following the invasion of the <a href=\"/wiki/Gaza_Strip\" title=\"Gaza Strip\">Gaza Strip</a>.</li>",
+      "entities": [
+        {
+          "name": "Suez Crisis",
+          "url": "/wiki/Suez_Crisis",
+          "length": 197611
+        },
+        {
+          "name": "Palestinian refugees",
+          "url": "/wiki/Palestinian_refugees",
+          "length": 73308
+        },
+        {
+          "name": "1956 Rafah massacre",
+          "url": "/wiki/1956_Rafah_massacre",
+          "length": 17861
+        },
+        {
+          "name": "Israel Defense Forces",
+          "url": "/wiki/Israel_Defense_Forces",
+          "length": 178677
+        },
+        {
+          "name": "Gaza Strip",
+          "url": "/wiki/Gaza_Strip",
+          "length": 279988
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "description": "USSR: Yuri Andropov becomes the General Secretary of the Communist Party's Central Committee, succeeding Leonid I. Brezhnev.",
+      "html": "<li>\n<a href=\"/wiki/1982\" title=\"1982\">1982</a> – <a href=\"/wiki/USSR\" class=\"mw-redirect\" title=\"USSR\">USSR</a>: <a href=\"/wiki/Yuri_Andropov\" title=\"Yuri Andropov\">Yuri Andropov</a> becomes the <a href=\"/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union\" title=\"General Secretary of the Communist Party of the Soviet Union\">General Secretary</a> of the <a href=\"/wiki/Central_Committee_of_the_Communist_Party_of_the_Soviet_Union\" title=\"Central Committee of the Communist Party of the Soviet Union\">Communist Party's Central Committee</a>, succeeding <a href=\"/wiki/Leonid_I._Brezhnev\" class=\"mw-redirect\" title=\"Leonid I. Brezhnev\">Leonid I. Brezhnev</a>.</li>",
+      "entities": [
+        {
+          "name": "USSR",
+          "url": "/wiki/USSR",
+          "length": 126
+        },
+        {
+          "name": "Yuri Andropov",
+          "url": "/wiki/Yuri_Andropov",
+          "length": 86171
+        },
+        {
+          "name": "General Secretary of the Communist Party of the Soviet Union",
+          "url": "/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union",
+          "length": 33512
+        },
+        {
+          "name": "Central Committee of the Communist Party of the Soviet Union",
+          "url": "/wiki/Central_Committee_of_the_Communist_Party_of_the_Soviet_Union",
+          "length": 115129
+        },
+        {
+          "name": "Leonid I. Brezhnev",
+          "url": "/wiki/Leonid_I._Brezhnev",
+          "length": 29
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Space Shuttle Atlantis launches on STS-74 to deliver the Mir Docking Module to the Russian space station Mir.",
+      "html": "<li>1995   – <a href=\"/wiki/Space_Shuttle_Atlantis\" title=\"Space Shuttle Atlantis\">Space Shuttle <i>Atlantis</i></a> launches on <a href=\"/wiki/STS-74\" title=\"STS-74\">STS-74</a> to deliver the <a href=\"/wiki/Mir_Docking_Module\" title=\"Mir Docking Module\"><i>Mir</i> Docking Module</a> to the Russian space station <i><a href=\"/wiki/Mir\" title=\"Mir\">Mir</a></i>.<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Space Shuttle Atlantis",
+          "url": "/wiki/Space_Shuttle_Atlantis",
+          "length": 60141
+        },
+        {
+          "name": "STS-74",
+          "url": "/wiki/STS-74",
+          "length": 21320
+        },
+        {
+          "name": "Mir Docking Module",
+          "url": "/wiki/Mir_Docking_Module",
+          "length": 13712
+        },
+        {
+          "name": "Mir",
+          "url": "/wiki/Mir",
+          "length": 127876
+        }
+      ]
+    },
+    {
+      "year": "1927",
+      "description": "Leon Trotsky is expelled from the Soviet Communist Party, leaving Joseph Stalin in undisputed control of the Soviet Union.",
+      "html": "<li>\n<a href=\"/wiki/1927\" title=\"1927\">1927</a> – <a href=\"/wiki/Leon_Trotsky\" title=\"Leon Trotsky\">Leon Trotsky</a> is expelled from the <a href=\"/wiki/Soviet_Communist_Party\" class=\"mw-redirect\" title=\"Soviet Communist Party\">Soviet Communist Party</a>, leaving <a href=\"/wiki/Joseph_Stalin\" title=\"Joseph Stalin\">Joseph Stalin</a> in undisputed control of the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a>.</li>",
+      "entities": [
+        {
+          "name": "Leon Trotsky",
+          "url": "/wiki/Leon_Trotsky",
+          "length": 322358
+        },
+        {
+          "name": "Soviet Communist Party",
+          "url": "/wiki/Soviet_Communist_Party",
+          "length": 49
+        },
+        {
+          "name": "Joseph Stalin",
+          "url": "/wiki/Joseph_Stalin",
+          "length": 208679
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        }
+      ]
+    },
+    {
+      "year": "2001",
+      "description": "War in Afghanistan: Taliban forces abandon Kabul, ahead of advancing Afghan Northern Alliance troops.",
+      "html": "<li>2001   – <a href=\"/wiki/War_in_Afghanistan_(2001%E2%80%932021)#Fall_of_Kabul\" title=\"War in Afghanistan (2001–2021)\">War in Afghanistan</a>: <a href=\"/wiki/Taliban\" title=\"Taliban\">Taliban</a> forces abandon <a href=\"/wiki/Kabul\" title=\"Kabul\">Kabul</a>, ahead of advancing <a href=\"/wiki/Afghan_Northern_Alliance\" class=\"mw-redirect\" title=\"Afghan Northern Alliance\">Afghan Northern Alliance</a> troops.</li>",
+      "entities": [
+        {
+          "name": "War in Afghanistan (2001–2021)",
+          "url": "/wiki/War_in_Afghanistan_(2001%E2%80%932021)#Fall_of_Kabul",
+          "length": null
+        },
+        {
+          "name": "Taliban",
+          "url": "/wiki/Taliban",
+          "length": null
+        },
+        {
+          "name": "Kabul",
+          "url": "/wiki/Kabul",
+          "length": null
+        },
+        {
+          "name": "Afghan Northern Alliance",
+          "url": "/wiki/Afghan_Northern_Alliance",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1934",
+      "description": "Charles Manson, American cult leader, was born.",
+      "html": "<li>\n<a href=\"/wiki/1934\" title=\"1934\">1934</a> – <a href=\"/wiki/Charles_Manson\" title=\"Charles Manson\">Charles Manson</a>, American cult leader (d. 2017)<sup id=\"cite_ref-UPI_28-1\" class=\"reference\"><a href=\"#cite_note-UPI-28\"><span class=\"cite-bracket\">[</span>28<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Charles Manson",
+          "url": "/wiki/Charles_Manson",
+          "length": 166382
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "Stan Lee, American comic book writer, editor, and publisher, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Stan_Lee\" title=\"Stan Lee\">Stan Lee</a>, American comic book writer, editor, and publisher (b. 1922)<sup id=\"cite_ref-NYT-20181112_69-0\" class=\"reference\"><a href=\"#cite_note-NYT-20181112-69\"><span class=\"cite-bracket\">[</span>69<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Stan Lee",
+          "url": "/wiki/Stan_Lee",
+          "length": 139729
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1982",
+      "description": "Anne Hathaway, American actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1982\" title=\"1982\">1982</a> – <a href=\"/wiki/Anne_Hathaway\" title=\"Anne Hathaway\">Anne Hathaway</a>, American actress<sup id=\"cite_ref-42\" class=\"reference\"><a href=\"#cite_note-42\"><span class=\"cite-bracket\">[</span>42<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Anne Hathaway",
+          "url": "/wiki/Anne_Hathaway",
+          "length": 178752
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "Neil Young, Canadian singer-songwriter, guitarist, and producer, was born.",
+      "html": "<li>1945   – <a href=\"/wiki/Neil_Young\" title=\"Neil Young\">Neil Young</a>, Canadian singer-songwriter, guitarist, and producer<sup id=\"cite_ref-AP_35-4\" class=\"reference\"><a href=\"#cite_note-AP-35\"><span class=\"cite-bracket\">[</span>35<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Neil Young",
+          "url": "/wiki/Neil_Young",
+          "length": 169659
+        }
+      ]
+    },
+    {
+      "year": "1934",
+      "description": "Charles Manson, American cult leader, was born.",
+      "html": "<li>\n<a href=\"/wiki/1934\" title=\"1934\">1934</a> – <a href=\"/wiki/Charles_Manson\" title=\"Charles Manson\">Charles Manson</a>, American cult leader (d. 2017)<sup id=\"cite_ref-UPI_28-1\" class=\"reference\"><a href=\"#cite_note-UPI-28\"><span class=\"cite-bracket\">[</span>28<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Charles Manson",
+          "url": "/wiki/Charles_Manson",
+          "length": 166382
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2018",
+      "description": "Stan Lee, American comic book writer, editor, and publisher, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Stan_Lee\" title=\"Stan Lee\">Stan Lee</a>, American comic book writer, editor, and publisher (b. 1922)<sup id=\"cite_ref-NYT-20181112_69-0\" class=\"reference\"><a href=\"#cite_note-NYT-20181112-69\"><span class=\"cite-bracket\">[</span>69<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Stan Lee",
+          "url": "/wiki/Stan_Lee",
+          "length": 139729
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "description": "Timothy West, English actor, died.",
+      "html": "<li>2024 – <a href=\"/wiki/Timothy_West\" title=\"Timothy West\">Timothy West</a>, English actor (b. 1934)<sup id=\"cite_ref-75\" class=\"reference\"><a href=\"#cite_note-75\"><span class=\"cite-bracket\">[</span>75<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Timothy West",
+          "url": "/wiki/Timothy_West",
+          "length": 74524
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Taher Saifuddin, Indian spiritual leader, 51st Da'i al-Mutlaq, died.",
+      "html": "<li>1965  – <a href=\"/wiki/Taher_Saifuddin\" title=\"Taher Saifuddin\">Taher Saifuddin</a>, Indian spiritual leader, 51st <a href=\"/wiki/Da%27i_al-Mutlaq\" title=\"Da'i al-Mutlaq\">Da'i al-Mutlaq</a> (b. 1888)</li>",
+      "entities": [
+        {
+          "name": "Taher Saifuddin",
+          "url": "/wiki/Taher_Saifuddin",
+          "length": 67423
+        },
+        {
+          "name": "Da'i al-Mutlaq",
+          "url": "/wiki/Da%27i_al-Mutlaq",
+          "length": 13283
+        }
+      ]
+    }
+  ]
+}

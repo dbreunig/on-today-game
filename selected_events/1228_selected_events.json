@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "1958",
+      "description": "\"Greatest Game Ever Played\": The Baltimore Colts defeat the New York Giants in the first ever National Football League sudden death overtime game at New York's Yankee Stadium to win the NFL Championship.",
+      "html": "<li>\n<a href=\"/wiki/1958\" title=\"1958\">1958</a> – <a href=\"/wiki/1958_NFL_Championship_Game\" title=\"1958 NFL Championship Game\">\"Greatest Game Ever Played\"</a>: The <a href=\"/wiki/History_of_the_Indianapolis_Colts\" title=\"History of the Indianapolis Colts\">Baltimore Colts</a> defeat the <a href=\"/wiki/New_York_Giants\" title=\"New York Giants\">New York Giants</a> in the first ever <a href=\"/wiki/National_Football_League\" title=\"National Football League\">National Football League</a> <a href=\"/wiki/Sudden_death_(sport)\" title=\"Sudden death (sport)\">sudden death</a> <a href=\"/wiki/Overtime_(sports)\" title=\"Overtime (sports)\">overtime</a> game at New York's <a href=\"/wiki/Yankee_Stadium_(1923)\" title=\"Yankee Stadium (1923)\">Yankee Stadium</a> to win the NFL Championship.</li>",
+      "entities": [
+        {
+          "name": "1958 NFL Championship Game",
+          "url": "/wiki/1958_NFL_Championship_Game",
+          "length": 35036
+        },
+        {
+          "name": "History of the Indianapolis Colts",
+          "url": "/wiki/History_of_the_Indianapolis_Colts",
+          "length": 105080
+        },
+        {
+          "name": "New York Giants",
+          "url": "/wiki/New_York_Giants",
+          "length": 176356
+        },
+        {
+          "name": "National Football League",
+          "url": "/wiki/National_Football_League",
+          "length": 129049
+        },
+        {
+          "name": "Sudden death (sport)",
+          "url": "/wiki/Sudden_death_(sport)",
+          "length": 39204
+        },
+        {
+          "name": "Overtime (sports)",
+          "url": "/wiki/Overtime_(sports)",
+          "length": 87446
+        },
+        {
+          "name": "Yankee Stadium (1923)",
+          "url": "/wiki/Yankee_Stadium_(1923)",
+          "length": 120643
+        }
+      ]
+    },
+    {
+      "year": "484",
+      "description": "Alaric II succeeds his father Euric and becomes king of the Visigoths. He establishes his capital at Aire-sur-l'Adour (Southern Gaul).",
+      "html": "<li>\n<a href=\"/wiki/484\" title=\"484\">484</a> – <a href=\"/wiki/Alaric_II\" title=\"Alaric II\">Alaric II</a> succeeds his father <a href=\"/wiki/Euric\" title=\"Euric\">Euric</a> and becomes king of the <a href=\"/wiki/Visigoths\" title=\"Visigoths\">Visigoths</a>. He establishes his capital at <a href=\"/wiki/Aire-sur-l%27Adour\" title=\"Aire-sur-l'Adour\">Aire-sur-l'Adour</a> (Southern <a href=\"/wiki/Gaul\" title=\"Gaul\">Gaul</a>).</li>",
+      "entities": [
+        {
+          "name": "Alaric II",
+          "url": "/wiki/Alaric_II",
+          "length": 10356
+        },
+        {
+          "name": "Euric",
+          "url": "/wiki/Euric",
+          "length": 5801
+        },
+        {
+          "name": "Visigoths",
+          "url": "/wiki/Visigoths",
+          "length": 64770
+        },
+        {
+          "name": "Aire-sur-l'Adour",
+          "url": "/wiki/Aire-sur-l%27Adour",
+          "length": 4180
+        },
+        {
+          "name": "Gaul",
+          "url": "/wiki/Gaul",
+          "length": 36277
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "War in Somalia: The militaries of Somalia's Transitional Federal Government and Ethiopian troops capture Mogadishu unopposed.",
+      "html": "<li>\n<a href=\"/wiki/2006\" title=\"2006\">2006</a> – <a href=\"/wiki/War_in_Somalia_(2006%E2%80%9309)\" class=\"mw-redirect\" title=\"War in Somalia (2006–09)\">War in Somalia</a>: The militaries of <a href=\"/wiki/Somalia\" title=\"Somalia\">Somalia</a>'s <a href=\"/wiki/Transitional_Federal_Parliament\" class=\"mw-redirect\" title=\"Transitional Federal Parliament\">Transitional Federal Government</a> and <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopian</a> troops <a href=\"/wiki/Fall_of_Mogadishu\" title=\"Fall of Mogadishu\">capture Mogadishu</a> unopposed.</li>",
+      "entities": [
+        {
+          "name": "War in Somalia (2006–09)",
+          "url": "/wiki/War_in_Somalia_(2006%E2%80%9309)",
+          "length": 132
+        },
+        {
+          "name": "Somalia",
+          "url": "/wiki/Somalia",
+          "length": 242938
+        },
+        {
+          "name": "Transitional Federal Parliament",
+          "url": "/wiki/Transitional_Federal_Parliament",
+          "length": 73
+        },
+        {
+          "name": "Ethiopia",
+          "url": "/wiki/Ethiopia",
+          "length": 231706
+        },
+        {
+          "name": "Fall of Mogadishu",
+          "url": "/wiki/Fall_of_Mogadishu",
+          "length": 16239
+        }
+      ]
+    },
+    {
+      "year": "1902",
+      "description": "The Syracuse Athletic Club defeat the New York Philadelphians, 5–0, in the first indoor professional football game, which was held at Madison Square Garden.",
+      "html": "<li>\n<a href=\"/wiki/1902\" title=\"1902\">1902</a> – The <a href=\"/wiki/Syracuse_Pros\" title=\"Syracuse Pros\">Syracuse Athletic Club</a> <a href=\"/wiki/World_Series_of_Football_(1902%E2%80%9303)\" title=\"World Series of Football (1902–03)\">defeat</a> the <a href=\"/wiki/New_York_(World_Series_of_Football)\" title=\"New York (World Series of Football)\">New York Philadelphians</a>, 5–0, in the <a href=\"/wiki/Indoor_American_football\" class=\"mw-redirect\" title=\"Indoor American football\">first indoor professional football</a> game, which was held at <a href=\"/wiki/Madison_Square_Garden_(1890)\" title=\"Madison Square Garden (1890)\">Madison Square Garden</a>.</li>",
+      "entities": [
+        {
+          "name": "Syracuse Pros",
+          "url": "/wiki/Syracuse_Pros",
+          "length": 10161
+        },
+        {
+          "name": "World Series of Football (1902–03)",
+          "url": "/wiki/World_Series_of_Football_(1902%E2%80%9303)",
+          "length": 15281
+        },
+        {
+          "name": "New York (World Series of Football)",
+          "url": "/wiki/New_York_(World_Series_of_Football)",
+          "length": 5583
+        },
+        {
+          "name": "Indoor American football",
+          "url": "/wiki/Indoor_American_football",
+          "length": 28
+        },
+        {
+          "name": "Madison Square Garden (1890)",
+          "url": "/wiki/Madison_Square_Garden_(1890)",
+          "length": 16669
+        }
+      ]
+    },
+    {
+      "year": "1943",
+      "description": "World War II: After eight days of brutal house-to-house fighting, the Battle of Ortona concludes with the victory of the 1st Canadian Infantry Division over the German 1st Parachute Division and the capture of the Italian town of Ortona.",
+      "html": "<li>1943   – World War II: After eight days of brutal <a href=\"/wiki/Urban_warfare\" title=\"Urban warfare\">house-to-house fighting</a>, the <a href=\"/wiki/Battle_of_Ortona\" title=\"Battle of Ortona\">Battle of Ortona</a> concludes with the victory of the <a href=\"/wiki/1st_Canadian_Infantry_Division\" class=\"mw-redirect\" title=\"1st Canadian Infantry Division\">1st Canadian Infantry Division</a> over the <a href=\"/wiki/1st_Parachute_Division_(Germany)\" title=\"1st Parachute Division (Germany)\">German 1st Parachute Division</a> and the capture of the Italian town of <a href=\"/wiki/Ortona\" title=\"Ortona\">Ortona</a>.</li>",
+      "entities": [
+        {
+          "name": "Urban warfare",
+          "url": "/wiki/Urban_warfare",
+          "length": 42473
+        },
+        {
+          "name": "Battle of Ortona",
+          "url": "/wiki/Battle_of_Ortona",
+          "length": 26829
+        },
+        {
+          "name": "1st Canadian Infantry Division",
+          "url": "/wiki/1st_Canadian_Infantry_Division",
+          "length": 35
+        },
+        {
+          "name": "1st Parachute Division (Germany)",
+          "url": "/wiki/1st_Parachute_Division_(Germany)",
+          "length": 9289
+        },
+        {
+          "name": "Ortona",
+          "url": "/wiki/Ortona",
+          "length": 11512
+        }
+      ]
+    },
+    {
+      "year": "1065",
+      "description": "Edward the Confessor's Romanesque monastic church at Westminster Abbey is consecrated.",
+      "html": "<li>\n<a href=\"/wiki/1065\" title=\"1065\">1065</a> – <a href=\"/wiki/Edward_the_Confessor\" title=\"Edward the Confessor\">Edward the Confessor</a>'s <a href=\"/wiki/Romanesque_architecture\" title=\"Romanesque architecture\">Romanesque</a> monastic church at <a href=\"/wiki/Westminster_Abbey\" title=\"Westminster Abbey\">Westminster Abbey</a> is <a href=\"/wiki/Consecration\" class=\"mw-redirect\" title=\"Consecration\">consecrated</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Edward the Confessor",
+          "url": "/wiki/Edward_the_Confessor",
+          "length": 48069
+        },
+        {
+          "name": "Romanesque architecture",
+          "url": "/wiki/Romanesque_architecture",
+          "length": 135037
+        },
+        {
+          "name": "Westminster Abbey",
+          "url": "/wiki/Westminster_Abbey",
+          "length": 130119
+        },
+        {
+          "name": "Consecration",
+          "url": "/wiki/Consecration",
+          "length": 151
+        }
+      ]
+    },
+    {
+      "year": "1856",
+      "description": "Woodrow Wilson, American historian and politician, 28th President of the United States, Nobel Prize laureate, was born.",
+      "html": "<li>\n<a href=\"/wiki/1856\" title=\"1856\">1856</a> – <a href=\"/wiki/Woodrow_Wilson\" title=\"Woodrow Wilson\">Woodrow Wilson</a>, American historian and politician, 28th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a>, <a href=\"/wiki/Nobel_Peace_Prize\" title=\"Nobel Peace Prize\">Nobel Prize</a> laureate (d. 1924)</li>",
+      "entities": [
+        {
+          "name": "Woodrow Wilson",
+          "url": "/wiki/Woodrow_Wilson",
+          "length": 157479
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "Nobel Peace Prize",
+          "url": "/wiki/Nobel_Peace_Prize",
+          "length": 45979
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Vijayakanth, Indian actor and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Vijayakanth\" title=\"Vijayakanth\">Vijayakanth</a>, Indian actor and politician (b. 1952)<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\"><span class=\"cite-bracket\">[</span>57<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Vijayakanth",
+          "url": "/wiki/Vijayakanth",
+          "length": 110653
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1903",
+      "description": "John von Neumann, Hungarian-American mathematician and physicist, was born.",
+      "html": "<li>1903   – <a href=\"/wiki/John_von_Neumann\" title=\"John von Neumann\">John von Neumann</a>, Hungarian-American mathematician and physicist (d. 1957)</li>",
+      "entities": [
+        {
+          "name": "John von Neumann",
+          "url": "/wiki/John_von_Neumann",
+          "length": 213093
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "Liu Xiaobo, Chinese author, academic, and activist, Nobel Prize laureate, was born.",
+      "html": "<li>1955   – <a href=\"/wiki/Liu_Xiaobo\" title=\"Liu Xiaobo\">Liu Xiaobo</a>, Chinese author, academic, and activist, <a href=\"/wiki/Nobel_Peace_Prize\" title=\"Nobel Peace Prize\">Nobel Prize</a> laureate (d. 2017)<sup id=\"cite_ref-UPI_14-4\" class=\"reference\"><a href=\"#cite_note-UPI-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Liu Xiaobo",
+          "url": "/wiki/Liu_Xiaobo",
+          "length": 171979
+        },
+        {
+          "name": "Nobel Peace Prize",
+          "url": "/wiki/Nobel_Peace_Prize",
+          "length": 45979
+        }
+      ]
+    },
+    {
+      "year": "1856",
+      "description": "Woodrow Wilson, American historian and politician, 28th President of the United States, Nobel Prize laureate, was born.",
+      "html": "<li>\n<a href=\"/wiki/1856\" title=\"1856\">1856</a> – <a href=\"/wiki/Woodrow_Wilson\" title=\"Woodrow Wilson\">Woodrow Wilson</a>, American historian and politician, 28th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a>, <a href=\"/wiki/Nobel_Peace_Prize\" title=\"Nobel Peace Prize\">Nobel Prize</a> laureate (d. 1924)</li>",
+      "entities": [
+        {
+          "name": "Woodrow Wilson",
+          "url": "/wiki/Woodrow_Wilson",
+          "length": 157479
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "Nobel Peace Prize",
+          "url": "/wiki/Nobel_Peace_Prize",
+          "length": 45979
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2021",
+      "description": "Harry Reid, American lawyer, politician, and former Senate majority leader, died.",
+      "html": "<li>2021 – <a href=\"/wiki/Harry_Reid\" title=\"Harry Reid\">Harry Reid</a>, American lawyer, politician, and former <a href=\"/wiki/Senate_majority_leader\" class=\"mw-redirect\" title=\"Senate majority leader\">Senate majority leader</a> (b. 1939)<sup id=\"cite_ref-55\" class=\"reference\"><a href=\"#cite_note-55\"><span class=\"cite-bracket\">[</span>55<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Harry Reid",
+          "url": "/wiki/Harry_Reid",
+          "length": 114207
+        },
+        {
+          "name": "Senate majority leader",
+          "url": "/wiki/Senate_majority_leader",
+          "length": 55
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Vijayakanth, Indian actor and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Vijayakanth\" title=\"Vijayakanth\">Vijayakanth</a>, Indian actor and politician (b. 1952)<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\"><span class=\"cite-bracket\">[</span>57<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Vijayakanth",
+          "url": "/wiki/Vijayakanth",
+          "length": 110653
+        }
+      ]
+    },
+    {
+      "year": "1937",
+      "description": "Maurice Ravel, French pianist and composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1937\" title=\"1937\">1937</a> – <a href=\"/wiki/Maurice_Ravel\" title=\"Maurice Ravel\">Maurice Ravel</a>, French pianist and composer (b. 1875)</li>",
+      "entities": [
+        {
+          "name": "Maurice Ravel",
+          "url": "/wiki/Maurice_Ravel",
+          "length": 106155
+        }
+      ]
+    }
+  ]
+}

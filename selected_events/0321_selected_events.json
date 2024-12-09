@@ -1,0 +1,306 @@
+{
+  "events": [
+    {
+      "year": "537",
+      "description": "Siege of Rome: King Vitiges attempts to assault the northern and eastern city walls, but is repulsed at the Praenestine Gate, known as the Vivarium, by the defenders under the Byzantine generals Bessas and Peranius.",
+      "html": "<li>\n<a href=\"/wiki/537\" title=\"537\">537</a> – <a href=\"/wiki/Siege_of_Rome_(537%E2%80%93538)\" title=\"Siege of Rome (537–538)\">Siege of Rome</a>: King <a href=\"/wiki/Vitiges\" title=\"Vitiges\">Vitiges</a> attempts to assault the northern and eastern <a href=\"/wiki/Aurelian_Walls\" title=\"Aurelian Walls\">city walls</a>, but is repulsed at the <a href=\"/wiki/Porta_Maggiore\" title=\"Porta Maggiore\">Praenestine Gate</a>, known as the <i><a href=\"/wiki/Vivarium_(Rome)\" title=\"Vivarium (Rome)\">Vivarium</a></i>, by the defenders under the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine</a> generals <a href=\"/wiki/Bessas_(magister_militum)\" title=\"Bessas (magister militum)\">Bessas</a> and <a href=\"/wiki/Peranius_the_Iberian\" title=\"Peranius the Iberian\">Peranius</a>.</li>",
+      "entities": [
+        {
+          "name": "Siege of Rome (537–538)",
+          "url": "/wiki/Siege_of_Rome_(537%E2%80%93538)",
+          "length": 24742
+        },
+        {
+          "name": "Vitiges",
+          "url": "/wiki/Vitiges",
+          "length": 7753
+        },
+        {
+          "name": "Aurelian Walls",
+          "url": "/wiki/Aurelian_Walls",
+          "length": 12821
+        },
+        {
+          "name": "Porta Maggiore",
+          "url": "/wiki/Porta_Maggiore",
+          "length": 7432
+        },
+        {
+          "name": "Vivarium (Rome)",
+          "url": "/wiki/Vivarium_(Rome)",
+          "length": 1175
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201302
+        },
+        {
+          "name": "Bessas (magister militum)",
+          "url": "/wiki/Bessas_(magister_militum)",
+          "length": 15550
+        },
+        {
+          "name": "Peranius the Iberian",
+          "url": "/wiki/Peranius_the_Iberian",
+          "length": 3426
+        }
+      ]
+    },
+    {
+      "year": "1800",
+      "description": "With the church leadership driven out of Rome during an armed conflict, Pius VII is crowned Pope in Venice with a temporary papal tiara made of papier-mâché.",
+      "html": "<li>\n<a href=\"/wiki/1800\" title=\"1800\">1800</a> – With the <a href=\"/wiki/Papal_States\" title=\"Papal States\">church</a> leadership driven out of <a href=\"/wiki/Rome\" title=\"Rome\">Rome</a> during an armed conflict, <a href=\"/wiki/Pope_Pius_VII\" title=\"Pope Pius VII\">Pius VII</a> is <a href=\"/wiki/Papal_coronation\" title=\"Papal coronation\">crowned Pope</a> in <a href=\"/wiki/Venice\" title=\"Venice\">Venice</a> with a <a href=\"/wiki/List_of_papal_tiaras_in_existence\" title=\"List of papal tiaras in existence\">temporary papal tiara made of papier-mâché</a>.</li>",
+      "entities": [
+        {
+          "name": "Papal States",
+          "url": "/wiki/Papal_States",
+          "length": 60374
+        },
+        {
+          "name": "Rome",
+          "url": "/wiki/Rome",
+          "length": 185947
+        },
+        {
+          "name": "Pope Pius VII",
+          "url": "/wiki/Pope_Pius_VII",
+          "length": 38066
+        },
+        {
+          "name": "Papal coronation",
+          "url": "/wiki/Papal_coronation",
+          "length": 39746
+        },
+        {
+          "name": "Venice",
+          "url": "/wiki/Venice",
+          "length": 185852
+        },
+        {
+          "name": "List of papal tiaras in existence",
+          "url": "/wiki/List_of_papal_tiaras_in_existence",
+          "length": 16323
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "description": "Battle of Karameh in Jordan between the Israel Defense Forces and the combined forces of the Jordanian Armed Forces and PLO.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Battle_of_Karameh\" title=\"Battle of Karameh\">Battle of Karameh</a> in <a href=\"/wiki/Jordan\" title=\"Jordan\">Jordan</a> between the <a href=\"/wiki/Israel_Defense_Forces\" title=\"Israel Defense Forces\">Israel Defense Forces</a> and the combined forces of the <a href=\"/wiki/Jordanian_Armed_Forces\" title=\"Jordanian Armed Forces\">Jordanian Armed Forces</a> and <a href=\"/wiki/PLO\" class=\"mw-redirect\" title=\"PLO\">PLO</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Karameh",
+          "url": "/wiki/Battle_of_Karameh",
+          "length": 43198
+        },
+        {
+          "name": "Jordan",
+          "url": "/wiki/Jordan",
+          "length": 228898
+        },
+        {
+          "name": "Israel Defense Forces",
+          "url": "/wiki/Israel_Defense_Forces",
+          "length": 178677
+        },
+        {
+          "name": "Jordanian Armed Forces",
+          "url": "/wiki/Jordanian_Armed_Forces",
+          "length": 24804
+        },
+        {
+          "name": "PLO",
+          "url": "/wiki/PLO",
+          "length": 114
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "description": "Shah of Iran Reza Shah Pahlavi formally asks the international community to call Persia by its native name, Iran.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/List_of_monarchs_of_Persia\" title=\"List of monarchs of Persia\">Shah of Iran</a> <a href=\"/wiki/Reza_Shah\" title=\"Reza Shah\">Reza Shah Pahlavi</a> formally asks the international community to call <a href=\"/wiki/Iran\" title=\"Iran\">Persia</a> by its native name, <i><a href=\"/wiki/Name_of_Iran\" title=\"Name of Iran\">Iran</a></i>.</li>",
+      "entities": [
+        {
+          "name": "List of monarchs of Persia",
+          "url": "/wiki/List_of_monarchs_of_Persia",
+          "length": 122158
+        },
+        {
+          "name": "Reza Shah",
+          "url": "/wiki/Reza_Shah",
+          "length": 91179
+        },
+        {
+          "name": "Iran",
+          "url": "/wiki/Iran",
+          "length": 379191
+        },
+        {
+          "name": "Name of Iran",
+          "url": "/wiki/Name_of_Iran",
+          "length": 25604
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "World War II: Bulgaria and the Soviet Union successfully complete their defense of the north bank of the Drava River as the Battle of the Transdanubian Hills concludes.",
+      "html": "<li>1945   – World War II: <a href=\"/wiki/Kingdom_of_Bulgaria\" class=\"mw-redirect\" title=\"Kingdom of Bulgaria\">Bulgaria</a> and the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a> successfully complete their defense of the north bank of the <a href=\"/wiki/Drava\" title=\"Drava\">Drava</a> River as the <a href=\"/wiki/Battle_of_the_Transdanubian_Hills\" title=\"Battle of the Transdanubian Hills\">Battle of the Transdanubian Hills</a> concludes.</li>",
+      "entities": [
+        {
+          "name": "Kingdom of Bulgaria",
+          "url": "/wiki/Kingdom_of_Bulgaria",
+          "length": 94
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Drava",
+          "url": "/wiki/Drava",
+          "length": 21322
+        },
+        {
+          "name": "Battle of the Transdanubian Hills",
+          "url": "/wiki/Battle_of_the_Transdanubian_Hills",
+          "length": 15974
+        }
+      ]
+    },
+    {
+      "year": "1952",
+      "description": "Alan Freed presents the Moondog Coronation Ball, the first rock and roll concert, in Cleveland, Ohio.",
+      "html": "<li>\n<a href=\"/wiki/1952\" title=\"1952\">1952</a> – <a href=\"/wiki/Alan_Freed\" title=\"Alan Freed\">Alan Freed</a> presents the <a href=\"/wiki/Moondog_Coronation_Ball\" title=\"Moondog Coronation Ball\">Moondog Coronation Ball</a>, the first <a href=\"/wiki/Rock_and_roll\" title=\"Rock and roll\">rock and roll</a> concert, in <a href=\"/wiki/Cleveland,_Ohio\" class=\"mw-redirect\" title=\"Cleveland, Ohio\">Cleveland, Ohio</a>.</li>",
+      "entities": [
+        {
+          "name": "Alan Freed",
+          "url": "/wiki/Alan_Freed",
+          "length": 44469
+        },
+        {
+          "name": "Moondog Coronation Ball",
+          "url": "/wiki/Moondog_Coronation_Ball",
+          "length": 8628
+        },
+        {
+          "name": "Rock and roll",
+          "url": "/wiki/Rock_and_roll",
+          "length": 75540
+        },
+        {
+          "name": "Cleveland, Ohio",
+          "url": "/wiki/Cleveland,_Ohio",
+          "length": 50
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Ayrton Senna, Brazilian race car driver, was born.",
+      "html": "<li>1960   – <a href=\"/wiki/Ayrton_Senna\" title=\"Ayrton Senna\">Ayrton Senna</a>, Brazilian race car driver (d. 1994)</li>",
+      "entities": [
+        {
+          "name": "Ayrton Senna",
+          "url": "/wiki/Ayrton_Senna",
+          "length": 243852
+        }
+      ]
+    },
+    {
+      "year": "1915",
+      "description": "Frederick Winslow Taylor, American golfer, tennis player, and engineer, died.",
+      "html": "<li>\n<a href=\"/wiki/1915\" title=\"1915\">1915</a> – <a href=\"/wiki/Frederick_Winslow_Taylor\" title=\"Frederick Winslow Taylor\">Frederick Winslow Taylor</a>, American golfer, tennis player, and engineer (b. 1856)</li>",
+      "entities": [
+        {
+          "name": "Frederick Winslow Taylor",
+          "url": "/wiki/Frederick_Winslow_Taylor",
+          "length": 77289
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1955",
+      "description": "Jair Bolsonaro, Brazilian politician and retired military officer, 38th President of Brazil, was born.",
+      "html": "<li>1955   – <a href=\"/wiki/Jair_Bolsonaro\" title=\"Jair Bolsonaro\">Jair Bolsonaro</a>, Brazilian politician and retired military officer, 38th <a href=\"/wiki/President_of_Brazil\" title=\"President of Brazil\">President of Brazil</a><sup id=\"cite_ref-22\" class=\"reference\"><a href=\"#cite_note-22\"><span class=\"cite-bracket\">[</span>22<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jair Bolsonaro",
+          "url": "/wiki/Jair_Bolsonaro",
+          "length": 277141
+        },
+        {
+          "name": "President of Brazil",
+          "url": "/wiki/President_of_Brazil",
+          "length": 26538
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Ayrton Senna, Brazilian race car driver, was born.",
+      "html": "<li>1960   – <a href=\"/wiki/Ayrton_Senna\" title=\"Ayrton Senna\">Ayrton Senna</a>, Brazilian race car driver (d. 1994)</li>",
+      "entities": [
+        {
+          "name": "Ayrton Senna",
+          "url": "/wiki/Ayrton_Senna",
+          "length": 243852
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Adrian Peterson, American football player, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Adrian_Peterson\" title=\"Adrian Peterson\">Adrian Peterson</a>, American football player</li>",
+      "entities": [
+        {
+          "name": "Adrian Peterson",
+          "url": "/wiki/Adrian_Peterson",
+          "length": 220278
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2013",
+      "description": "Chinua Achebe, Nigerian novelist, poet, and critic, died.",
+      "html": "<li>\n<a href=\"/wiki/2013\" title=\"2013\">2013</a> – <a href=\"/wiki/Chinua_Achebe\" title=\"Chinua Achebe\">Chinua Achebe</a>, Nigerian novelist, poet, and critic (b. 1930)</li>",
+      "entities": [
+        {
+          "name": "Chinua Achebe",
+          "url": "/wiki/Chinua_Achebe",
+          "length": 118750
+        }
+      ]
+    },
+    {
+      "year": "1556",
+      "description": "Thomas Cranmer, English archbishop, died.",
+      "html": "<li>\n<a href=\"/wiki/1556\" title=\"1556\">1556</a> – <a href=\"/wiki/Thomas_Cranmer\" title=\"Thomas Cranmer\">Thomas Cranmer</a>, English archbishop (b. 1489)<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Thomas Cranmer",
+          "url": "/wiki/Thomas_Cranmer",
+          "length": 86220
+        }
+      ]
+    },
+    {
+      "year": "1915",
+      "description": "Frederick Winslow Taylor, American golfer, tennis player, and engineer, died.",
+      "html": "<li>\n<a href=\"/wiki/1915\" title=\"1915\">1915</a> – <a href=\"/wiki/Frederick_Winslow_Taylor\" title=\"Frederick Winslow Taylor\">Frederick Winslow Taylor</a>, American golfer, tennis player, and engineer (b. 1856)</li>",
+      "entities": [
+        {
+          "name": "Frederick Winslow Taylor",
+          "url": "/wiki/Frederick_Winslow_Taylor",
+          "length": 77289
+        }
+      ]
+    }
+  ]
+}

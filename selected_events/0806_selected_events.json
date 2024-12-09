@@ -1,0 +1,286 @@
+{
+  "events": [
+    {
+      "year": "1914",
+      "description": "World War I: U-boat campaign: Two days after the United Kingdom had declared war on Germany over the German invasion of Belgium, ten German U-boats leave their base in Heligoland to attack Royal Navy warships in the North Sea.",
+      "html": "<li>\n<a href=\"/wiki/1914\" title=\"1914\">1914</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: <a href=\"/wiki/U-boat_campaign\" title=\"U-boat campaign\">U-boat campaign</a>: Two days after the United Kingdom had declared war on Germany over the German invasion of Belgium, ten German <a href=\"/wiki/U-boat\" title=\"U-boat\">U-boats</a> leave their base in <a href=\"/wiki/Heligoland\" title=\"Heligoland\">Heligoland</a> to attack <a href=\"/wiki/Royal_Navy\" title=\"Royal Navy\">Royal Navy</a> warships in the <a href=\"/wiki/North_Sea\" title=\"North Sea\">North Sea</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "U-boat campaign",
+          "url": "/wiki/U-boat_campaign",
+          "length": 77155
+        },
+        {
+          "name": "U-boat",
+          "url": "/wiki/U-boat",
+          "length": 54855
+        },
+        {
+          "name": "Heligoland",
+          "url": "/wiki/Heligoland",
+          "length": 63044
+        },
+        {
+          "name": "Royal Navy",
+          "url": "/wiki/Royal_Navy",
+          "length": 157804
+        },
+        {
+          "name": "North Sea",
+          "url": "/wiki/North_Sea",
+          "length": 139255
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: The Confederate ironclad CSS Arkansas is scuttled on the Mississippi River after suffering catastrophic engine failure near Baton Rouge, Louisiana.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> <a href=\"/wiki/Ironclad_warship\" title=\"Ironclad warship\">ironclad</a> <a href=\"/wiki/CSS_Arkansas\" title=\"CSS Arkansas\">CSS <i>Arkansas</i></a> is scuttled on the <a href=\"/wiki/Mississippi_River\" title=\"Mississippi River\">Mississippi River</a> after suffering catastrophic engine failure near <a href=\"/wiki/Baton_Rouge,_Louisiana\" title=\"Baton Rouge, Louisiana\">Baton Rouge, Louisiana</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Ironclad warship",
+          "url": "/wiki/Ironclad_warship",
+          "length": 81300
+        },
+        {
+          "name": "CSS Arkansas",
+          "url": "/wiki/CSS_Arkansas",
+          "length": 47855
+        },
+        {
+          "name": "Mississippi River",
+          "url": "/wiki/Mississippi_River",
+          "length": 145492
+        },
+        {
+          "name": "Baton Rouge, Louisiana",
+          "url": "/wiki/Baton_Rouge,_Louisiana",
+          "length": 141324
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Gulf War: The United Nations Security Council orders a global trade embargo against Iraq in response to Iraq's invasion of Kuwait.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Gulf_War\" title=\"Gulf War\">Gulf War</a>: The <a href=\"/wiki/United_Nations_Security_Council\" title=\"United Nations Security Council\">United Nations Security Council</a> orders a global <a href=\"/wiki/Embargo\" class=\"mw-redirect\" title=\"Embargo\">trade embargo</a> against <a href=\"/wiki/Iraq\" title=\"Iraq\">Iraq</a> in response to Iraq's invasion of <a href=\"/wiki/Kuwait\" title=\"Kuwait\">Kuwait</a>.</li>",
+      "entities": [
+        {
+          "name": "Gulf War",
+          "url": "/wiki/Gulf_War",
+          "length": 257249
+        },
+        {
+          "name": "United Nations Security Council",
+          "url": "/wiki/United_Nations_Security_Council",
+          "length": 108512
+        },
+        {
+          "name": "Embargo",
+          "url": "/wiki/Embargo",
+          "length": 166
+        },
+        {
+          "name": "Iraq",
+          "url": "/wiki/Iraq",
+          "length": 182354
+        },
+        {
+          "name": "Kuwait",
+          "url": "/wiki/Kuwait",
+          "length": 318972
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "description": "NASA's Curiosity rover lands on the surface of Mars.",
+      "html": "<li>\n<a href=\"/wiki/2012\" title=\"2012\">2012</a> – <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a>'s <a href=\"/wiki/Curiosity_(rover)\" title=\"Curiosity (rover)\"><i>Curiosity</i> rover</a> <a href=\"/wiki/Mars_Science_Laboratory\" title=\"Mars Science Laboratory\">lands</a> on the surface of <a href=\"/wiki/Mars\" title=\"Mars\">Mars</a>.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "NASA",
+          "url": "/wiki/NASA",
+          "length": 228390
+        },
+        {
+          "name": "Curiosity (rover)",
+          "url": "/wiki/Curiosity_(rover)",
+          "length": 123211
+        },
+        {
+          "name": "Mars Science Laboratory",
+          "url": "/wiki/Mars_Science_Laboratory",
+          "length": 110225
+        },
+        {
+          "name": "Mars",
+          "url": "/wiki/Mars",
+          "length": 210834
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "At Auburn Prison in New York, murderer William Kemmler becomes the first person to be executed by electric chair.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – At <a href=\"/wiki/Auburn_Correctional_Facility\" title=\"Auburn Correctional Facility\">Auburn Prison</a> in New York, murderer <a href=\"/wiki/William_Kemmler\" title=\"William Kemmler\">William Kemmler</a> becomes the first person to be <a href=\"/wiki/Capital_punishment\" title=\"Capital punishment\">executed</a> by <a href=\"/wiki/Electric_chair\" title=\"Electric chair\">electric chair</a>.</li>",
+      "entities": [
+        {
+          "name": "Auburn Correctional Facility",
+          "url": "/wiki/Auburn_Correctional_Facility",
+          "length": 26214
+        },
+        {
+          "name": "William Kemmler",
+          "url": "/wiki/William_Kemmler",
+          "length": 15215
+        },
+        {
+          "name": "Capital punishment",
+          "url": "/wiki/Capital_punishment",
+          "length": 194348
+        },
+        {
+          "name": "Electric chair",
+          "url": "/wiki/Electric_chair",
+          "length": 42672
+        }
+      ]
+    },
+    {
+      "year": "1901",
+      "description": "Kiowa land in Oklahoma is opened for white settlement, effectively dissolving the contiguous reservation.",
+      "html": "<li>\n<a href=\"/wiki/1901\" title=\"1901\">1901</a> – <a href=\"/wiki/Kiowa\" title=\"Kiowa\">Kiowa</a> land in <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a> is opened for white settlement, effectively dissolving the contiguous <a href=\"/wiki/Indian_reservation\" title=\"Indian reservation\">reservation</a>.</li>",
+      "entities": [
+        {
+          "name": "Kiowa",
+          "url": "/wiki/Kiowa",
+          "length": 66842
+        },
+        {
+          "name": "Oklahoma",
+          "url": "/wiki/Oklahoma",
+          "length": 219067
+        },
+        {
+          "name": "Indian reservation",
+          "url": "/wiki/Indian_reservation",
+          "length": 85169
+        }
+      ]
+    },
+    {
+      "year": "1928",
+      "description": "Andy Warhol, American painter, photographer and film director, was born.",
+      "html": "<li>1928 – <a href=\"/wiki/Andy_Warhol\" title=\"Andy Warhol\">Andy Warhol</a>, American painter, photographer and film director (d. 1987)</li>",
+      "entities": [
+        {
+          "name": "Andy Warhol",
+          "url": "/wiki/Andy_Warhol",
+          "length": 202725
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Theodor W. Adorno, German sociologist and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Theodor_W._Adorno\" title=\"Theodor W. Adorno\">Theodor W. Adorno</a>, German sociologist and philosopher (b. 1903)</li>",
+      "entities": [
+        {
+          "name": "Theodor W. Adorno",
+          "url": "/wiki/Theodor_W._Adorno",
+          "length": 98781
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1928",
+      "description": "Andy Warhol, American painter, photographer and film director, was born.",
+      "html": "<li>1928 – <a href=\"/wiki/Andy_Warhol\" title=\"Andy Warhol\">Andy Warhol</a>, American painter, photographer and film director (d. 1987)</li>",
+      "entities": [
+        {
+          "name": "Andy Warhol",
+          "url": "/wiki/Andy_Warhol",
+          "length": 202725
+        }
+      ]
+    },
+    {
+      "year": "1917",
+      "description": "Robert Mitchum, American actor, was born.",
+      "html": "<li>1917 – <a href=\"/wiki/Robert_Mitchum\" title=\"Robert Mitchum\">Robert Mitchum</a>, American actor (d. 1997)</li>",
+      "entities": [
+        {
+          "name": "Robert Mitchum",
+          "url": "/wiki/Robert_Mitchum",
+          "length": 131313
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Robin van Persie, Dutch footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Robin_van_Persie\" title=\"Robin van Persie\">Robin van Persie</a>, Dutch footballer</li>",
+      "entities": [
+        {
+          "name": "Robin van Persie",
+          "url": "/wiki/Robin_van_Persie",
+          "length": 124176
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1978",
+      "description": "Pope Paul VI, died.",
+      "html": "<li>\n<a href=\"/wiki/1978\" title=\"1978\">1978</a> – <a href=\"/wiki/Pope_Paul_VI\" title=\"Pope Paul VI\">Pope Paul VI</a> (b. 1897)<sup id=\"cite_ref-69\" class=\"reference\"><a href=\"#cite_note-69\"><span class=\"cite-bracket\">[</span>69<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-70\" class=\"reference\"><a href=\"#cite_note-70\"><span class=\"cite-bracket\">[</span>70<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pope Paul VI",
+          "url": "/wiki/Pope_Paul_VI",
+          "length": 147748
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Theodor W. Adorno, German sociologist and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Theodor_W._Adorno\" title=\"Theodor W. Adorno\">Theodor W. Adorno</a>, German sociologist and philosopher (b. 1903)</li>",
+      "entities": [
+        {
+          "name": "Theodor W. Adorno",
+          "url": "/wiki/Theodor_W._Adorno",
+          "length": 98781
+        }
+      ]
+    },
+    {
+      "year": "1931",
+      "description": "Bix Beiderbecke, American cornet player, pianist, and composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1931\" title=\"1931\">1931</a> – <a href=\"/wiki/Bix_Beiderbecke\" title=\"Bix Beiderbecke\">Bix Beiderbecke</a>, American cornet player, pianist, and composer (b. 1903)<sup id=\"cite_ref-62\" class=\"reference\"><a href=\"#cite_note-62\"><span class=\"cite-bracket\">[</span>62<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bix Beiderbecke",
+          "url": "/wiki/Bix_Beiderbecke",
+          "length": 90737
+        }
+      ]
+    }
+  ]
+}

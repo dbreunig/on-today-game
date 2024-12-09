@@ -1,0 +1,281 @@
+{
+  "events": [
+    {
+      "year": "1249",
+      "description": "Andrew of Longjumeau is dispatched by Louis IX of France as his ambassador to meet with the Khagan of the Mongol Empire.",
+      "html": "<li>\n<a href=\"/wiki/1249\" title=\"1249\">1249</a> – <a href=\"/wiki/Andr%C3%A9_de_Longjumeau\" title=\"André de Longjumeau\">Andrew of Longjumeau</a> is dispatched by <a href=\"/wiki/Louis_IX_of_France\" title=\"Louis IX of France\">Louis IX of France</a> as his <a href=\"/wiki/Ambassador\" title=\"Ambassador\">ambassador</a> to meet with the <a href=\"/wiki/Khagan\" title=\"Khagan\">Khagan</a> of the <a href=\"/wiki/Mongol_Empire\" title=\"Mongol Empire\">Mongol Empire</a>.</li>",
+      "entities": [
+        {
+          "name": "André de Longjumeau",
+          "url": "/wiki/Andr%C3%A9_de_Longjumeau",
+          "length": 8622
+        },
+        {
+          "name": "Louis IX of France",
+          "url": "/wiki/Louis_IX_of_France",
+          "length": 51586
+        },
+        {
+          "name": "Ambassador",
+          "url": "/wiki/Ambassador",
+          "length": 21807
+        },
+        {
+          "name": "Khagan",
+          "url": "/wiki/Khagan",
+          "length": 28710
+        },
+        {
+          "name": "Mongol Empire",
+          "url": "/wiki/Mongol_Empire",
+          "length": 133263
+        }
+      ]
+    },
+    {
+      "year": "1699",
+      "description": "First Leopoldine Diploma is issued by the Holy Roman Emperor, recognizing the Greek Catholic clergy enjoyed the same privileges as Roman Catholic priests in the Principality of Transylvania.",
+      "html": "<li>\n<a href=\"/wiki/1699\" title=\"1699\">1699</a> – First <a href=\"/wiki/Leopold_I,_Holy_Roman_Emperor\" title=\"Leopold I, Holy Roman Emperor\">Leopoldine</a> Diploma is issued by the <a href=\"/wiki/Holy_Roman_Emperor\" title=\"Holy Roman Emperor\">Holy Roman Emperor</a>, recognizing the <a href=\"/wiki/Greek_Catholic\" class=\"mw-redirect\" title=\"Greek Catholic\">Greek Catholic</a> clergy enjoyed the same privileges as <a href=\"/wiki/Roman_Catholic\" class=\"mw-redirect\" title=\"Roman Catholic\">Roman Catholic</a> priests in the <a href=\"/wiki/Principality_of_Transylvania_(1570%E2%80%931711)\" title=\"Principality of Transylvania (1570–1711)\">Principality of Transylvania</a>.</li>",
+      "entities": [
+        {
+          "name": "Leopold I, Holy Roman Emperor",
+          "url": "/wiki/Leopold_I,_Holy_Roman_Emperor",
+          "length": 38890
+        },
+        {
+          "name": "Holy Roman Emperor",
+          "url": "/wiki/Holy_Roman_Emperor",
+          "length": 50177
+        },
+        {
+          "name": "Greek Catholic",
+          "url": "/wiki/Greek_Catholic",
+          "length": 62
+        },
+        {
+          "name": "Roman Catholic",
+          "url": "/wiki/Roman_Catholic",
+          "length": 131
+        },
+        {
+          "name": "Principality of Transylvania (1570–1711)",
+          "url": "/wiki/Principality_of_Transylvania_(1570%E2%80%931711)",
+          "length": 48646
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: General Ulysses S. Grant captures Fort Donelson, Tennessee.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: General <a href=\"/wiki/Ulysses_S._Grant\" title=\"Ulysses S. Grant\">Ulysses S. Grant</a> <a href=\"/wiki/Battle_of_Fort_Donelson\" title=\"Battle of Fort Donelson\">captures</a> <a href=\"/wiki/Fort_Donelson\" title=\"Fort Donelson\">Fort Donelson</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Ulysses S. Grant",
+          "url": "/wiki/Ulysses_S._Grant",
+          "length": 190178
+        },
+        {
+          "name": "Battle of Fort Donelson",
+          "url": "/wiki/Battle_of_Fort_Donelson",
+          "length": 55327
+        },
+        {
+          "name": "Fort Donelson",
+          "url": "/wiki/Fort_Donelson",
+          "length": 12373
+        },
+        {
+          "name": "Tennessee",
+          "url": "/wiki/Tennessee",
+          "length": 254762
+        }
+      ]
+    },
+    {
+      "year": "1630",
+      "description": "Dutch forces led by Hendrick Lonck capture Olinda in what was to become part of Dutch Brazil.",
+      "html": "<li>\n<a href=\"/wiki/1630\" title=\"1630\">1630</a> – Dutch forces led by <a href=\"/wiki/Hendrick_Lonck\" title=\"Hendrick Lonck\">Hendrick Lonck</a> <a href=\"/wiki/Dutch_invasions_of_Brazil#Invasion_of_Olinda_and_Recife_(1630-1654)\" title=\"Dutch invasions of Brazil\">capture</a> <a href=\"/wiki/Olinda\" title=\"Olinda\">Olinda</a> in what was to become part of <a href=\"/wiki/Dutch_Brazil\" title=\"Dutch Brazil\">Dutch Brazil</a>.</li>",
+      "entities": [
+        {
+          "name": "Hendrick Lonck",
+          "url": "/wiki/Hendrick_Lonck",
+          "length": null
+        },
+        {
+          "name": "Dutch invasions of Brazil",
+          "url": "/wiki/Dutch_invasions_of_Brazil#Invasion_of_Olinda_and_Recife_(1630-1654)",
+          "length": null
+        },
+        {
+          "name": "Olinda",
+          "url": "/wiki/Olinda",
+          "length": null
+        },
+        {
+          "name": "Dutch Brazil",
+          "url": "/wiki/Dutch_Brazil",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1804",
+      "description": "First Barbary War: Stephen Decatur leads a raid to burn the pirate-held frigate USS Philadelphia.",
+      "html": "<li>\n<a href=\"/wiki/1804\" title=\"1804\">1804</a> – <a href=\"/wiki/First_Barbary_War\" title=\"First Barbary War\">First Barbary War</a>: <a href=\"/wiki/Stephen_Decatur\" title=\"Stephen Decatur\">Stephen Decatur</a> leads a raid to burn the <a href=\"/wiki/Pirate\" class=\"mw-redirect\" title=\"Pirate\">pirate</a>-held frigate <a href=\"/wiki/USS_Philadelphia_(1799)\" title=\"USS Philadelphia (1799)\">USS <i>Philadelphia</i></a>.</li>",
+      "entities": [
+        {
+          "name": "First Barbary War",
+          "url": "/wiki/First_Barbary_War",
+          "length": 41219
+        },
+        {
+          "name": "Stephen Decatur",
+          "url": "/wiki/Stephen_Decatur",
+          "length": 118493
+        },
+        {
+          "name": "Pirate",
+          "url": "/wiki/Pirate",
+          "length": 117
+        },
+        {
+          "name": "USS Philadelphia (1799)",
+          "url": "/wiki/USS_Philadelphia_(1799)",
+          "length": 22968
+        }
+      ]
+    },
+    {
+      "year": "1900",
+      "description": "The Southern Cross expedition led by Carsten Borchgrevink achieved a new Farthest South of 78° 50'S, making the first landing at the Great Ice Barrier.",
+      "html": "<li>\n<a href=\"/wiki/1900\" title=\"1900\">1900</a> – The <a href=\"/wiki/Southern_Cross_expedition\" class=\"mw-redirect\" title=\"Southern Cross expedition\">Southern Cross expedition</a> led by <a href=\"/wiki/Carsten_Borchgrevink\" title=\"Carsten Borchgrevink\">Carsten Borchgrevink</a> achieved a new <a href=\"/wiki/Farthest_South\" title=\"Farthest South\">Farthest South</a> of 78° 50'S, making the first landing at the <a href=\"/wiki/Ross_Ice_Shelf\" title=\"Ross Ice Shelf\">Great Ice Barrier</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Southern Cross expedition",
+          "url": "/wiki/Southern_Cross_expedition",
+          "length": 86
+        },
+        {
+          "name": "Carsten Borchgrevink",
+          "url": "/wiki/Carsten_Borchgrevink",
+          "length": 49315
+        },
+        {
+          "name": "Farthest South",
+          "url": "/wiki/Farthest_South",
+          "length": 55461
+        },
+        {
+          "name": "Ross Ice Shelf",
+          "url": "/wiki/Ross_Ice_Shelf",
+          "length": 22524
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Valentino Rossi, Italian motorcycle racer, was born.",
+      "html": "<li>1979   – <a href=\"/wiki/Valentino_Rossi\" title=\"Valentino Rossi\">Valentino Rossi</a>, Italian motorcycle racer</li>",
+      "entities": [
+        {
+          "name": "Valentino Rossi",
+          "url": "/wiki/Valentino_Rossi",
+          "length": 372006
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Keith Haring, American painter and activist, died.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Keith_Haring\" title=\"Keith Haring\">Keith Haring</a>, American painter and activist (b. 1958)</li>",
+      "entities": [
+        {
+          "name": "Keith Haring",
+          "url": "/wiki/Keith_Haring",
+          "length": 102455
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1979",
+      "description": "Valentino Rossi, Italian motorcycle racer, was born.",
+      "html": "<li>1979   – <a href=\"/wiki/Valentino_Rossi\" title=\"Valentino Rossi\">Valentino Rossi</a>, Italian motorcycle racer</li>",
+      "entities": [
+        {
+          "name": "Valentino Rossi",
+          "url": "/wiki/Valentino_Rossi",
+          "length": 372006
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Ron Vlaar, Dutch footballer, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Ron_Vlaar\" title=\"Ron Vlaar\">Ron Vlaar</a>, Dutch footballer</li>",
+      "entities": [
+        {
+          "name": "Ron Vlaar",
+          "url": "/wiki/Ron_Vlaar",
+          "length": 257785
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "The Weeknd, Canadian singer-songwriter and producer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/The_Weeknd\" title=\"The Weeknd\">The Weeknd</a>, Canadian singer-songwriter and producer<sup id=\"cite_ref-55\" class=\"reference\"><a href=\"#cite_note-55\"><span class=\"cite-bracket\">[</span>55<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "The Weeknd",
+          "url": "/wiki/The_Weeknd",
+          "length": 254701
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2024",
+      "description": "Alexei Navalny, Russian activist, died.",
+      "html": "<li>\n<a href=\"/wiki/2024\" title=\"2024\">2024</a> – <a href=\"/wiki/Alexei_Navalny\" title=\"Alexei Navalny\">Alexei Navalny</a>, Russian activist (b. 1976)</li>",
+      "entities": [
+        {
+          "name": "Alexei Navalny",
+          "url": "/wiki/Alexei_Navalny",
+          "length": 348826
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Keith Haring, American painter and activist, died.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Keith_Haring\" title=\"Keith Haring\">Keith Haring</a>, American painter and activist (b. 1958)</li>",
+      "entities": [
+        {
+          "name": "Keith Haring",
+          "url": "/wiki/Keith_Haring",
+          "length": 102455
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "description": "Chien-Shiung Wu, Chinese-American physicist and academic, died.",
+      "html": "<li>\n<a href=\"/wiki/1997\" title=\"1997\">1997</a> – <a href=\"/wiki/Chien-Shiung_Wu\" title=\"Chien-Shiung Wu\">Chien-Shiung Wu</a>, Chinese-American physicist and academic (b. 1912)</li>",
+      "entities": [
+        {
+          "name": "Chien-Shiung Wu",
+          "url": "/wiki/Chien-Shiung_Wu",
+          "length": 88179
+        }
+      ]
+    }
+  ]
+}

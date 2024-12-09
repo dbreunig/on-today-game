@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "1856",
+      "description": "Congressman Preston Brooks of South Carolina severely beats Senator Charles Sumner of Massachusetts with a cane in the hall of the United States Senate for a speech Sumner had made regarding  Southerners and slavery.",
+      "html": "<li>\n<a href=\"/wiki/1856\" title=\"1856\">1856</a> – <a href=\"/wiki/United_States_House_of_Representatives\" title=\"United States House of Representatives\">Congressman</a> <a href=\"/wiki/Preston_Brooks\" title=\"Preston Brooks\">Preston Brooks</a> of <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a> <a href=\"/wiki/Caning_of_Charles_Sumner\" title=\"Caning of Charles Sumner\">severely beats</a> <a href=\"/wiki/United_States_Senate\" title=\"United States Senate\">Senator</a> <a href=\"/wiki/Charles_Sumner\" title=\"Charles Sumner\">Charles Sumner</a> of <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a> with a cane in the hall of the <a href=\"/wiki/United_States_Senate\" title=\"United States Senate\">United States Senate</a> for a speech Sumner had made regarding  <a href=\"/wiki/Southern_United_States\" title=\"Southern United States\">Southerners</a> and <a href=\"/wiki/Slavery_in_the_United_States\" title=\"Slavery in the United States\">slavery</a>.</li>",
+      "entities": [
+        {
+          "name": "United States House of Representatives",
+          "url": "/wiki/United_States_House_of_Representatives",
+          "length": 118918
+        },
+        {
+          "name": "Preston Brooks",
+          "url": "/wiki/Preston_Brooks",
+          "length": 27699
+        },
+        {
+          "name": "South Carolina",
+          "url": "/wiki/South_Carolina",
+          "length": 130953
+        },
+        {
+          "name": "Caning of Charles Sumner",
+          "url": "/wiki/Caning_of_Charles_Sumner",
+          "length": 35988
+        },
+        {
+          "name": "United States Senate",
+          "url": "/wiki/United_States_Senate",
+          "length": 107422
+        },
+        {
+          "name": "Charles Sumner",
+          "url": "/wiki/Charles_Sumner",
+          "length": 83961
+        },
+        {
+          "name": "Massachusetts",
+          "url": "/wiki/Massachusetts",
+          "length": 258656
+        },
+        {
+          "name": "United States Senate",
+          "url": "/wiki/United_States_Senate",
+          "length": null
+        },
+        {
+          "name": "Southern United States",
+          "url": "/wiki/Southern_United_States",
+          "length": 215318
+        },
+        {
+          "name": "Slavery in the United States",
+          "url": "/wiki/Slavery_in_the_United_States",
+          "length": 347417
+        }
+      ]
+    },
+    {
+      "year": "1905",
+      "description": "The Sultan of the Ottoman Empire Abdul Hamid II establishes the Ullah millet for the Aromanians of the empire. For this reason, the Aromanian National Day is sometimes celebrated on this day, although most do so on May 23 instead, which is when this event was publicly announced.",
+      "html": "<li>\n<a href=\"/wiki/1905\" title=\"1905\">1905</a> – The <a href=\"/wiki/Sultan_of_the_Ottoman_Empire\" class=\"mw-redirect\" title=\"Sultan of the Ottoman Empire\">Sultan of the Ottoman Empire</a> <a href=\"/wiki/Abdul_Hamid_II\" title=\"Abdul Hamid II\">Abdul Hamid II</a> establishes the <a href=\"/wiki/Ullah_millet\" title=\"Ullah millet\">Ullah millet</a> for the <a href=\"/wiki/Aromanians\" title=\"Aromanians\">Aromanians</a> of the empire. For this reason, the <a href=\"/wiki/Aromanian_National_Day\" title=\"Aromanian National Day\">Aromanian National Day</a> is sometimes celebrated on this day,<sup id=\"cite_ref-aro_8-0\" class=\"reference\"><a href=\"#cite_note-aro-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup> although most do so on <a href=\"/wiki/May_23\" title=\"May 23\">May 23</a> instead, which is when this event was publicly announced.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sultan of the Ottoman Empire",
+          "url": "/wiki/Sultan_of_the_Ottoman_Empire",
+          "length": 51
+        },
+        {
+          "name": "Abdul Hamid II",
+          "url": "/wiki/Abdul_Hamid_II",
+          "length": 93848
+        },
+        {
+          "name": "Ullah millet",
+          "url": "/wiki/Ullah_millet",
+          "length": 12541
+        },
+        {
+          "name": "Aromanians",
+          "url": "/wiki/Aromanians",
+          "length": 80152
+        },
+        {
+          "name": "Aromanian National Day",
+          "url": "/wiki/Aromanian_National_Day",
+          "length": 10363
+        },
+        {
+          "name": "May 23",
+          "url": "/wiki/May_23",
+          "length": 44885
+        }
+      ]
+    },
+    {
+      "year": "1629",
+      "description": "Holy Roman Emperor Ferdinand II and Danish King Christian IV sign the Treaty of Lübeck ending Danish intervention in the Thirty Years' War.",
+      "html": "<li>\n<a href=\"/wiki/1629\" title=\"1629\">1629</a> – <a href=\"/wiki/Holy_Roman_Emperor\" title=\"Holy Roman Emperor\">Holy Roman Emperor</a> <a href=\"/wiki/Ferdinand_II,_Holy_Roman_Emperor\" title=\"Ferdinand II, Holy Roman Emperor\">Ferdinand II</a> and <a href=\"/wiki/List_of_Danish_monarchs\" title=\"List of Danish monarchs\">Danish King</a> <a href=\"/wiki/Christian_IV_of_Denmark\" title=\"Christian IV of Denmark\">Christian IV</a> sign the <a href=\"/wiki/Treaty_of_L%C3%BCbeck\" title=\"Treaty of Lübeck\">Treaty of Lübeck</a> ending Danish intervention in the <a href=\"/wiki/Thirty_Years%27_War\" title=\"Thirty Years' War\">Thirty Years' War</a>.</li>",
+      "entities": [
+        {
+          "name": "Holy Roman Emperor",
+          "url": "/wiki/Holy_Roman_Emperor",
+          "length": 50177
+        },
+        {
+          "name": "Ferdinand II, Holy Roman Emperor",
+          "url": "/wiki/Ferdinand_II,_Holy_Roman_Emperor",
+          "length": 71517
+        },
+        {
+          "name": "List of Danish monarchs",
+          "url": "/wiki/List_of_Danish_monarchs",
+          "length": 51313
+        },
+        {
+          "name": "Christian IV of Denmark",
+          "url": "/wiki/Christian_IV_of_Denmark",
+          "length": 50325
+        },
+        {
+          "name": "Treaty of Lübeck",
+          "url": "/wiki/Treaty_of_L%C3%BCbeck",
+          "length": 13361
+        },
+        {
+          "name": "Thirty Years' War",
+          "url": "/wiki/Thirty_Years%27_War",
+          "length": 123760
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "description": "Fusilier Lee Rigby is murdered by 2 Islamic extremists in Woolwich, Southeast London",
+      "html": "<li>\n<a href=\"/wiki/2013\" title=\"2013\">2013</a> – <a href=\"/wiki/Fusilier\" title=\"Fusilier\">Fusilier</a> <a href=\"/wiki/Lee_Rigby\" class=\"mw-redirect\" title=\"Lee Rigby\">Lee Rigby</a> is murdered by 2 <a href=\"/wiki/Islamic_extremism\" title=\"Islamic extremism\">Islamic extremists</a> in <a href=\"/wiki/Woolwich\" title=\"Woolwich\">Woolwich</a>, <a href=\"/wiki/South_London\" title=\"South London\">Southeast London</a>\n</li>",
+      "entities": [
+        {
+          "name": "Fusilier",
+          "url": "/wiki/Fusilier",
+          "length": 30994
+        },
+        {
+          "name": "Lee Rigby",
+          "url": "/wiki/Lee_Rigby",
+          "length": 655
+        },
+        {
+          "name": "Islamic extremism",
+          "url": "/wiki/Islamic_extremism",
+          "length": 79393
+        },
+        {
+          "name": "Woolwich",
+          "url": "/wiki/Woolwich",
+          "length": 66606
+        },
+        {
+          "name": "South London",
+          "url": "/wiki/South_London",
+          "length": 19561
+        }
+      ]
+    },
+    {
+      "year": "1377",
+      "description": "Pope Gregory XI issues five papal bulls to denounce the doctrines of English theologian John Wycliffe.",
+      "html": "<li>\n<a href=\"/wiki/1377\" title=\"1377\">1377</a> – <a href=\"/wiki/Pope_Gregory_XI\" title=\"Pope Gregory XI\">Pope Gregory XI</a> issues five <a href=\"/wiki/Papal_bull\" title=\"Papal bull\">papal bulls</a> to denounce the <a href=\"/wiki/Doctrine\" title=\"Doctrine\">doctrines</a> of English <a href=\"/wiki/Theology\" title=\"Theology\">theologian</a> <a href=\"/wiki/John_Wycliffe\" title=\"John Wycliffe\">John Wycliffe</a>.</li>",
+      "entities": [
+        {
+          "name": "Pope Gregory XI",
+          "url": "/wiki/Pope_Gregory_XI",
+          "length": 14904
+        },
+        {
+          "name": "Papal bull",
+          "url": "/wiki/Papal_bull",
+          "length": 13335
+        },
+        {
+          "name": "Doctrine",
+          "url": "/wiki/Doctrine",
+          "length": 11777
+        },
+        {
+          "name": "Theology",
+          "url": "/wiki/Theology",
+          "length": 60962
+        },
+        {
+          "name": "John Wycliffe",
+          "url": "/wiki/John_Wycliffe",
+          "length": 65683
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "First ever Rugby World Cup kicks off with New Zealand playing Italy at Eden Park in Auckland, New Zealand.",
+      "html": "<li>1987   – First ever <a href=\"/wiki/1987_Rugby_World_Cup\" title=\"1987 Rugby World Cup\">Rugby World Cup</a> kicks off with <a href=\"/wiki/New_Zealand_Rugby_Union\" class=\"mw-redirect\" title=\"New Zealand Rugby Union\">New Zealand</a> playing <a href=\"/wiki/Italy_national_rugby_union_team\" title=\"Italy national rugby union team\">Italy</a> at <a href=\"/wiki/Eden_Park\" title=\"Eden Park\">Eden Park</a> in <a href=\"/wiki/Auckland\" title=\"Auckland\">Auckland</a>, New Zealand.</li>",
+      "entities": [
+        {
+          "name": "1987 Rugby World Cup",
+          "url": "/wiki/1987_Rugby_World_Cup",
+          "length": 18790
+        },
+        {
+          "name": "New Zealand Rugby Union",
+          "url": "/wiki/New_Zealand_Rugby_Union",
+          "length": 48
+        },
+        {
+          "name": "Italy national rugby union team",
+          "url": "/wiki/Italy_national_rugby_union_team",
+          "length": 99162
+        },
+        {
+          "name": "Eden Park",
+          "url": "/wiki/Eden_Park",
+          "length": 63066
+        },
+        {
+          "name": "Auckland",
+          "url": "/wiki/Auckland",
+          "length": 165971
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Morrissey, English singer-songwriter and performer, was born.",
+      "html": "<li>1959   – <a href=\"/wiki/Morrissey\" title=\"Morrissey\">Morrissey</a>, English singer-songwriter and performer</li>",
+      "entities": [
+        {
+          "name": "Morrissey",
+          "url": "/wiki/Morrissey",
+          "length": 189010
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "description": "Nicky Hayden, American motorcycle racer, died.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – <a href=\"/wiki/Nicky_Hayden\" title=\"Nicky Hayden\">Nicky Hayden</a>, American motorcycle racer (b. 1981)<sup id=\"cite_ref-53\" class=\"reference\"><a href=\"#cite_note-53\"><span class=\"cite-bracket\">[</span>53<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Nicky Hayden",
+          "url": "/wiki/Nicky_Hayden",
+          "length": 153140
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1987",
+      "description": "Novak Djokovic, Serbian tennis player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1987\" title=\"1987\">1987</a> – <a href=\"/wiki/Novak_Djokovic\" title=\"Novak Djokovic\">Novak Djokovic</a>, Serbian tennis player<sup id=\"cite_ref-39\" class=\"reference\"><a href=\"#cite_note-39\"><span class=\"cite-bracket\">[</span>39<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Novak Djokovic",
+          "url": "/wiki/Novak_Djokovic",
+          "length": 491097
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Bryan Danielson, American wrestler, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Bryan_Danielson\" title=\"Bryan Danielson\">Bryan Danielson</a>, American wrestler</li>",
+      "entities": [
+        {
+          "name": "Bryan Danielson",
+          "url": "/wiki/Bryan_Danielson",
+          "length": 302232
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Morrissey, English singer-songwriter and performer, was born.",
+      "html": "<li>1959   – <a href=\"/wiki/Morrissey\" title=\"Morrissey\">Morrissey</a>, English singer-songwriter and performer</li>",
+      "entities": [
+        {
+          "name": "Morrissey",
+          "url": "/wiki/Morrissey",
+          "length": 189010
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "337",
+      "description": "Constantine the Great, Roman emperor, died.",
+      "html": "<li>\n<a href=\"/wiki/337\" title=\"337\">337</a> – <a href=\"/wiki/Constantine_the_Great\" title=\"Constantine the Great\">Constantine the Great</a>, Roman emperor (b. 272)</li>",
+      "entities": [
+        {
+          "name": "Constantine the Great",
+          "url": "/wiki/Constantine_the_Great",
+          "length": 180515
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "description": "Nicky Hayden, American motorcycle racer, died.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – <a href=\"/wiki/Nicky_Hayden\" title=\"Nicky Hayden\">Nicky Hayden</a>, American motorcycle racer (b. 1981)<sup id=\"cite_ref-53\" class=\"reference\"><a href=\"#cite_note-53\"><span class=\"cite-bracket\">[</span>53<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Nicky Hayden",
+          "url": "/wiki/Nicky_Hayden",
+          "length": 153140
+        }
+      ]
+    },
+    {
+      "year": "1885",
+      "description": "Victor Hugo, French novelist, poet, and playwright, died.",
+      "html": "<li>\n<a href=\"/wiki/1885\" title=\"1885\">1885</a> – <a href=\"/wiki/Victor_Hugo\" title=\"Victor Hugo\">Victor Hugo</a>, French novelist, poet, and playwright (b. 1802)</li>",
+      "entities": [
+        {
+          "name": "Victor Hugo",
+          "url": "/wiki/Victor_Hugo",
+          "length": 95973
+        }
+      ]
+    }
+  ]
+}

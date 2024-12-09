@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "2022",
+      "description": "Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – <a href=\"/wiki/Death_of_Queen_Elizabeth_II\" class=\"mw-redirect\" title=\"Death of Queen Elizabeth II\">Death of Queen Elizabeth II</a>: The Queen's coffin is taken from <a href=\"/wiki/Buckingham_Palace\" title=\"Buckingham Palace\">Buckingham Palace</a>, placed on a gun carriage of <a href=\"/wiki/King%27s_Troop,_Royal_Horse_Artillery\" title=\"King's Troop, Royal Horse Artillery\">The King's Troop Royal Horse Artillery</a> and moved in a procession to <a href=\"/wiki/Westminster_Hall\" title=\"Westminster Hall\">Westminster Hall</a> for her <a href=\"/wiki/Lying_in_state\" title=\"Lying in state\">lying in state</a> over the next four days with <a href=\"/wiki/Queue_for_the_lying-in-state_of_Elizabeth_II\" title=\"Queue for the lying-in-state of Elizabeth II\">the queue of mourners</a> stretching for miles along the <a href=\"/wiki/River_Thames\" title=\"River Thames\">River Thames</a>.<sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\"><span class=\"cite-bracket\">[</span>18<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Death of Queen Elizabeth II",
+          "url": "/wiki/Death_of_Queen_Elizabeth_II",
+          "length": 100
+        },
+        {
+          "name": "Buckingham Palace",
+          "url": "/wiki/Buckingham_Palace",
+          "length": 69694
+        },
+        {
+          "name": "King's Troop, Royal Horse Artillery",
+          "url": "/wiki/King%27s_Troop,_Royal_Horse_Artillery",
+          "length": 14400
+        },
+        {
+          "name": "Westminster Hall",
+          "url": "/wiki/Westminster_Hall",
+          "length": 19939
+        },
+        {
+          "name": "Lying in state",
+          "url": "/wiki/Lying_in_state",
+          "length": 39705
+        },
+        {
+          "name": "Queue for the lying-in-state of Elizabeth II",
+          "url": "/wiki/Queue_for_the_lying-in-state_of_Elizabeth_II",
+          "length": 52485
+        },
+        {
+          "name": "River Thames",
+          "url": "/wiki/River_Thames",
+          "length": 138663
+        }
+      ]
+    },
+    {
+      "year": "1180",
+      "description": "Genpei War: In the Battle of Ishibashiyama in Japan, the new military commander of the Minamoto clan, Minamoto no Yoritomo, is routed by Ōba Kagechika of the Taira clan.",
+      "html": "<li>\n<a href=\"/wiki/1180\" title=\"1180\">1180</a> – <a href=\"/wiki/Genpei_War\" title=\"Genpei War\">Genpei War</a>: In the <a href=\"/wiki/Battle_of_Ishibashiyama\" title=\"Battle of Ishibashiyama\">Battle of Ishibashiyama</a> in Japan, the new military commander of the <a href=\"/wiki/Minamoto_clan\" title=\"Minamoto clan\">Minamoto clan</a>, <a href=\"/wiki/Minamoto_no_Yoritomo\" title=\"Minamoto no Yoritomo\">Minamoto no Yoritomo</a>, is routed by <a href=\"/wiki/%C5%8Cba_Kagechika\" title=\"Ōba Kagechika\">Ōba Kagechika</a> of the <a href=\"/wiki/Taira_clan\" title=\"Taira clan\">Taira clan</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Genpei War",
+          "url": "/wiki/Genpei_War",
+          "length": 33078
+        },
+        {
+          "name": "Battle of Ishibashiyama",
+          "url": "/wiki/Battle_of_Ishibashiyama",
+          "length": 6219
+        },
+        {
+          "name": "Minamoto clan",
+          "url": "/wiki/Minamoto_clan",
+          "length": 25030
+        },
+        {
+          "name": "Minamoto no Yoritomo",
+          "url": "/wiki/Minamoto_no_Yoritomo",
+          "length": 22895
+        },
+        {
+          "name": "Ōba Kagechika",
+          "url": "/wiki/%C5%8Cba_Kagechika",
+          "length": 2075
+        },
+        {
+          "name": "Taira clan",
+          "url": "/wiki/Taira_clan",
+          "length": 11781
+        }
+      ]
+    },
+    {
+      "year": "1901",
+      "description": "U.S. President William McKinley dies after being mortally wounded on September 6 by anarchist Leon Czolgosz and is succeeded by Vice President Theodore Roosevelt.",
+      "html": "<li>\n<a href=\"/wiki/1901\" title=\"1901\">1901</a> – U.S. President <a href=\"/wiki/William_McKinley\" title=\"William McKinley\">William McKinley</a> dies after <a href=\"/wiki/Assassination_of_William_McKinley\" title=\"Assassination of William McKinley\">being mortally wounded</a> on <a href=\"/wiki/September_6\" title=\"September 6\">September 6</a> by anarchist <a href=\"/wiki/Leon_Czolgosz\" title=\"Leon Czolgosz\">Leon Czolgosz</a> and is succeeded by Vice President <a href=\"/wiki/Theodore_Roosevelt\" title=\"Theodore Roosevelt\">Theodore Roosevelt</a>.</li>",
+      "entities": [
+        {
+          "name": "William McKinley",
+          "url": "/wiki/William_McKinley",
+          "length": 125277
+        },
+        {
+          "name": "Assassination of William McKinley",
+          "url": "/wiki/Assassination_of_William_McKinley",
+          "length": 54514
+        },
+        {
+          "name": "September 6",
+          "url": "/wiki/September_6",
+          "length": 59543
+        },
+        {
+          "name": "Leon Czolgosz",
+          "url": "/wiki/Leon_Czolgosz",
+          "length": 34303
+        },
+        {
+          "name": "Theodore Roosevelt",
+          "url": "/wiki/Theodore_Roosevelt",
+          "length": 200939
+        }
+      ]
+    },
+    {
+      "year": "1911",
+      "description": "Russian Premier Pyotr Stolypin is shot by Dmitry Bogrov while attending a performance of Rimsky-Korsakov's The Tale of Tsar Saltan at the Kiev Opera House, in the presence of Tsar Nicholas II.",
+      "html": "<li>\n<a href=\"/wiki/1911\" title=\"1911\">1911</a> – Russian Premier <a href=\"/wiki/Pyotr_Stolypin\" title=\"Pyotr Stolypin\">Pyotr Stolypin</a> is shot by <a href=\"/wiki/Dmitry_Bogrov\" class=\"mw-redirect\" title=\"Dmitry Bogrov\">Dmitry Bogrov</a> while attending a performance of <a href=\"/wiki/Rimsky-Korsakov\" class=\"mw-redirect\" title=\"Rimsky-Korsakov\">Rimsky-Korsakov</a>'s <a href=\"/wiki/The_Tale_of_Tsar_Saltan_(Rimsky-Korsakov)\" class=\"mw-redirect\" title=\"The Tale of Tsar Saltan (Rimsky-Korsakov)\"><i>The Tale of Tsar Saltan</i></a> at the Kiev Opera House, in the presence of <a href=\"/wiki/Tsar_Nicholas_II\" class=\"mw-redirect\" title=\"Tsar Nicholas II\">Tsar Nicholas II</a>.<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pyotr Stolypin",
+          "url": "/wiki/Pyotr_Stolypin",
+          "length": 33704
+        },
+        {
+          "name": "Dmitry Bogrov",
+          "url": "/wiki/Dmitry_Bogrov",
+          "length": 75
+        },
+        {
+          "name": "Rimsky-Korsakov",
+          "url": "/wiki/Rimsky-Korsakov",
+          "length": 87
+        },
+        {
+          "name": "The Tale of Tsar Saltan (Rimsky-Korsakov)",
+          "url": "/wiki/The_Tale_of_Tsar_Saltan_(Rimsky-Korsakov)",
+          "length": 62
+        },
+        {
+          "name": "Tsar Nicholas II",
+          "url": "/wiki/Tsar_Nicholas_II",
+          "length": 25
+        }
+      ]
+    },
+    {
+      "year": "AD 81",
+      "description": "Domitian became Emperor of the Roman Empire upon the death of his brother Titus.",
+      "html": "<li>\n<a href=\"/wiki/AD_81\" title=\"AD 81\">AD 81</a> – <a href=\"/wiki/Domitian\" title=\"Domitian\">Domitian</a> became Emperor of the <a href=\"/wiki/Roman_Empire\" title=\"Roman Empire\">Roman Empire</a> upon the death of his brother <a href=\"/wiki/Titus\" title=\"Titus\">Titus</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "AD 81",
+          "url": "/wiki/AD_81",
+          "length": 2147
+        },
+        {
+          "name": "Domitian",
+          "url": "/wiki/Domitian",
+          "length": 105826
+        },
+        {
+          "name": "Roman Empire",
+          "url": "/wiki/Roman_Empire",
+          "length": 257524
+        },
+        {
+          "name": "Titus",
+          "url": "/wiki/Titus",
+          "length": 59940
+        }
+      ]
+    },
+    {
+      "year": "1939",
+      "description": "World War II: The Estonian military boards the Polish submarine ORP Orzeł in Tallinn, sparking a diplomatic incident that the Soviet Union will later use to justify the annexation of Estonia.",
+      "html": "<li>\n<a href=\"/wiki/1939\" title=\"1939\">1939</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The Estonian military boards the Polish submarine <a href=\"/wiki/ORP_Orze%C5%82_(1938)\" title=\"ORP Orzeł (1938)\">ORP <i>Orzeł</i></a> in <a href=\"/wiki/Tallinn\" title=\"Tallinn\">Tallinn</a>, sparking a <a href=\"/wiki/Orze%C5%82_incident\" title=\"Orzeł incident\">diplomatic incident</a> that the Soviet Union will later use to justify the annexation of Estonia.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "ORP Orzeł (1938)",
+          "url": "/wiki/ORP_Orze%C5%82_(1938)",
+          "length": 14876
+        },
+        {
+          "name": "Tallinn",
+          "url": "/wiki/Tallinn",
+          "length": 125378
+        },
+        {
+          "name": "Orzeł incident",
+          "url": "/wiki/Orze%C5%82_incident",
+          "length": 10543
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Amy Winehouse, English singer-songwriter, was born.",
+      "html": "<li>1983   – <a href=\"/wiki/Amy_Winehouse\" title=\"Amy Winehouse\">Amy Winehouse</a>, English singer-songwriter (d. 2011)<sup id=\"cite_ref-UPI_24-5\" class=\"reference\"><a href=\"#cite_note-UPI-24\"><span class=\"cite-bracket\">[</span>24<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Amy Winehouse",
+          "url": "/wiki/Amy_Winehouse",
+          "length": 228425
+        }
+      ]
+    },
+    {
+      "year": "1901",
+      "description": "William McKinley, American soldier, lawyer, and politician, 25th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1901\" title=\"1901\">1901</a> – <a href=\"/wiki/William_McKinley\" title=\"William McKinley\">William McKinley</a>, American soldier, lawyer, and politician, 25th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1843)</li>",
+      "entities": [
+        {
+          "name": "William McKinley",
+          "url": "/wiki/William_McKinley",
+          "length": 125277
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1983",
+      "description": "Amy Winehouse, English singer-songwriter, was born.",
+      "html": "<li>1983   – <a href=\"/wiki/Amy_Winehouse\" title=\"Amy Winehouse\">Amy Winehouse</a>, English singer-songwriter (d. 2011)<sup id=\"cite_ref-UPI_24-5\" class=\"reference\"><a href=\"#cite_note-UPI-24\"><span class=\"cite-bracket\">[</span>24<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Amy Winehouse",
+          "url": "/wiki/Amy_Winehouse",
+          "length": 228425
+        }
+      ]
+    },
+    {
+      "year": "1978",
+      "description": "Ron DeSantis, American politician, 46th Governor of Florida, was born.",
+      "html": "<li>1978   – <a href=\"/wiki/Ron_DeSantis\" title=\"Ron DeSantis\">Ron DeSantis</a>, American politician, 46th <a href=\"/wiki/Governor_of_Florida\" class=\"mw-redirect\" title=\"Governor of Florida\">Governor of Florida</a><sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\"><span class=\"cite-bracket\">[</span>32<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ron DeSantis",
+          "url": "/wiki/Ron_DeSantis",
+          "length": 215542
+        },
+        {
+          "name": "Governor of Florida",
+          "url": "/wiki/Governor_of_Florida",
+          "length": 200
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Dmitry Medvedev, Russian lawyer and politician, 3rd President of Russia, was born.",
+      "html": "<li>1965   – <a href=\"/wiki/Dmitry_Medvedev\" title=\"Dmitry Medvedev\">Dmitry Medvedev</a>, Russian lawyer and politician, 3rd <a href=\"/wiki/President_of_Russia\" title=\"President of Russia\">President of Russia</a><sup id=\"cite_ref-UPI_24-3\" class=\"reference\"><a href=\"#cite_note-UPI-24\"><span class=\"cite-bracket\">[</span>24<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Dmitry Medvedev",
+          "url": "/wiki/Dmitry_Medvedev",
+          "length": 190635
+        },
+        {
+          "name": "President of Russia",
+          "url": "/wiki/President_of_Russia",
+          "length": 49930
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1852",
+      "description": "Arthur Wellesley, 1st Duke of Wellington, Irish-English field marshal and politician, Prime Minister of the United Kingdom, died.",
+      "html": "<li>1852   – <a href=\"/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington\" title=\"Arthur Wellesley, 1st Duke of Wellington\">Arthur Wellesley, 1st Duke of Wellington</a>, Irish-English field marshal and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (b. 1769)</li>",
+      "entities": [
+        {
+          "name": "Arthur Wellesley, 1st Duke of Wellington",
+          "url": "/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington",
+          "length": 153855
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "1901",
+      "description": "William McKinley, American soldier, lawyer, and politician, 25th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1901\" title=\"1901\">1901</a> – <a href=\"/wiki/William_McKinley\" title=\"William McKinley\">William McKinley</a>, American soldier, lawyer, and politician, 25th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1843)</li>",
+      "entities": [
+        {
+          "name": "William McKinley",
+          "url": "/wiki/William_McKinley",
+          "length": 125277
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1836",
+      "description": "Aaron Burr, American colonel and politician, 3rd Vice President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1836\" title=\"1836\">1836</a> – <a href=\"/wiki/Aaron_Burr\" title=\"Aaron Burr\">Aaron Burr</a>, American colonel and politician, 3rd <a href=\"/wiki/Vice_President_of_the_United_States\" title=\"Vice President of the United States\">Vice President of the United States</a> (b. 1756)</li>",
+      "entities": [
+        {
+          "name": "Aaron Burr",
+          "url": "/wiki/Aaron_Burr",
+          "length": 106205
+        },
+        {
+          "name": "Vice President of the United States",
+          "url": "/wiki/Vice_President_of_the_United_States",
+          "length": 123376
+        }
+      ]
+    }
+  ]
+}

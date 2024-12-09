@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "2011",
+      "description": "Libyan Civil War: After the failure of Muammar Gaddafi's forces to take Benghazi, the French Air Force launches Opération Harmattan, beginning foreign military intervention in Libya.",
+      "html": "<li>\n<a href=\"/wiki/2011\" title=\"2011\">2011</a> – <a href=\"/wiki/Libyan_Civil_War_(2011)\" class=\"mw-redirect\" title=\"Libyan Civil War (2011)\">Libyan Civil War</a>: After the failure of <a href=\"/wiki/Muammar_Gaddafi\" title=\"Muammar Gaddafi\">Muammar Gaddafi</a>'s forces <a href=\"/wiki/Second_Battle_of_Benghazi\" title=\"Second Battle of Benghazi\">to take Benghazi</a>, the <a href=\"/wiki/French_Air_Force\" class=\"mw-redirect\" title=\"French Air Force\">French Air Force</a> launches <a href=\"/wiki/Op%C3%A9ration_Harmattan\" title=\"Opération Harmattan\">Opération Harmattan</a>, beginning <a href=\"/wiki/2011_military_intervention_in_Libya\" title=\"2011 military intervention in Libya\">foreign military intervention in Libya</a>.</li>",
+      "entities": [
+        {
+          "name": "Libyan Civil War (2011)",
+          "url": "/wiki/Libyan_Civil_War_(2011)",
+          "length": 84
+        },
+        {
+          "name": "Muammar Gaddafi",
+          "url": "/wiki/Muammar_Gaddafi",
+          "length": 241106
+        },
+        {
+          "name": "Second Battle of Benghazi",
+          "url": "/wiki/Second_Battle_of_Benghazi",
+          "length": 11940
+        },
+        {
+          "name": "French Air Force",
+          "url": "/wiki/French_Air_Force",
+          "length": 108
+        },
+        {
+          "name": "Opération Harmattan",
+          "url": "/wiki/Op%C3%A9ration_Harmattan",
+          "length": 21514
+        },
+        {
+          "name": "2011 military intervention in Libya",
+          "url": "/wiki/2011_military_intervention_in_Libya",
+          "length": 205278
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "French Guiana, Guadeloupe, Martinique, and Réunion become overseas départements of France.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – <a href=\"/wiki/French_Guiana\" title=\"French Guiana\">French Guiana</a>, <a href=\"/wiki/Guadeloupe\" title=\"Guadeloupe\">Guadeloupe</a>, <a href=\"/wiki/Martinique\" title=\"Martinique\">Martinique</a>, and <a href=\"/wiki/R%C3%A9union\" title=\"Réunion\">Réunion</a> become <a href=\"/wiki/Overseas_department\" class=\"mw-redirect\" title=\"Overseas department\">overseas <i>départements</i></a> of France.</li>",
+      "entities": [
+        {
+          "name": "French Guiana",
+          "url": "/wiki/French_Guiana",
+          "length": 104691
+        },
+        {
+          "name": "Guadeloupe",
+          "url": "/wiki/Guadeloupe",
+          "length": 123378
+        },
+        {
+          "name": "Martinique",
+          "url": "/wiki/Martinique",
+          "length": 204545
+        },
+        {
+          "name": "Réunion",
+          "url": "/wiki/R%C3%A9union",
+          "length": 131603
+        },
+        {
+          "name": "Overseas department",
+          "url": "/wiki/Overseas_department",
+          "length": 73
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "description": "March 19 Shooting Incident: The Republic of China (Taiwan) president Chen Shui-bian is shot just before the country's presidential election on March 20.",
+      "html": "<li>2004 – <a href=\"/wiki/3-19_shooting_incident\" class=\"mw-redirect\" title=\"3-19 shooting incident\">March 19 Shooting Incident</a>: The <a href=\"/wiki/Republic_of_China\" class=\"mw-redirect\" title=\"Republic of China\">Republic of China</a> (<a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a>) president <a href=\"/wiki/Chen_Shui-bian\" title=\"Chen Shui-bian\">Chen Shui-bian</a> is shot just before the country's presidential election on <a href=\"/wiki/March_20\" title=\"March 20\">March 20</a>.</li>",
+      "entities": [
+        {
+          "name": "3-19 shooting incident",
+          "url": "/wiki/3-19_shooting_incident",
+          "length": 87
+        },
+        {
+          "name": "Republic of China",
+          "url": "/wiki/Republic_of_China",
+          "length": 158
+        },
+        {
+          "name": "Taiwan",
+          "url": "/wiki/Taiwan",
+          "length": 344497
+        },
+        {
+          "name": "Chen Shui-bian",
+          "url": "/wiki/Chen_Shui-bian",
+          "length": 86897
+        },
+        {
+          "name": "March 20",
+          "url": "/wiki/March_20",
+          "length": 53199
+        }
+      ]
+    },
+    {
+      "year": "1885",
+      "description": "Louis Riel declares a provisional government in Saskatchewan, beginning the North-West Rebellion.",
+      "html": "<li>\n<a href=\"/wiki/1885\" title=\"1885\">1885</a> – <a href=\"/wiki/Louis_Riel\" title=\"Louis Riel\">Louis Riel</a> declares a <a href=\"/wiki/Provisional_government\" title=\"Provisional government\">provisional government</a> in <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, beginning the <a href=\"/wiki/North-West_Rebellion\" title=\"North-West Rebellion\">North-West Rebellion</a>.</li>",
+      "entities": [
+        {
+          "name": "Louis Riel",
+          "url": "/wiki/Louis_Riel",
+          "length": 76815
+        },
+        {
+          "name": "Provisional government",
+          "url": "/wiki/Provisional_government",
+          "length": 79825
+        },
+        {
+          "name": "Saskatchewan",
+          "url": "/wiki/Saskatchewan",
+          "length": 99171
+        },
+        {
+          "name": "North-West Rebellion",
+          "url": "/wiki/North-West_Rebellion",
+          "length": 95015
+        }
+      ]
+    },
+    {
+      "year": "1918",
+      "description": "The US Congress establishes time zones and approves daylight saving time.",
+      "html": "<li>\n<a href=\"/wiki/1918\" title=\"1918\">1918</a> – The <a href=\"/wiki/United_States_Congress\" title=\"United States Congress\">US Congress</a> <a href=\"/wiki/Standard_Time_Act\" title=\"Standard Time Act\">establishes</a> <a href=\"/wiki/Time_zone\" title=\"Time zone\">time zones</a> and approves <a href=\"/wiki/Daylight_saving_time\" title=\"Daylight saving time\">daylight saving time</a>.</li>",
+      "entities": [
+        {
+          "name": "United States Congress",
+          "url": "/wiki/United_States_Congress",
+          "length": 192932
+        },
+        {
+          "name": "Standard Time Act",
+          "url": "/wiki/Standard_Time_Act",
+          "length": 4868
+        },
+        {
+          "name": "Time zone",
+          "url": "/wiki/Time_zone",
+          "length": 92571
+        },
+        {
+          "name": "Daylight saving time",
+          "url": "/wiki/Daylight_saving_time",
+          "length": 126894
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "description": "The first President of Kazakhstan, Nursultan Nazarbayev, resigns from office after nearly three decades, leaving Senate Chairman Kassym-Jomart Tokayev as the acting President and successor.",
+      "html": "<li>\n<a href=\"/wiki/2019\" title=\"2019\">2019</a> – The first <a href=\"/wiki/President_of_Kazakhstan\" title=\"President of Kazakhstan\">President of Kazakhstan</a>, <a href=\"/wiki/Nursultan_Nazarbayev\" title=\"Nursultan Nazarbayev\">Nursultan Nazarbayev</a>, resigns from office after nearly three decades, leaving <a href=\"/wiki/Chairman_of_the_Senate_of_Kazakhstan\" title=\"Chairman of the Senate of Kazakhstan\">Senate Chairman</a> <a href=\"/wiki/Kassym-Jomart_Tokayev\" title=\"Kassym-Jomart Tokayev\">Kassym-Jomart Tokayev</a> as the acting President and successor.<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "President of Kazakhstan",
+          "url": "/wiki/President_of_Kazakhstan",
+          "length": 13440
+        },
+        {
+          "name": "Nursultan Nazarbayev",
+          "url": "/wiki/Nursultan_Nazarbayev",
+          "length": 201485
+        },
+        {
+          "name": "Chairman of the Senate of Kazakhstan",
+          "url": "/wiki/Chairman_of_the_Senate_of_Kazakhstan",
+          "length": 3771
+        },
+        {
+          "name": "Kassym-Jomart Tokayev",
+          "url": "/wiki/Kassym-Jomart_Tokayev",
+          "length": 160890
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "Glenn Close, American actress, singer, and producer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1947\" title=\"1947\">1947</a> – <a href=\"/wiki/Glenn_Close\" title=\"Glenn Close\">Glenn Close</a>, American actress, singer, and producer<sup id=\"cite_ref-AP_21-3\" class=\"reference\"><a href=\"#cite_note-AP-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Glenn Close",
+          "url": "/wiki/Glenn_Close",
+          "length": 132273
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "description": "Fred Phelps, American lawyer, pastor, and activist, founded the Westboro Baptist Church, died.",
+      "html": "<li>2014   – <a href=\"/wiki/Fred_Phelps\" title=\"Fred Phelps\">Fred Phelps</a>, American lawyer, pastor, and activist, founded the <a href=\"/wiki/Westboro_Baptist_Church\" title=\"Westboro Baptist Church\">Westboro Baptist Church</a> (b. 1929)</li>",
+      "entities": [
+        {
+          "name": "Fred Phelps",
+          "url": "/wiki/Fred_Phelps",
+          "length": 94269
+        },
+        {
+          "name": "Westboro Baptist Church",
+          "url": "/wiki/Westboro_Baptist_Church",
+          "length": 99891
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1848",
+      "description": "Wyatt Earp, American police officer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1848\" title=\"1848\">1848</a> – <a href=\"/wiki/Wyatt_Earp\" title=\"Wyatt Earp\">Wyatt Earp</a>, American police officer (d. 1929)</li>",
+      "entities": [
+        {
+          "name": "Wyatt Earp",
+          "url": "/wiki/Wyatt_Earp",
+          "length": 199377
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Clayton Kershaw, American baseball player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1988\" title=\"1988\">1988</a> – <a href=\"/wiki/Clayton_Kershaw\" title=\"Clayton Kershaw\">Clayton Kershaw</a>, American baseball player<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Clayton Kershaw",
+          "url": "/wiki/Clayton_Kershaw",
+          "length": 142798
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "Glenn Close, American actress, singer, and producer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1947\" title=\"1947\">1947</a> – <a href=\"/wiki/Glenn_Close\" title=\"Glenn Close\">Glenn Close</a>, American actress, singer, and producer<sup id=\"cite_ref-AP_21-3\" class=\"reference\"><a href=\"#cite_note-AP-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Glenn Close",
+          "url": "/wiki/Glenn_Close",
+          "length": 132273
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2008",
+      "description": "Arthur C. Clarke, English science fiction writer, died.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/Arthur_C._Clarke\" title=\"Arthur C. Clarke\">Arthur C. Clarke</a>, English science fiction writer (b. 1917)<sup id=\"cite_ref-64\" class=\"reference\"><a href=\"#cite_note-64\"><span class=\"cite-bracket\">[</span>64<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Arthur C. Clarke",
+          "url": "/wiki/Arthur_C._Clarke",
+          "length": 125054
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "description": "Fred Phelps, American lawyer, pastor, and activist, founded the Westboro Baptist Church, died.",
+      "html": "<li>2014   – <a href=\"/wiki/Fred_Phelps\" title=\"Fred Phelps\">Fred Phelps</a>, American lawyer, pastor, and activist, founded the <a href=\"/wiki/Westboro_Baptist_Church\" title=\"Westboro Baptist Church\">Westboro Baptist Church</a> (b. 1929)</li>",
+      "entities": [
+        {
+          "name": "Fred Phelps",
+          "url": "/wiki/Fred_Phelps",
+          "length": 94269
+        },
+        {
+          "name": "Westboro Baptist Church",
+          "url": "/wiki/Westboro_Baptist_Church",
+          "length": 99891
+        }
+      ]
+    },
+    {
+      "year": "1930",
+      "description": "Arthur Balfour, Scottish-English politician, Prime Minister of the United Kingdom, died.",
+      "html": "<li>\n<a href=\"/wiki/1930\" title=\"1930\">1930</a> – <a href=\"/wiki/Arthur_Balfour\" title=\"Arthur Balfour\">Arthur Balfour</a>, Scottish-English politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (b. 1848)</li>",
+      "entities": [
+        {
+          "name": "Arthur Balfour",
+          "url": "/wiki/Arthur_Balfour",
+          "length": 91976
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    }
+  ]
+}

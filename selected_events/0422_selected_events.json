@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1809",
+      "description": "The second day of the Battle of Eckmühl: The Austrian army is defeated by the First French Empire army led by Napoleon and driven over the Danube in Regensburg.",
+      "html": "<li>\n<a href=\"/wiki/1809\" title=\"1809\">1809</a> – The second day of the <a href=\"/wiki/Battle_of_Eckm%C3%BChl\" title=\"Battle of Eckmühl\">Battle of Eckmühl</a>: The <a href=\"/wiki/Austrian_Empire\" title=\"Austrian Empire\">Austrian</a> army is defeated by the <a href=\"/wiki/First_French_Empire\" title=\"First French Empire\">First French Empire</a> army led by <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon</a> and driven over the <a href=\"/wiki/Danube\" title=\"Danube\">Danube</a> in <a href=\"/wiki/Regensburg\" title=\"Regensburg\">Regensburg</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Eckmühl",
+          "url": "/wiki/Battle_of_Eckm%C3%BChl",
+          "length": 17135
+        },
+        {
+          "name": "Austrian Empire",
+          "url": "/wiki/Austrian_Empire",
+          "length": 49621
+        },
+        {
+          "name": "First French Empire",
+          "url": "/wiki/First_French_Empire",
+          "length": 47700
+        },
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189162
+        },
+        {
+          "name": "Danube",
+          "url": "/wiki/Danube",
+          "length": 119054
+        },
+        {
+          "name": "Regensburg",
+          "url": "/wiki/Regensburg",
+          "length": 68556
+        }
+      ]
+    },
+    {
+      "year": "1836",
+      "description": "Texas Revolution: A day after the Battle of San Jacinto, forces under Texas General Sam Houston identify Mexican General Antonio López de Santa Anna among the captives of the battle when some of his fellow soldiers mistakenly give away his identity.",
+      "html": "<li>\n<a href=\"/wiki/1836\" title=\"1836\">1836</a> – <a href=\"/wiki/Texas_Revolution\" title=\"Texas Revolution\">Texas Revolution</a>: A day after the <a href=\"/wiki/Battle_of_San_Jacinto\" title=\"Battle of San Jacinto\">Battle of San Jacinto</a>, forces under <a href=\"/wiki/Republic_of_Texas\" title=\"Republic of Texas\">Texas</a> General <a href=\"/wiki/Sam_Houston\" title=\"Sam Houston\">Sam Houston</a> identify Mexican General <a href=\"/wiki/Antonio_L%C3%B3pez_de_Santa_Anna\" title=\"Antonio López de Santa Anna\">Antonio López de Santa Anna</a> among the captives of the battle when some of his fellow soldiers mistakenly give away his identity.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Texas Revolution",
+          "url": "/wiki/Texas_Revolution",
+          "length": 109716
+        },
+        {
+          "name": "Battle of San Jacinto",
+          "url": "/wiki/Battle_of_San_Jacinto",
+          "length": 51794
+        },
+        {
+          "name": "Republic of Texas",
+          "url": "/wiki/Republic_of_Texas",
+          "length": 63037
+        },
+        {
+          "name": "Sam Houston",
+          "url": "/wiki/Sam_Houston",
+          "length": 64797
+        },
+        {
+          "name": "Antonio López de Santa Anna",
+          "url": "/wiki/Antonio_L%C3%B3pez_de_Santa_Anna",
+          "length": 74927
+        }
+      ]
+    },
+    {
+      "year": "1915",
+      "description": "World War I: The use of poison gas in World War I escalates when chlorine gas is released as a chemical weapon in the Second Battle of Ypres.",
+      "html": "<li>\n<a href=\"/wiki/1915\" title=\"1915\">1915</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: The use of <a href=\"/wiki/Poison_gas_in_World_War_I\" class=\"mw-redirect\" title=\"Poison gas in World War I\">poison gas in World War I</a> escalates when <a href=\"/wiki/Chlorine\" title=\"Chlorine\">chlorine gas</a> is released as a <a href=\"/wiki/Chemical_warfare\" title=\"Chemical warfare\">chemical weapon</a> in the <a href=\"/wiki/Second_Battle_of_Ypres\" title=\"Second Battle of Ypres\">Second Battle of Ypres</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Poison gas in World War I",
+          "url": "/wiki/Poison_gas_in_World_War_I",
+          "length": 45
+        },
+        {
+          "name": "Chlorine",
+          "url": "/wiki/Chlorine",
+          "length": 119788
+        },
+        {
+          "name": "Chemical warfare",
+          "url": "/wiki/Chemical_warfare",
+          "length": 80937
+        },
+        {
+          "name": "Second Battle of Ypres",
+          "url": "/wiki/Second_Battle_of_Ypres",
+          "length": 43602
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Korean War: The Chinese People's Volunteer Army begin assaulting positions defended by the Royal Australian Regiment and the Princess Patricia's Canadian Light Infantry at the Battle of Kapyong.",
+      "html": "<li>\n<a href=\"/wiki/1951\" title=\"1951\">1951</a> – <a href=\"/wiki/Korean_War\" title=\"Korean War\">Korean War</a>: The Chinese <a href=\"/wiki/People%27s_Volunteer_Army\" title=\"People's Volunteer Army\">People's Volunteer Army</a> begin assaulting positions defended by the <a href=\"/wiki/Royal_Australian_Regiment\" title=\"Royal Australian Regiment\">Royal Australian Regiment</a> and the <a href=\"/wiki/Princess_Patricia%27s_Canadian_Light_Infantry\" title=\"Princess Patricia's Canadian Light Infantry\">Princess Patricia's Canadian Light Infantry</a> at the <a href=\"/wiki/Battle_of_Kapyong\" title=\"Battle of Kapyong\">Battle of Kapyong</a>.</li>",
+      "entities": [
+        {
+          "name": "Korean War",
+          "url": "/wiki/Korean_War",
+          "length": 262347
+        },
+        {
+          "name": "People's Volunteer Army",
+          "url": "/wiki/People%27s_Volunteer_Army",
+          "length": 72340
+        },
+        {
+          "name": "Royal Australian Regiment",
+          "url": "/wiki/Royal_Australian_Regiment",
+          "length": 84577
+        },
+        {
+          "name": "Princess Patricia's Canadian Light Infantry",
+          "url": "/wiki/Princess_Patricia%27s_Canadian_Light_Infantry",
+          "length": 95278
+        },
+        {
+          "name": "Battle of Kapyong",
+          "url": "/wiki/Battle_of_Kapyong",
+          "length": 129660
+        }
+      ]
+    },
+    {
+      "year": "1944",
+      "description": "The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater.",
+      "html": "<li>\n<a href=\"/wiki/1944\" title=\"1944\">1944</a> – The <a href=\"/wiki/1st_Air_Commando_Group\" class=\"mw-redirect\" title=\"1st Air Commando Group\">1st Air Commando Group</a> using <a href=\"/wiki/Sikorsky_R-4\" title=\"Sikorsky R-4\">Sikorsky R-4</a> helicopters stage the first use of helicopters in <a href=\"/wiki/Military_helicopter\" title=\"Military helicopter\">combat</a> with <a href=\"/wiki/Combat_search_and_rescue\" title=\"Combat search and rescue\">combat search and rescue</a> operations in the <a href=\"/wiki/China_Burma_India_Theater\" class=\"mw-redirect\" title=\"China Burma India Theater\">China Burma India Theater</a>.</li>",
+      "entities": [
+        {
+          "name": "1st Air Commando Group",
+          "url": "/wiki/1st_Air_Commando_Group",
+          "length": 116
+        },
+        {
+          "name": "Sikorsky R-4",
+          "url": "/wiki/Sikorsky_R-4",
+          "length": 26710
+        },
+        {
+          "name": "Military helicopter",
+          "url": "/wiki/Military_helicopter",
+          "length": 27479
+        },
+        {
+          "name": "Combat search and rescue",
+          "url": "/wiki/Combat_search_and_rescue",
+          "length": 12779
+        },
+        {
+          "name": "China Burma India Theater",
+          "url": "/wiki/China_Burma_India_Theater",
+          "length": 86
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Four police officers are killed after being struck by a truck on the Eastern Freeway in Melbourne while speaking to a speeding driver, marking the largest loss of police lives in Victoria Police history.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – Four police officers are <a href=\"/wiki/2020_Eastern_Freeway_truck_crash\" title=\"2020 Eastern Freeway truck crash\">killed after being struck by a truck</a> on the <a href=\"/wiki/Eastern_Freeway_(Melbourne)\" title=\"Eastern Freeway (Melbourne)\">Eastern Freeway</a> in <a href=\"/wiki/Melbourne\" title=\"Melbourne\">Melbourne</a> while speaking to a speeding driver, marking the largest loss of police lives in <a href=\"/wiki/Victoria_Police\" title=\"Victoria Police\">Victoria Police</a> history.<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "2020 Eastern Freeway truck crash",
+          "url": "/wiki/2020_Eastern_Freeway_truck_crash",
+          "length": 12654
+        },
+        {
+          "name": "Eastern Freeway (Melbourne)",
+          "url": "/wiki/Eastern_Freeway_(Melbourne)",
+          "length": 30293
+        },
+        {
+          "name": "Melbourne",
+          "url": "/wiki/Melbourne",
+          "length": 209856
+        },
+        {
+          "name": "Victoria Police",
+          "url": "/wiki/Victoria_Police",
+          "length": 107543
+        }
+      ]
+    },
+    {
+      "year": "1870",
+      "description": "Vladimir Lenin, Russian revolutionary and founder of Soviet Russia, was born.",
+      "html": "<li>\n<a href=\"/wiki/1870\" title=\"1870\">1870</a> – <a href=\"/wiki/Vladimir_Lenin\" title=\"Vladimir Lenin\">Vladimir Lenin</a>, Russian revolutionary and founder of <a href=\"/wiki/Russian_Soviet_Federative_Socialist_Republic\" title=\"Russian Soviet Federative Socialist Republic\">Soviet Russia</a> (d. 1924)</li>",
+      "entities": [
+        {
+          "name": "Vladimir Lenin",
+          "url": "/wiki/Vladimir_Lenin",
+          "length": 198893
+        },
+        {
+          "name": "Russian Soviet Federative Socialist Republic",
+          "url": "/wiki/Russian_Soviet_Federative_Socialist_Republic",
+          "length": 70855
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Mircea Eliade, Romanian historian and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Mircea_Eliade\" title=\"Mircea Eliade\">Mircea Eliade</a>, Romanian historian and author (b. 1907)</li>",
+      "entities": [
+        {
+          "name": "Mircea Eliade",
+          "url": "/wiki/Mircea_Eliade",
+          "length": 210375
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1970",
+      "description": "Regine Velasquez, Filipino singer and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1970\" title=\"1970\">1970</a> – <a href=\"/wiki/Regine_Velasquez\" title=\"Regine Velasquez\">Regine Velasquez</a>, Filipino singer and actress<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\"><span class=\"cite-bracket\">[</span>29<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Regine Velasquez",
+          "url": "/wiki/Regine_Velasquez",
+          "length": 222552
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Marshawn Lynch, American football player, was born.",
+      "html": "<li>1986   – <a href=\"/wiki/Marshawn_Lynch\" title=\"Marshawn Lynch\">Marshawn Lynch</a>, American football player<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\"><span class=\"cite-bracket\">[</span>32<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Marshawn Lynch",
+          "url": "/wiki/Marshawn_Lynch",
+          "length": 199105
+        }
+      ]
+    },
+    {
+      "year": "1870",
+      "description": "Vladimir Lenin, Russian revolutionary and founder of Soviet Russia, was born.",
+      "html": "<li>\n<a href=\"/wiki/1870\" title=\"1870\">1870</a> – <a href=\"/wiki/Vladimir_Lenin\" title=\"Vladimir Lenin\">Vladimir Lenin</a>, Russian revolutionary and founder of <a href=\"/wiki/Russian_Soviet_Federative_Socialist_Republic\" title=\"Russian Soviet Federative Socialist Republic\">Soviet Russia</a> (d. 1924)</li>",
+      "entities": [
+        {
+          "name": "Vladimir Lenin",
+          "url": "/wiki/Vladimir_Lenin",
+          "length": 198893
+        },
+        {
+          "name": "Russian Soviet Federative Socialist Republic",
+          "url": "/wiki/Russian_Soviet_Federative_Socialist_Republic",
+          "length": 70855
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1986",
+      "description": "Mircea Eliade, Romanian historian and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Mircea_Eliade\" title=\"Mircea Eliade\">Mircea Eliade</a>, Romanian historian and author (b. 1907)</li>",
+      "entities": [
+        {
+          "name": "Mircea Eliade",
+          "url": "/wiki/Mircea_Eliade",
+          "length": 210375
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Richard Nixon, 37th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1994\" title=\"1994\">1994</a> – <a href=\"/wiki/Richard_Nixon\" title=\"Richard Nixon\">Richard Nixon</a>, 37th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1913)</li>",
+      "entities": [
+        {
+          "name": "Richard Nixon",
+          "url": "/wiki/Richard_Nixon",
+          "length": 199208
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "description": "Ansel Adams, American photographer and environmentalist, died.",
+      "html": "<li>\n<a href=\"/wiki/1984\" title=\"1984\">1984</a> – <a href=\"/wiki/Ansel_Adams\" title=\"Ansel Adams\">Ansel Adams</a>, American photographer and environmentalist (b. 1902)</li>",
+      "entities": [
+        {
+          "name": "Ansel Adams",
+          "url": "/wiki/Ansel_Adams",
+          "length": 108280
+        }
+      ]
+    }
+  ]
+}

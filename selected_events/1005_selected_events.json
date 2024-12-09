@@ -1,0 +1,246 @@
+{
+  "events": [
+    {
+      "year": "2000",
+      "description": "Mass demonstrations in Serbia force the resignation of Slobodan Milošević.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87\" title=\"Overthrow of Slobodan Milošević\">Mass demonstrations</a> in <a href=\"/wiki/Serbia\" title=\"Serbia\">Serbia</a> force the resignation of <a href=\"/wiki/Slobodan_Milo%C5%A1evi%C4%87\" title=\"Slobodan Milošević\">Slobodan Milošević</a>.</li>",
+      "entities": [
+        {
+          "name": "Overthrow of Slobodan Milošević",
+          "url": "/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+          "length": 37469
+        },
+        {
+          "name": "Serbia",
+          "url": "/wiki/Serbia",
+          "length": 316741
+        },
+        {
+          "name": "Slobodan Milošević",
+          "url": "/wiki/Slobodan_Milo%C5%A1evi%C4%87",
+          "length": 126302
+        }
+      ]
+    },
+    {
+      "year": "1943",
+      "description": "World War II: Pacific Theater: Ninety-eight American POWs are executed by Japanese forces on Wake Island.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Pacific_War\" title=\"Pacific War\">Pacific Theater</a>: Ninety-eight American POWs are executed by Japanese forces on <a href=\"/wiki/Wake_Island\" title=\"Wake Island\">Wake Island</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Pacific War",
+          "url": "/wiki/Pacific_War",
+          "length": 203500
+        },
+        {
+          "name": "Wake Island",
+          "url": "/wiki/Wake_Island",
+          "length": 200606
+        }
+      ]
+    },
+    {
+      "year": "1962",
+      "description": "The first of the James Bond film series, based on the novels by Ian Fleming, Dr. No, is released in Britain.",
+      "html": "<li>\n<a href=\"/wiki/1962\" title=\"1962\">1962</a> – The first of the <a href=\"/wiki/James_Bond\" title=\"James Bond\">James Bond</a> film series, based on the novels by <a href=\"/wiki/Ian_Fleming\" title=\"Ian Fleming\">Ian Fleming</a>, <i><a href=\"/wiki/Dr._No_(film)\" title=\"Dr. No (film)\">Dr. No</a></i>, is released in Britain.<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "James Bond",
+          "url": "/wiki/James_Bond",
+          "length": 147429
+        },
+        {
+          "name": "Ian Fleming",
+          "url": "/wiki/Ian_Fleming",
+          "length": 96918
+        },
+        {
+          "name": "Dr. No (film)",
+          "url": "/wiki/Dr._No_(film)",
+          "length": 94877
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "description": "Bombs planted by the PIRA in pubs in Guildford kill four British soldiers and one civilian.",
+      "html": "<li>\n<a href=\"/wiki/1974\" title=\"1974\">1974</a> – Bombs planted by the <a href=\"/wiki/Provisional_Irish_Republican_Army\" title=\"Provisional Irish Republican Army\">PIRA</a> in pubs in <a href=\"/wiki/Guildford\" title=\"Guildford\">Guildford</a> <a href=\"/wiki/Guildford_pub_bombings\" title=\"Guildford pub bombings\">kill</a> four British soldiers and one civilian.</li>",
+      "entities": [
+        {
+          "name": "Provisional Irish Republican Army",
+          "url": "/wiki/Provisional_Irish_Republican_Army",
+          "length": 155968
+        },
+        {
+          "name": "Guildford",
+          "url": "/wiki/Guildford",
+          "length": 172312
+        },
+        {
+          "name": "Guildford pub bombings",
+          "url": "/wiki/Guildford_pub_bombings",
+          "length": 11381
+        }
+      ]
+    },
+    {
+      "year": "1905",
+      "description": "The Wright brothers pilot the Wright Flyer III in a new world record flight of 24 miles in 39 minutes.",
+      "html": "<li>\n<a href=\"/wiki/1905\" title=\"1905\">1905</a> – The <a href=\"/wiki/Wright_brothers\" title=\"Wright brothers\">Wright brothers</a> pilot the <a href=\"/wiki/Wright_Flyer_III\" title=\"Wright Flyer III\">Wright Flyer III</a> in a new world record flight of 24 miles in 39 minutes.</li>",
+      "entities": [
+        {
+          "name": "Wright brothers",
+          "url": "/wiki/Wright_brothers",
+          "length": 152186
+        },
+        {
+          "name": "Wright Flyer III",
+          "url": "/wiki/Wright_Flyer_III",
+          "length": 17135
+        }
+      ]
+    },
+    {
+      "year": "1914",
+      "description": "World War I: An aircraft successfully destroys another aircraft with gunfire for the first time.",
+      "html": "<li>\n<a href=\"/wiki/1914\" title=\"1914\">1914</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: An aircraft successfully <a href=\"/wiki/Fighter_aircraft\" title=\"Fighter aircraft\">destroys another aircraft</a> with gunfire for the first time.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Fighter aircraft",
+          "url": "/wiki/Fighter_aircraft",
+          "length": 125887
+        }
+      ]
+    },
+    {
+      "year": "1976",
+      "description": "Ramzan Kadyrov, Russian-Chechen general and politician, 3rd President of the Chechen Republic, was born.",
+      "html": "<li>\n<a href=\"/wiki/1976\" title=\"1976\">1976</a> – <a href=\"/wiki/Ramzan_Kadyrov\" title=\"Ramzan Kadyrov\">Ramzan Kadyrov</a>, Russian-Chechen general and politician, 3rd <a href=\"/wiki/President_of_the_Chechen_Republic\" class=\"mw-redirect\" title=\"President of the Chechen Republic\">President of the Chechen Republic</a>\n</li>",
+      "entities": [
+        {
+          "name": "Ramzan Kadyrov",
+          "url": "/wiki/Ramzan_Kadyrov",
+          "length": 190920
+        },
+        {
+          "name": "President of the Chechen Republic",
+          "url": "/wiki/President_of_the_Chechen_Republic",
+          "length": 42
+        }
+      ]
+    },
+    {
+      "year": "1880",
+      "description": "Jacques Offenbach, German-French cellist and composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1880\" title=\"1880\">1880</a> – <a href=\"/wiki/Jacques_Offenbach\" title=\"Jacques Offenbach\">Jacques Offenbach</a>, German-French cellist and composer (b. 1819)</li>",
+      "entities": [
+        {
+          "name": "Jacques Offenbach",
+          "url": "/wiki/Jacques_Offenbach",
+          "length": 106508
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1952",
+      "description": "Imran Khan, Pakistani cricketer and politician, 22nd Prime Minister of Pakistan, was born.",
+      "html": "<li>1952   – <a href=\"/wiki/Imran_Khan\" title=\"Imran Khan\">Imran Khan</a>, Pakistani cricketer and politician, 22nd <a href=\"/wiki/Prime_Minister_of_Pakistan\" title=\"Prime Minister of Pakistan\">Prime Minister of Pakistan</a>\n</li>",
+      "entities": [
+        {
+          "name": "Imran Khan",
+          "url": "/wiki/Imran_Khan",
+          "length": 291018
+        },
+        {
+          "name": "Prime Minister of Pakistan",
+          "url": "/wiki/Prime_Minister_of_Pakistan",
+          "length": 41659
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "Kate Winslet, English actress, was born.",
+      "html": "<li>1975   – <a href=\"/wiki/Kate_Winslet\" title=\"Kate Winslet\">Kate Winslet</a>, English actress<sup id=\"cite_ref-AP_35-10\" class=\"reference\"><a href=\"#cite_note-AP-35\"><span class=\"cite-bracket\">[</span>35<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kate Winslet",
+          "url": "/wiki/Kate_Winslet",
+          "length": 208948
+        }
+      ]
+    },
+    {
+      "year": "1976",
+      "description": "Ramzan Kadyrov, Russian-Chechen general and politician, 3rd President of the Chechen Republic, was born.",
+      "html": "<li>\n<a href=\"/wiki/1976\" title=\"1976\">1976</a> – <a href=\"/wiki/Ramzan_Kadyrov\" title=\"Ramzan Kadyrov\">Ramzan Kadyrov</a>, Russian-Chechen general and politician, 3rd <a href=\"/wiki/President_of_the_Chechen_Republic\" class=\"mw-redirect\" title=\"President of the Chechen Republic\">President of the Chechen Republic</a>\n</li>",
+      "entities": [
+        {
+          "name": "Ramzan Kadyrov",
+          "url": "/wiki/Ramzan_Kadyrov",
+          "length": 190920
+        },
+        {
+          "name": "President of the Chechen Republic",
+          "url": "/wiki/President_of_the_Chechen_Republic",
+          "length": 42
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2011",
+      "description": "Steve Jobs, American businessman, co-founder of Apple Inc., died.",
+      "html": "<li>2011   – <a href=\"/wiki/Steve_Jobs\" title=\"Steve Jobs\">Steve Jobs</a>, American businessman, co-founder of <a href=\"/wiki/Apple_Inc.\" title=\"Apple Inc.\">Apple Inc.</a> (b. 1955)</li>",
+      "entities": [
+        {
+          "name": "Steve Jobs",
+          "url": "/wiki/Steve_Jobs",
+          "length": 205125
+        },
+        {
+          "name": "Apple Inc.",
+          "url": "/wiki/Apple_Inc.",
+          "length": 310046
+        }
+      ]
+    },
+    {
+      "year": "1941",
+      "description": "Louis Brandeis, American lawyer and jurist, died.",
+      "html": "<li>\n<a href=\"/wiki/1941\" title=\"1941\">1941</a> – <a href=\"/wiki/Louis_Brandeis\" title=\"Louis Brandeis\">Louis Brandeis</a>, American lawyer and jurist (b. 1856)</li>",
+      "entities": [
+        {
+          "name": "Louis Brandeis",
+          "url": "/wiki/Louis_Brandeis",
+          "length": 137135
+        }
+      ]
+    },
+    {
+      "year": "1880",
+      "description": "Jacques Offenbach, German-French cellist and composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1880\" title=\"1880\">1880</a> – <a href=\"/wiki/Jacques_Offenbach\" title=\"Jacques Offenbach\">Jacques Offenbach</a>, German-French cellist and composer (b. 1819)</li>",
+      "entities": [
+        {
+          "name": "Jacques Offenbach",
+          "url": "/wiki/Jacques_Offenbach",
+          "length": 106508
+        }
+      ]
+    }
+  ]
+}

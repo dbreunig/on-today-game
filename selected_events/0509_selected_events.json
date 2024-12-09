@@ -1,0 +1,291 @@
+{
+  "events": [
+    {
+      "year": "1960",
+      "description": "The Food and Drug Administration announces it will approve birth control as an additional indication for Searle's Enovid, making Enovid the world's first approved oral contraceptive pill.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – The <a href=\"/wiki/Food_and_Drug_Administration\" title=\"Food and Drug Administration\">Food and Drug Administration</a> announces it will approve <a href=\"/wiki/Birth_control\" title=\"Birth control\">birth control</a> as an additional <a href=\"/wiki/Indication_(medicine)\" title=\"Indication (medicine)\">indication</a> for <a href=\"/wiki/G._D._Searle_%26_Company\" class=\"mw-redirect\" title=\"G. D. Searle &amp; Company\">Searle</a>'s <a href=\"/wiki/Mestranol/noretynodrel\" title=\"Mestranol/noretynodrel\">Enovid</a>, making Enovid the world's first approved <a href=\"/wiki/Combined_oral_contraceptive_pill\" title=\"Combined oral contraceptive pill\">oral contraceptive pill</a>.</li>",
+      "entities": [
+        {
+          "name": "Food and Drug Administration",
+          "url": "/wiki/Food_and_Drug_Administration",
+          "length": 123936
+        },
+        {
+          "name": "Birth control",
+          "url": "/wiki/Birth_control",
+          "length": 158564
+        },
+        {
+          "name": "Indication (medicine)",
+          "url": "/wiki/Indication_(medicine)",
+          "length": 22942
+        },
+        {
+          "name": "G. D. Searle & Company",
+          "url": "/wiki/G._D._Searle_%26_Company",
+          "length": 46
+        },
+        {
+          "name": "Mestranol/noretynodrel",
+          "url": "/wiki/Mestranol/noretynodrel",
+          "length": null
+        },
+        {
+          "name": "Combined oral contraceptive pill",
+          "url": "/wiki/Combined_oral_contraceptive_pill",
+          "length": 198617
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "description": "Polish–Soviet War: The Polish army under General Edward Rydz-Śmigły celebrates its capture of Kiev with a victory parade on Khreshchatyk.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – <a href=\"/wiki/Polish%E2%80%93Soviet_War\" title=\"Polish–Soviet War\">Polish–Soviet War</a>: The Polish army under General <a href=\"/wiki/Edward_Rydz-%C5%9Amig%C5%82y\" title=\"Edward Rydz-Śmigły\">Edward Rydz-Śmigły</a> celebrates its <a href=\"/wiki/Kiev_offensive_(1920)\" title=\"Kiev offensive (1920)\">capture of Kiev</a> with a <a href=\"/wiki/Victory_parade\" title=\"Victory parade\">victory parade</a> on <a href=\"/wiki/Khreshchatyk\" title=\"Khreshchatyk\">Khreshchatyk</a>.</li>",
+      "entities": [
+        {
+          "name": "Polish–Soviet War",
+          "url": "/wiki/Polish%E2%80%93Soviet_War",
+          "length": 204600
+        },
+        {
+          "name": "Edward Rydz-Śmigły",
+          "url": "/wiki/Edward_Rydz-%C5%9Amig%C5%82y",
+          "length": 31928
+        },
+        {
+          "name": "Kiev offensive (1920)",
+          "url": "/wiki/Kiev_offensive_(1920)",
+          "length": 75846
+        },
+        {
+          "name": "Victory parade",
+          "url": "/wiki/Victory_parade",
+          "length": 15278
+        },
+        {
+          "name": "Khreshchatyk",
+          "url": "/wiki/Khreshchatyk",
+          "length": 26011
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Carlos Lamarca leads the first urban guerrilla action against the military dictatorship of Brazil in São Paulo, by robbing two banks.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Carlos_Lamarca\" title=\"Carlos Lamarca\">Carlos Lamarca</a> leads the first urban guerrilla action against the <a href=\"/wiki/Brazilian_military_government\" class=\"mw-redirect\" title=\"Brazilian military government\">military dictatorship</a> of <a href=\"/wiki/Brazil\" title=\"Brazil\">Brazil</a> in <a href=\"/wiki/S%C3%A3o_Paulo\" title=\"São Paulo\">São Paulo</a>, by robbing two banks.</li>",
+      "entities": [
+        {
+          "name": "Carlos Lamarca",
+          "url": "/wiki/Carlos_Lamarca",
+          "length": 8413
+        },
+        {
+          "name": "Brazilian military government",
+          "url": "/wiki/Brazilian_military_government",
+          "length": 62
+        },
+        {
+          "name": "Brazil",
+          "url": "/wiki/Brazil",
+          "length": 294686
+        },
+        {
+          "name": "São Paulo",
+          "url": "/wiki/S%C3%A3o_Paulo",
+          "length": 253876
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "Second Schleswig War: The Danish navy defeats the Austrian and Prussian fleets in the Battle of Heligoland.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/Second_Schleswig_War\" title=\"Second Schleswig War\">Second Schleswig War</a>: The Danish navy defeats the <a href=\"/wiki/Austrian_Empire\" title=\"Austrian Empire\">Austrian</a> and <a href=\"/wiki/Kingdom_of_Prussia\" title=\"Kingdom of Prussia\">Prussian</a> fleets in the <a href=\"/wiki/Battle_of_Heligoland_(1864)\" title=\"Battle of Heligoland (1864)\">Battle of Heligoland</a>.</li>",
+      "entities": [
+        {
+          "name": "Second Schleswig War",
+          "url": "/wiki/Second_Schleswig_War",
+          "length": 65853
+        },
+        {
+          "name": "Austrian Empire",
+          "url": "/wiki/Austrian_Empire",
+          "length": 49621
+        },
+        {
+          "name": "Kingdom of Prussia",
+          "url": "/wiki/Kingdom_of_Prussia",
+          "length": 76583
+        },
+        {
+          "name": "Battle of Heligoland (1864)",
+          "url": "/wiki/Battle_of_Heligoland_(1864)",
+          "length": 20713
+        }
+      ]
+    },
+    {
+      "year": "2002",
+      "description": "The 38-day stand-off in the Church of the Nativity in Bethlehem comes to an end when the Palestinians inside agree to have 13 suspected terrorists among them deported to several different countries.",
+      "html": "<li>\n<a href=\"/wiki/2002\" title=\"2002\">2002</a> – The <a href=\"/wiki/Siege_of_the_Church_of_the_Nativity_in_Bethlehem\" class=\"mw-redirect\" title=\"Siege of the Church of the Nativity in Bethlehem\">38-day stand-off</a> in the <a href=\"/wiki/Church_of_the_Nativity\" title=\"Church of the Nativity\">Church of the Nativity</a> in <a href=\"/wiki/Bethlehem\" title=\"Bethlehem\">Bethlehem</a> comes to an end when the <a href=\"/wiki/Palestinians\" title=\"Palestinians\">Palestinians</a> inside agree to have 13 suspected terrorists among them deported to several different countries.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Siege of the Church of the Nativity in Bethlehem",
+          "url": "/wiki/Siege_of_the_Church_of_the_Nativity_in_Bethlehem",
+          "length": 96
+        },
+        {
+          "name": "Church of the Nativity",
+          "url": "/wiki/Church_of_the_Nativity",
+          "length": 67429
+        },
+        {
+          "name": "Bethlehem",
+          "url": "/wiki/Bethlehem",
+          "length": 117378
+        },
+        {
+          "name": "Palestinians",
+          "url": "/wiki/Palestinians",
+          "length": 233264
+        }
+      ]
+    },
+    {
+      "year": "1671",
+      "description": "Thomas Blood, disguised as a clergyman, attempts to steal England's Crown Jewels from the Tower of London.",
+      "html": "<li>\n<a href=\"/wiki/1671\" title=\"1671\">1671</a> – <a href=\"/wiki/Thomas_Blood\" title=\"Thomas Blood\">Thomas Blood</a>, disguised as a <a href=\"/wiki/Clergyman\" class=\"mw-redirect\" title=\"Clergyman\">clergyman</a>, attempts to steal England's <a href=\"/wiki/Crown_Jewels_of_the_United_Kingdom\" title=\"Crown Jewels of the United Kingdom\">Crown Jewels</a> from the <a href=\"/wiki/Tower_of_London\" title=\"Tower of London\">Tower of London</a>.</li>",
+      "entities": [
+        {
+          "name": "Thomas Blood",
+          "url": "/wiki/Thomas_Blood",
+          "length": 19608
+        },
+        {
+          "name": "Clergyman",
+          "url": "/wiki/Clergyman",
+          "length": 20
+        },
+        {
+          "name": "Crown Jewels of the United Kingdom",
+          "url": "/wiki/Crown_Jewels_of_the_United_Kingdom",
+          "length": 102994
+        },
+        {
+          "name": "Tower of London",
+          "url": "/wiki/Tower_of_London",
+          "length": 107687
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Tony Gwynn, American baseball player and coach, was born.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Tony_Gwynn\" title=\"Tony Gwynn\">Tony Gwynn</a>, American baseball player and coach (d. 2014)</li>",
+      "entities": [
+        {
+          "name": "Tony Gwynn",
+          "url": "/wiki/Tony_Gwynn",
+          "length": 195840
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Little Richard, American singer, songwriter, and pianist, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Little_Richard\" title=\"Little Richard\">Little Richard</a>, American singer, songwriter, and pianist (b. 1932)</li>",
+      "entities": [
+        {
+          "name": "Little Richard",
+          "url": "/wiki/Little_Richard",
+          "length": 161321
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1800",
+      "description": "John Brown, American activist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1800\" title=\"1800\">1800</a> – <a href=\"/wiki/John_Brown_(abolitionist)\" title=\"John Brown (abolitionist)\">John Brown</a>, American activist (d. 1859)<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John Brown (abolitionist)",
+          "url": "/wiki/John_Brown_(abolitionist)",
+          "length": 233827
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Tony Gwynn, American baseball player and coach, was born.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Tony_Gwynn\" title=\"Tony Gwynn\">Tony Gwynn</a>, American baseball player and coach (d. 2014)</li>",
+      "entities": [
+        {
+          "name": "Tony Gwynn",
+          "url": "/wiki/Tony_Gwynn",
+          "length": 195840
+        }
+      ]
+    },
+    {
+      "year": "1943",
+      "description": "Vince Cable, English economist and politician, former Secretary of State for Business, Innovation and Skills, was born.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – <a href=\"/wiki/Vince_Cable\" title=\"Vince Cable\">Vince Cable</a>, English economist and politician, former <a href=\"/wiki/Secretary_of_State_for_Business,_Innovation_and_Skills\" class=\"mw-redirect\" title=\"Secretary of State for Business, Innovation and Skills\">Secretary of State for Business, Innovation and Skills</a>\n</li>",
+      "entities": [
+        {
+          "name": "Vince Cable",
+          "url": "/wiki/Vince_Cable",
+          "length": 173885
+        },
+        {
+          "name": "Secretary of State for Business, Innovation and Skills",
+          "url": "/wiki/Secretary_of_State_for_Business,_Innovation_and_Skills",
+          "length": 71
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2020",
+      "description": "Little Richard, American singer, songwriter, and pianist, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Little_Richard\" title=\"Little Richard\">Little Richard</a>, American singer, songwriter, and pianist (b. 1932)</li>",
+      "entities": [
+        {
+          "name": "Little Richard",
+          "url": "/wiki/Little_Richard",
+          "length": 161321
+        }
+      ]
+    },
+    {
+      "year": "1978",
+      "description": "Aldo Moro, Italian lawyer and politician, 38th Prime Minister of Italy, died.",
+      "html": "<li>1978   – <a href=\"/wiki/Aldo_Moro\" title=\"Aldo Moro\">Aldo Moro</a>, Italian lawyer and politician, 38th <a href=\"/wiki/Prime_Minister_of_Italy\" title=\"Prime Minister of Italy\">Prime Minister of Italy</a> (b. 1916)</li>",
+      "entities": [
+        {
+          "name": "Aldo Moro",
+          "url": "/wiki/Aldo_Moro",
+          "length": 131232
+        },
+        {
+          "name": "Prime Minister of Italy",
+          "url": "/wiki/Prime_Minister_of_Italy",
+          "length": 25551
+        }
+      ]
+    },
+    {
+      "year": "1970",
+      "description": "Walter Reuther, American union leader, died.",
+      "html": "<li>\n<a href=\"/wiki/1970\" title=\"1970\">1970</a> – <a href=\"/wiki/Walter_Reuther\" title=\"Walter Reuther\">Walter Reuther</a>, American union leader (b. 1907)</li>",
+      "entities": [
+        {
+          "name": "Walter Reuther",
+          "url": "/wiki/Walter_Reuther",
+          "length": 125755
+        }
+      ]
+    }
+  ]
+}

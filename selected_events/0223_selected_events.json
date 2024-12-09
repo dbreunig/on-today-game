@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "532",
+      "description": "Byzantine emperor Justinian I lays the foundation stone of a new Orthodox Christian basilica in Constantinople",
+      "html": "<li>\n<a href=\"/wiki/532\" title=\"532\">532</a> – <a href=\"/wiki/Byzantine_emperor\" class=\"mw-redirect\" title=\"Byzantine emperor\">Byzantine emperor</a> <a href=\"/wiki/Justinian_I\" title=\"Justinian I\">Justinian I</a> lays the foundation stone of a new <a href=\"/wiki/Eastern_Orthodox_Church\" title=\"Eastern Orthodox Church\">Orthodox Christian</a> <a href=\"/wiki/Basilica\" title=\"Basilica\">basilica</a> in <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a> – the <a href=\"/wiki/Hagia_Sophia\" title=\"Hagia Sophia\">Hagia Sophia</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Byzantine emperor",
+          "url": "/wiki/Byzantine_emperor",
+          "length": 156
+        },
+        {
+          "name": "Justinian I",
+          "url": "/wiki/Justinian_I",
+          "length": 96009
+        },
+        {
+          "name": "Eastern Orthodox Church",
+          "url": "/wiki/Eastern_Orthodox_Church",
+          "length": 219280
+        },
+        {
+          "name": "Basilica",
+          "url": "/wiki/Basilica",
+          "length": 102630
+        },
+        {
+          "name": "Constantinople",
+          "url": "/wiki/Constantinople",
+          "length": 136375
+        },
+        {
+          "name": "Hagia Sophia",
+          "url": "/wiki/Hagia_Sophia",
+          "length": 233514
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "description": "In Syria, Ba'ath Party member Salah Jadid leads an intra-party military coup that replaces the previous government of General Amin al-Hafiz, also a Baathist.",
+      "html": "<li>\n<a href=\"/wiki/1966\" title=\"1966\">1966</a> – In <a href=\"/wiki/Syria\" title=\"Syria\">Syria</a>, <a href=\"/wiki/Ba%27ath_Party\" title=\"Ba'ath Party\">Ba'ath Party</a> member <a href=\"/wiki/Salah_Jadid\" title=\"Salah Jadid\">Salah Jadid</a> leads an intra-party military <a href=\"/wiki/Coup\" class=\"mw-redirect\" title=\"Coup\">coup</a> that replaces the previous government of General <a href=\"/wiki/Amin_al-Hafiz\" title=\"Amin al-Hafiz\">Amin al-Hafiz</a>, also a Baathist.</li>",
+      "entities": [
+        {
+          "name": "Syria",
+          "url": "/wiki/Syria",
+          "length": 264682
+        },
+        {
+          "name": "Ba'ath Party",
+          "url": "/wiki/Ba%27ath_Party",
+          "length": 73517
+        },
+        {
+          "name": "Salah Jadid",
+          "url": "/wiki/Salah_Jadid",
+          "length": 9845
+        },
+        {
+          "name": "Coup",
+          "url": "/wiki/Coup",
+          "length": 114
+        },
+        {
+          "name": "Amin al-Hafiz",
+          "url": "/wiki/Amin_al-Hafiz",
+          "length": 9907
+        }
+      ]
+    },
+    {
+      "year": "1958",
+      "description": "Five-time Argentine Formula One champion Juan Manuel Fangio is kidnapped by rebels involved in the Cuban Revolution, on the eve of the Cuban Grand Prix. He was released the following day after the race.",
+      "html": "<li>\n<a href=\"/wiki/1958\" title=\"1958\">1958</a> – Five-time Argentine <a href=\"/wiki/Formula_One\" title=\"Formula One\">Formula One</a> <a href=\"/wiki/List_of_Formula_One_World_Drivers%27_Champions\" title=\"List of Formula One World Drivers' Champions\">champion</a> <a href=\"/wiki/Juan_Manuel_Fangio\" title=\"Juan Manuel Fangio\">Juan Manuel Fangio</a> is kidnapped by rebels involved in the <a href=\"/wiki/Cuban_Revolution\" title=\"Cuban Revolution\">Cuban Revolution</a>, on the eve of the <a href=\"/wiki/Cuban_Grand_Prix\" title=\"Cuban Grand Prix\">Cuban Grand Prix</a>. He was released the following day after the race.<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Formula One",
+          "url": "/wiki/Formula_One",
+          "length": 229731
+        },
+        {
+          "name": "List of Formula One World Drivers' Champions",
+          "url": "/wiki/List_of_Formula_One_World_Drivers%27_Champions",
+          "length": 85837
+        },
+        {
+          "name": "Juan Manuel Fangio",
+          "url": "/wiki/Juan_Manuel_Fangio",
+          "length": 160387
+        },
+        {
+          "name": "Cuban Revolution",
+          "url": "/wiki/Cuban_Revolution",
+          "length": 158294
+        },
+        {
+          "name": "Cuban Grand Prix",
+          "url": "/wiki/Cuban_Grand_Prix",
+          "length": 8327
+        }
+      ]
+    },
+    {
+      "year": "1944",
+      "description": "The Soviet Union begins the forced deportation of the Chechen and Ingush people from the North Caucasus to Central Asia.",
+      "html": "<li>\n<a href=\"/wiki/1944\" title=\"1944\">1944</a> – The <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a> begins the <a href=\"/wiki/Operation_Lentil_(Caucasus)\" class=\"mw-redirect\" title=\"Operation Lentil (Caucasus)\">forced deportation</a> of the <a href=\"/wiki/Chechens\" title=\"Chechens\">Chechen</a> and <a href=\"/wiki/Ingush_people\" title=\"Ingush people\">Ingush people</a> from the <a href=\"/wiki/North_Caucasus\" title=\"North Caucasus\">North Caucasus</a> to Central Asia.</li>",
+      "entities": [
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Operation Lentil (Caucasus)",
+          "url": "/wiki/Operation_Lentil_(Caucasus)",
+          "length": 52
+        },
+        {
+          "name": "Chechens",
+          "url": "/wiki/Chechens",
+          "length": 66649
+        },
+        {
+          "name": "Ingush people",
+          "url": "/wiki/Ingush_people",
+          "length": 123924
+        },
+        {
+          "name": "North Caucasus",
+          "url": "/wiki/North_Caucasus",
+          "length": 21885
+        }
+      ]
+    },
+    {
+      "year": "1898",
+      "description": "Émile Zola is imprisoned in France after writing J'Accuse…!, a letter accusing the French government of antisemitism and wrongfully imprisoning Captain Alfred Dreyfus.",
+      "html": "<li>\n<a href=\"/wiki/1898\" title=\"1898\">1898</a> – <a href=\"/wiki/%C3%89mile_Zola\" title=\"Émile Zola\">Émile Zola</a> is imprisoned in France after writing <i><a href=\"/wiki/J%27Accuse%E2%80%A6!\" class=\"mw-redirect\" title=\"J'Accuse…!\">J'Accuse…!</a></i>, a letter accusing the French government of <a href=\"/wiki/Antisemitism\" title=\"Antisemitism\">antisemitism</a> and wrongfully imprisoning <a href=\"/wiki/Captain_(OF-2)\" class=\"mw-redirect\" title=\"Captain (OF-2)\">Captain</a> <a href=\"/wiki/Alfred_Dreyfus\" title=\"Alfred Dreyfus\">Alfred Dreyfus</a>.</li>",
+      "entities": [
+        {
+          "name": "Émile Zola",
+          "url": "/wiki/%C3%89mile_Zola",
+          "length": 55774
+        },
+        {
+          "name": "J'Accuse…!",
+          "url": "/wiki/J%27Accuse%E2%80%A6!",
+          "length": 73
+        },
+        {
+          "name": "Antisemitism",
+          "url": "/wiki/Antisemitism",
+          "length": 218112
+        },
+        {
+          "name": "Captain (OF-2)",
+          "url": "/wiki/Captain_(OF-2)",
+          "length": 36
+        },
+        {
+          "name": "Alfred Dreyfus",
+          "url": "/wiki/Alfred_Dreyfus",
+          "length": 31009
+        }
+      ]
+    },
+    {
+      "year": "1847",
+      "description": "Mexican–American War: Battle of Buena Vista: In Mexico, American troops under future president General Zachary Taylor defeat Mexican General Antonio López de Santa Anna.",
+      "html": "<li>\n<a href=\"/wiki/1847\" title=\"1847\">1847</a> – <a href=\"/wiki/Mexican%E2%80%93American_War\" title=\"Mexican–American War\">Mexican–American War</a>: <a href=\"/wiki/Battle_of_Buena_Vista\" title=\"Battle of Buena Vista\">Battle of Buena Vista</a>: In Mexico, American troops under future president General <a href=\"/wiki/Zachary_Taylor\" title=\"Zachary Taylor\">Zachary Taylor</a> defeat Mexican General <a href=\"/wiki/Antonio_L%C3%B3pez_de_Santa_Anna\" title=\"Antonio López de Santa Anna\">Antonio López de Santa Anna</a>.</li>",
+      "entities": [
+        {
+          "name": "Mexican–American War",
+          "url": "/wiki/Mexican%E2%80%93American_War",
+          "length": 213781
+        },
+        {
+          "name": "Battle of Buena Vista",
+          "url": "/wiki/Battle_of_Buena_Vista",
+          "length": 31050
+        },
+        {
+          "name": "Zachary Taylor",
+          "url": "/wiki/Zachary_Taylor",
+          "length": 99854
+        },
+        {
+          "name": "Antonio López de Santa Anna",
+          "url": "/wiki/Antonio_L%C3%B3pez_de_Santa_Anna",
+          "length": 74927
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "description": "Femke Bol, Dutch hurdler and sprinter, was born.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Femke_Bol\" title=\"Femke Bol\">Femke Bol</a>, Dutch hurdler and sprinter<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Femke Bol",
+          "url": "/wiki/Femke_Bol",
+          "length": 168844
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Madhubala, Indian actress and producer, died.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Madhubala\" title=\"Madhubala\">Madhubala</a>, Indian actress and producer (b. 1933)</li>",
+      "entities": [
+        {
+          "name": "Madhubala",
+          "url": "/wiki/Madhubala",
+          "length": 132837
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1868",
+      "description": "W. E. B. Du Bois, American sociologist, historian, and activist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1868\" title=\"1868\">1868</a> – <a href=\"/wiki/W._E._B._Du_Bois\" title=\"W. E. B. Du Bois\">W. E. B. Du Bois</a>, American sociologist, historian, and activist (d. 1963)</li>",
+      "entities": [
+        {
+          "name": "W. E. B. Du Bois",
+          "url": "/wiki/W._E._B._Du_Bois",
+          "length": 169571
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "description": "Femke Bol, Dutch hurdler and sprinter, was born.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Femke_Bol\" title=\"Femke Bol\">Femke Bol</a>, Dutch hurdler and sprinter<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Femke Bol",
+          "url": "/wiki/Femke_Bol",
+          "length": 168844
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Evan Bates, American ice dancer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1989\" title=\"1989\">1989</a> – <a href=\"/wiki/Evan_Bates\" title=\"Evan Bates\">Evan Bates</a>, American ice dancer</li>",
+      "entities": [
+        {
+          "name": "Evan Bates",
+          "url": "/wiki/Evan_Bates",
+          "length": 131688
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1855",
+      "description": "Carl Friedrich Gauss, German mathematician, astronomer, and physicist, died.",
+      "html": "<li>\n<a href=\"/wiki/1855\" title=\"1855\">1855</a> – <a href=\"/wiki/Carl_Friedrich_Gauss\" title=\"Carl Friedrich Gauss\">Carl Friedrich Gauss</a>, German mathematician, astronomer, and physicist (b. 1777)</li>",
+      "entities": [
+        {
+          "name": "Carl Friedrich Gauss",
+          "url": "/wiki/Carl_Friedrich_Gauss",
+          "length": 186559
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Madhubala, Indian actress and producer, died.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Madhubala\" title=\"Madhubala\">Madhubala</a>, Indian actress and producer (b. 1933)</li>",
+      "entities": [
+        {
+          "name": "Madhubala",
+          "url": "/wiki/Madhubala",
+          "length": 132837
+        }
+      ]
+    },
+    {
+      "year": "1848",
+      "description": "John Quincy Adams, American politician, 6th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1848\" title=\"1848\">1848</a> – <a href=\"/wiki/John_Quincy_Adams\" title=\"John Quincy Adams\">John Quincy Adams</a>, American politician, 6th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1767)</li>",
+      "entities": [
+        {
+          "name": "John Quincy Adams",
+          "url": "/wiki/John_Quincy_Adams",
+          "length": 131957
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    }
+  ]
+}

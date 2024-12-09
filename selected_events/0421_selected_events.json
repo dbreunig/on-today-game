@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1975",
+      "description": "Vietnam War: President of South Vietnam Nguyễn Văn Thiệu flees Saigon, as Xuân Lộc, the last South Vietnamese outpost blocking a direct North Vietnamese assault on Saigon, falls.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: President of <a href=\"/wiki/South_Vietnam\" title=\"South Vietnam\">South Vietnam</a> <a href=\"/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u\" title=\"Nguyễn Văn Thiệu\">Nguyễn Văn Thiệu</a> flees <a href=\"/wiki/Ho_Chi_Minh_City\" title=\"Ho Chi Minh City\">Saigon</a>, as <a href=\"/wiki/Xu%C3%A2n_L%E1%BB%99c_district\" title=\"Xuân Lộc district\">Xuân Lộc</a>, the last South Vietnamese outpost blocking a direct <a href=\"/wiki/North_Vietnam\" title=\"North Vietnam\">North Vietnamese</a> assault on Saigon, <a href=\"/wiki/Battle_of_Xu%C3%A2n_L%E1%BB%99c\" title=\"Battle of Xuân Lộc\">falls</a>.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "South Vietnam",
+          "url": "/wiki/South_Vietnam",
+          "length": 263062
+        },
+        {
+          "name": "Nguyễn Văn Thiệu",
+          "url": "/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u",
+          "length": 88225
+        },
+        {
+          "name": "Ho Chi Minh City",
+          "url": "/wiki/Ho_Chi_Minh_City",
+          "length": 135974
+        },
+        {
+          "name": "Xuân Lộc district",
+          "url": "/wiki/Xu%C3%A2n_L%E1%BB%99c_district",
+          "length": 5293
+        },
+        {
+          "name": "North Vietnam",
+          "url": "/wiki/North_Vietnam",
+          "length": 63962
+        },
+        {
+          "name": "Battle of Xuân Lộc",
+          "url": "/wiki/Battle_of_Xu%C3%A2n_L%E1%BB%99c",
+          "length": 37358
+        }
+      ]
+    },
+    {
+      "year": "43 BC",
+      "description": "Battle of Mutina: Mark Antony is again defeated in battle by Aulus Hirtius, who is killed. Antony fails to capture Mutina and Decimus Brutus is murdered shortly after.",
+      "html": "<li>\n<a href=\"/wiki/43_BC\" title=\"43 BC\">43 BC</a> – <a href=\"/wiki/Battle_of_Mutina\" title=\"Battle of Mutina\">Battle of Mutina</a>: <a href=\"/wiki/Mark_Antony\" title=\"Mark Antony\">Mark Antony</a> is again defeated in battle by <a href=\"/wiki/Aulus_Hirtius\" title=\"Aulus Hirtius\">Aulus Hirtius</a>, who is killed. Antony fails to capture <a href=\"/wiki/Mutina\" class=\"mw-redirect\" title=\"Mutina\">Mutina</a> and <a href=\"/wiki/Decimus_Junius_Brutus_Albinus\" title=\"Decimus Junius Brutus Albinus\">Decimus Brutus</a> is murdered shortly after.</li>",
+      "entities": [
+        {
+          "name": "43 BC",
+          "url": "/wiki/43_BC",
+          "length": 7956
+        },
+        {
+          "name": "Battle of Mutina",
+          "url": "/wiki/Battle_of_Mutina",
+          "length": 21392
+        },
+        {
+          "name": "Mark Antony",
+          "url": "/wiki/Mark_Antony",
+          "length": 142643
+        },
+        {
+          "name": "Aulus Hirtius",
+          "url": "/wiki/Aulus_Hirtius",
+          "length": 5349
+        },
+        {
+          "name": "Mutina",
+          "url": "/wiki/Mutina",
+          "length": 20
+        },
+        {
+          "name": "Decimus Junius Brutus Albinus",
+          "url": "/wiki/Decimus_Junius_Brutus_Albinus",
+          "length": 21830
+        }
+      ]
+    },
+    {
+      "year": "1918",
+      "description": "World War I: German fighter ace Manfred von Richthofen, better known as \"The Red Baron\", is shot down and killed over Vaux-sur-Somme in France.",
+      "html": "<li>\n<a href=\"/wiki/1918\" title=\"1918\">1918</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: <a href=\"/wiki/German_Empire\" title=\"German Empire\">German</a> fighter ace <a href=\"/wiki/Manfred_von_Richthofen\" title=\"Manfred von Richthofen\">Manfred von Richthofen</a>, better known as \"The Red Baron\", is shot down and killed over <a href=\"/wiki/Vaux-sur-Somme\" title=\"Vaux-sur-Somme\">Vaux-sur-Somme</a> in <a href=\"/wiki/French_Third_Republic\" title=\"French Third Republic\">France</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "German Empire",
+          "url": "/wiki/German_Empire",
+          "length": 155614
+        },
+        {
+          "name": "Manfred von Richthofen",
+          "url": "/wiki/Manfred_von_Richthofen",
+          "length": 59593
+        },
+        {
+          "name": "Vaux-sur-Somme",
+          "url": "/wiki/Vaux-sur-Somme",
+          "length": 2361
+        },
+        {
+          "name": "French Third Republic",
+          "url": "/wiki/French_Third_Republic",
+          "length": 164721
+        }
+      ]
+    },
+    {
+      "year": "1836",
+      "description": "Texas Revolution: The Battle of San Jacinto: Republic of Texas forces under Sam Houston defeat troops under Mexican General Antonio López de Santa Anna.",
+      "html": "<li>\n<a href=\"/wiki/1836\" title=\"1836\">1836</a> – <a href=\"/wiki/Texas_Revolution\" title=\"Texas Revolution\">Texas Revolution</a>: The <a href=\"/wiki/Battle_of_San_Jacinto\" title=\"Battle of San Jacinto\">Battle of San Jacinto</a>: <a href=\"/wiki/Republic_of_Texas\" title=\"Republic of Texas\">Republic of Texas</a> forces under <a href=\"/wiki/Sam_Houston\" title=\"Sam Houston\">Sam Houston</a> defeat troops under Mexican General <a href=\"/wiki/Antonio_L%C3%B3pez_de_Santa_Anna\" title=\"Antonio López de Santa Anna\">Antonio López de Santa Anna</a>.</li>",
+      "entities": [
+        {
+          "name": "Texas Revolution",
+          "url": "/wiki/Texas_Revolution",
+          "length": 109716
+        },
+        {
+          "name": "Battle of San Jacinto",
+          "url": "/wiki/Battle_of_San_Jacinto",
+          "length": 51794
+        },
+        {
+          "name": "Republic of Texas",
+          "url": "/wiki/Republic_of_Texas",
+          "length": 63037
+        },
+        {
+          "name": "Sam Houston",
+          "url": "/wiki/Sam_Houston",
+          "length": 64797
+        },
+        {
+          "name": "Antonio López de Santa Anna",
+          "url": "/wiki/Antonio_L%C3%B3pez_de_Santa_Anna",
+          "length": 74927
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "description": "Rastafari movement: Haile Selassie of Ethiopia visits Jamaica, an event now celebrated as Grounation Day.",
+      "html": "<li>\n<a href=\"/wiki/1966\" title=\"1966\">1966</a> – <a href=\"/wiki/Rastafari\" title=\"Rastafari\">Rastafari movement</a>: <a href=\"/wiki/Haile_Selassie\" title=\"Haile Selassie\">Haile Selassie</a> of <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a> visits <a href=\"/wiki/Jamaica\" title=\"Jamaica\">Jamaica</a>, an event now celebrated as <a href=\"/wiki/Grounation_Day\" title=\"Grounation Day\">Grounation Day</a>.</li>",
+      "entities": [
+        {
+          "name": "Rastafari",
+          "url": "/wiki/Rastafari",
+          "length": 144003
+        },
+        {
+          "name": "Haile Selassie",
+          "url": "/wiki/Haile_Selassie",
+          "length": 223259
+        },
+        {
+          "name": "Ethiopia",
+          "url": "/wiki/Ethiopia",
+          "length": 231706
+        },
+        {
+          "name": "Jamaica",
+          "url": "/wiki/Jamaica",
+          "length": 220057
+        },
+        {
+          "name": "Grounation Day",
+          "url": "/wiki/Grounation_Day",
+          "length": 8001
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "World War II: Soviet forces south of Berlin at Zossen attack the German High Command headquarters.",
+      "html": "<li>\n<a href=\"/wiki/1945\" title=\"1945\">1945</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet</a> forces south of Berlin at <a href=\"/wiki/Zossen\" title=\"Zossen\">Zossen</a> attack the <a href=\"/wiki/Maybach_I_and_II\" title=\"Maybach I and II\">German High Command</a> headquarters.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Zossen",
+          "url": "/wiki/Zossen",
+          "length": 11686
+        },
+        {
+          "name": "Maybach I and II",
+          "url": "/wiki/Maybach_I_and_II",
+          "length": 8782
+        }
+      ]
+    },
+    {
+      "year": "1926",
+      "description": "Elizabeth II, Queen of the United Kingdom and her other realms, was born.",
+      "html": "<li>\n<a href=\"/wiki/1926\" title=\"1926\">1926</a> – <a href=\"/wiki/Elizabeth_II\" title=\"Elizabeth II\">Elizabeth II</a>, Queen of the <a href=\"/wiki/United_Kingdom\" title=\"United Kingdom\">United Kingdom</a> and <a href=\"/wiki/List_of_titles_and_honours_of_Elizabeth_II\" title=\"List of titles and honours of Elizabeth II\">her other realms</a> (d. 2022)<sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\"><span class=\"cite-bracket\">[</span>18<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Elizabeth II",
+          "url": "/wiki/Elizabeth_II",
+          "length": 197725
+        },
+        {
+          "name": "United Kingdom",
+          "url": "/wiki/United_Kingdom",
+          "length": 370661
+        },
+        {
+          "name": "List of titles and honours of Elizabeth II",
+          "url": "/wiki/List_of_titles_and_honours_of_Elizabeth_II",
+          "length": 151208
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "John Maynard Keynes, English economist and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – <a href=\"/wiki/John_Maynard_Keynes\" title=\"John Maynard Keynes\">John Maynard Keynes</a>, English economist and philosopher (b. 1883)</li>",
+      "entities": [
+        {
+          "name": "John Maynard Keynes",
+          "url": "/wiki/John_Maynard_Keynes",
+          "length": 196281
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1926",
+      "description": "Elizabeth II, Queen of the United Kingdom and her other realms, was born.",
+      "html": "<li>\n<a href=\"/wiki/1926\" title=\"1926\">1926</a> – <a href=\"/wiki/Elizabeth_II\" title=\"Elizabeth II\">Elizabeth II</a>, Queen of the <a href=\"/wiki/United_Kingdom\" title=\"United Kingdom\">United Kingdom</a> and <a href=\"/wiki/List_of_titles_and_honours_of_Elizabeth_II\" title=\"List of titles and honours of Elizabeth II\">her other realms</a> (d. 2022)<sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\"><span class=\"cite-bracket\">[</span>18<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Elizabeth II",
+          "url": "/wiki/Elizabeth_II",
+          "length": 197725
+        },
+        {
+          "name": "United Kingdom",
+          "url": "/wiki/United_Kingdom",
+          "length": 370661
+        },
+        {
+          "name": "List of titles and honours of Elizabeth II",
+          "url": "/wiki/List_of_titles_and_honours_of_Elizabeth_II",
+          "length": 151208
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "Max Weber, German economist and sociologist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/Max_Weber\" title=\"Max Weber\">Max Weber</a>, German economist and sociologist (d. 1920)</li>",
+      "entities": [
+        {
+          "name": "Max Weber",
+          "url": "/wiki/Max_Weber",
+          "length": 166842
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Tony Romo, American football player and announcer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Tony_Romo\" title=\"Tony Romo\">Tony Romo</a>, American football player and announcer<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Tony Romo",
+          "url": "/wiki/Tony_Romo",
+          "length": 153210
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2016",
+      "description": "Prince, American singer-songwriter, guitarist, producer, and actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2016\" title=\"2016\">2016</a> – <a href=\"/wiki/Prince_(musician)\" title=\"Prince (musician)\">Prince</a>, American singer-songwriter, guitarist, producer, and actor (b. 1958)</li>",
+      "entities": [
+        {
+          "name": "Prince (musician)",
+          "url": "/wiki/Prince_(musician)",
+          "length": 293921
+        }
+      ]
+    },
+    {
+      "year": "1720",
+      "description": "Antoine Hamilton, Irish-French soldier and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1720\" title=\"1720\">1720</a> – <a href=\"/wiki/Antoine_Hamilton\" title=\"Antoine Hamilton\">Antoine Hamilton</a>, Irish-French soldier and author (b. 1646)</li>",
+      "entities": [
+        {
+          "name": "Antoine Hamilton",
+          "url": "/wiki/Antoine_Hamilton",
+          "length": 200176
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "John Maynard Keynes, English economist and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1946\" title=\"1946\">1946</a> – <a href=\"/wiki/John_Maynard_Keynes\" title=\"John Maynard Keynes\">John Maynard Keynes</a>, English economist and philosopher (b. 1883)</li>",
+      "entities": [
+        {
+          "name": "John Maynard Keynes",
+          "url": "/wiki/John_Maynard_Keynes",
+          "length": 196281
+        }
+      ]
+    }
+  ]
+}

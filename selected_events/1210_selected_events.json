@@ -1,0 +1,361 @@
+{
+  "events": [
+    {
+      "year": "1941",
+      "description": "World War II: The Royal Navy capital ships HMS Prince of Wales and HMS Repulse are sunk by Imperial Japanese Navy torpedo bombers near British Malaya.",
+      "html": "<li>\n<a href=\"/wiki/1941\" title=\"1941\">1941</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The <a href=\"/wiki/Royal_Navy\" title=\"Royal Navy\">Royal Navy</a> capital ships <a href=\"/wiki/HMS_Prince_of_Wales_(53)\" title=\"HMS Prince of Wales (53)\">HMS <i>Prince of Wales</i></a> and <a href=\"/wiki/HMS_Repulse_(1916)\" title=\"HMS Repulse (1916)\">HMS <i>Repulse</i></a> are <a href=\"/wiki/Sinking_of_Prince_of_Wales_and_Repulse\" title=\"Sinking of Prince of Wales and Repulse\">sunk</a> by <a href=\"/wiki/Imperial_Japanese_Navy\" title=\"Imperial Japanese Navy\">Imperial Japanese Navy</a> <a href=\"/wiki/Torpedo_bomber\" title=\"Torpedo bomber\">torpedo bombers</a> near <a href=\"/wiki/British_Malaya\" title=\"British Malaya\">British Malaya</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 254994
+        },
+        {
+          "name": "Royal Navy",
+          "url": "/wiki/Royal_Navy",
+          "length": 158090
+        },
+        {
+          "name": "HMS Prince of Wales (53)",
+          "url": "/wiki/HMS_Prince_of_Wales_(53)",
+          "length": 49849
+        },
+        {
+          "name": "HMS Repulse (1916)",
+          "url": "/wiki/HMS_Repulse_(1916)",
+          "length": 40703
+        },
+        {
+          "name": "Sinking of Prince of Wales and Repulse",
+          "url": "/wiki/Sinking_of_Prince_of_Wales_and_Repulse",
+          "length": 63720
+        },
+        {
+          "name": "Imperial Japanese Navy",
+          "url": "/wiki/Imperial_Japanese_Navy",
+          "length": 106515
+        },
+        {
+          "name": "Torpedo bomber",
+          "url": "/wiki/Torpedo_bomber",
+          "length": 33452
+        },
+        {
+          "name": "British Malaya",
+          "url": "/wiki/British_Malaya",
+          "length": 43902
+        }
+      ]
+    },
+    {
+      "year": "1949",
+      "description": "Chinese Civil War: The People's Liberation Army begins its siege of Chengdu, the last Kuomintang-held city in mainland China, forcing President of the Republic of China Chiang Kai-shek and his government to retreat to Taiwan.",
+      "html": "<li>\n<a href=\"/wiki/1949\" title=\"1949\">1949</a> – <a href=\"/wiki/Chinese_Civil_War\" title=\"Chinese Civil War\">Chinese Civil War</a>: The <a href=\"/wiki/People%27s_Liberation_Army\" title=\"People's Liberation Army\">People's Liberation Army</a> begins its siege of <a href=\"/wiki/Chengdu\" title=\"Chengdu\">Chengdu</a>, the last <a href=\"/wiki/Kuomintang\" title=\"Kuomintang\">Kuomintang</a>-held city in <a href=\"/wiki/Mainland_China\" title=\"Mainland China\">mainland China</a>, forcing <a href=\"/wiki/President_of_the_Republic_of_China\" title=\"President of the Republic of China\">President of the Republic of China</a> <a href=\"/wiki/Chiang_Kai-shek\" title=\"Chiang Kai-shek\">Chiang Kai-shek</a> and his government to retreat to <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a>.</li>",
+      "entities": [
+        {
+          "name": "Chinese Civil War",
+          "url": "/wiki/Chinese_Civil_War",
+          "length": 118670
+        },
+        {
+          "name": "People's Liberation Army",
+          "url": "/wiki/People%27s_Liberation_Army",
+          "length": 192165
+        },
+        {
+          "name": "Chengdu",
+          "url": "/wiki/Chengdu",
+          "length": 225254
+        },
+        {
+          "name": "Kuomintang",
+          "url": "/wiki/Kuomintang",
+          "length": 168183
+        },
+        {
+          "name": "Mainland China",
+          "url": "/wiki/Mainland_China",
+          "length": 30540
+        },
+        {
+          "name": "President of the Republic of China",
+          "url": "/wiki/President_of_the_Republic_of_China",
+          "length": 39616
+        },
+        {
+          "name": "Chiang Kai-shek",
+          "url": "/wiki/Chiang_Kai-shek",
+          "length": 195872
+        },
+        {
+          "name": "Taiwan",
+          "url": "/wiki/Taiwan",
+          "length": 344497
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "description": "A widespread, deadly, and violent tornado outbreak slams the Central, Midwestern, and Southern regions of the United States. Eighty-nine people are killed by the tornadoes, with most of the fatalities occurring in Kentucky, where a single tornado kills 57 people, and injures hundreds of others.",
+      "html": "<li>\n<a href=\"/wiki/2021\" title=\"2021\">2021</a> – A widespread, deadly, and violent <a href=\"/wiki/Tornado_outbreak_of_December_10%E2%80%9311,_2021\" title=\"Tornado outbreak of December 10–11, 2021\">tornado outbreak</a> slams the <a href=\"/wiki/Central_United_States\" title=\"Central United States\">Central</a>, <a href=\"/wiki/Midwestern_United_States\" title=\"Midwestern United States\">Midwestern</a>, and <a href=\"/wiki/Southern_United_States\" title=\"Southern United States\">Southern</a> regions of the <a href=\"/wiki/United_States\" title=\"United States\">United States</a>. Eighty-nine people are killed by the tornadoes, with most of the fatalities occurring in <a href=\"/wiki/Kentucky\" title=\"Kentucky\">Kentucky</a>, where a <a href=\"/wiki/2021_Western_Kentucky_tornado\" title=\"2021 Western Kentucky tornado\">single tornado</a> kills 57 people, and injures hundreds of others.<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Tornado outbreak of December 10–11, 2021",
+          "url": "/wiki/Tornado_outbreak_of_December_10%E2%80%9311,_2021",
+          "length": 175675
+        },
+        {
+          "name": "Central United States",
+          "url": "/wiki/Central_United_States",
+          "length": 7814
+        },
+        {
+          "name": "Midwestern United States",
+          "url": "/wiki/Midwestern_United_States",
+          "length": 184405
+        },
+        {
+          "name": "Southern United States",
+          "url": "/wiki/Southern_United_States",
+          "length": 215318
+        },
+        {
+          "name": "United States",
+          "url": "/wiki/United_States",
+          "length": 336851
+        },
+        {
+          "name": "Kentucky",
+          "url": "/wiki/Kentucky",
+          "length": 216666
+        },
+        {
+          "name": "2021 Western Kentucky tornado",
+          "url": "/wiki/2021_Western_Kentucky_tornado",
+          "length": 94659
+        }
+      ]
+    },
+    {
+      "year": "1508",
+      "description": "The League of Cambrai is formed by Pope Julius II, Louis XII of France, Maximilian I, Holy Roman Emperor and Ferdinand II of Aragon as an alliance against Venice.",
+      "html": "<li>\n<a href=\"/wiki/1508\" title=\"1508\">1508</a> – The <a href=\"/wiki/War_of_the_League_of_Cambrai\" title=\"War of the League of Cambrai\">League of Cambrai</a> is formed by <a href=\"/wiki/Pope_Julius_II\" title=\"Pope Julius II\">Pope Julius II</a>, <a href=\"/wiki/Louis_XII_of_France\" class=\"mw-redirect\" title=\"Louis XII of France\">Louis XII of France</a>, <a href=\"/wiki/Maximilian_I,_Holy_Roman_Emperor\" title=\"Maximilian I, Holy Roman Emperor\">Maximilian I, Holy Roman Emperor</a> and <a href=\"/wiki/Ferdinand_II_of_Aragon\" title=\"Ferdinand II of Aragon\">Ferdinand II of Aragon</a> as an alliance against <a href=\"/wiki/Republic_of_Venice\" title=\"Republic of Venice\">Venice</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "War of the League of Cambrai",
+          "url": "/wiki/War_of_the_League_of_Cambrai",
+          "length": 51351
+        },
+        {
+          "name": "Pope Julius II",
+          "url": "/wiki/Pope_Julius_II",
+          "length": 93811
+        },
+        {
+          "name": "Louis XII of France",
+          "url": "/wiki/Louis_XII_of_France",
+          "length": 70
+        },
+        {
+          "name": "Maximilian I, Holy Roman Emperor",
+          "url": "/wiki/Maximilian_I,_Holy_Roman_Emperor",
+          "length": 401540
+        },
+        {
+          "name": "Ferdinand II of Aragon",
+          "url": "/wiki/Ferdinand_II_of_Aragon",
+          "length": 37807
+        },
+        {
+          "name": "Republic of Venice",
+          "url": "/wiki/Republic_of_Venice",
+          "length": 122320
+        }
+      ]
+    },
+    {
+      "year": "1978",
+      "description": "Arab–Israeli conflict: Prime Minister of Israel Menachem Begin and President of Egypt Anwar Sadat are jointly awarded the Nobel Peace Prize.",
+      "html": "<li>\n<a href=\"/wiki/1978\" title=\"1978\">1978</a> – <a href=\"/wiki/Arab%E2%80%93Israeli_conflict\" title=\"Arab–Israeli conflict\">Arab–Israeli conflict</a>: <a href=\"/wiki/Prime_Minister_of_Israel\" title=\"Prime Minister of Israel\">Prime Minister of Israel</a> <a href=\"/wiki/Menachem_Begin\" title=\"Menachem Begin\">Menachem Begin</a> and <a href=\"/wiki/President_of_Egypt\" title=\"President of Egypt\">President of Egypt</a> <a href=\"/wiki/Anwar_Sadat\" title=\"Anwar Sadat\">Anwar Sadat</a> are jointly awarded the <a href=\"/wiki/Nobel_Peace_Prize\" title=\"Nobel Peace Prize\">Nobel Peace Prize</a>.</li>",
+      "entities": [
+        {
+          "name": "Arab–Israeli conflict",
+          "url": "/wiki/Arab%E2%80%93Israeli_conflict",
+          "length": 127596
+        },
+        {
+          "name": "Prime Minister of Israel",
+          "url": "/wiki/Prime_Minister_of_Israel",
+          "length": 19115
+        },
+        {
+          "name": "Menachem Begin",
+          "url": "/wiki/Menachem_Begin",
+          "length": 98957
+        },
+        {
+          "name": "President of Egypt",
+          "url": "/wiki/President_of_Egypt",
+          "length": 24039
+        },
+        {
+          "name": "Anwar Sadat",
+          "url": "/wiki/Anwar_Sadat",
+          "length": 63207
+        },
+        {
+          "name": "Nobel Peace Prize",
+          "url": "/wiki/Nobel_Peace_Prize",
+          "length": 45979
+        }
+      ]
+    },
+    {
+      "year": "1684",
+      "description": "Isaac Newton's derivation of Kepler's laws from his theory of gravity, contained in the paper De motu corporum in gyrum, is read to the Royal Society by Edmond Halley.",
+      "html": "<li>\n<a href=\"/wiki/1684\" title=\"1684\">1684</a> – <a href=\"/wiki/Isaac_Newton\" title=\"Isaac Newton\">Isaac Newton</a>'s derivation of <a href=\"/wiki/Kepler%27s_laws\" class=\"mw-redirect\" title=\"Kepler's laws\">Kepler's laws</a> from his theory of gravity, contained in the paper <i><a href=\"/wiki/De_motu_corporum_in_gyrum\" title=\"De motu corporum in gyrum\">De motu corporum in gyrum</a></i>, is read to the <a href=\"/wiki/Royal_Society\" title=\"Royal Society\">Royal Society</a> by <a href=\"/wiki/Edmond_Halley\" title=\"Edmond Halley\">Edmond Halley</a>.</li>",
+      "entities": [
+        {
+          "name": "Isaac Newton",
+          "url": "/wiki/Isaac_Newton",
+          "length": 158138
+        },
+        {
+          "name": "Kepler's laws",
+          "url": "/wiki/Kepler%27s_laws",
+          "length": 120
+        },
+        {
+          "name": "De motu corporum in gyrum",
+          "url": "/wiki/De_motu_corporum_in_gyrum",
+          "length": 22433
+        },
+        {
+          "name": "Royal Society",
+          "url": "/wiki/Royal_Society",
+          "length": 73110
+        },
+        {
+          "name": "Edmond Halley",
+          "url": "/wiki/Edmond_Halley",
+          "length": 49398
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "description": "Kang Daniel, South Korean singer and entrepreneur, was born.",
+      "html": "<li>1996   – <a href=\"/wiki/Kang_Daniel\" title=\"Kang Daniel\">Kang Daniel</a>, South Korean singer and entrepreneur<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kang Daniel",
+          "url": "/wiki/Kang_Daniel",
+          "length": 174659
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "description": "Richard Pryor, American comedian, actor, producer, and screenwriter, died.",
+      "html": "<li>2005   – <a href=\"/wiki/Richard_Pryor\" title=\"Richard Pryor\">Richard Pryor</a>, American comedian, actor, producer, and screenwriter (b. 1940)</li>",
+      "entities": [
+        {
+          "name": "Richard Pryor",
+          "url": "/wiki/Richard_Pryor",
+          "length": 82114
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1996",
+      "description": "Kang Daniel, South Korean singer and entrepreneur, was born.",
+      "html": "<li>1996   – <a href=\"/wiki/Kang_Daniel\" title=\"Kang Daniel\">Kang Daniel</a>, South Korean singer and entrepreneur<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kang Daniel",
+          "url": "/wiki/Kang_Daniel",
+          "length": 174659
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "description": "Joe Burrow, American football player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1996\" title=\"1996\">1996</a> – <a href=\"/wiki/Joe_Burrow\" title=\"Joe Burrow\">Joe Burrow</a>, American football player<sup id=\"cite_ref-55\" class=\"reference\"><a href=\"#cite_note-55\"><span class=\"cite-bracket\">[</span>55<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Joe Burrow",
+          "url": "/wiki/Joe_Burrow",
+          "length": 119975
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "Rod Blagojevich, American lawyer and politician, 40th Governor of Illinois, was born.",
+      "html": "<li>\n<a href=\"/wiki/1956\" title=\"1956\">1956</a> – <a href=\"/wiki/Rod_Blagojevich\" title=\"Rod Blagojevich\">Rod Blagojevich</a>, American lawyer and politician, 40th <a href=\"/wiki/Governor_of_Illinois\" title=\"Governor of Illinois\">Governor of Illinois</a>\n</li>",
+      "entities": [
+        {
+          "name": "Rod Blagojevich",
+          "url": "/wiki/Rod_Blagojevich",
+          "length": 113445
+        },
+        {
+          "name": "Governor of Illinois",
+          "url": "/wiki/Governor_of_Illinois",
+          "length": 9695
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2006",
+      "description": "Augusto Pinochet, Chilean general and dictator, 30th President of Chile, died.",
+      "html": "<li>2006   – <a href=\"/wiki/Augusto_Pinochet\" title=\"Augusto Pinochet\">Augusto Pinochet</a>, Chilean general and dictator, 30th <a href=\"/wiki/President_of_Chile\" title=\"President of Chile\">President of Chile</a> (b. 1915)</li>",
+      "entities": [
+        {
+          "name": "Augusto Pinochet",
+          "url": "/wiki/Augusto_Pinochet",
+          "length": 180614
+        },
+        {
+          "name": "President of Chile",
+          "url": "/wiki/President_of_Chile",
+          "length": 17079
+        }
+      ]
+    },
+    {
+      "year": "1999",
+      "description": "Franjo Tuđman, Croatian general and politician, 1st President of Croatia, died.",
+      "html": "<li>1999   – <a href=\"/wiki/Franjo_Tu%C4%91man\" title=\"Franjo Tuđman\">Franjo Tuđman</a>, Croatian general and politician, 1st <a href=\"/wiki/President_of_Croatia\" title=\"President of Croatia\">President of Croatia</a> (b. 1922)</li>",
+      "entities": [
+        {
+          "name": "Franjo Tuđman",
+          "url": "/wiki/Franjo_Tu%C4%91man",
+          "length": 117405
+        },
+        {
+          "name": "President of Croatia",
+          "url": "/wiki/President_of_Croatia",
+          "length": 62252
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "description": "Richard Pryor, American comedian, actor, producer, and screenwriter, died.",
+      "html": "<li>2005   – <a href=\"/wiki/Richard_Pryor\" title=\"Richard Pryor\">Richard Pryor</a>, American comedian, actor, producer, and screenwriter (b. 1940)</li>",
+      "entities": [
+        {
+          "name": "Richard Pryor",
+          "url": "/wiki/Richard_Pryor",
+          "length": 82114
+        }
+      ]
+    }
+  ]
+}

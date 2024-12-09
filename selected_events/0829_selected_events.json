@@ -1,0 +1,346 @@
+{
+  "events": [
+    {
+      "year": "1975",
+      "description": "El Tacnazo:  Francisco Morales Bermúdez, Peruvian Prime Minister carries out a coup d’état in the city of Tacna, forcing the sitting President of Peru, Juan Velasco Alvarado, to resign and assuming his place as the new President.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/Tacnazo\" title=\"Tacnazo\">El Tacnazo</a>:  <a href=\"/wiki/Francisco_Morales_Berm%C3%BAdez\" title=\"Francisco Morales Bermúdez\">Francisco Morales Bermúdez</a>, Peruvian <a href=\"/wiki/President_of_the_Council_of_Ministers_of_Peru\" class=\"mw-redirect\" title=\"President of the Council of Ministers of Peru\">Prime Minister</a> carries out a <a href=\"/wiki/Tacnazo\" title=\"Tacnazo\">coup d’état</a> in the city of <a href=\"/wiki/Tacna\" title=\"Tacna\">Tacna</a>, forcing the sitting <a href=\"/wiki/President_of_Peru\" title=\"President of Peru\">President of Peru</a>, <a href=\"/wiki/Juan_Velasco_Alvarado\" title=\"Juan Velasco Alvarado\">Juan Velasco Alvarado</a>, to resign and assuming his place as the new <a href=\"/wiki/President_of_Peru\" title=\"President of Peru\">President</a>.<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Tacnazo",
+          "url": "/wiki/Tacnazo",
+          "length": 4101
+        },
+        {
+          "name": "Francisco Morales Bermúdez",
+          "url": "/wiki/Francisco_Morales_Berm%C3%BAdez",
+          "length": 15271
+        },
+        {
+          "name": "President of the Council of Ministers of Peru",
+          "url": "/wiki/President_of_the_Council_of_Ministers_of_Peru",
+          "length": 83
+        },
+        {
+          "name": "Tacnazo",
+          "url": "/wiki/Tacnazo",
+          "length": null
+        },
+        {
+          "name": "Tacna",
+          "url": "/wiki/Tacna",
+          "length": 21457
+        },
+        {
+          "name": "President of Peru",
+          "url": "/wiki/President_of_Peru",
+          "length": 50831
+        },
+        {
+          "name": "Juan Velasco Alvarado",
+          "url": "/wiki/Juan_Velasco_Alvarado",
+          "length": 34108
+        },
+        {
+          "name": "President of Peru",
+          "url": "/wiki/President_of_Peru",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1952",
+      "description": "American experimental composer John Cage’s 4’33” premieres at Maverick Concert Hall, played by American pianist David Tudor.",
+      "html": "<li>\n<a href=\"/wiki/1952\" title=\"1952\">1952</a> – American <a href=\"/wiki/Experimental_music\" title=\"Experimental music\">experimental composer</a> <a href=\"/wiki/John_Cage\" title=\"John Cage\">John Cage</a>’s <i><a href=\"/wiki/4%E2%80%9933%E2%80%9D\" class=\"mw-redirect\" title=\"4’33”\">4’33”</a></i> premieres at <a href=\"/wiki/Maverick_Concert_Hall\" title=\"Maverick Concert Hall\">Maverick Concert Hall</a>, played by <a href=\"/wiki/American_people\" class=\"mw-redirect\" title=\"American people\">American</a> pianist <a href=\"/wiki/David_Tudor\" title=\"David Tudor\">David Tudor</a>.<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Experimental music",
+          "url": "/wiki/Experimental_music",
+          "length": 24574
+        },
+        {
+          "name": "John Cage",
+          "url": "/wiki/John_Cage",
+          "length": 101898
+        },
+        {
+          "name": "4’33”",
+          "url": "/wiki/4%E2%80%9933%E2%80%9D",
+          "length": 23
+        },
+        {
+          "name": "Maverick Concert Hall",
+          "url": "/wiki/Maverick_Concert_Hall",
+          "length": 12807
+        },
+        {
+          "name": "American people",
+          "url": "/wiki/American_people",
+          "length": 69
+        },
+        {
+          "name": "David Tudor",
+          "url": "/wiki/David_Tudor",
+          "length": 10043
+        }
+      ]
+    },
+    {
+      "year": "1526",
+      "description": "Battle of Mohács: The Ottoman Turks led by Suleiman the Magnificent defeat and kill the last Jagiellonian king of Hungary and Bohemia.",
+      "html": "<li>\n<a href=\"/wiki/1526\" title=\"1526\">1526</a> – <a href=\"/wiki/Battle_of_Moh%C3%A1cs\" title=\"Battle of Mohács\">Battle of Mohács</a>: The <a href=\"/wiki/Ottoman_Turks\" title=\"Ottoman Turks\">Ottoman Turks</a> led by <a href=\"/wiki/Suleiman_the_Magnificent\" title=\"Suleiman the Magnificent\">Suleiman the Magnificent</a> defeat and kill the last <a href=\"/wiki/Jagiellonian\" class=\"mw-redirect\" title=\"Jagiellonian\">Jagiellonian</a> king of <a href=\"/wiki/Kingdom_of_Hungary\" title=\"Kingdom of Hungary\">Hungary</a> and <a href=\"/wiki/Kingdom_of_Bohemia\" title=\"Kingdom of Bohemia\">Bohemia</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Mohács",
+          "url": "/wiki/Battle_of_Moh%C3%A1cs",
+          "length": 50364
+        },
+        {
+          "name": "Ottoman Turks",
+          "url": "/wiki/Ottoman_Turks",
+          "length": 11921
+        },
+        {
+          "name": "Suleiman the Magnificent",
+          "url": "/wiki/Suleiman_the_Magnificent",
+          "length": 79187
+        },
+        {
+          "name": "Jagiellonian",
+          "url": "/wiki/Jagiellonian",
+          "length": 34
+        },
+        {
+          "name": "Kingdom of Hungary",
+          "url": "/wiki/Kingdom_of_Hungary",
+          "length": 84981
+        },
+        {
+          "name": "Kingdom of Bohemia",
+          "url": "/wiki/Kingdom_of_Bohemia",
+          "length": 76909
+        }
+      ]
+    },
+    {
+      "year": "1350",
+      "description": "Battle of Winchelsea (or Les Espagnols sur Mer): The English naval fleet under King Edward III defeats a Castilian fleet of 40 ships.",
+      "html": "<li>\n<a href=\"/wiki/1350\" title=\"1350\">1350</a> – <a href=\"/wiki/Battle_of_Winchelsea\" title=\"Battle of Winchelsea\">Battle of Winchelsea</a> (or <a href=\"/wiki/Les_Espagnols_sur_Mer\" class=\"mw-redirect\" title=\"Les Espagnols sur Mer\">Les Espagnols sur Mer</a>): The <a href=\"/wiki/Kingdom_of_England\" title=\"Kingdom of England\">English</a> <a href=\"/wiki/Naval_fleet\" title=\"Naval fleet\">naval fleet</a> under King <a href=\"/wiki/Edward_III_of_England\" title=\"Edward III of England\">Edward III</a> defeats a <a href=\"/wiki/Crown_of_Castile\" title=\"Crown of Castile\">Castilian</a> fleet of 40 ships.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Battle of Winchelsea",
+          "url": "/wiki/Battle_of_Winchelsea",
+          "length": 19017
+        },
+        {
+          "name": "Les Espagnols sur Mer",
+          "url": "/wiki/Les_Espagnols_sur_Mer",
+          "length": 34
+        },
+        {
+          "name": "Kingdom of England",
+          "url": "/wiki/Kingdom_of_England",
+          "length": 59718
+        },
+        {
+          "name": "Naval fleet",
+          "url": "/wiki/Naval_fleet",
+          "length": 3853
+        },
+        {
+          "name": "Edward III of England",
+          "url": "/wiki/Edward_III_of_England",
+          "length": 114204
+        },
+        {
+          "name": "Crown of Castile",
+          "url": "/wiki/Crown_of_Castile",
+          "length": 43240
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Odaeyang mass suicide: Thirty-three individuals linked to a religious cult are found dead in the attic of a cafeteria in Yongin, South Korea. Investigators attribute their deaths to a murder-suicide pact.",
+      "html": "<li>\n<a href=\"/wiki/1987\" title=\"1987\">1987</a> – <a href=\"/wiki/Evangelical_Baptist_Church_of_Korea#Odaeyang_mass_suicide\" title=\"Evangelical Baptist Church of Korea\">Odaeyang mass suicide</a>: Thirty-three individuals linked to a <a href=\"/wiki/Evangelical_Baptist_Church_of_Korea\" title=\"Evangelical Baptist Church of Korea\">religious cult</a> are found dead in the attic of a cafeteria in <a href=\"/wiki/Yongin\" title=\"Yongin\">Yongin</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a>. Investigators attribute their deaths to a <a href=\"/wiki/Murder-suicide\" class=\"mw-redirect\" title=\"Murder-suicide\">murder-suicide</a> pact.<sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Evangelical Baptist Church of Korea",
+          "url": "/wiki/Evangelical_Baptist_Church_of_Korea#Odaeyang_mass_suicide",
+          "length": null
+        },
+        {
+          "name": "Evangelical Baptist Church of Korea",
+          "url": "/wiki/Evangelical_Baptist_Church_of_Korea",
+          "length": null
+        },
+        {
+          "name": "Yongin",
+          "url": "/wiki/Yongin",
+          "length": null
+        },
+        {
+          "name": "South Korea",
+          "url": "/wiki/South_Korea",
+          "length": null
+        },
+        {
+          "name": "Murder-suicide",
+          "url": "/wiki/Murder-suicide",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1825",
+      "description": "Portuguese and Brazilian diplomats sign the Treaty of Rio de Janeiro, which has Portugal recognise Brazilian independence, formally ending the Brazilian war of independence. The treaty will be ratified by the King of Portugal three months later.",
+      "html": "<li>\n<a href=\"/wiki/1825\" title=\"1825\">1825</a> – <a href=\"/wiki/Kingdom_of_Portugal\" title=\"Kingdom of Portugal\">Portuguese</a> and <a href=\"/wiki/Empire_of_Brazil\" title=\"Empire of Brazil\">Brazilian</a> diplomats sign the <a href=\"/wiki/Treaty_of_Rio_de_Janeiro_(1825)\" title=\"Treaty of Rio de Janeiro (1825)\">Treaty of Rio de Janeiro</a>, which has Portugal recognise Brazilian independence, formally ending the <a href=\"/wiki/War_of_Independence_of_Brazil\" class=\"mw-redirect\" title=\"War of Independence of Brazil\">Brazilian war of independence</a>. The treaty will be ratified by the <a href=\"/wiki/King_of_Portugal\" class=\"mw-redirect\" title=\"King of Portugal\">King of Portugal</a> three months later.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kingdom of Portugal",
+          "url": "/wiki/Kingdom_of_Portugal",
+          "length": 17089
+        },
+        {
+          "name": "Empire of Brazil",
+          "url": "/wiki/Empire_of_Brazil",
+          "length": 133832
+        },
+        {
+          "name": "Treaty of Rio de Janeiro (1825)",
+          "url": "/wiki/Treaty_of_Rio_de_Janeiro_(1825)",
+          "length": 6808
+        },
+        {
+          "name": "War of Independence of Brazil",
+          "url": "/wiki/War_of_Independence_of_Brazil",
+          "length": 103
+        },
+        {
+          "name": "King of Portugal",
+          "url": "/wiki/King_of_Portugal",
+          "length": 41
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "John McCain, American captain and politician, was born.",
+      "html": "<li>\n<a href=\"/wiki/1936\" title=\"1936\">1936</a> – <a href=\"/wiki/John_McCain\" title=\"John McCain\">John McCain</a>, American captain and politician (d. 2018)<sup id=\"cite_ref-UPI_30-5\" class=\"reference\"><a href=\"#cite_note-UPI-30\"><span class=\"cite-bracket\">[</span>30<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John McCain",
+          "url": "/wiki/John_McCain",
+          "length": 286375
+        }
+      ]
+    },
+    {
+      "year": "1877",
+      "description": "Brigham Young, American religious leader, 2nd President of The Church of Jesus Christ of Latter-day Saints, died.",
+      "html": "<li>\n<a href=\"/wiki/1877\" title=\"1877\">1877</a> – <a href=\"/wiki/Brigham_Young\" title=\"Brigham Young\">Brigham Young</a>, American religious leader, 2nd <a href=\"/wiki/President_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints\" class=\"mw-redirect\" title=\"President of The Church of Jesus Christ of Latter-day Saints\">President of The Church of Jesus Christ of Latter-day Saints</a> (b. 1801)</li>",
+      "entities": [
+        {
+          "name": "Brigham Young",
+          "url": "/wiki/Brigham_Young",
+          "length": 101763
+        },
+        {
+          "name": "President of The Church of Jesus Christ of Latter-day Saints",
+          "url": "/wiki/President_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+          "length": 50
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1958",
+      "description": "Michael Jackson, American singer-songwriter, producer, dancer, and actor from The Jackson 5, was born.",
+      "html": "<li>1958 – <a href=\"/wiki/Michael_Jackson\" title=\"Michael Jackson\">Michael Jackson</a>, American singer-songwriter, producer, dancer, and actor from <a href=\"/wiki/The_Jackson_5\" title=\"The Jackson 5\">The Jackson 5</a> (d. 2009)<sup id=\"cite_ref-41\" class=\"reference\"><a href=\"#cite_note-41\"><span class=\"cite-bracket\">[</span>41<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Michael Jackson",
+          "url": "/wiki/Michael_Jackson",
+          "length": 333431
+        },
+        {
+          "name": "The Jackson 5",
+          "url": "/wiki/The_Jackson_5",
+          "length": 70864
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "John McCain, American captain and politician, was born.",
+      "html": "<li>\n<a href=\"/wiki/1936\" title=\"1936\">1936</a> – <a href=\"/wiki/John_McCain\" title=\"John McCain\">John McCain</a>, American captain and politician (d. 2018)<sup id=\"cite_ref-UPI_30-5\" class=\"reference\"><a href=\"#cite_note-UPI-30\"><span class=\"cite-bracket\">[</span>30<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John McCain",
+          "url": "/wiki/John_McCain",
+          "length": 286375
+        }
+      ]
+    },
+    {
+      "year": "1915",
+      "description": "Ingrid Bergman, Swedish actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1915\" title=\"1915\">1915</a> – <a href=\"/wiki/Ingrid_Bergman\" title=\"Ingrid Bergman\">Ingrid Bergman</a>, Swedish actress (d. 1982)<sup id=\"cite_ref-UPI_30-0\" class=\"reference\"><a href=\"#cite_note-UPI-30\"><span class=\"cite-bracket\">[</span>30<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ingrid Bergman",
+          "url": "/wiki/Ingrid_Bergman",
+          "length": 176126
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1982",
+      "description": "Ingrid Bergman, Swedish actress, died.",
+      "html": "<li>\n<a href=\"/wiki/1982\" title=\"1982\">1982</a> – <a href=\"/wiki/Ingrid_Bergman\" title=\"Ingrid Bergman\">Ingrid Bergman</a>, Swedish actress (b. 1915)</li>",
+      "entities": [
+        {
+          "name": "Ingrid Bergman",
+          "url": "/wiki/Ingrid_Bergman",
+          "length": 176126
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "Éamon de Valera, Irish soldier and politician, 3rd President of Ireland, died.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/%C3%89amon_de_Valera\" title=\"Éamon de Valera\">Éamon de Valera</a>, Irish soldier and politician, 3rd <a href=\"/wiki/President_of_Ireland\" title=\"President of Ireland\">President of Ireland</a> (b. 1882)</li>",
+      "entities": [
+        {
+          "name": "Éamon de Valera",
+          "url": "/wiki/%C3%89amon_de_Valera",
+          "length": 133910
+        },
+        {
+          "name": "President of Ireland",
+          "url": "/wiki/President_of_Ireland",
+          "length": 76622
+        }
+      ]
+    },
+    {
+      "year": "1877",
+      "description": "Brigham Young, American religious leader, 2nd President of The Church of Jesus Christ of Latter-day Saints, died.",
+      "html": "<li>\n<a href=\"/wiki/1877\" title=\"1877\">1877</a> – <a href=\"/wiki/Brigham_Young\" title=\"Brigham Young\">Brigham Young</a>, American religious leader, 2nd <a href=\"/wiki/President_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints\" class=\"mw-redirect\" title=\"President of The Church of Jesus Christ of Latter-day Saints\">President of The Church of Jesus Christ of Latter-day Saints</a> (b. 1801)</li>",
+      "entities": [
+        {
+          "name": "Brigham Young",
+          "url": "/wiki/Brigham_Young",
+          "length": 101763
+        },
+        {
+          "name": "President of The Church of Jesus Christ of Latter-day Saints",
+          "url": "/wiki/President_of_The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+          "length": 50
+        }
+      ]
+    }
+  ]
+}

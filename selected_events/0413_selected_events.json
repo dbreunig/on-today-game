@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": "1943",
+      "description": "World War II: The discovery of mass graves of Polish prisoners of war killed by Soviet forces in the Katyń Forest Massacre is announced, causing a diplomatic rift between the Polish government-in-exile in London and the Soviet Union, which denies responsibility.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The discovery of <a href=\"/wiki/Mass_grave\" title=\"Mass grave\">mass graves</a> of Polish <a href=\"/wiki/Prisoner_of_war\" title=\"Prisoner of war\">prisoners of war</a> <a href=\"/wiki/Mass_execution\" class=\"mw-redirect\" title=\"Mass execution\">killed</a> by Soviet forces in the <a href=\"/wiki/Katyn_massacre\" title=\"Katyn massacre\">Katyń Forest Massacre</a> is announced, causing a diplomatic rift between the <a href=\"/wiki/Polish_government-in-exile\" title=\"Polish government-in-exile\">Polish government-in-exile</a> in London and the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a>, which denies responsibility.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Mass grave",
+          "url": "/wiki/Mass_grave",
+          "length": 80640
+        },
+        {
+          "name": "Prisoner of war",
+          "url": "/wiki/Prisoner_of_war",
+          "length": 134895
+        },
+        {
+          "name": "Mass execution",
+          "url": "/wiki/Mass_execution",
+          "length": 32
+        },
+        {
+          "name": "Katyn massacre",
+          "url": "/wiki/Katyn_massacre",
+          "length": 143326
+        },
+        {
+          "name": "Polish government-in-exile",
+          "url": "/wiki/Polish_government-in-exile",
+          "length": 41327
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        }
+      ]
+    },
+    {
+      "year": "1204",
+      "description": "Constantinople falls to the Crusaders of the Fourth Crusade, temporarily ending the Byzantine Empire.",
+      "html": "<li>\n<a href=\"/wiki/1204\" title=\"1204\">1204</a> – <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a> <a href=\"/wiki/Sack_of_Constantinople\" title=\"Sack of Constantinople\">falls to the Crusaders</a> of the <a href=\"/wiki/Fourth_Crusade\" title=\"Fourth Crusade\">Fourth Crusade</a>, temporarily ending the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine Empire</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Constantinople",
+          "url": "/wiki/Constantinople",
+          "length": 136375
+        },
+        {
+          "name": "Sack of Constantinople",
+          "url": "/wiki/Sack_of_Constantinople",
+          "length": 21043
+        },
+        {
+          "name": "Fourth Crusade",
+          "url": "/wiki/Fourth_Crusade",
+          "length": 101898
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201302
+        }
+      ]
+    },
+    {
+      "year": "1613",
+      "description": "Samuel Argall, having captured Pocahontas in Passapatanzy, Virginia, sets off with her to Jamestown with the intention of exchanging her for English prisoners held by her father.",
+      "html": "<li>\n<a href=\"/wiki/1613\" title=\"1613\">1613</a> – <a href=\"/wiki/Samuel_Argall\" title=\"Samuel Argall\">Samuel Argall</a>, having captured <a href=\"/wiki/Pocahontas\" title=\"Pocahontas\">Pocahontas</a> in <a href=\"/wiki/Passapatanzy,_Virginia\" title=\"Passapatanzy, Virginia\">Passapatanzy, Virginia</a>, sets off with her to Jamestown with the intention of exchanging her for English prisoners held by <a href=\"/wiki/Powhatan_(Native_American_leader)\" title=\"Powhatan (Native American leader)\">her father</a>.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Samuel Argall",
+          "url": "/wiki/Samuel_Argall",
+          "length": 15705
+        },
+        {
+          "name": "Pocahontas",
+          "url": "/wiki/Pocahontas",
+          "length": 64362
+        },
+        {
+          "name": "Passapatanzy, Virginia",
+          "url": "/wiki/Passapatanzy,_Virginia",
+          "length": 5623
+        },
+        {
+          "name": "Powhatan (Native American leader)",
+          "url": "/wiki/Powhatan_(Native_American_leader)",
+          "length": 20730
+        }
+      ]
+    },
+    {
+      "year": "1699",
+      "description": "The Sikh religion is formalised as the Khalsa",
+      "html": "<li>\n<a href=\"/wiki/1699\" title=\"1699\">1699</a> – The <a href=\"/wiki/Sikh\" class=\"mw-redirect\" title=\"Sikh\">Sikh</a> religion is formalised as the <a href=\"/wiki/Khalsa\" title=\"Khalsa\">Khalsa</a> – the brotherhood of Warrior-Saints – by <a href=\"/wiki/Guru_Gobind_Singh\" title=\"Guru Gobind Singh\">Guru Gobind Singh</a> in northern India, in accordance with the <a href=\"/wiki/Nanakshahi_calendar\" title=\"Nanakshahi calendar\">Nanakshahi calendar</a>.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sikh",
+          "url": "/wiki/Sikh",
+          "length": 81
+        },
+        {
+          "name": "Khalsa",
+          "url": "/wiki/Khalsa",
+          "length": 59694
+        },
+        {
+          "name": "Guru Gobind Singh",
+          "url": "/wiki/Guru_Gobind_Singh",
+          "length": 87917
+        },
+        {
+          "name": "Nanakshahi calendar",
+          "url": "/wiki/Nanakshahi_calendar",
+          "length": 51120
+        }
+      ]
+    },
+    {
+      "year": "1742",
+      "description": "George Frideric Handel's oratorio Messiah makes its world premiere in Dublin, Ireland.",
+      "html": "<li>\n<a href=\"/wiki/1742\" title=\"1742\">1742</a> – <a href=\"/wiki/George_Frideric_Handel\" title=\"George Frideric Handel\">George Frideric Handel</a>'s <a href=\"/wiki/Oratorio\" title=\"Oratorio\">oratorio</a> <i><a href=\"/wiki/Messiah_(Handel)\" title=\"Messiah (Handel)\">Messiah</a></i> makes its world premiere in <a href=\"/wiki/Dublin\" title=\"Dublin\">Dublin</a>, Ireland.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "George Frideric Handel",
+          "url": "/wiki/George_Frideric_Handel",
+          "length": 102607
+        },
+        {
+          "name": "Oratorio",
+          "url": "/wiki/Oratorio",
+          "length": 21458
+        },
+        {
+          "name": "Messiah (Handel)",
+          "url": "/wiki/Messiah_(Handel)",
+          "length": 96029
+        },
+        {
+          "name": "Dublin",
+          "url": "/wiki/Dublin",
+          "length": 178030
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "An attack by the Phalangist resistance kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – An <a href=\"/wiki/Bus_massacre\" class=\"mw-redirect\" title=\"Bus massacre\">attack</a> by the <a href=\"/wiki/Kataeb_Party\" title=\"Kataeb Party\">Phalangist</a> resistance kills 26 militia members of the <a href=\"/wiki/Popular_Front_for_the_Liberation_of_Palestine\" title=\"Popular Front for the Liberation of Palestine\">Popular Front for the Liberation of Palestine</a>, marking the start of the 15-year <a href=\"/wiki/Lebanese_Civil_War\" title=\"Lebanese Civil War\">Lebanese Civil War</a>.</li>",
+      "entities": [
+        {
+          "name": "Bus massacre",
+          "url": "/wiki/Bus_massacre",
+          "length": 85
+        },
+        {
+          "name": "Kataeb Party",
+          "url": "/wiki/Kataeb_Party",
+          "length": 61896
+        },
+        {
+          "name": "Popular Front for the Liberation of Palestine",
+          "url": "/wiki/Popular_Front_for_the_Liberation_of_Palestine",
+          "length": 43188
+        },
+        {
+          "name": "Lebanese Civil War",
+          "url": "/wiki/Lebanese_Civil_War",
+          "length": 132175
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Garry Kasparov, Russian chess player and author, was born.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Garry_Kasparov\" title=\"Garry Kasparov\">Garry Kasparov</a>, Russian chess player and author<sup id=\"cite_ref-Chase2019_48-2\" class=\"reference\"><a href=\"#cite_note-Chase2019-48\"><span class=\"cite-bracket\">[</span>48<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Garry Kasparov",
+          "url": "/wiki/Garry_Kasparov",
+          "length": 224647
+        }
+      ]
+    },
+    {
+      "year": "1938",
+      "description": "Grey Owl, English-Canadian environmentalist and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1938\" title=\"1938\">1938</a> – <a href=\"/wiki/Grey_Owl\" title=\"Grey Owl\">Grey Owl</a>, English-Canadian environmentalist and author (b. 1888)</li>",
+      "entities": [
+        {
+          "name": "Grey Owl",
+          "url": "/wiki/Grey_Owl",
+          "length": 78903
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1743",
+      "description": "Thomas Jefferson, American lawyer and politician, 3rd President of the United States, was born.",
+      "html": "<li>\n<a href=\"/wiki/1743\" title=\"1743\">1743</a> – <a href=\"/wiki/Thomas_Jefferson\" title=\"Thomas Jefferson\">Thomas Jefferson</a>, American lawyer and politician, 3rd <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (d. 1826)</li>",
+      "entities": [
+        {
+          "name": "Thomas Jefferson",
+          "url": "/wiki/Thomas_Jefferson",
+          "length": 224931
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Garry Kasparov, Russian chess player and author, was born.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Garry_Kasparov\" title=\"Garry Kasparov\">Garry Kasparov</a>, Russian chess player and author<sup id=\"cite_ref-Chase2019_48-2\" class=\"reference\"><a href=\"#cite_note-Chase2019-48\"><span class=\"cite-bracket\">[</span>48<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Garry Kasparov",
+          "url": "/wiki/Garry_Kasparov",
+          "length": 224647
+        }
+      ]
+    },
+    {
+      "year": "1922",
+      "description": "Julius Nyerere, Tanzanian politician and teacher, 1st President of Tanzania, was born.",
+      "html": "<li>1922   – <a href=\"/wiki/Julius_Nyerere\" title=\"Julius Nyerere\">Julius Nyerere</a>, Tanzanian politician and teacher, 1st <a href=\"/wiki/President_of_Tanzania\" title=\"President of Tanzania\">President of Tanzania</a> (d. 1999)<sup id=\"cite_ref-37\" class=\"reference\"><a href=\"#cite_note-37\"><span class=\"cite-bracket\">[</span>37<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Julius Nyerere",
+          "url": "/wiki/Julius_Nyerere",
+          "length": 149065
+        },
+        {
+          "name": "President of Tanzania",
+          "url": "/wiki/President_of_Tanzania",
+          "length": 7287
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2024",
+      "description": "Faith Ringgold, American artist and author, died.",
+      "html": "<li>\n<a href=\"/wiki/2024\" title=\"2024\">2024</a> – <a href=\"/wiki/Faith_Ringgold\" title=\"Faith Ringgold\">Faith Ringgold</a>, American artist and author (b. 1930)<sup id=\"cite_ref-91\" class=\"reference\"><a href=\"#cite_note-91\"><span class=\"cite-bracket\">[</span>91<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Faith Ringgold",
+          "url": "/wiki/Faith_Ringgold",
+          "length": 84454
+        }
+      ]
+    },
+    {
+      "year": "1938",
+      "description": "Grey Owl, English-Canadian environmentalist and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1938\" title=\"1938\">1938</a> – <a href=\"/wiki/Grey_Owl\" title=\"Grey Owl\">Grey Owl</a>, English-Canadian environmentalist and author (b. 1888)</li>",
+      "entities": [
+        {
+          "name": "Grey Owl",
+          "url": "/wiki/Grey_Owl",
+          "length": 78903
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "Samuel J. Randall, American captain, lawyer, and politician, 33rd Speaker of the United States House of Representatives, died.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – <a href=\"/wiki/Samuel_J._Randall\" title=\"Samuel J. Randall\">Samuel J. Randall</a>, American captain, lawyer, and politician, 33rd <a href=\"/wiki/Speaker_of_the_United_States_House_of_Representatives\" title=\"Speaker of the United States House of Representatives\">Speaker of the United States House of Representatives</a> (b. 1828)</li>",
+      "entities": [
+        {
+          "name": "Samuel J. Randall",
+          "url": "/wiki/Samuel_J._Randall",
+          "length": 68558
+        },
+        {
+          "name": "Speaker of the United States House of Representatives",
+          "url": "/wiki/Speaker_of_the_United_States_House_of_Representatives",
+          "length": 86238
+        }
+      ]
+    }
+  ]
+}

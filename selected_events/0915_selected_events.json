@@ -1,0 +1,316 @@
+{
+  "events": [
+    {
+      "year": "1948",
+      "description": "The Indian Army captures the towns of Jalna, Latur, Mominabad, Surriapet and Narkatpalli as part of Operation Polo.",
+      "html": "<li>\n<a href=\"/wiki/1948\" title=\"1948\">1948</a> – The <a href=\"/wiki/Indian_Army\" title=\"Indian Army\">Indian Army</a> captures the towns of <a href=\"/wiki/Jalna,_Maharashtra\" title=\"Jalna, Maharashtra\">Jalna</a>, <a href=\"/wiki/Latur\" title=\"Latur\">Latur</a>, <a href=\"/wiki/Mominabad\" class=\"mw-redirect\" title=\"Mominabad\">Mominabad</a>, <a href=\"/wiki/Suryapet\" title=\"Suryapet\">Surriapet</a> and <a href=\"/wiki/Narketpally\" title=\"Narketpally\">Narkatpalli</a> as part of <a href=\"/wiki/Operation_Polo\" class=\"mw-redirect\" title=\"Operation Polo\">Operation Polo</a>.</li>",
+      "entities": [
+        {
+          "name": "Indian Army",
+          "url": "/wiki/Indian_Army",
+          "length": 198219
+        },
+        {
+          "name": "Jalna, Maharashtra",
+          "url": "/wiki/Jalna,_Maharashtra",
+          "length": 14120
+        },
+        {
+          "name": "Latur",
+          "url": "/wiki/Latur",
+          "length": 39316
+        },
+        {
+          "name": "Mominabad",
+          "url": "/wiki/Mominabad",
+          "length": 75
+        },
+        {
+          "name": "Suryapet",
+          "url": "/wiki/Suryapet",
+          "length": 16090
+        },
+        {
+          "name": "Narketpally",
+          "url": "/wiki/Narketpally",
+          "length": 2831
+        },
+        {
+          "name": "Operation Polo",
+          "url": "/wiki/Operation_Polo",
+          "length": 53
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "A Scandinavian Airlines System domestic flight from Gothenburg to Stockholm is hijacked and flown to Malmö Bulltofta Airport.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – A <a href=\"/wiki/Scandinavian_Airlines_System\" class=\"mw-redirect\" title=\"Scandinavian Airlines System\">Scandinavian Airlines System</a> <a href=\"/wiki/Domestic_flight\" title=\"Domestic flight\">domestic flight</a> from <a href=\"/wiki/Gothenburg\" title=\"Gothenburg\">Gothenburg</a> to <a href=\"/wiki/Stockholm\" title=\"Stockholm\">Stockholm</a> is <a href=\"/wiki/Scandinavian_Airlines_System_Flight_130\" title=\"Scandinavian Airlines System Flight 130\">hijacked</a> and flown to <a href=\"/wiki/Malm%C3%B6_Bulltofta_Airport\" title=\"Malmö Bulltofta Airport\">Malmö Bulltofta Airport</a>.</li>",
+      "entities": [
+        {
+          "name": "Scandinavian Airlines System",
+          "url": "/wiki/Scandinavian_Airlines_System",
+          "length": 56
+        },
+        {
+          "name": "Domestic flight",
+          "url": "/wiki/Domestic_flight",
+          "length": 4509
+        },
+        {
+          "name": "Gothenburg",
+          "url": "/wiki/Gothenburg",
+          "length": 151575
+        },
+        {
+          "name": "Stockholm",
+          "url": "/wiki/Stockholm",
+          "length": 161728
+        },
+        {
+          "name": "Scandinavian Airlines System Flight 130",
+          "url": "/wiki/Scandinavian_Airlines_System_Flight_130",
+          "length": 18481
+        },
+        {
+          "name": "Malmö Bulltofta Airport",
+          "url": "/wiki/Malm%C3%B6_Bulltofta_Airport",
+          "length": 7921
+        }
+      ]
+    },
+    {
+      "year": "1813",
+      "description": "Followers of the Eight Trigram Sect loyal to Lin Qing attack the Forbidden City in a failed attempt to oust the Jiaqing Emperor of the Qing dynasty.",
+      "html": "<li>\n<a href=\"/wiki/1813\" title=\"1813\">1813</a> – Followers of the <a href=\"/wiki/Baguadao\" title=\"Baguadao\">Eight Trigram Sect</a> loyal to <a href=\"https://zh.wikipedia.org/wiki/%E6%9E%97%E6%B8%85\" class=\"extiw\" title=\"zh:林清\">Lin Qing</a> attack the <a href=\"/wiki/Forbidden_City\" title=\"Forbidden City\">Forbidden City</a> in a <a href=\"/wiki/Eight_Trigrams_uprising_of_1813\" title=\"Eight Trigrams uprising of 1813\">failed attempt</a> to oust the <a href=\"/wiki/Jiaqing_Emperor\" title=\"Jiaqing Emperor\">Jiaqing Emperor</a> of the <a href=\"/wiki/Qing_dynasty\" title=\"Qing dynasty\">Qing dynasty</a>.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Baguadao",
+          "url": "/wiki/Baguadao",
+          "length": 13927
+        },
+        {
+          "name": "zh:林清",
+          "url": "https://zh.wikipedia.org/wiki/%E6%9E%97%E6%B8%85",
+          "length": null
+        },
+        {
+          "name": "Forbidden City",
+          "url": "/wiki/Forbidden_City",
+          "length": 68221
+        },
+        {
+          "name": "Eight Trigrams uprising of 1813",
+          "url": "/wiki/Eight_Trigrams_uprising_of_1813",
+          "length": 8112
+        },
+        {
+          "name": "Jiaqing Emperor",
+          "url": "/wiki/Jiaqing_Emperor",
+          "length": 21653
+        },
+        {
+          "name": "Qing dynasty",
+          "url": "/wiki/Qing_dynasty",
+          "length": 155515
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "World War II: U.S. Navy aircraft carrier USS Wasp is sunk by Japanese torpedoes at Guadalcanal.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – World War II: <a href=\"/wiki/United_States_Navy\" title=\"United States Navy\">U.S. Navy</a> <a href=\"/wiki/Aircraft_carrier\" title=\"Aircraft carrier\">aircraft carrier</a> <a href=\"/wiki/USS_Wasp_(CV-7)\" title=\"USS Wasp (CV-7)\">USS <i>Wasp</i></a> is sunk by <a href=\"/wiki/Imperial_Japanese_Navy\" title=\"Imperial Japanese Navy\">Japanese</a> torpedoes at <a href=\"/wiki/Guadalcanal\" title=\"Guadalcanal\">Guadalcanal</a>.</li>",
+      "entities": [
+        {
+          "name": "United States Navy",
+          "url": "/wiki/United_States_Navy",
+          "length": 133517
+        },
+        {
+          "name": "Aircraft carrier",
+          "url": "/wiki/Aircraft_carrier",
+          "length": 138016
+        },
+        {
+          "name": "USS Wasp (CV-7)",
+          "url": "/wiki/USS_Wasp_(CV-7)",
+          "length": 55520
+        },
+        {
+          "name": "Imperial Japanese Navy",
+          "url": "/wiki/Imperial_Japanese_Navy",
+          "length": 106515
+        },
+        {
+          "name": "Guadalcanal",
+          "url": "/wiki/Guadalcanal",
+          "length": 21755
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "description": "U.S. President Lyndon B. Johnson, responding to a sniper attack at the University of Texas at Austin, writes a letter to Congress urging the enactment of gun control legislation.",
+      "html": "<li>\n<a href=\"/wiki/1966\" title=\"1966\">1966</a> – U.S. President <a href=\"/wiki/Lyndon_B._Johnson\" title=\"Lyndon B. Johnson\">Lyndon B. Johnson</a>, responding to a <a href=\"/wiki/University_of_Texas_tower_shooting\" title=\"University of Texas tower shooting\">sniper attack</a> at the <a href=\"/wiki/University_of_Texas_at_Austin\" title=\"University of Texas at Austin\">University of Texas at Austin</a>, writes a letter to <a href=\"/wiki/United_States_Congress\" title=\"United States Congress\">Congress</a> urging the enactment of <a href=\"/wiki/Gun_control\" title=\"Gun control\">gun control</a> legislation.</li>",
+      "entities": [
+        {
+          "name": "Lyndon B. Johnson",
+          "url": "/wiki/Lyndon_B._Johnson",
+          "length": 200033
+        },
+        {
+          "name": "University of Texas tower shooting",
+          "url": "/wiki/University_of_Texas_tower_shooting",
+          "length": 109839
+        },
+        {
+          "name": "University of Texas at Austin",
+          "url": "/wiki/University_of_Texas_at_Austin",
+          "length": 140719
+        },
+        {
+          "name": "United States Congress",
+          "url": "/wiki/United_States_Congress",
+          "length": 192932
+        },
+        {
+          "name": "Gun control",
+          "url": "/wiki/Gun_control",
+          "length": 110810
+        }
+      ]
+    },
+    {
+      "year": "1978",
+      "description": "At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.",
+      "html": "<li>\n<a href=\"/wiki/1978\" title=\"1978\">1978</a> – At the <a href=\"/wiki/Caesars_Superdome\" title=\"Caesars Superdome\">Superdome</a> in <a href=\"/wiki/New_Orleans\" title=\"New Orleans\">New Orleans</a>, <a href=\"/wiki/Muhammad_Ali\" title=\"Muhammad Ali\">Muhammad Ali</a> outpoints <a href=\"/wiki/Leon_Spinks\" title=\"Leon Spinks\">Leon Spinks</a> in a rematch to become the first boxer to win the world <a href=\"/wiki/Heavyweight\" title=\"Heavyweight\">heavyweight</a> title three times.</li>",
+      "entities": [
+        {
+          "name": "Caesars Superdome",
+          "url": "/wiki/Caesars_Superdome",
+          "length": 92898
+        },
+        {
+          "name": "New Orleans",
+          "url": "/wiki/New_Orleans",
+          "length": 280070
+        },
+        {
+          "name": "Muhammad Ali",
+          "url": "/wiki/Muhammad_Ali",
+          "length": 296471
+        },
+        {
+          "name": "Leon Spinks",
+          "url": "/wiki/Leon_Spinks",
+          "length": 40481
+        },
+        {
+          "name": "Heavyweight",
+          "url": "/wiki/Heavyweight",
+          "length": 25781
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "Chimamanda Ngozi Adichie,  Nigerian author, was born.",
+      "html": "<li>\n<a href=\"/wiki/1977\" title=\"1977\">1977</a> – <a href=\"/wiki/Chimamanda_Ngozi_Adichie\" title=\"Chimamanda Ngozi Adichie\">Chimamanda Ngozi Adichie</a>,  Nigerian author<sup id=\"cite_ref-47\" class=\"reference\"><a href=\"#cite_note-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Chimamanda Ngozi Adichie",
+          "url": "/wiki/Chimamanda_Ngozi_Adichie",
+          "length": 174187
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "description": "Colin McRae, Scottish race car driver, died.",
+      "html": "<li>\n<a href=\"/wiki/2007\" title=\"2007\">2007</a> – <a href=\"/wiki/Colin_McRae\" title=\"Colin McRae\">Colin McRae</a>, Scottish race car driver (b. 1968)<sup id=\"cite_ref-65\" class=\"reference\"><a href=\"#cite_note-65\"><span class=\"cite-bracket\">[</span>65<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Colin McRae",
+          "url": "/wiki/Colin_McRae",
+          "length": 84860
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1984",
+      "description": "Prince Harry, Duke of Sussex, was born.",
+      "html": "<li>\n<a href=\"/wiki/1984\" title=\"1984\">1984</a> – <a href=\"/wiki/Prince_Harry,_Duke_of_Sussex\" title=\"Prince Harry, Duke of Sussex\">Prince Harry, Duke of Sussex</a><sup id=\"cite_ref-AP_39-11\" class=\"reference\"><a href=\"#cite_note-AP-39\"><span class=\"cite-bracket\">[</span>39<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Prince Harry, Duke of Sussex",
+          "url": "/wiki/Prince_Harry,_Duke_of_Sussex",
+          "length": 366812
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Aaron Mooy, Australian footballer, was born.",
+      "html": "<li>1990   – <a href=\"/wiki/Aaron_Mooy\" title=\"Aaron Mooy\">Aaron Mooy</a>, Australian footballer<sup id=\"cite_ref-52\" class=\"reference\"><a href=\"#cite_note-52\"><span class=\"cite-bracket\">[</span>52<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Aaron Mooy",
+          "url": "/wiki/Aaron_Mooy",
+          "length": 185322
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "Chimamanda Ngozi Adichie,  Nigerian author, was born.",
+      "html": "<li>\n<a href=\"/wiki/1977\" title=\"1977\">1977</a> – <a href=\"/wiki/Chimamanda_Ngozi_Adichie\" title=\"Chimamanda Ngozi Adichie\">Chimamanda Ngozi Adichie</a>,  Nigerian author<sup id=\"cite_ref-47\" class=\"reference\"><a href=\"#cite_note-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Chimamanda Ngozi Adichie",
+          "url": "/wiki/Chimamanda_Ngozi_Adichie",
+          "length": 174187
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1945",
+      "description": "Anton Webern, Austrian composer and conductor, died.",
+      "html": "<li>1945   – <a href=\"/wiki/Anton_Webern\" title=\"Anton Webern\">Anton Webern</a>, Austrian composer and conductor (b. 1883)</li>",
+      "entities": [
+        {
+          "name": "Anton Webern",
+          "url": "/wiki/Anton_Webern",
+          "length": 277928
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Bill Evans, American pianist and composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Bill_Evans\" title=\"Bill Evans\">Bill Evans</a>, American pianist and composer (b. 1929)</li>",
+      "entities": [
+        {
+          "name": "Bill Evans",
+          "url": "/wiki/Bill_Evans",
+          "length": 86937
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "description": "Colin McRae, Scottish race car driver, died.",
+      "html": "<li>\n<a href=\"/wiki/2007\" title=\"2007\">2007</a> – <a href=\"/wiki/Colin_McRae\" title=\"Colin McRae\">Colin McRae</a>, Scottish race car driver (b. 1968)<sup id=\"cite_ref-65\" class=\"reference\"><a href=\"#cite_note-65\"><span class=\"cite-bracket\">[</span>65<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Colin McRae",
+          "url": "/wiki/Colin_McRae",
+          "length": 84860
+        }
+      ]
+    }
+  ]
+}

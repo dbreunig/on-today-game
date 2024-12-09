@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1945",
+      "description": "World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 50 miles from Berlin.[citation needed]",
+      "html": "<li>1945   – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The <a href=\"/wiki/Ninth_United_States_Army\" class=\"mw-redirect\" title=\"Ninth United States Army\">U.S. Ninth Army</a> under General <a href=\"/wiki/William_Hood_Simpson\" title=\"William Hood Simpson\">William H. Simpson</a> crosses the <a href=\"/wiki/Elbe\" title=\"Elbe\">Elbe River</a> astride <a href=\"/wiki/Magdeburg\" title=\"Magdeburg\">Magdeburg</a>, and reaches <a href=\"/wiki/Tangerm%C3%BCnde\" title=\"Tangermünde\">Tangermünde</a>—only 50 miles from <a href=\"/wiki/Berlin\" title=\"Berlin\">Berlin</a>.<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (September 2024)\">citation needed</span></a></i>]</sup>\n</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Ninth United States Army",
+          "url": "/wiki/Ninth_United_States_Army",
+          "length": 87
+        },
+        {
+          "name": "William Hood Simpson",
+          "url": "/wiki/William_Hood_Simpson",
+          "length": 48560
+        },
+        {
+          "name": "Elbe",
+          "url": "/wiki/Elbe",
+          "length": 28433
+        },
+        {
+          "name": "Magdeburg",
+          "url": "/wiki/Magdeburg",
+          "length": 54718
+        },
+        {
+          "name": "Tangermünde",
+          "url": "/wiki/Tangerm%C3%BCnde",
+          "length": 14467
+        },
+        {
+          "name": "Berlin",
+          "url": "/wiki/Berlin",
+          "length": 244270
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "description": "Space Race: The Soviet cosmonaut Yuri Gagarin becomes the first human to travel into outer space and perform the first crewed orbital flight, Vostok 1.",
+      "html": "<li>\n<a href=\"/wiki/1961\" title=\"1961\">1961</a> – <a href=\"/wiki/Space_Race\" title=\"Space Race\">Space Race</a>: The <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet</a> <a href=\"/wiki/Cosmonaut\" class=\"mw-redirect\" title=\"Cosmonaut\">cosmonaut</a> <a href=\"/wiki/Yuri_Gagarin\" title=\"Yuri Gagarin\">Yuri Gagarin</a> becomes the first human to travel into <a href=\"/wiki/Outer_space\" title=\"Outer space\">outer space</a> and perform the first crewed <a href=\"/wiki/Orbit\" title=\"Orbit\">orbital</a> flight, <a href=\"/wiki/Vostok_1\" title=\"Vostok 1\">Vostok 1</a>.<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"#cite_note-19\"><span class=\"cite-bracket\">[</span>19<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Space Race",
+          "url": "/wiki/Space_Race",
+          "length": 179493
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Cosmonaut",
+          "url": "/wiki/Cosmonaut",
+          "length": 254
+        },
+        {
+          "name": "Yuri Gagarin",
+          "url": "/wiki/Yuri_Gagarin",
+          "length": 107395
+        },
+        {
+          "name": "Outer space",
+          "url": "/wiki/Outer_space",
+          "length": 140943
+        },
+        {
+          "name": "Orbit",
+          "url": "/wiki/Orbit",
+          "length": 58132
+        },
+        {
+          "name": "Vostok 1",
+          "url": "/wiki/Vostok_1",
+          "length": 54281
+        }
+      ]
+    },
+    {
+      "year": "1782",
+      "description": "American Revolution: A Royal Navy fleet led by Admiral George Rodney defeats a French fleet led by the Comte de Grasse at the Battle of the Saintes off Dominica in the Caribbean Sea.",
+      "html": "<li>\n<a href=\"/wiki/1782\" title=\"1782\">1782</a> – American Revolution: A <a href=\"/wiki/Royal_Navy\" title=\"Royal Navy\">Royal Navy</a> fleet led by Admiral <a href=\"/wiki/George_Rodney\" class=\"mw-redirect\" title=\"George Rodney\">George Rodney</a> defeats a French fleet led by the <a href=\"/wiki/Comte_de_Grasse\" class=\"mw-redirect\" title=\"Comte de Grasse\">Comte de Grasse</a> at the <a href=\"/wiki/Battle_of_the_Saintes\" title=\"Battle of the Saintes\">Battle of the Saintes</a> off <a href=\"/wiki/Dominica\" title=\"Dominica\">Dominica</a> in the <a href=\"/wiki/Caribbean_Sea\" title=\"Caribbean Sea\">Caribbean Sea</a>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Royal Navy",
+          "url": "/wiki/Royal_Navy",
+          "length": 157804
+        },
+        {
+          "name": "George Rodney",
+          "url": "/wiki/George_Rodney",
+          "length": 45
+        },
+        {
+          "name": "Comte de Grasse",
+          "url": "/wiki/Comte_de_Grasse",
+          "length": 45
+        },
+        {
+          "name": "Battle of the Saintes",
+          "url": "/wiki/Battle_of_the_Saintes",
+          "length": 88980
+        },
+        {
+          "name": "Dominica",
+          "url": "/wiki/Dominica",
+          "length": 119727
+        },
+        {
+          "name": "Caribbean Sea",
+          "url": "/wiki/Caribbean_Sea",
+          "length": 44835
+        }
+      ]
+    },
+    {
+      "year": "1861",
+      "description": "American Civil War: Battle of Fort Sumter. The war begins with Confederate forces firing on Fort Sumter, in the harbor of Charleston, South Carolina.",
+      "html": "<li>\n<a href=\"/wiki/1861\" title=\"1861\">1861</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Battle_of_Fort_Sumter\" title=\"Battle of Fort Sumter\">Battle of Fort Sumter</a>. The war begins with <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> forces firing on <a href=\"/wiki/Fort_Sumter\" title=\"Fort Sumter\">Fort Sumter</a>, in the harbor of <a href=\"/wiki/Charleston,_South_Carolina\" title=\"Charleston, South Carolina\">Charleston, South Carolina</a>.<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Battle of Fort Sumter",
+          "url": "/wiki/Battle_of_Fort_Sumter",
+          "length": 54366
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Fort Sumter",
+          "url": "/wiki/Fort_Sumter",
+          "length": 43349
+        },
+        {
+          "name": "Charleston, South Carolina",
+          "url": "/wiki/Charleston,_South_Carolina",
+          "length": 161820
+        }
+      ]
+    },
+    {
+      "year": "1900",
+      "description": "One day after its enactment by the Congress, President William McKinley signs the Foraker Act into law, giving Puerto Rico limited self-rule.",
+      "html": "<li>\n<a href=\"/wiki/1900\" title=\"1900\">1900</a> – One day after its enactment by the <a href=\"/wiki/United_States_Congress\" title=\"United States Congress\">Congress</a>, President <a href=\"/wiki/William_McKinley\" title=\"William McKinley\">William McKinley</a> signs the <a href=\"/wiki/Foraker_Act\" title=\"Foraker Act\">Foraker Act</a> into law, giving <a href=\"/wiki/Puerto_Rico\" title=\"Puerto Rico\">Puerto Rico</a> limited <a href=\"/wiki/Self-rule\" class=\"mw-redirect\" title=\"Self-rule\">self-rule</a>.<sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "United States Congress",
+          "url": "/wiki/United_States_Congress",
+          "length": 192932
+        },
+        {
+          "name": "William McKinley",
+          "url": "/wiki/William_McKinley",
+          "length": 125277
+        },
+        {
+          "name": "Foraker Act",
+          "url": "/wiki/Foraker_Act",
+          "length": 10798
+        },
+        {
+          "name": "Puerto Rico",
+          "url": "/wiki/Puerto_Rico",
+          "length": 262785
+        },
+        {
+          "name": "Self-rule",
+          "url": "/wiki/Self-rule",
+          "length": 29
+        }
+      ]
+    },
+    {
+      "year": "1204",
+      "description": "The Crusaders of the Fourth Crusade breach the walls of Constantinople and enter the city, which they completely occupy the following day.",
+      "html": "<li>\n<a href=\"/wiki/1204\" title=\"1204\">1204</a> – The <a href=\"/wiki/Crusaders\" class=\"mw-redirect\" title=\"Crusaders\">Crusaders</a> of the <a href=\"/wiki/Fourth_Crusade\" title=\"Fourth Crusade\">Fourth Crusade</a> breach the walls of <a href=\"/wiki/Constantinople\" title=\"Constantinople\">Constantinople</a> and <a href=\"/wiki/Siege_of_Constantinople_(1204)\" class=\"mw-redirect\" title=\"Siege of Constantinople (1204)\">enter the city</a>, which they completely occupy the following day.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Crusaders",
+          "url": "/wiki/Crusaders",
+          "length": 22
+        },
+        {
+          "name": "Fourth Crusade",
+          "url": "/wiki/Fourth_Crusade",
+          "length": 101898
+        },
+        {
+          "name": "Constantinople",
+          "url": "/wiki/Constantinople",
+          "length": 136375
+        },
+        {
+          "name": "Siege of Constantinople (1204)",
+          "url": "/wiki/Siege_of_Constantinople_(1204)",
+          "length": 53
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Hiroki Sakai, Japanese footballer, was born.",
+      "html": "<li>1990   – <a href=\"/wiki/Hiroki_Sakai\" title=\"Hiroki Sakai\">Hiroki Sakai</a>, Japanese footballer</li>",
+      "entities": [
+        {
+          "name": "Hiroki Sakai",
+          "url": "/wiki/Hiroki_Sakai",
+          "length": 197535
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Joe Louis, American boxer and wrestler, died.",
+      "html": "<li>1981   – <a href=\"/wiki/Joe_Louis\" title=\"Joe Louis\">Joe Louis</a>, American boxer and wrestler (b. 1914)</li>",
+      "entities": [
+        {
+          "name": "Joe Louis",
+          "url": "/wiki/Joe_Louis",
+          "length": 131135
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1942",
+      "description": "Jacob Zuma, South African politician, 4th President of South Africa, was born.",
+      "html": "<li>1942   – <a href=\"/wiki/Jacob_Zuma\" title=\"Jacob Zuma\">Jacob Zuma</a>, South African politician, 4th <a href=\"/wiki/President_of_South_Africa\" title=\"President of South Africa\">President of South Africa</a>\n</li>",
+      "entities": [
+        {
+          "name": "Jacob Zuma",
+          "url": "/wiki/Jacob_Zuma",
+          "length": 233205
+        },
+        {
+          "name": "President of South Africa",
+          "url": "/wiki/President_of_South_Africa",
+          "length": 27506
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Tulsi Gabbard, American politician, was born.",
+      "html": "<li>1981   – <a href=\"/wiki/Tulsi_Gabbard\" title=\"Tulsi Gabbard\">Tulsi Gabbard</a>, American politician</li>",
+      "entities": [
+        {
+          "name": "Tulsi Gabbard",
+          "url": "/wiki/Tulsi_Gabbard",
+          "length": 209429
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Hiroki Sakai, Japanese footballer, was born.",
+      "html": "<li>1990   – <a href=\"/wiki/Hiroki_Sakai\" title=\"Hiroki Sakai\">Hiroki Sakai</a>, Japanese footballer</li>",
+      "entities": [
+        {
+          "name": "Hiroki Sakai",
+          "url": "/wiki/Hiroki_Sakai",
+          "length": 197535
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1945",
+      "description": "Franklin D. Roosevelt, American lawyer and politician, 32nd President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1945\" title=\"1945\">1945</a> – <a href=\"/wiki/Franklin_D._Roosevelt\" title=\"Franklin D. Roosevelt\">Franklin D. Roosevelt</a>, American lawyer and politician, 32nd <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1882)</li>",
+      "entities": [
+        {
+          "name": "Franklin D. Roosevelt",
+          "url": "/wiki/Franklin_D._Roosevelt",
+          "length": 172429
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Joe Louis, American boxer and wrestler, died.",
+      "html": "<li>1981   – <a href=\"/wiki/Joe_Louis\" title=\"Joe Louis\">Joe Louis</a>, American boxer and wrestler (b. 1914)</li>",
+      "entities": [
+        {
+          "name": "Joe Louis",
+          "url": "/wiki/Joe_Louis",
+          "length": 131135
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Sugar Ray Robinson, American boxer, died.",
+      "html": "<li>1989   – <a href=\"/wiki/Sugar_Ray_Robinson\" title=\"Sugar Ray Robinson\">Sugar Ray Robinson</a>, American boxer (b. 1921)</li>",
+      "entities": [
+        {
+          "name": "Sugar Ray Robinson",
+          "url": "/wiki/Sugar_Ray_Robinson",
+          "length": 130889
+        }
+      ]
+    }
+  ]
+}

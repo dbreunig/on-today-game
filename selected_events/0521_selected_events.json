@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "1660",
+      "description": "The Battle of Long Sault concludes after five days in which French colonial militia, with their Huron and Algonquin allies, are defeated by the Iroquois Confederacy.",
+      "html": "<li>\n<a href=\"/wiki/1660\" title=\"1660\">1660</a> – The <a href=\"/wiki/Battle_of_Long_Sault\" title=\"Battle of Long Sault\">Battle of Long Sault</a> concludes after five days in which <a href=\"/wiki/France\" title=\"France\">French</a> <a href=\"/wiki/New_France\" title=\"New France\">colonial</a> <a href=\"/wiki/Militia\" title=\"Militia\">militia</a>, with their <a href=\"/wiki/Wyandot_people\" title=\"Wyandot people\">Huron</a> and <a href=\"/wiki/Algonquin_people\" title=\"Algonquin people\">Algonquin</a> allies, are defeated by the <a href=\"/wiki/Iroquois_Confederacy\" class=\"mw-redirect\" title=\"Iroquois Confederacy\">Iroquois Confederacy</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Long Sault",
+          "url": "/wiki/Battle_of_Long_Sault",
+          "length": 11606
+        },
+        {
+          "name": "France",
+          "url": "/wiki/France",
+          "length": 278601
+        },
+        {
+          "name": "New France",
+          "url": "/wiki/New_France",
+          "length": 127754
+        },
+        {
+          "name": "Militia",
+          "url": "/wiki/Militia",
+          "length": 135601
+        },
+        {
+          "name": "Wyandot people",
+          "url": "/wiki/Wyandot_people",
+          "length": 60187
+        },
+        {
+          "name": "Algonquin people",
+          "url": "/wiki/Algonquin_people",
+          "length": 27893
+        },
+        {
+          "name": "Iroquois Confederacy",
+          "url": "/wiki/Iroquois_Confederacy",
+          "length": 43
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "White Night riots in San Francisco following the manslaughter conviction of Dan White for the assassinations of George Moscone and Harvey Milk.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/White_Night_riots\" title=\"White Night riots\">White Night riots</a> in <a href=\"/wiki/San_Francisco\" title=\"San Francisco\">San Francisco</a> following the <a href=\"/wiki/Manslaughter\" title=\"Manslaughter\">manslaughter</a> conviction of <a href=\"/wiki/Dan_White\" title=\"Dan White\">Dan White</a> for the assassinations of <a href=\"/wiki/George_Moscone\" title=\"George Moscone\">George Moscone</a> and <a href=\"/wiki/Harvey_Milk\" title=\"Harvey Milk\">Harvey Milk</a>.</li>",
+      "entities": [
+        {
+          "name": "White Night riots",
+          "url": "/wiki/White_Night_riots",
+          "length": 51198
+        },
+        {
+          "name": "San Francisco",
+          "url": "/wiki/San_Francisco",
+          "length": 278496
+        },
+        {
+          "name": "Manslaughter",
+          "url": "/wiki/Manslaughter",
+          "length": 34276
+        },
+        {
+          "name": "Dan White",
+          "url": "/wiki/Dan_White",
+          "length": 20594
+        },
+        {
+          "name": "George Moscone",
+          "url": "/wiki/George_Moscone",
+          "length": 29449
+        },
+        {
+          "name": "Harvey Milk",
+          "url": "/wiki/Harvey_Milk",
+          "length": 127841
+        }
+      ]
+    },
+    {
+      "year": "1863",
+      "description": "American Civil War: The Union Army succeeds in closing off the last escape route from Port Hudson, Louisiana, in preparation for the coming siege.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/Union_Army\" class=\"mw-redirect\" title=\"Union Army\">Union Army</a> <a href=\"/wiki/Battle_of_Plains_Store\" title=\"Battle of Plains Store\">succeeds</a> in closing off the last escape route from <a href=\"/wiki/Port_Hudson,_Louisiana\" title=\"Port Hudson, Louisiana\">Port Hudson, Louisiana</a>, in preparation for the coming <a href=\"/wiki/Siege_of_Port_Hudson\" title=\"Siege of Port Hudson\">siege</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Union Army",
+          "url": "/wiki/Union_Army",
+          "length": 95
+        },
+        {
+          "name": "Battle of Plains Store",
+          "url": "/wiki/Battle_of_Plains_Store",
+          "length": 11870
+        },
+        {
+          "name": "Port Hudson, Louisiana",
+          "url": "/wiki/Port_Hudson,_Louisiana",
+          "length": 9047
+        },
+        {
+          "name": "Siege of Port Hudson",
+          "url": "/wiki/Siege_of_Port_Hudson",
+          "length": 69772
+        }
+      ]
+    },
+    {
+      "year": "1879",
+      "description": "War of the Pacific: Two Chilean ships blocking the harbor of Iquique (then belonging to Peru) battle two Peruvian vessels in the Battle of Iquique.",
+      "html": "<li>\n<a href=\"/wiki/1879\" title=\"1879\">1879</a> – <a href=\"/wiki/War_of_the_Pacific\" title=\"War of the Pacific\">War of the Pacific</a>: Two <a href=\"/wiki/Chile\" title=\"Chile\">Chilean</a> ships blocking the harbor of <a href=\"/wiki/Iquique\" title=\"Iquique\">Iquique</a> (then belonging to <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a>) battle two Peruvian vessels in the <a href=\"/wiki/Battle_of_Iquique\" title=\"Battle of Iquique\">Battle of Iquique</a>.</li>",
+      "entities": [
+        {
+          "name": "War of the Pacific",
+          "url": "/wiki/War_of_the_Pacific",
+          "length": 147807
+        },
+        {
+          "name": "Chile",
+          "url": "/wiki/Chile",
+          "length": 216275
+        },
+        {
+          "name": "Iquique",
+          "url": "/wiki/Iquique",
+          "length": 22371
+        },
+        {
+          "name": "Peru",
+          "url": "/wiki/Peru",
+          "length": 220977
+        },
+        {
+          "name": "Battle of Iquique",
+          "url": "/wiki/Battle_of_Iquique",
+          "length": 18789
+        }
+      ]
+    },
+    {
+      "year": "1911",
+      "description": "President of Mexico Porfirio Díaz and the revolutionary Francisco Madero sign the Treaty of Ciudad Juárez to put an end to the fighting between the forces of both men, concluding the initial phase of the Mexican Revolution.",
+      "html": "<li>\n<a href=\"/wiki/1911\" title=\"1911\">1911</a> – <a href=\"/wiki/President_of_Mexico\" title=\"President of Mexico\">President of Mexico</a> <a href=\"/wiki/Porfirio_D%C3%ADaz\" title=\"Porfirio Díaz\">Porfirio Díaz</a> and the revolutionary <a href=\"/wiki/Francisco_Madero\" class=\"mw-redirect\" title=\"Francisco Madero\">Francisco Madero</a> sign the <a href=\"/wiki/Treaty_of_Ciudad_Ju%C3%A1rez\" title=\"Treaty of Ciudad Juárez\">Treaty of Ciudad Juárez</a> to put an end to the fighting between the forces of both men, concluding the initial phase of the <a href=\"/wiki/Mexican_Revolution\" title=\"Mexican Revolution\">Mexican Revolution</a>.</li>",
+      "entities": [
+        {
+          "name": "President of Mexico",
+          "url": "/wiki/President_of_Mexico",
+          "length": 41213
+        },
+        {
+          "name": "Porfirio Díaz",
+          "url": "/wiki/Porfirio_D%C3%ADaz",
+          "length": 106454
+        },
+        {
+          "name": "Francisco Madero",
+          "url": "/wiki/Francisco_Madero",
+          "length": 33
+        },
+        {
+          "name": "Treaty of Ciudad Juárez",
+          "url": "/wiki/Treaty_of_Ciudad_Ju%C3%A1rez",
+          "length": 20528
+        },
+        {
+          "name": "Mexican Revolution",
+          "url": "/wiki/Mexican_Revolution",
+          "length": 205492
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "description": "American civil rights movement: Alabama Governor John Malcolm Patterson declares martial law in an attempt to restore order after race riots break out.",
+      "html": "<li>\n<a href=\"/wiki/1961\" title=\"1961\">1961</a> – <a href=\"/wiki/American_civil_rights_movement\" class=\"mw-redirect\" title=\"American civil rights movement\">American civil rights movement</a>: <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a> Governor <a href=\"/wiki/John_Malcolm_Patterson\" class=\"mw-redirect\" title=\"John Malcolm Patterson\">John Malcolm Patterson</a> declares <a href=\"/wiki/Martial_law\" title=\"Martial law\">martial law</a> in an attempt to restore order after <a href=\"/wiki/Race_riot\" class=\"mw-redirect\" title=\"Race riot\">race riots</a> break out.</li>",
+      "entities": [
+        {
+          "name": "American civil rights movement",
+          "url": "/wiki/American_civil_rights_movement",
+          "length": 35
+        },
+        {
+          "name": "Alabama",
+          "url": "/wiki/Alabama",
+          "length": 223962
+        },
+        {
+          "name": "John Malcolm Patterson",
+          "url": "/wiki/John_Malcolm_Patterson",
+          "length": 78
+        },
+        {
+          "name": "Martial law",
+          "url": "/wiki/Martial_law",
+          "length": 77335
+        },
+        {
+          "name": "Race riot",
+          "url": "/wiki/Race_riot",
+          "length": 34
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Jeffrey Dahmer, American serial killer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Jeffrey_Dahmer\" title=\"Jeffrey Dahmer\">Jeffrey Dahmer</a>, American serial killer (d. 1994)</li>",
+      "entities": [
+        {
+          "name": "Jeffrey Dahmer",
+          "url": "/wiki/Jeffrey_Dahmer",
+          "length": 182912
+        }
+      ]
+    },
+    {
+      "year": "1237",
+      "description": "Olaf the Black, Manx son of Godred II Olafsson, died.",
+      "html": "<li>\n<a href=\"/wiki/1237\" title=\"1237\">1237</a> – <a href=\"/wiki/Olaf_the_Black\" title=\"Olaf the Black\">Olaf the Black</a>, Manx son of <a href=\"/wiki/Godred_II_Olafsson\" class=\"mw-redirect\" title=\"Godred II Olafsson\">Godred II Olafsson</a><sup id=\"cite_ref-86\" class=\"reference\"><a href=\"#cite_note-86\"><span class=\"cite-bracket\">[</span>86<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Olaf the Black",
+          "url": "/wiki/Olaf_the_Black",
+          "length": 245449
+        },
+        {
+          "name": "Godred II Olafsson",
+          "url": "/wiki/Godred_II_Olafsson",
+          "length": 35
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1996",
+      "description": "Josh Allen, American football player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1996\" title=\"1996\">1996</a> – <a href=\"/wiki/Josh_Allen\" title=\"Josh Allen\">Josh Allen</a>, American football player</li>",
+      "entities": [
+        {
+          "name": "Josh Allen",
+          "url": "/wiki/Josh_Allen",
+          "length": 189398
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Jeffrey Dahmer, American serial killer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Jeffrey_Dahmer\" title=\"Jeffrey Dahmer\">Jeffrey Dahmer</a>, American serial killer (d. 1994)</li>",
+      "entities": [
+        {
+          "name": "Jeffrey Dahmer",
+          "url": "/wiki/Jeffrey_Dahmer",
+          "length": 182912
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Mark Cavendish, Manx cyclist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1985\" title=\"1985\">1985</a> – <a href=\"/wiki/Mark_Cavendish\" title=\"Mark Cavendish\">Mark Cavendish</a>, Manx cyclist</li>",
+      "entities": [
+        {
+          "name": "Mark Cavendish",
+          "url": "/wiki/Mark_Cavendish",
+          "length": 178340
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1237",
+      "description": "Olaf the Black, Manx son of Godred II Olafsson, died.",
+      "html": "<li>\n<a href=\"/wiki/1237\" title=\"1237\">1237</a> – <a href=\"/wiki/Olaf_the_Black\" title=\"Olaf the Black\">Olaf the Black</a>, Manx son of <a href=\"/wiki/Godred_II_Olafsson\" class=\"mw-redirect\" title=\"Godred II Olafsson\">Godred II Olafsson</a><sup id=\"cite_ref-86\" class=\"reference\"><a href=\"#cite_note-86\"><span class=\"cite-bracket\">[</span>86<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Olaf the Black",
+          "url": "/wiki/Olaf_the_Black",
+          "length": 245449
+        },
+        {
+          "name": "Godred II Olafsson",
+          "url": "/wiki/Godred_II_Olafsson",
+          "length": 35
+        }
+      ]
+    },
+    {
+      "year": "2002",
+      "description": "Niki de Saint Phalle, French-American sculptor and painter, died.",
+      "html": "<li>\n<a href=\"/wiki/2002\" title=\"2002\">2002</a> – <a href=\"/wiki/Niki_de_Saint_Phalle\" title=\"Niki de Saint Phalle\">Niki de Saint Phalle</a>, French-American sculptor and painter (b. 1930)</li>",
+      "entities": [
+        {
+          "name": "Niki de Saint Phalle",
+          "url": "/wiki/Niki_de_Saint_Phalle",
+          "length": 129014
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "description": "Jane Addams, American activist and author, co-founded Hull House, Nobel Prize laureate, died.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/Jane_Addams\" title=\"Jane Addams\">Jane Addams</a>, American activist and author, co-founded <a href=\"/wiki/Hull_House\" title=\"Hull House\">Hull House</a>, <a href=\"/wiki/Nobel_Peace_Prize\" title=\"Nobel Peace Prize\">Nobel Prize</a> laureate (b. 1860)</li>",
+      "entities": [
+        {
+          "name": "Jane Addams",
+          "url": "/wiki/Jane_Addams",
+          "length": 118490
+        },
+        {
+          "name": "Hull House",
+          "url": "/wiki/Hull_House",
+          "length": 55150
+        },
+        {
+          "name": "Nobel Peace Prize",
+          "url": "/wiki/Nobel_Peace_Prize",
+          "length": 45979
+        }
+      ]
+    }
+  ]
+}

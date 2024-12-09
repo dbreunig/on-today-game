@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1872",
+      "description": "The Wanderers F.C. win the first FA Cup, the oldest football competition in the world, beating Royal Engineers A.F.C. 1–0 at The Oval in Kennington, London.",
+      "html": "<li>\n<a href=\"/wiki/1872\" title=\"1872\">1872</a> – The <a href=\"/wiki/Wanderers_F.C.\" title=\"Wanderers F.C.\">Wanderers F.C.</a> win the first <a href=\"/wiki/FA_Cup\" title=\"FA Cup\">FA Cup</a>, the oldest <a href=\"/wiki/Association_football\" title=\"Association football\">football</a> competition in the world, beating <a href=\"/wiki/Royal_Engineers_A.F.C.\" title=\"Royal Engineers A.F.C.\">Royal Engineers A.F.C.</a> 1–0 at <a href=\"/wiki/The_Oval\" title=\"The Oval\">The Oval</a> in <a href=\"/wiki/Kennington\" title=\"Kennington\">Kennington</a>, London.</li>",
+      "entities": [
+        {
+          "name": "Wanderers F.C.",
+          "url": "/wiki/Wanderers_F.C.",
+          "length": 28370
+        },
+        {
+          "name": "FA Cup",
+          "url": "/wiki/FA_Cup",
+          "length": 130927
+        },
+        {
+          "name": "Association football",
+          "url": "/wiki/Association_football",
+          "length": 129083
+        },
+        {
+          "name": "Royal Engineers A.F.C.",
+          "url": "/wiki/Royal_Engineers_A.F.C.",
+          "length": 19393
+        },
+        {
+          "name": "The Oval",
+          "url": "/wiki/The_Oval",
+          "length": 48459
+        },
+        {
+          "name": "Kennington",
+          "url": "/wiki/Kennington",
+          "length": 54718
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "The Troubles: Ulster loyalist militant Michael Stone attacks a Provisional IRA funeral in Belfast with pistols and grenades. Three persons, one of them a member of PIRA are killed, and more than 60 others are wounded.",
+      "html": "<li>1988   – <a href=\"/wiki/The_Troubles\" title=\"The Troubles\">The Troubles</a>: <a href=\"/wiki/Ulster_loyalism\" title=\"Ulster loyalism\">Ulster loyalist</a> militant <a href=\"/wiki/Michael_Stone_(loyalist)\" title=\"Michael Stone (loyalist)\">Michael Stone</a> <a href=\"/wiki/Milltown_Cemetery_attack\" title=\"Milltown Cemetery attack\">attacks</a> a <a href=\"/wiki/Provisional_IRA\" class=\"mw-redirect\" title=\"Provisional IRA\">Provisional IRA</a> funeral in <a href=\"/wiki/Belfast\" title=\"Belfast\">Belfast</a> with pistols and grenades. Three persons, one of them a member of PIRA are killed, and more than 60 others are wounded.</li>",
+      "entities": [
+        {
+          "name": "The Troubles",
+          "url": "/wiki/The_Troubles",
+          "length": 218680
+        },
+        {
+          "name": "Ulster loyalism",
+          "url": "/wiki/Ulster_loyalism",
+          "length": 37342
+        },
+        {
+          "name": "Michael Stone (loyalist)",
+          "url": "/wiki/Michael_Stone_(loyalist)",
+          "length": 27558
+        },
+        {
+          "name": "Milltown Cemetery attack",
+          "url": "/wiki/Milltown_Cemetery_attack",
+          "length": 18097
+        },
+        {
+          "name": "Provisional IRA",
+          "url": "/wiki/Provisional_IRA",
+          "length": 100
+        },
+        {
+          "name": "Belfast",
+          "url": "/wiki/Belfast",
+          "length": 221678
+        }
+      ]
+    },
+    {
+      "year": "1355",
+      "description": "Amidst the Red Turban Rebellions, Han Lin'er, a claimed descendant of Emperor Huizong of Song, is proclaimed emperor of the restored Song dynasty in Bozhou.",
+      "html": "<li>\n<a href=\"/wiki/1355\" title=\"1355\">1355</a> – Amidst the <a href=\"/wiki/Red_Turban_Rebellions\" title=\"Red Turban Rebellions\">Red Turban Rebellions</a>, <a href=\"/wiki/Han_Lin%27er\" title=\"Han Lin'er\">Han Lin'er</a>, a claimed descendant of <a href=\"/wiki/Emperor_Huizong_of_Song\" title=\"Emperor Huizong of Song\">Emperor Huizong of Song</a>, is proclaimed emperor of the restored <a href=\"/wiki/Song_dynasty\" title=\"Song dynasty\">Song dynasty</a> in <a href=\"/wiki/Bozhou\" title=\"Bozhou\">Bozhou</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Red Turban Rebellions",
+          "url": "/wiki/Red_Turban_Rebellions",
+          "length": 43017
+        },
+        {
+          "name": "Han Lin'er",
+          "url": "/wiki/Han_Lin%27er",
+          "length": 3919
+        },
+        {
+          "name": "Emperor Huizong of Song",
+          "url": "/wiki/Emperor_Huizong_of_Song",
+          "length": 34806
+        },
+        {
+          "name": "Song dynasty",
+          "url": "/wiki/Song_dynasty",
+          "length": 116709
+        },
+        {
+          "name": "Bozhou",
+          "url": "/wiki/Bozhou",
+          "length": 18796
+        }
+      ]
+    },
+    {
+      "year": "1926",
+      "description": "History of Rocketry: Robert Goddard launches the first liquid-fueled rocket, at Auburn, Massachusetts.",
+      "html": "<li>\n<a href=\"/wiki/1926\" title=\"1926\">1926</a> – <a href=\"/wiki/Rocket#Modern_rocketry\" title=\"Rocket\">History of Rocketry</a>: <a href=\"/wiki/Robert_H._Goddard\" title=\"Robert H. Goddard\">Robert Goddard</a> launches the first liquid-fueled <a href=\"/wiki/Rocket\" title=\"Rocket\">rocket</a>, at <a href=\"/wiki/Auburn,_Massachusetts\" title=\"Auburn, Massachusetts\">Auburn, Massachusetts</a>.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rocket",
+          "url": "/wiki/Rocket#Modern_rocketry",
+          "length": null
+        },
+        {
+          "name": "Robert H. Goddard",
+          "url": "/wiki/Robert_H._Goddard",
+          "length": null
+        },
+        {
+          "name": "Rocket",
+          "url": "/wiki/Rocket",
+          "length": null
+        },
+        {
+          "name": "Auburn, Massachusetts",
+          "url": "/wiki/Auburn,_Massachusetts",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1898",
+      "description": "In Melbourne, the representatives of five colonies adopt a constitution, which would become the basis of the Commonwealth of Australia.[page needed]",
+      "html": "<li>\n<a href=\"/wiki/1898\" title=\"1898\">1898</a> – In <a href=\"/wiki/Melbourne\" title=\"Melbourne\">Melbourne</a>, the representatives of five colonies adopt a <a href=\"/wiki/Constitution_of_Australia\" title=\"Constitution of Australia\">constitution</a>, which would become the basis of the <a href=\"/wiki/Commonwealth_of_Australia\" class=\"mw-redirect\" title=\"Commonwealth of Australia\">Commonwealth of Australia</a>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup><sup class=\"noprint Inline-Template\" style=\"white-space:nowrap;\">[<i><a href=\"/wiki/Wikipedia:Citing_sources\" title=\"Wikipedia:Citing sources\"><span title=\"This citation requires a reference to the specific page or range of pages in which the material appears. (September 2021)\">page needed</span></a></i>]</sup>\n</li>",
+      "entities": [
+        {
+          "name": "Melbourne",
+          "url": "/wiki/Melbourne",
+          "length": 209856
+        },
+        {
+          "name": "Constitution of Australia",
+          "url": "/wiki/Constitution_of_Australia",
+          "length": 74263
+        },
+        {
+          "name": "Commonwealth of Australia",
+          "url": "/wiki/Commonwealth_of_Australia",
+          "length": 78
+        },
+        {
+          "name": "Wikipedia:Citing sources",
+          "url": "/wiki/Wikipedia:Citing_sources",
+          "length": 86488
+        }
+      ]
+    },
+    {
+      "year": "934",
+      "description": "Meng Zhixiang declares himself emperor and establishes the Later Shu as a new state independent of the Later Tang.",
+      "html": "<li>\n<a href=\"/wiki/934\" title=\"934\">934</a> – <a href=\"/wiki/Meng_Zhixiang\" title=\"Meng Zhixiang\">Meng Zhixiang</a> declares himself <a href=\"/wiki/Emperor_of_China\" title=\"Emperor of China\">emperor</a> and establishes the <a href=\"/wiki/Later_Shu\" title=\"Later Shu\">Later Shu</a> as a new state independent of the <a href=\"/wiki/Later_Tang\" title=\"Later Tang\">Later Tang</a>.</li>",
+      "entities": [
+        {
+          "name": "Meng Zhixiang",
+          "url": "/wiki/Meng_Zhixiang",
+          "length": 41245
+        },
+        {
+          "name": "Emperor of China",
+          "url": "/wiki/Emperor_of_China",
+          "length": 39379
+        },
+        {
+          "name": "Later Shu",
+          "url": "/wiki/Later_Shu",
+          "length": 4662
+        },
+        {
+          "name": "Later Tang",
+          "url": "/wiki/Later_Tang",
+          "length": 5962
+        }
+      ]
+    },
+    {
+      "year": "1926",
+      "description": "Jerry Lewis, American actor and comedian, was born.",
+      "html": "<li>1926   – <a href=\"/wiki/Jerry_Lewis\" title=\"Jerry Lewis\">Jerry Lewis</a>, American actor and comedian (d. 2017)<sup id=\"cite_ref-135\" class=\"reference\"><a href=\"#cite_note-135\"><span class=\"cite-bracket\">[</span>135<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jerry Lewis",
+          "url": "/wiki/Jerry_Lewis",
+          "length": 185656
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Bill Brown, Australian cricketer and soldier, died.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/Bill_Brown_(cricketer)\" title=\"Bill Brown (cricketer)\">Bill Brown</a>, Australian cricketer and soldier (b. 1912)</li>",
+      "entities": [
+        {
+          "name": "Bill Brown (cricketer)",
+          "url": "/wiki/Bill_Brown_(cricketer)",
+          "length": 65470
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1926",
+      "description": "Jerry Lewis, American actor and comedian, was born.",
+      "html": "<li>1926   – <a href=\"/wiki/Jerry_Lewis\" title=\"Jerry Lewis\">Jerry Lewis</a>, American actor and comedian (d. 2017)<sup id=\"cite_ref-135\" class=\"reference\"><a href=\"#cite_note-135\"><span class=\"cite-bracket\">[</span>135<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jerry Lewis",
+          "url": "/wiki/Jerry_Lewis",
+          "length": 185656
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Jens Stoltenberg, Norwegian economist and politician, 27th Prime Minister of Norway, 13th Secretary General of NATO, was born.",
+      "html": "<li>1959   – <a href=\"/wiki/Jens_Stoltenberg\" title=\"Jens Stoltenberg\">Jens Stoltenberg</a>, Norwegian economist and politician, 27th <a href=\"/wiki/Prime_Minister_of_Norway\" title=\"Prime Minister of Norway\">Prime Minister of Norway</a>, 13th <a href=\"/wiki/Secretary_General_of_NATO\" title=\"Secretary General of NATO\">Secretary General of NATO</a><sup id=\"cite_ref-UPI_123-6\" class=\"reference\"><a href=\"#cite_note-UPI-123\"><span class=\"cite-bracket\">[</span>123<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jens Stoltenberg",
+          "url": "/wiki/Jens_Stoltenberg",
+          "length": 150949
+        },
+        {
+          "name": "Prime Minister of Norway",
+          "url": "/wiki/Prime_Minister_of_Norway",
+          "length": 4344
+        },
+        {
+          "name": "Secretary General of NATO",
+          "url": "/wiki/Secretary_General_of_NATO",
+          "length": 29844
+        }
+      ]
+    },
+    {
+      "year": "1751",
+      "description": "James Madison, American academic and politician, 4th President of the United States, was born.",
+      "html": "<li>\n<a href=\"/wiki/1751\" title=\"1751\">1751</a> – <a href=\"/wiki/James_Madison\" title=\"James Madison\">James Madison</a>, American academic and politician, 4th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (d. 1836)</li>",
+      "entities": [
+        {
+          "name": "James Madison",
+          "url": "/wiki/James_Madison",
+          "length": 144580
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2003",
+      "description": "Rachel Corrie, American activist, died.",
+      "html": "<li>\n<a href=\"/wiki/2003\" title=\"2003\">2003</a> – <a href=\"/wiki/Rachel_Corrie\" title=\"Rachel Corrie\">Rachel Corrie</a>, American activist (b. 1979)</li>",
+      "entities": [
+        {
+          "name": "Rachel Corrie",
+          "url": "/wiki/Rachel_Corrie",
+          "length": 110044
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "description": "Thomas E. Dewey, American lawyer and politician, 47th Governor of New York, died.",
+      "html": "<li>1971   – <a href=\"/wiki/Thomas_E._Dewey\" title=\"Thomas E. Dewey\">Thomas E. Dewey</a>, American lawyer and politician, 47th <a href=\"/wiki/Governor_of_New_York\" title=\"Governor of New York\">Governor of New York</a> (b. 1902)</li>",
+      "entities": [
+        {
+          "name": "Thomas E. Dewey",
+          "url": "/wiki/Thomas_E._Dewey",
+          "length": 76046
+        },
+        {
+          "name": "Governor of New York",
+          "url": "/wiki/Governor_of_New_York",
+          "length": 12221
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Bill Brown, Australian cricketer and soldier, died.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/Bill_Brown_(cricketer)\" title=\"Bill Brown (cricketer)\">Bill Brown</a>, Australian cricketer and soldier (b. 1912)</li>",
+      "entities": [
+        {
+          "name": "Bill Brown (cricketer)",
+          "url": "/wiki/Bill_Brown_(cricketer)",
+          "length": 65470
+        }
+      ]
+    }
+  ]
+}

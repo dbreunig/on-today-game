@@ -1,0 +1,286 @@
+{
+  "events": [
+    {
+      "year": "1776",
+      "description": "According to American colonial reports, Ezra Lee makes the world's first submarine attack in the Turtle, attempting to attach a time bomb to the hull of HMS Eagle in New York Harbor (no British records of this attack exist).",
+      "html": "<li>\n<a href=\"/wiki/1776\" title=\"1776\">1776</a> – According to American colonial reports, <a href=\"/wiki/Ezra_Lee\" title=\"Ezra Lee\">Ezra Lee</a> makes the world's first <a href=\"/wiki/Submarine\" title=\"Submarine\">submarine</a> attack in the <i><a href=\"/wiki/Turtle_(submersible)\" title=\"Turtle (submersible)\">Turtle</a></i>, attempting to attach a <a href=\"/wiki/Time_bomb_(explosive)\" class=\"mw-redirect\" title=\"Time bomb (explosive)\">time bomb</a> to the hull of <a href=\"/wiki/HMS_Eagle_(1774)\" title=\"HMS Eagle (1774)\">HMS <i>Eagle</i></a> in <a href=\"/wiki/New_York_Harbor\" title=\"New York Harbor\">New York Harbor</a> (no British records of this attack exist).</li>",
+      "entities": [
+        {
+          "name": "Ezra Lee",
+          "url": "/wiki/Ezra_Lee",
+          "length": 5478
+        },
+        {
+          "name": "Submarine",
+          "url": "/wiki/Submarine",
+          "length": 135774
+        },
+        {
+          "name": "Turtle (submersible)",
+          "url": "/wiki/Turtle_(submersible)",
+          "length": 40883
+        },
+        {
+          "name": "Time bomb (explosive)",
+          "url": "/wiki/Time_bomb_(explosive)",
+          "length": 104
+        },
+        {
+          "name": "HMS Eagle (1774)",
+          "url": "/wiki/HMS_Eagle_(1774)",
+          "length": 4642
+        },
+        {
+          "name": "New York Harbor",
+          "url": "/wiki/New_York_Harbor",
+          "length": 36137
+        }
+      ]
+    },
+    {
+      "year": "1191",
+      "description": "Third Crusade: Battle of Arsuf: Richard I of England defeats Saladin at Arsuf.",
+      "html": "<li>\n<a href=\"/wiki/1191\" title=\"1191\">1191</a> – <a href=\"/wiki/Third_Crusade\" title=\"Third Crusade\">Third Crusade</a>: <a href=\"/wiki/Battle_of_Arsuf\" title=\"Battle of Arsuf\">Battle of Arsuf</a>: <a href=\"/wiki/Richard_I_of_England\" title=\"Richard I of England\">Richard I of England</a> defeats <a href=\"/wiki/Saladin\" title=\"Saladin\">Saladin</a> at <a href=\"/wiki/Arsuf\" class=\"mw-redirect\" title=\"Arsuf\">Arsuf</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Third Crusade",
+          "url": "/wiki/Third_Crusade",
+          "length": 73765
+        },
+        {
+          "name": "Battle of Arsuf",
+          "url": "/wiki/Battle_of_Arsuf",
+          "length": 33487
+        },
+        {
+          "name": "Richard I of England",
+          "url": "/wiki/Richard_I_of_England",
+          "length": 94468
+        },
+        {
+          "name": "Saladin",
+          "url": "/wiki/Saladin",
+          "length": 119759
+        },
+        {
+          "name": "Arsuf",
+          "url": "/wiki/Arsuf",
+          "length": 47
+        }
+      ]
+    },
+    {
+      "year": "1863",
+      "description": "American Civil War: Union troops under Quincy A. Gillmore capture Fort Wagner in Morris Island after a seven-week siege.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: Union troops under <a href=\"/wiki/Quincy_Adams_Gillmore\" title=\"Quincy Adams Gillmore\">Quincy A. Gillmore</a> capture <a href=\"/wiki/Fort_Wagner\" title=\"Fort Wagner\">Fort Wagner</a> in <a href=\"/wiki/Morris_Island\" title=\"Morris Island\">Morris Island</a> after a seven-week siege.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Quincy Adams Gillmore",
+          "url": "/wiki/Quincy_Adams_Gillmore",
+          "length": 16105
+        },
+        {
+          "name": "Fort Wagner",
+          "url": "/wiki/Fort_Wagner",
+          "length": 11071
+        },
+        {
+          "name": "Morris Island",
+          "url": "/wiki/Morris_Island",
+          "length": 6522
+        }
+      ]
+    },
+    {
+      "year": "1822",
+      "description": "Dom Pedro I declares Brazil independent from Portugal on the shores of the Ipiranga Brook in São Paulo.",
+      "html": "<li>\n<a href=\"/wiki/1822\" title=\"1822\">1822</a> – <a href=\"/wiki/Pedro_I_of_Brazil\" title=\"Pedro I of Brazil\">Dom Pedro I</a> declares <a href=\"/wiki/Independence_of_Brazil\" title=\"Independence of Brazil\">Brazil independent</a> from Portugal on the shores of the <a href=\"/wiki/Ipiranga_Brook\" title=\"Ipiranga Brook\">Ipiranga Brook</a> in <a href=\"/wiki/S%C3%A3o_Paulo\" title=\"São Paulo\">São Paulo</a>.</li>",
+      "entities": [
+        {
+          "name": "Pedro I of Brazil",
+          "url": "/wiki/Pedro_I_of_Brazil",
+          "length": 99827
+        },
+        {
+          "name": "Independence of Brazil",
+          "url": "/wiki/Independence_of_Brazil",
+          "length": 34725
+        },
+        {
+          "name": "Ipiranga Brook",
+          "url": "/wiki/Ipiranga_Brook",
+          "length": 3593
+        },
+        {
+          "name": "São Paulo",
+          "url": "/wiki/S%C3%A3o_Paulo",
+          "length": 253876
+        }
+      ]
+    },
+    {
+      "year": "1901",
+      "description": "The Boxer Rebellion in Qing dynasty (modern-day China) officially ends with the signing of the Boxer Protocol.",
+      "html": "<li>\n<a href=\"/wiki/1901\" title=\"1901\">1901</a> – The <a href=\"/wiki/Boxer_Rebellion\" title=\"Boxer Rebellion\">Boxer Rebellion</a> in <a href=\"/wiki/Qing_dynasty\" title=\"Qing dynasty\">Qing dynasty</a> (modern-day <a href=\"/wiki/China\" title=\"China\">China</a>) officially ends with the signing of the <a href=\"/wiki/Boxer_Protocol\" title=\"Boxer Protocol\">Boxer Protocol</a>.</li>",
+      "entities": [
+        {
+          "name": "Boxer Rebellion",
+          "url": "/wiki/Boxer_Rebellion",
+          "length": 135927
+        },
+        {
+          "name": "Qing dynasty",
+          "url": "/wiki/Qing_dynasty",
+          "length": 155515
+        },
+        {
+          "name": "China",
+          "url": "/wiki/China",
+          "length": 343435
+        },
+        {
+          "name": "Boxer Protocol",
+          "url": "/wiki/Boxer_Protocol",
+          "length": 25846
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Chilean dictator Augusto Pinochet survives an assassination attempt by the FPMR; five of Pinochet's bodyguards are killed.",
+      "html": "<li>1986   – <a href=\"/wiki/Chile\" title=\"Chile\">Chilean</a> dictator <a href=\"/wiki/Augusto_Pinochet\" title=\"Augusto Pinochet\">Augusto Pinochet</a> survives <a href=\"/wiki/Attempted_assassination_of_Augusto_Pinochet\" title=\"Attempted assassination of Augusto Pinochet\">an assassination attempt</a> by the <a href=\"/wiki/Manuel_Rodr%C3%ADguez_Patriotic_Front\" title=\"Manuel Rodríguez Patriotic Front\">FPMR</a>;<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-Zalaquett2011_15-0\" class=\"reference\"><a href=\"#cite_note-Zalaquett2011-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup> five of Pinochet's bodyguards are killed.</li>",
+      "entities": [
+        {
+          "name": "Chile",
+          "url": "/wiki/Chile",
+          "length": 216275
+        },
+        {
+          "name": "Augusto Pinochet",
+          "url": "/wiki/Augusto_Pinochet",
+          "length": 180633
+        },
+        {
+          "name": "Attempted assassination of Augusto Pinochet",
+          "url": "/wiki/Attempted_assassination_of_Augusto_Pinochet",
+          "length": 7064
+        },
+        {
+          "name": "Manuel Rodríguez Patriotic Front",
+          "url": "/wiki/Manuel_Rodr%C3%ADguez_Patriotic_Front",
+          "length": 11653
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Mammootty, Indian actor and producer, was born.",
+      "html": "<li>1951   – <a href=\"/wiki/Mammootty\" title=\"Mammootty\">Mammootty</a>, Indian actor and producer</li>",
+      "entities": [
+        {
+          "name": "Mammootty",
+          "url": "/wiki/Mammootty",
+          "length": 169706
+        }
+      ]
+    },
+    {
+      "year": "251",
+      "description": "Sima Yi, Chinese general and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/251\" title=\"251\">251</a> – <a href=\"/wiki/Sima_Yi\" title=\"Sima Yi\">Sima Yi</a>, Chinese general and politician (b. 179)</li>",
+      "entities": [
+        {
+          "name": "Sima Yi",
+          "url": "/wiki/Sima_Yi",
+          "length": 183621
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1951",
+      "description": "Mammootty, Indian actor and producer, was born.",
+      "html": "<li>1951   – <a href=\"/wiki/Mammootty\" title=\"Mammootty\">Mammootty</a>, Indian actor and producer</li>",
+      "entities": [
+        {
+          "name": "Mammootty",
+          "url": "/wiki/Mammootty",
+          "length": 169706
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "description": "Vera Zvonareva, Russian tennis player, was born.",
+      "html": "<li>1984   – <a href=\"/wiki/Vera_Zvonareva\" title=\"Vera Zvonareva\">Vera Zvonareva</a>, Russian tennis player</li>",
+      "entities": [
+        {
+          "name": "Vera Zvonareva",
+          "url": "/wiki/Vera_Zvonareva",
+          "length": 124501
+        }
+      ]
+    },
+    {
+      "year": "1533",
+      "description": "Elizabeth I of England, was born.",
+      "html": "<li>\n<a href=\"/wiki/1533\" title=\"1533\">1533</a> – <a href=\"/wiki/Elizabeth_I\" title=\"Elizabeth I\">Elizabeth I</a> of England (d. 1603)<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Elizabeth I",
+          "url": "/wiki/Elizabeth_I",
+          "length": 118184
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "251",
+      "description": "Sima Yi, Chinese general and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/251\" title=\"251\">251</a> – <a href=\"/wiki/Sima_Yi\" title=\"Sima Yi\">Sima Yi</a>, Chinese general and politician (b. 179)</li>",
+      "entities": [
+        {
+          "name": "Sima Yi",
+          "url": "/wiki/Sima_Yi",
+          "length": 183621
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Maurice Duplessis, Canadian lawyer and politician, 16th Premier of Quebec, died.",
+      "html": "<li>\n<a href=\"/wiki/1959\" title=\"1959\">1959</a> – <a href=\"/wiki/Maurice_Duplessis\" title=\"Maurice Duplessis\">Maurice Duplessis</a>, Canadian lawyer and politician, 16th <a href=\"/wiki/Premier_of_Quebec\" title=\"Premier of Quebec\">Premier of Quebec</a> (b. 1890)</li>",
+      "entities": [
+        {
+          "name": "Maurice Duplessis",
+          "url": "/wiki/Maurice_Duplessis",
+          "length": 156824
+        },
+        {
+          "name": "Premier of Quebec",
+          "url": "/wiki/Premier_of_Quebec",
+          "length": 5630
+        }
+      ]
+    },
+    {
+      "year": "1312",
+      "description": "Ferdinand IV of Castile, died.",
+      "html": "<li>\n<a href=\"/wiki/1312\" title=\"1312\">1312</a> – <a href=\"/wiki/Ferdinand_IV_of_Castile\" title=\"Ferdinand IV of Castile\">Ferdinand IV of Castile</a> (b. 1285)<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Ferdinand IV of Castile",
+          "url": "/wiki/Ferdinand_IV_of_Castile",
+          "length": 125649
+        }
+      ]
+    }
+  ]
+}

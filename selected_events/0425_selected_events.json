@@ -1,0 +1,341 @@
+{
+  "events": [
+    {
+      "year": "1945",
+      "description": "World War II: United States and Soviet reconnaissance troops meet in Torgau and Strehla along the River Elbe, cutting the Wehrmacht of Nazi Germany in two. This would be later known as Elbe Day.",
+      "html": "<li>\n<a href=\"/wiki/1945\" title=\"1945\">1945</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/United_States_Armed_Forces\" title=\"United States Armed Forces\">United States</a> and <a href=\"/wiki/Soviet_Armed_Forces\" title=\"Soviet Armed Forces\">Soviet</a> reconnaissance troops meet in <a href=\"/wiki/Torgau\" title=\"Torgau\">Torgau</a> and <a href=\"/wiki/Strehla\" title=\"Strehla\">Strehla</a> along the River <a href=\"/wiki/Elbe\" title=\"Elbe\">Elbe</a>, cutting the <i><a href=\"/wiki/Wehrmacht\" title=\"Wehrmacht\">Wehrmacht</a></i> of <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">Nazi Germany</a> in two. This would be later known as <a href=\"/wiki/Elbe_Day\" title=\"Elbe Day\">Elbe Day</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "United States Armed Forces",
+          "url": "/wiki/United_States_Armed_Forces",
+          "length": 224009
+        },
+        {
+          "name": "Soviet Armed Forces",
+          "url": "/wiki/Soviet_Armed_Forces",
+          "length": 73128
+        },
+        {
+          "name": "Torgau",
+          "url": "/wiki/Torgau",
+          "length": 13217
+        },
+        {
+          "name": "Strehla",
+          "url": "/wiki/Strehla",
+          "length": 3496
+        },
+        {
+          "name": "Elbe",
+          "url": "/wiki/Elbe",
+          "length": 28433
+        },
+        {
+          "name": "Wehrmacht",
+          "url": "/wiki/Wehrmacht",
+          "length": 107453
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        },
+        {
+          "name": "Elbe Day",
+          "url": "/wiki/Elbe_Day",
+          "length": 9154
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: Forces under U.S. Admiral David Farragut demand the surrender of the Confederate city of New Orleans, Louisiana.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: Forces under <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">U.S.</a> <a href=\"/wiki/Admiral\" title=\"Admiral\">Admiral</a> <a href=\"/wiki/David_Farragut\" title=\"David Farragut\">David Farragut</a> <a href=\"/wiki/Capture_of_New_Orleans\" title=\"Capture of New Orleans\">demand the surrender</a> of the <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> city of <a href=\"/wiki/New_Orleans\" title=\"New Orleans\">New Orleans, Louisiana</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Admiral",
+          "url": "/wiki/Admiral",
+          "length": 32714
+        },
+        {
+          "name": "David Farragut",
+          "url": "/wiki/David_Farragut",
+          "length": 56097
+        },
+        {
+          "name": "Capture of New Orleans",
+          "url": "/wiki/Capture_of_New_Orleans",
+          "length": 39420
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "New Orleans",
+          "url": "/wiki/New_Orleans",
+          "length": 280070
+        }
+      ]
+    },
+    {
+      "year": "775",
+      "description": "The Battle of Bagrevand puts an end to an Armenian rebellion against the Abbasid Caliphate. Muslim control over the South Caucasus is solidified and its Islamization begins, while several major Armenian nakharar families lose power and their remnants flee to the Byzantine Empire.",
+      "html": "<li>\n<a href=\"/wiki/775\" title=\"775\">775</a> – The <a href=\"/wiki/Battle_of_Bagrevand\" title=\"Battle of Bagrevand\">Battle of Bagrevand</a> puts an end to an <a href=\"/wiki/Armenians\" title=\"Armenians\">Armenian</a> rebellion against the <a href=\"/wiki/Abbasid_Caliphate\" title=\"Abbasid Caliphate\">Abbasid Caliphate</a>. Muslim control over the <a href=\"/wiki/South_Caucasus\" title=\"South Caucasus\">South Caucasus</a> is solidified and its Islamization begins, while several major Armenian <i><a href=\"/wiki/Nakharar\" title=\"Nakharar\">nakharar</a></i> families lose power and their remnants flee to the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine Empire</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Bagrevand",
+          "url": "/wiki/Battle_of_Bagrevand",
+          "length": 4948
+        },
+        {
+          "name": "Armenians",
+          "url": "/wiki/Armenians",
+          "length": 109808
+        },
+        {
+          "name": "Abbasid Caliphate",
+          "url": "/wiki/Abbasid_Caliphate",
+          "length": 141186
+        },
+        {
+          "name": "South Caucasus",
+          "url": "/wiki/South_Caucasus",
+          "length": 26314
+        },
+        {
+          "name": "Nakharar",
+          "url": "/wiki/Nakharar",
+          "length": 7934
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201302
+        }
+      ]
+    },
+    {
+      "year": "1882",
+      "description": "French and Vietnamese troops clashed in Tonkin, when Commandant Henri Rivière seized the citadel of Hanoi with a small force of marine infantry.",
+      "html": "<li>\n<a href=\"/wiki/1882\" title=\"1882\">1882</a> – <a href=\"/wiki/French_Third_Republic\" title=\"French Third Republic\">French</a> and <a href=\"/wiki/Nguy%E1%BB%85n_dynasty\" title=\"Nguyễn dynasty\">Vietnamese</a> troops clashed in <a href=\"/wiki/Tonkin\" title=\"Tonkin\">Tonkin</a>, when Commandant <a href=\"/wiki/Henri_Rivi%C3%A8re_(naval_officer)\" title=\"Henri Rivière (naval officer)\">Henri Rivière</a> <a href=\"/wiki/Battle_of_Hanoi_(1882)\" title=\"Battle of Hanoi (1882)\">seized</a> the <a href=\"/wiki/Citadel_of_Hanoi\" class=\"mw-redirect\" title=\"Citadel of Hanoi\">citadel of Hanoi</a> with a small force of marine infantry.</li>",
+      "entities": [
+        {
+          "name": "French Third Republic",
+          "url": "/wiki/French_Third_Republic",
+          "length": 164721
+        },
+        {
+          "name": "Nguyễn dynasty",
+          "url": "/wiki/Nguy%E1%BB%85n_dynasty",
+          "length": 201669
+        },
+        {
+          "name": "Tonkin",
+          "url": "/wiki/Tonkin",
+          "length": 10704
+        },
+        {
+          "name": "Henri Rivière (naval officer)",
+          "url": "/wiki/Henri_Rivi%C3%A8re_(naval_officer)",
+          "length": 13925
+        },
+        {
+          "name": "Battle of Hanoi (1882)",
+          "url": "/wiki/Battle_of_Hanoi_(1882)",
+          "length": 8225
+        },
+        {
+          "name": "Citadel of Hanoi",
+          "url": "/wiki/Citadel_of_Hanoi",
+          "length": 45
+        }
+      ]
+    },
+    {
+      "year": "1849",
+      "description": "The Governor General of Canada, Lord Elgin, signs the Rebellion Losses Bill, outraging Montreal's English population and triggering the Montreal Riots.",
+      "html": "<li>\n<a href=\"/wiki/1849\" title=\"1849\">1849</a> – The <a href=\"/wiki/Governor_General_of_Canada\" title=\"Governor General of Canada\">Governor General of Canada</a>, <a href=\"/wiki/James_Bruce,_8th_Earl_of_Elgin\" title=\"James Bruce, 8th Earl of Elgin\">Lord Elgin</a>, signs the <a href=\"/wiki/Rebellion_Losses_Bill\" title=\"Rebellion Losses Bill\">Rebellion Losses Bill</a>, outraging <a href=\"/wiki/Montreal\" title=\"Montreal\">Montreal</a>'s <a href=\"/wiki/English_Canadian\" class=\"mw-redirect\" title=\"English Canadian\">English</a> population and triggering the <a href=\"/wiki/Montreal_Riots\" class=\"mw-redirect\" title=\"Montreal Riots\">Montreal Riots</a>.</li>",
+      "entities": [
+        {
+          "name": "Governor General of Canada",
+          "url": "/wiki/Governor_General_of_Canada",
+          "length": 149811
+        },
+        {
+          "name": "James Bruce, 8th Earl of Elgin",
+          "url": "/wiki/James_Bruce,_8th_Earl_of_Elgin",
+          "length": 26546
+        },
+        {
+          "name": "Rebellion Losses Bill",
+          "url": "/wiki/Rebellion_Losses_Bill",
+          "length": 21922
+        },
+        {
+          "name": "Montreal",
+          "url": "/wiki/Montreal",
+          "length": 214167
+        },
+        {
+          "name": "English Canadian",
+          "url": "/wiki/English_Canadian",
+          "length": 94
+        },
+        {
+          "name": "Montreal Riots",
+          "url": "/wiki/Montreal_Riots",
+          "length": 77
+        }
+      ]
+    },
+    {
+      "year": "1953",
+      "description": "Francis Crick and James Watson publish \"Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid\" describing the double helix structure of DNA.",
+      "html": "<li>\n<a href=\"/wiki/1953\" title=\"1953\">1953</a> – <a href=\"/wiki/Francis_Crick\" title=\"Francis Crick\">Francis Crick</a> and <a href=\"/wiki/James_Watson\" title=\"James Watson\">James Watson</a> publish \"<a href=\"/wiki/Molecular_Structure_of_Nucleic_Acids:_A_Structure_for_Deoxyribose_Nucleic_Acid\" title=\"Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid\">Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid</a>\" describing the <a href=\"/wiki/Double_helix\" class=\"mw-redirect\" title=\"Double helix\">double helix</a> structure of <a href=\"/wiki/DNA\" title=\"DNA\">DNA</a>.</li>",
+      "entities": [
+        {
+          "name": "Francis Crick",
+          "url": "/wiki/Francis_Crick",
+          "length": 115016
+        },
+        {
+          "name": "James Watson",
+          "url": "/wiki/James_Watson",
+          "length": 95794
+        },
+        {
+          "name": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+          "url": "/wiki/Molecular_Structure_of_Nucleic_Acids:_A_Structure_for_Deoxyribose_Nucleic_Acid",
+          "length": 19321
+        },
+        {
+          "name": "Double helix",
+          "url": "/wiki/Double_helix",
+          "length": 89
+        },
+        {
+          "name": "DNA",
+          "url": "/wiki/DNA",
+          "length": 170207
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Michael van Gerwen, Dutch darts player, was born.",
+      "html": "<li>1989   – <a href=\"/wiki/Michael_van_Gerwen\" title=\"Michael van Gerwen\">Michael van Gerwen</a>, Dutch darts player</li>",
+      "entities": [
+        {
+          "name": "Michael van Gerwen",
+          "url": "/wiki/Michael_van_Gerwen",
+          "length": 252607
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "Jane Jacobs, American-Canadian journalist, author, and activist, died.",
+      "html": "<li>\n<a href=\"/wiki/2006\" title=\"2006\">2006</a> – <a href=\"/wiki/Jane_Jacobs\" title=\"Jane Jacobs\">Jane Jacobs</a>, American-Canadian journalist, author, and activist (b. 1916)</li>",
+      "entities": [
+        {
+          "name": "Jane Jacobs",
+          "url": "/wiki/Jane_Jacobs",
+          "length": 92311
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1989",
+      "description": "Michael van Gerwen, Dutch darts player, was born.",
+      "html": "<li>1989   – <a href=\"/wiki/Michael_van_Gerwen\" title=\"Michael van Gerwen\">Michael van Gerwen</a>, Dutch darts player</li>",
+      "entities": [
+        {
+          "name": "Michael van Gerwen",
+          "url": "/wiki/Michael_van_Gerwen",
+          "length": 252607
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "Johan Cruyff, Dutch footballer and manager, was born.",
+      "html": "<li>\n<a href=\"/wiki/1947\" title=\"1947\">1947</a> – <a href=\"/wiki/Johan_Cruyff\" title=\"Johan Cruyff\">Johan Cruyff</a>, Dutch footballer and manager (d. 2016)</li>",
+      "entities": [
+        {
+          "name": "Johan Cruyff",
+          "url": "/wiki/Johan_Cruyff",
+          "length": 221117
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Jay Park, American-South Korean singer-songwriter and dancer, was born.",
+      "html": "<li>1987   – <a href=\"/wiki/Jay_Park\" title=\"Jay Park\">Jay Park</a>, American-South Korean singer-songwriter and dancer</li>",
+      "entities": [
+        {
+          "name": "Jay Park",
+          "url": "/wiki/Jay_Park",
+          "length": 166591
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2023",
+      "description": "Harry Belafonte, American singer, activist, and actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Harry_Belafonte\" title=\"Harry Belafonte\">Harry Belafonte</a>, American singer, activist, and actor (b. 1927)<sup id=\"cite_ref-42\" class=\"reference\"><a href=\"#cite_note-42\"><span class=\"cite-bracket\">[</span>42<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Harry Belafonte",
+          "url": "/wiki/Harry_Belafonte",
+          "length": 106978
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "Jane Jacobs, American-Canadian journalist, author, and activist, died.",
+      "html": "<li>\n<a href=\"/wiki/2006\" title=\"2006\">2006</a> – <a href=\"/wiki/Jane_Jacobs\" title=\"Jane Jacobs\">Jane Jacobs</a>, American-Canadian journalist, author, and activist (b. 1916)</li>",
+      "entities": [
+        {
+          "name": "Jane Jacobs",
+          "url": "/wiki/Jane_Jacobs",
+          "length": 92311
+        }
+      ]
+    },
+    {
+      "year": "2001",
+      "description": "Michele Alboreto, Italian racing driver, died.",
+      "html": "<li>\n<a href=\"/wiki/2001\" title=\"2001\">2001</a> – <a href=\"/wiki/Michele_Alboreto\" title=\"Michele Alboreto\">Michele Alboreto</a>, Italian racing driver (b. 1956)</li>",
+      "entities": [
+        {
+          "name": "Michele Alboreto",
+          "url": "/wiki/Michele_Alboreto",
+          "length": 86851
+        }
+      ]
+    }
+  ]
+}

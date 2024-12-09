@@ -1,0 +1,351 @@
+{
+  "events": [
+    {
+      "year": "2022",
+      "description": "Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as independent states, Russian president Vladimir Putin orders a full-scale invasion of Ukraine.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – <a href=\"/wiki/Russo-Ukrainian_War\" title=\"Russo-Ukrainian War\">Russo-Ukrainian War</a>: Days after <a href=\"/wiki/Address_concerning_the_events_in_Ukraine\" title=\"Address concerning the events in Ukraine\">recognising</a> <a href=\"/wiki/Donetsk_People%27s_Republic\" title=\"Donetsk People's Republic\">Donetsk</a> and <a href=\"/wiki/Luhansk_People%27s_Republic\" title=\"Luhansk People's Republic\">Luhansk</a> as <a href=\"/wiki/International_recognition_of_the_Donetsk_People%27s_Republic_and_the_Luhansk_People%27s_Republic\" title=\"International recognition of the Donetsk People's Republic and the Luhansk People's Republic\">independent states</a>, Russian president <a href=\"/wiki/Vladimir_Putin\" title=\"Vladimir Putin\">Vladimir Putin</a> <a href=\"/wiki/On_conducting_a_special_military_operation\" title=\"On conducting a special military operation\">orders</a> a <a href=\"/wiki/Russian_invasion_of_Ukraine\" title=\"Russian invasion of Ukraine\">full-scale invasion</a> of <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a>.<sup id=\"cite_ref-36\" class=\"reference\"><a href=\"#cite_note-36\"><span class=\"cite-bracket\">[</span>36<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Russo-Ukrainian War",
+          "url": "/wiki/Russo-Ukrainian_War",
+          "length": 344787
+        },
+        {
+          "name": "Address concerning the events in Ukraine",
+          "url": "/wiki/Address_concerning_the_events_in_Ukraine",
+          "length": 20222
+        },
+        {
+          "name": "Donetsk People's Republic",
+          "url": "/wiki/Donetsk_People%27s_Republic",
+          "length": 234018
+        },
+        {
+          "name": "Luhansk People's Republic",
+          "url": "/wiki/Luhansk_People%27s_Republic",
+          "length": 120928
+        },
+        {
+          "name": "International recognition of the Donetsk People's Republic and the Luhansk People's Republic",
+          "url": "/wiki/International_recognition_of_the_Donetsk_People%27s_Republic_and_the_Luhansk_People%27s_Republic",
+          "length": 99022
+        },
+        {
+          "name": "Vladimir Putin",
+          "url": "/wiki/Vladimir_Putin",
+          "length": 486278
+        },
+        {
+          "name": "On conducting a special military operation",
+          "url": "/wiki/On_conducting_a_special_military_operation",
+          "length": 54969
+        },
+        {
+          "name": "Russian invasion of Ukraine",
+          "url": "/wiki/Russian_invasion_of_Ukraine",
+          "length": 463620
+        },
+        {
+          "name": "Ukraine",
+          "url": "/wiki/Ukraine",
+          "length": 254782
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "description": "Vietnam War: The Tet Offensive is halted; South Vietnamese forces led by Ngo Quang Truong recapture the citadel of Hué.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: The <a href=\"/wiki/Tet_Offensive\" title=\"Tet Offensive\">Tet Offensive</a> is halted; <a href=\"/wiki/South_Vietnam\" title=\"South Vietnam\">South Vietnamese</a> forces led by <a href=\"/wiki/Ngo_Quang_Truong\" class=\"mw-redirect\" title=\"Ngo Quang Truong\">Ngo Quang Truong</a> <a href=\"/wiki/Battle_of_Hue\" class=\"mw-redirect\" title=\"Battle of Hue\">recapture</a> the <a href=\"/wiki/Citadel_of_Hue\" class=\"mw-redirect\" title=\"Citadel of Hue\">citadel of Hué</a>.<sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\"><span class=\"cite-bracket\">[</span>33<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "Tet Offensive",
+          "url": "/wiki/Tet_Offensive",
+          "length": 139214
+        },
+        {
+          "name": "South Vietnam",
+          "url": "/wiki/South_Vietnam",
+          "length": 261799
+        },
+        {
+          "name": "Ngo Quang Truong",
+          "url": "/wiki/Ngo_Quang_Truong",
+          "length": 119
+        },
+        {
+          "name": "Battle of Hue",
+          "url": "/wiki/Battle_of_Hue",
+          "length": 64
+        },
+        {
+          "name": "Citadel of Hue",
+          "url": "/wiki/Citadel_of_Hue",
+          "length": 36
+        }
+      ]
+    },
+    {
+      "year": "1917",
+      "description": "World War I: The U.S. ambassador Walter Hines Page to the United Kingdom is given the Zimmermann Telegram, in which Germany pledges to ensure the return of New Mexico, Texas, and Arizona to Mexico if Mexico declares war on the United States.",
+      "html": "<li>\n<a href=\"/wiki/1917\" title=\"1917\">1917</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: The U.S. ambassador <a href=\"/wiki/Walter_Hines_Page\" title=\"Walter Hines Page\">Walter Hines Page</a> to the United Kingdom is given the <a href=\"/wiki/Zimmermann_Telegram\" class=\"mw-redirect\" title=\"Zimmermann Telegram\">Zimmermann Telegram</a>, in which Germany pledges to ensure the return of <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, and <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a> to Mexico if Mexico declares war on the United States.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Walter Hines Page",
+          "url": "/wiki/Walter_Hines_Page",
+          "length": 16373
+        },
+        {
+          "name": "Zimmermann Telegram",
+          "url": "/wiki/Zimmermann_Telegram",
+          "length": 118
+        },
+        {
+          "name": "New Mexico",
+          "url": "/wiki/New_Mexico",
+          "length": 380300
+        },
+        {
+          "name": "Texas",
+          "url": "/wiki/Texas",
+          "length": 262159
+        },
+        {
+          "name": "Arizona",
+          "url": "/wiki/Arizona",
+          "length": 167002
+        }
+      ]
+    },
+    {
+      "year": "1739",
+      "description": "Battle of Karnal: The army of Iranian ruler Nader Shah defeats the forces of the Mughal emperor of India, Muhammad Shah.",
+      "html": "<li>\n<a href=\"/wiki/1739\" title=\"1739\">1739</a> – <a href=\"/wiki/Battle_of_Karnal\" title=\"Battle of Karnal\">Battle of Karnal</a>: The army of <a href=\"/wiki/History_of_Iran#Before_the_First_World_War\" title=\"History of Iran\">Iranian</a> ruler <a href=\"/wiki/Nader_Shah\" title=\"Nader Shah\">Nader Shah</a> defeats the forces of the <a href=\"/wiki/Mughal_Empire\" title=\"Mughal Empire\">Mughal</a> emperor of <a href=\"/wiki/History_of_India#The_Mughal_era\" title=\"History of India\">India</a>, <a href=\"/wiki/Muhammad_Shah\" title=\"Muhammad Shah\">Muhammad Shah</a>.<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Battle of Karnal",
+          "url": "/wiki/Battle_of_Karnal",
+          "length": null
+        },
+        {
+          "name": "History of Iran",
+          "url": "/wiki/History_of_Iran#Before_the_First_World_War",
+          "length": null
+        },
+        {
+          "name": "Nader Shah",
+          "url": "/wiki/Nader_Shah",
+          "length": null
+        },
+        {
+          "name": "Mughal Empire",
+          "url": "/wiki/Mughal_Empire",
+          "length": null
+        },
+        {
+          "name": "History of India",
+          "url": "/wiki/History_of_India#The_Mughal_era",
+          "length": null
+        },
+        {
+          "name": "Muhammad Shah",
+          "url": "/wiki/Muhammad_Shah",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1868",
+      "description": "Andrew Johnson becomes the first President of the United States to be impeached by the United States House of Representatives. He is later acquitted in the Senate.",
+      "html": "<li>\n<a href=\"/wiki/1868\" title=\"1868\">1868</a> – <a href=\"/wiki/Andrew_Johnson\" title=\"Andrew Johnson\">Andrew Johnson</a> becomes the first <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> to be <a href=\"/wiki/Impeachment_of_Andrew_Johnson\" title=\"Impeachment of Andrew Johnson\">impeached</a> by the <a href=\"/wiki/United_States_House_of_Representatives\" title=\"United States House of Representatives\">United States House of Representatives</a>. He is later acquitted in the <a href=\"/wiki/United_States_Senate\" title=\"United States Senate\">Senate</a>.<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Andrew Johnson",
+          "url": "/wiki/Andrew_Johnson",
+          "length": 131719
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "Impeachment of Andrew Johnson",
+          "url": "/wiki/Impeachment_of_Andrew_Johnson",
+          "length": 219370
+        },
+        {
+          "name": "United States House of Representatives",
+          "url": "/wiki/United_States_House_of_Representatives",
+          "length": 118918
+        },
+        {
+          "name": "United States Senate",
+          "url": "/wiki/United_States_Senate",
+          "length": 107422
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "Seven hundred ninety-one Romanian Jewish refugees and crew members are killed after the MV Struma is torpedoed by the Soviet Navy.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – Seven hundred ninety-one<sup id=\"cite_ref-25\" class=\"reference\"><a href=\"#cite_note-25\"><span class=\"cite-bracket\">[</span>25<span class=\"cite-bracket\">]</span></a></sup> <a href=\"/wiki/Romanian_Jewish\" class=\"mw-redirect\" title=\"Romanian Jewish\">Romanian Jewish</a> <a href=\"/wiki/Refugees\" class=\"mw-redirect\" title=\"Refugees\">refugees</a> and crew members are killed after the <a href=\"/wiki/MV_Struma\" title=\"MV Struma\">MV Struma</a> is <a href=\"/wiki/Struma_disaster\" title=\"Struma disaster\">torpedoed</a> by the <a href=\"/wiki/Soviet_Navy\" title=\"Soviet Navy\">Soviet Navy</a>.<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-27\" class=\"reference\"><a href=\"#cite_note-27\"><span class=\"cite-bracket\">[</span>27<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Romanian Jewish",
+          "url": "/wiki/Romanian_Jewish",
+          "length": 44
+        },
+        {
+          "name": "Refugees",
+          "url": "/wiki/Refugees",
+          "length": 70
+        },
+        {
+          "name": "MV Struma",
+          "url": "/wiki/MV_Struma",
+          "length": 15906
+        },
+        {
+          "name": "Struma disaster",
+          "url": "/wiki/Struma_disaster",
+          "length": 26764
+        },
+        {
+          "name": "Soviet Navy",
+          "url": "/wiki/Soviet_Navy",
+          "length": 53115
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "Floyd Mayweather Jr., American boxer, was born.",
+      "html": "<li>1977   – <a href=\"/wiki/Floyd_Mayweather_Jr.\" title=\"Floyd Mayweather Jr.\">Floyd Mayweather Jr.</a>, American boxer<sup id=\"cite_ref-90\" class=\"reference\"><a href=\"#cite_note-90\"><span class=\"cite-bracket\">[</span>90<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Floyd Mayweather Jr.",
+          "url": "/wiki/Floyd_Mayweather_Jr.",
+          "length": 281042
+        }
+      ]
+    },
+    {
+      "year": "1953",
+      "description": "Gerd von Rundstedt, German field marshal, died.",
+      "html": "<li>1953   – <a href=\"/wiki/Gerd_von_Rundstedt\" title=\"Gerd von Rundstedt\">Gerd von Rundstedt</a>, German field marshal (b. 1875)</li>",
+      "entities": [
+        {
+          "name": "Gerd von Rundstedt",
+          "url": "/wiki/Gerd_von_Rundstedt",
+          "length": 140978
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1977",
+      "description": "Floyd Mayweather Jr., American boxer, was born.",
+      "html": "<li>1977   – <a href=\"/wiki/Floyd_Mayweather_Jr.\" title=\"Floyd Mayweather Jr.\">Floyd Mayweather Jr.</a>, American boxer<sup id=\"cite_ref-90\" class=\"reference\"><a href=\"#cite_note-90\"><span class=\"cite-bracket\">[</span>90<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Floyd Mayweather Jr.",
+          "url": "/wiki/Floyd_Mayweather_Jr.",
+          "length": 281042
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "Steve Jobs, American businessman, co-founded Apple Computer and Pixar, was born.",
+      "html": "<li>\n<a href=\"/wiki/1955\" title=\"1955\">1955</a> – <a href=\"/wiki/Steve_Jobs\" title=\"Steve Jobs\">Steve Jobs</a>, American businessman, co-founded <a href=\"/wiki/Apple_Computer\" class=\"mw-redirect\" title=\"Apple Computer\">Apple Computer</a> and <a href=\"/wiki/Pixar\" title=\"Pixar\">Pixar</a> (d. 2011)<sup id=\"cite_ref-UPI_52-3\" class=\"reference\"><a href=\"#cite_note-UPI-52\"><span class=\"cite-bracket\">[</span>52<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Steve Jobs",
+          "url": "/wiki/Steve_Jobs",
+          "length": 205125
+        },
+        {
+          "name": "Apple Computer",
+          "url": "/wiki/Apple_Computer",
+          "length": 134
+        },
+        {
+          "name": "Pixar",
+          "url": "/wiki/Pixar",
+          "length": 125637
+        }
+      ]
+    },
+    {
+      "year": "1500",
+      "description": "Charles V, Holy Roman Emperor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1500\" title=\"1500\">1500</a> – <a href=\"/wiki/Charles_V,_Holy_Roman_Emperor\" title=\"Charles V, Holy Roman Emperor\">Charles V, Holy Roman Emperor</a> (d. 1558)<sup id=\"cite_ref-40\" class=\"reference\"><a href=\"#cite_note-40\"><span class=\"cite-bracket\">[</span>40<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Charles V, Holy Roman Emperor",
+          "url": "/wiki/Charles_V,_Holy_Roman_Emperor",
+          "length": 194896
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2018",
+      "description": "Sridevi, Indian actress, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Sridevi\" title=\"Sridevi\">Sridevi</a>, Indian actress (b. 1963)</li>",
+      "entities": [
+        {
+          "name": "Sridevi",
+          "url": "/wiki/Sridevi",
+          "length": 172489
+        }
+      ]
+    },
+    {
+      "year": "1953",
+      "description": "Gerd von Rundstedt, German field marshal, died.",
+      "html": "<li>1953   – <a href=\"/wiki/Gerd_von_Rundstedt\" title=\"Gerd von Rundstedt\">Gerd von Rundstedt</a>, German field marshal (b. 1875)</li>",
+      "entities": [
+        {
+          "name": "Gerd von Rundstedt",
+          "url": "/wiki/Gerd_von_Rundstedt",
+          "length": 140978
+        }
+      ]
+    },
+    {
+      "year": "1967",
+      "description": "Mir Osman Ali Khan, Last Nizam of Hyderabad State, died.",
+      "html": "<li>\n<a href=\"/wiki/1967\" title=\"1967\">1967</a> – <a href=\"/wiki/Mir_Osman_Ali_Khan\" title=\"Mir Osman Ali Khan\">Mir Osman Ali Khan</a>, Last <a href=\"/wiki/Nizam\" class=\"mw-redirect\" title=\"Nizam\">Nizam</a> of <a href=\"/wiki/Hyderabad_State\" title=\"Hyderabad State\">Hyderabad State</a> (b. 1886)<sup id=\"cite_ref-129\" class=\"reference\"><a href=\"#cite_note-129\"><span class=\"cite-bracket\">[</span>129<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mir Osman Ali Khan",
+          "url": "/wiki/Mir_Osman_Ali_Khan",
+          "length": 103539
+        },
+        {
+          "name": "Nizam",
+          "url": "/wiki/Nizam",
+          "length": 32
+        },
+        {
+          "name": "Hyderabad State",
+          "url": "/wiki/Hyderabad_State",
+          "length": 50192
+        }
+      ]
+    }
+  ]
+}

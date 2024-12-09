@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "2018",
+      "description": "A bus catches fire on the Samara–Shymkent road in Yrgyz District, Aktobe, Kazakhstan. The fire kills 52 passengers, with three passengers and two drivers escaping.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – A bus catches fire on the <a href=\"/wiki/Samara\" title=\"Samara\">Samara</a>–<a href=\"/wiki/Shymkent\" title=\"Shymkent\">Shymkent</a> road in <a href=\"/wiki/Yrgyz_District\" title=\"Yrgyz District\">Yrgyz District</a>, <a href=\"/wiki/Aktobe_Region\" title=\"Aktobe Region\">Aktobe</a>, <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a>.<sup id=\"cite_ref-bbc1_13-0\" class=\"reference\"><a href=\"#cite_note-bbc1-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup> The fire kills 52 passengers, with three passengers and two drivers escaping.<sup id=\"cite_ref-RFERL1_14-0\" class=\"reference\"><a href=\"#cite_note-RFERL1-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-cnn_15-0\" class=\"reference\"><a href=\"#cite_note-cnn-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-metro1_16-0\" class=\"reference\"><a href=\"#cite_note-metro1-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Samara",
+          "url": "/wiki/Samara",
+          "length": 58323
+        },
+        {
+          "name": "Shymkent",
+          "url": "/wiki/Shymkent",
+          "length": 35285
+        },
+        {
+          "name": "Yrgyz District",
+          "url": "/wiki/Yrgyz_District",
+          "length": 3847
+        },
+        {
+          "name": "Aktobe Region",
+          "url": "/wiki/Aktobe_Region",
+          "length": 27004
+        },
+        {
+          "name": "Kazakhstan",
+          "url": "/wiki/Kazakhstan",
+          "length": 243241
+        }
+      ]
+    },
+    {
+      "year": "1486",
+      "description": "King Henry VII of England marries Elizabeth of York, daughter of Edward IV, uniting the House of Lancaster and the House of York.",
+      "html": "<li>\n<a href=\"/wiki/1486\" title=\"1486\">1486</a> – King <a href=\"/wiki/Henry_VII_of_England\" title=\"Henry VII of England\">Henry VII of England</a> marries <a href=\"/wiki/Elizabeth_of_York\" title=\"Elizabeth of York\">Elizabeth of York</a>, daughter of <a href=\"/wiki/Edward_IV_of_England\" class=\"mw-redirect\" title=\"Edward IV of England\">Edward IV</a>, uniting the <a href=\"/wiki/House_of_Lancaster\" title=\"House of Lancaster\">House of Lancaster</a> and the <a href=\"/wiki/House_of_York\" title=\"House of York\">House of York</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Henry VII of England",
+          "url": "/wiki/Henry_VII_of_England",
+          "length": 59134
+        },
+        {
+          "name": "Elizabeth of York",
+          "url": "/wiki/Elizabeth_of_York",
+          "length": 44200
+        },
+        {
+          "name": "Edward IV of England",
+          "url": "/wiki/Edward_IV_of_England",
+          "length": 70
+        },
+        {
+          "name": "House of Lancaster",
+          "url": "/wiki/House_of_Lancaster",
+          "length": 63945
+        },
+        {
+          "name": "House of York",
+          "url": "/wiki/House_of_York",
+          "length": 25299
+        }
+      ]
+    },
+    {
+      "year": "1913",
+      "description": "First Balkan War: A Greek flotilla defeats the Ottoman Navy in the Naval Battle of Lemnos, securing the islands of the Northern Aegean Sea for Greece.",
+      "html": "<li>\n<a href=\"/wiki/1913\" title=\"1913\">1913</a> – <a href=\"/wiki/First_Balkan_War\" title=\"First Balkan War\">First Balkan War</a>: A <a href=\"/wiki/Hellenic_Navy\" title=\"Hellenic Navy\">Greek</a> flotilla defeats the <a href=\"/wiki/Ottoman_Navy\" title=\"Ottoman Navy\">Ottoman Navy</a> in the <a href=\"/wiki/Battle_of_Lemnos_(1913)\" title=\"Battle of Lemnos (1913)\">Naval Battle of Lemnos</a>, securing the islands of the Northern <a href=\"/wiki/Aegean_Sea\" title=\"Aegean Sea\">Aegean Sea</a> for Greece.</li>",
+      "entities": [
+        {
+          "name": "First Balkan War",
+          "url": "/wiki/First_Balkan_War",
+          "length": 119952
+        },
+        {
+          "name": "Hellenic Navy",
+          "url": "/wiki/Hellenic_Navy",
+          "length": 70143
+        },
+        {
+          "name": "Ottoman Navy",
+          "url": "/wiki/Ottoman_Navy",
+          "length": 60016
+        },
+        {
+          "name": "Battle of Lemnos (1913)",
+          "url": "/wiki/Battle_of_Lemnos_(1913)",
+          "length": 9555
+        },
+        {
+          "name": "Aegean Sea",
+          "url": "/wiki/Aegean_Sea",
+          "length": 52127
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "An Aerovías Sud Aviation Caravelle crashes on approach to Mundo Maya International Airport in Flores, Petén, Guatemala, killing all 94 people on board.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – An <a href=\"/wiki/Aerov%C3%ADas\" title=\"Aerovías\">Aerovías</a> <a href=\"/wiki/Sud_Aviation_Caravelle\" title=\"Sud Aviation Caravelle\">Sud Aviation Caravelle</a> <a href=\"/wiki/1986_Aerov%C3%ADas_Guatemala_air_crash\" title=\"1986 Aerovías Guatemala air crash\">crashes</a> on approach to <a href=\"/wiki/Mundo_Maya_International_Airport\" title=\"Mundo Maya International Airport\">Mundo Maya International Airport</a> in <a href=\"/wiki/Flores,_Pet%C3%A9n\" title=\"Flores, Petén\">Flores, Petén</a>, Guatemala, killing all 94 people on board.<sup id=\"cite_ref-ASN_10-0\" class=\"reference\"><a href=\"#cite_note-ASN-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Aerovías",
+          "url": "/wiki/Aerov%C3%ADas",
+          "length": 4006
+        },
+        {
+          "name": "Sud Aviation Caravelle",
+          "url": "/wiki/Sud_Aviation_Caravelle",
+          "length": 62882
+        },
+        {
+          "name": "1986 Aerovías Guatemala air crash",
+          "url": "/wiki/1986_Aerov%C3%ADas_Guatemala_air_crash",
+          "length": 5321
+        },
+        {
+          "name": "Mundo Maya International Airport",
+          "url": "/wiki/Mundo_Maya_International_Airport",
+          "length": 7630
+        },
+        {
+          "name": "Flores, Petén",
+          "url": "/wiki/Flores,_Pet%C3%A9n",
+          "length": 14203
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "description": "A Disengagement of Forces agreement is signed between the Israeli and Egyptian governments, ending conflict on the Egyptian front of the Yom Kippur War.",
+      "html": "<li>\n<a href=\"/wiki/1974\" title=\"1974\">1974</a> – <a href=\"https://en.wikisource.org/wiki/Israel-Egypt_Disengagement_Treaty_of_1974\" class=\"extiw\" title=\"s:Israel-Egypt Disengagement Treaty of 1974\">A Disengagement of Forces agreement</a> is signed between the <a href=\"/wiki/Israel\" title=\"Israel\">Israeli</a> and <a href=\"/wiki/Egypt\" title=\"Egypt\">Egyptian</a> governments, ending conflict on the Egyptian front of the <a href=\"/wiki/Yom_Kippur_War\" title=\"Yom Kippur War\">Yom Kippur War</a>.</li>",
+      "entities": [
+        {
+          "name": "s:Israel-Egypt Disengagement Treaty of 1974",
+          "url": "https://en.wikisource.org/wiki/Israel-Egypt_Disengagement_Treaty_of_1974",
+          "length": null
+        },
+        {
+          "name": "Israel",
+          "url": "/wiki/Israel",
+          "length": 408355
+        },
+        {
+          "name": "Egypt",
+          "url": "/wiki/Egypt",
+          "length": 242142
+        },
+        {
+          "name": "Yom Kippur War",
+          "url": "/wiki/Yom_Kippur_War",
+          "length": 260607
+        }
+      ]
+    },
+    {
+      "year": "1958",
+      "description": "Willie O'Ree, the first Black Canadian National Hockey League player, makes his NHL debut with the Boston Bruins.",
+      "html": "<li>\n<a href=\"/wiki/1958\" title=\"1958\">1958</a> – <a href=\"/wiki/Willie_O%27Ree\" title=\"Willie O'Ree\">Willie O'Ree</a>, the first <a href=\"/wiki/Black_Canadian\" class=\"mw-redirect\" title=\"Black Canadian\">Black Canadian</a> <a href=\"/wiki/National_Hockey_League\" title=\"National Hockey League\">National Hockey League</a> player, makes his NHL debut with the <a href=\"/wiki/Boston_Bruins\" title=\"Boston Bruins\">Boston Bruins</a>.</li>",
+      "entities": [
+        {
+          "name": "Willie O'Ree",
+          "url": "/wiki/Willie_O%27Ree",
+          "length": 43174
+        },
+        {
+          "name": "Black Canadian",
+          "url": "/wiki/Black_Canadian",
+          "length": 92
+        },
+        {
+          "name": "National Hockey League",
+          "url": "/wiki/National_Hockey_League",
+          "length": 150953
+        },
+        {
+          "name": "Boston Bruins",
+          "url": "/wiki/Boston_Bruins",
+          "length": 128069
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Angelique Kerber, German tennis player, was born.",
+      "html": "<li>1988   – <a href=\"/wiki/Angelique_Kerber\" title=\"Angelique Kerber\">Angelique Kerber</a>, German tennis player</li>",
+      "entities": [
+        {
+          "name": "Angelique Kerber",
+          "url": "/wiki/Angelique_Kerber",
+          "length": 168463
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "Rudyard Kipling, English author and poet, Nobel Prize laureate, died.",
+      "html": "<li>1936   – <a href=\"/wiki/Rudyard_Kipling\" title=\"Rudyard Kipling\">Rudyard Kipling</a>, English author and poet, <a href=\"/wiki/Nobel_Prize_in_Literature\" title=\"Nobel Prize in Literature\">Nobel Prize</a> laureate (b. 1865)</li>",
+      "entities": [
+        {
+          "name": "Rudyard Kipling",
+          "url": "/wiki/Rudyard_Kipling",
+          "length": 132797
+        },
+        {
+          "name": "Nobel Prize in Literature",
+          "url": "/wiki/Nobel_Prize_in_Literature",
+          "length": 78775
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1971",
+      "description": "Pep Guardiola, Spanish footballer and manager, was born.",
+      "html": "<li>1971   – <a href=\"/wiki/Pep_Guardiola\" title=\"Pep Guardiola\">Pep Guardiola</a>, Spanish footballer and manager</li>",
+      "entities": [
+        {
+          "name": "Pep Guardiola",
+          "url": "/wiki/Pep_Guardiola",
+          "length": 204469
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Johan Djourou, Swiss footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1987\" title=\"1987\">1987</a> – <a href=\"/wiki/Johan_Djourou\" title=\"Johan Djourou\">Johan Djourou</a>, Swiss footballer</li>",
+      "entities": [
+        {
+          "name": "Johan Djourou",
+          "url": "/wiki/Johan_Djourou",
+          "length": 177060
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Angelique Kerber, German tennis player, was born.",
+      "html": "<li>1988   – <a href=\"/wiki/Angelique_Kerber\" title=\"Angelique Kerber\">Angelique Kerber</a>, German tennis player</li>",
+      "entities": [
+        {
+          "name": "Angelique Kerber",
+          "url": "/wiki/Angelique_Kerber",
+          "length": 168463
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1862",
+      "description": "John Tyler, American soldier, lawyer, and politician, 10th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/John_Tyler\" title=\"John Tyler\">John Tyler</a>, American soldier, lawyer, and politician, 10th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1790)</li>",
+      "entities": [
+        {
+          "name": "John Tyler",
+          "url": "/wiki/John_Tyler",
+          "length": 147404
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "Rudyard Kipling, English author and poet, Nobel Prize laureate, died.",
+      "html": "<li>1936   – <a href=\"/wiki/Rudyard_Kipling\" title=\"Rudyard Kipling\">Rudyard Kipling</a>, English author and poet, <a href=\"/wiki/Nobel_Prize_in_Literature\" title=\"Nobel Prize in Literature\">Nobel Prize</a> laureate (b. 1865)</li>",
+      "entities": [
+        {
+          "name": "Rudyard Kipling",
+          "url": "/wiki/Rudyard_Kipling",
+          "length": 132797
+        },
+        {
+          "name": "Nobel Prize in Literature",
+          "url": "/wiki/Nobel_Prize_in_Literature",
+          "length": 78775
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "David Crosby, American singer-songwriter, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a>   – <a href=\"/wiki/David_Crosby\" title=\"David Crosby\">David Crosby</a>, American singer-songwriter (b. 1941)<sup id=\"cite_ref-69\" class=\"reference\"><a href=\"#cite_note-69\"><span class=\"cite-bracket\">[</span>69<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "David Crosby",
+          "url": "/wiki/David_Crosby",
+          "length": 108248
+        }
+      ]
+    }
+  ]
+}

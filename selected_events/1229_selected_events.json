@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "1778",
+      "description": "American Revolutionary War: British forces under the command of Lieutenant Colonel Archibald Campbell defeat American forces under Major General Robert Howe and capture the port city of Savannah, Georgia.",
+      "html": "<li>\n<a href=\"/wiki/1778\" title=\"1778\">1778</a> – <a href=\"/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: British forces under the command of <a href=\"/wiki/Lieutenant_colonel_(United_Kingdom)\" title=\"Lieutenant colonel (United Kingdom)\">Lieutenant Colonel</a> <a href=\"/wiki/Archibald_Campbell_(British_Army_officer,_born_1739)\" title=\"Archibald Campbell (British Army officer, born 1739)\">Archibald Campbell</a> defeat American forces under <a href=\"/wiki/Major_general_(United_States)\" title=\"Major general (United States)\">Major General</a> <a href=\"/wiki/Robert_Howe_(Continental_Army_officer)\" title=\"Robert Howe (Continental Army officer)\">Robert Howe</a> and <a href=\"/wiki/Capture_of_Savannah\" title=\"Capture of Savannah\">capture</a> the port city of <a href=\"/wiki/Savannah,_Georgia\" title=\"Savannah, Georgia\">Savannah, Georgia</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 285486
+        },
+        {
+          "name": "Lieutenant colonel (United Kingdom)",
+          "url": "/wiki/Lieutenant_colonel_(United_Kingdom)",
+          "length": 3831
+        },
+        {
+          "name": "Archibald Campbell (British Army officer, born 1739)",
+          "url": "/wiki/Archibald_Campbell_(British_Army_officer,_born_1739)",
+          "length": 18975
+        },
+        {
+          "name": "Major general (United States)",
+          "url": "/wiki/Major_general_(United_States)",
+          "length": 14664
+        },
+        {
+          "name": "Robert Howe (Continental Army officer)",
+          "url": "/wiki/Robert_Howe_(Continental_Army_officer)",
+          "length": 56967
+        },
+        {
+          "name": "Capture of Savannah",
+          "url": "/wiki/Capture_of_Savannah",
+          "length": 20072
+        },
+        {
+          "name": "Savannah, Georgia",
+          "url": "/wiki/Savannah,_Georgia",
+          "length": 113747
+        }
+      ]
+    },
+    {
+      "year": "1170",
+      "description": "Thomas Becket, Archbishop of Canterbury, is assassinated inside Canterbury Cathedral by followers of King Henry II; he subsequently becomes a saint and martyr in the Anglican Communion and the Catholic Church.",
+      "html": "<li>\n<a href=\"/wiki/1170\" title=\"1170\">1170</a> – <a href=\"/wiki/Thomas_Becket\" title=\"Thomas Becket\">Thomas Becket</a>, <a href=\"/wiki/Archbishop_of_Canterbury\" title=\"Archbishop of Canterbury\">Archbishop of Canterbury</a>, is assassinated inside <a href=\"/wiki/Canterbury_Cathedral\" title=\"Canterbury Cathedral\">Canterbury Cathedral</a> by followers of <a href=\"/wiki/Henry_II_of_England\" title=\"Henry II of England\">King Henry II</a>; he subsequently becomes a saint and martyr in the <a href=\"/wiki/Anglican_Communion\" title=\"Anglican Communion\">Anglican Communion</a> and the <a href=\"/wiki/Catholic_Church\" title=\"Catholic Church\">Catholic Church</a>.<sup id=\"cite_ref-beck_1-0\" class=\"reference\"><a href=\"#cite_note-beck-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Thomas Becket",
+          "url": "/wiki/Thomas_Becket",
+          "length": 47691
+        },
+        {
+          "name": "Archbishop of Canterbury",
+          "url": "/wiki/Archbishop_of_Canterbury",
+          "length": 29626
+        },
+        {
+          "name": "Canterbury Cathedral",
+          "url": "/wiki/Canterbury_Cathedral",
+          "length": 90583
+        },
+        {
+          "name": "Henry II of England",
+          "url": "/wiki/Henry_II_of_England",
+          "length": 149351
+        },
+        {
+          "name": "Anglican Communion",
+          "url": "/wiki/Anglican_Communion",
+          "length": 85789
+        },
+        {
+          "name": "Catholic Church",
+          "url": "/wiki/Catholic_Church",
+          "length": 250235
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: The Battle of Chickasaw Bayou ends in a Union defeat as forces under General William T. Sherman are repulsed with heavy losses by Confederate troops under General John C. Pemberton.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/Battle_of_Chickasaw_Bayou\" title=\"Battle of Chickasaw Bayou\">Battle of Chickasaw Bayou</a> ends in a <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> defeat as forces under General <a href=\"/wiki/William_Tecumseh_Sherman\" title=\"William Tecumseh Sherman\">William T. Sherman</a> are repulsed with heavy losses by <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> troops under General <a href=\"/wiki/John_C._Pemberton\" title=\"John C. Pemberton\">John C. Pemberton</a>.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Battle of Chickasaw Bayou",
+          "url": "/wiki/Battle_of_Chickasaw_Bayou",
+          "length": 17681
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "William Tecumseh Sherman",
+          "url": "/wiki/William_Tecumseh_Sherman",
+          "length": 145883
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "John C. Pemberton",
+          "url": "/wiki/John_C._Pemberton",
+          "length": 25103
+        }
+      ]
+    },
+    {
+      "year": "1874",
+      "description": "The military coup of Gen. Martinez Campos in Sagunto ends the failed First Spanish Republic and the monarchy is restored as Prince Alfonso is proclaimed King of Spain.",
+      "html": "<li>\n<a href=\"/wiki/1874\" title=\"1874\">1874</a> – The military coup of <a href=\"/wiki/Arsenio_Mart%C3%ADnez-Campos_y_Ant%C3%B3n\" class=\"mw-redirect\" title=\"Arsenio Martínez-Campos y Antón\">Gen. Martinez Campos</a> in <a href=\"/wiki/Sagunto\" title=\"Sagunto\">Sagunto</a> ends the failed <a href=\"/wiki/First_Spanish_Republic\" title=\"First Spanish Republic\">First Spanish Republic</a> and the <a href=\"/wiki/Restoration_(Spain)\" title=\"Restoration (Spain)\">monarchy is restored</a> as <a href=\"/wiki/Alfonso_XII_of_Spain\" class=\"mw-redirect\" title=\"Alfonso XII of Spain\">Prince Alfonso</a> is proclaimed King of <a href=\"/wiki/Spain\" title=\"Spain\">Spain</a>.<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Arsenio Martínez-Campos y Antón",
+          "url": "/wiki/Arsenio_Mart%C3%ADnez-Campos_y_Ant%C3%B3n",
+          "length": 55
+        },
+        {
+          "name": "Sagunto",
+          "url": "/wiki/Sagunto",
+          "length": 12902
+        },
+        {
+          "name": "First Spanish Republic",
+          "url": "/wiki/First_Spanish_Republic",
+          "length": 43829
+        },
+        {
+          "name": "Restoration (Spain)",
+          "url": "/wiki/Restoration_(Spain)",
+          "length": 19579
+        },
+        {
+          "name": "Alfonso XII of Spain",
+          "url": "/wiki/Alfonso_XII_of_Spain",
+          "length": 72
+        },
+        {
+          "name": "Spain",
+          "url": "/wiki/Spain",
+          "length": 250566
+        }
+      ]
+    },
+    {
+      "year": "1607",
+      "description": "According to John Smith, Pocahontas, daughter of Powhatan leader Wahunsenacawh, successfully pleads for his life after tribal leaders attempt to execute him.",
+      "html": "<li>\n<a href=\"/wiki/1607\" title=\"1607\">1607</a> – According to <a href=\"/wiki/John_Smith_(explorer)\" title=\"John Smith (explorer)\">John Smith</a>, <a href=\"/wiki/Pocahontas\" title=\"Pocahontas\">Pocahontas</a>, daughter of <a href=\"/wiki/Powhatan\" title=\"Powhatan\">Powhatan</a> leader <a href=\"/wiki/Powhatan_(Native_American_leader)\" title=\"Powhatan (Native American leader)\">Wahunsenacawh</a>, successfully pleads for his life after tribal leaders attempt to execute him.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John Smith (explorer)",
+          "url": "/wiki/John_Smith_(explorer)",
+          "length": 65208
+        },
+        {
+          "name": "Pocahontas",
+          "url": "/wiki/Pocahontas",
+          "length": 64362
+        },
+        {
+          "name": "Powhatan",
+          "url": "/wiki/Powhatan",
+          "length": 77161
+        },
+        {
+          "name": "Powhatan (Native American leader)",
+          "url": "/wiki/Powhatan_(Native_American_leader)",
+          "length": 20730
+        }
+      ]
+    },
+    {
+      "year": "1812",
+      "description": "USS Constitution, under the command of Captain William Bainbridge, captures HMS Java off the coast of Brazil after a three-hour battle.",
+      "html": "<li>\n<a href=\"/wiki/1812\" title=\"1812\">1812</a> – <a href=\"/wiki/USS_Constitution\" title=\"USS Constitution\">USS <i>Constitution</i></a>, under the command of <a href=\"/wiki/Captain_(United_States_O-6)\" title=\"Captain (United States O-6)\">Captain</a> <a href=\"/wiki/William_Bainbridge\" title=\"William Bainbridge\">William Bainbridge</a>, captures <a href=\"/wiki/HMS_Java_(1811)\" title=\"HMS Java (1811)\">HMS <i>Java</i></a> off the coast of Brazil after a three-hour battle.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "USS Constitution",
+          "url": "/wiki/USS_Constitution",
+          "length": 139889
+        },
+        {
+          "name": "Captain (United States O-6)",
+          "url": "/wiki/Captain_(United_States_O-6)",
+          "length": 13061
+        },
+        {
+          "name": "William Bainbridge",
+          "url": "/wiki/William_Bainbridge",
+          "length": 28773
+        },
+        {
+          "name": "HMS Java (1811)",
+          "url": "/wiki/HMS_Java_(1811)",
+          "length": 15415
+        }
+      ]
+    },
+    {
+      "year": "1809",
+      "description": "William Ewart Gladstone, English lawyer and politician, Prime Minister of the United Kingdom, was born.",
+      "html": "<li>1809 – <a href=\"/wiki/William_Ewart_Gladstone\" title=\"William Ewart Gladstone\">William Ewart Gladstone</a>, English lawyer and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (d. 1898)<sup id=\"cite_ref-47\" class=\"reference\"><a href=\"#cite_note-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "William Ewart Gladstone",
+          "url": "/wiki/William_Ewart_Gladstone",
+          "length": 193138
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "description": "Vivienne Westwood, English fashion designer, died.",
+      "html": "<li>2022 – <a href=\"/wiki/Vivienne_Westwood\" title=\"Vivienne Westwood\">Vivienne Westwood</a>, English fashion designer (b. 1941)<sup id=\"cite_ref-318\" class=\"reference\"><a href=\"#cite_note-318\"><span class=\"cite-bracket\">[</span>318<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Vivienne Westwood",
+          "url": "/wiki/Vivienne_Westwood",
+          "length": 80622
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1809",
+      "description": "William Ewart Gladstone, English lawyer and politician, Prime Minister of the United Kingdom, was born.",
+      "html": "<li>1809 – <a href=\"/wiki/William_Ewart_Gladstone\" title=\"William Ewart Gladstone\">William Ewart Gladstone</a>, English lawyer and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (d. 1898)<sup id=\"cite_ref-47\" class=\"reference\"><a href=\"#cite_note-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "William Ewart Gladstone",
+          "url": "/wiki/William_Ewart_Gladstone",
+          "length": 193138
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Christen Press, American footballer, was born.",
+      "html": "<li>1988 – <a href=\"/wiki/Christen_Press\" title=\"Christen Press\">Christen Press</a>, American footballer<sup id=\"cite_ref-178\" class=\"reference\"><a href=\"#cite_note-178\"><span class=\"cite-bracket\">[</span>178<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Christen Press",
+          "url": "/wiki/Christen_Press",
+          "length": 158531
+        }
+      ]
+    },
+    {
+      "year": "1808",
+      "description": "Andrew Johnson, American general and politician, 17th President of the United States, was born.",
+      "html": "<li>\n<a href=\"/wiki/1808\" title=\"1808\">1808</a> – <a href=\"/wiki/Andrew_Johnson\" title=\"Andrew Johnson\">Andrew Johnson</a>, American general and politician, 17th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (d. 1875)<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Andrew Johnson",
+          "url": "/wiki/Andrew_Johnson",
+          "length": 131719
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2022",
+      "description": "Pelé, Brazilian footballer, died.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – <a href=\"/wiki/Pel%C3%A9\" title=\"Pelé\">Pelé</a>, Brazilian footballer (b. 1940)<sup id=\"cite_ref-316\" class=\"reference\"><a href=\"#cite_note-316\"><span class=\"cite-bracket\">[</span>316<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pelé",
+          "url": "/wiki/Pel%C3%A9",
+          "length": 270675
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Harold Macmillan, English captain and politician, Prime Minister of the United Kingdom, died.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Harold_Macmillan\" title=\"Harold Macmillan\">Harold Macmillan</a>, English captain and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (b. 1894)<sup id=\"cite_ref-262\" class=\"reference\"><a href=\"#cite_note-262\"><span class=\"cite-bracket\">[</span>262<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Harold Macmillan",
+          "url": "/wiki/Harold_Macmillan",
+          "length": 173013
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "description": "Vivienne Westwood, English fashion designer, died.",
+      "html": "<li>2022 – <a href=\"/wiki/Vivienne_Westwood\" title=\"Vivienne Westwood\">Vivienne Westwood</a>, English fashion designer (b. 1941)<sup id=\"cite_ref-318\" class=\"reference\"><a href=\"#cite_note-318\"><span class=\"cite-bracket\">[</span>318<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Vivienne Westwood",
+          "url": "/wiki/Vivienne_Westwood",
+          "length": 80622
+        }
+      ]
+    }
+  ]
+}

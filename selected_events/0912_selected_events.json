@@ -1,0 +1,321 @@
+{
+  "events": [
+    {
+      "year": "1992",
+      "description": "NASA launches Space Shuttle Endeavour on STS-47 which marked the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spaceship, and Mark Lee and Jan Davis, the first married couple in space.",
+      "html": "<li>\n<a href=\"/wiki/1992\" title=\"1992\">1992</a> – <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a> launches <a href=\"/wiki/Space_Shuttle_Endeavour\" title=\"Space Shuttle Endeavour\">Space Shuttle <i>Endeavour</i></a> on <a href=\"/wiki/STS-47\" title=\"STS-47\">STS-47</a> which marked the 50th shuttle mission. On board are <a href=\"/wiki/Mae_Jemison\" title=\"Mae Jemison\">Mae Carol Jemison</a>, the first <a href=\"/wiki/African-American\" class=\"mw-redirect\" title=\"African-American\">African-American</a> woman in space, <a href=\"/wiki/Mamoru_Mohri\" title=\"Mamoru Mohri\">Mamoru Mohri</a>, the first Japanese citizen to fly in a US spaceship, and <a href=\"/wiki/Mark_C._Lee\" title=\"Mark C. Lee\">Mark Lee</a> and <a href=\"/wiki/Jan_Davis\" title=\"Jan Davis\">Jan Davis</a>, the first married couple in space.</li>",
+      "entities": [
+        {
+          "name": "NASA",
+          "url": "/wiki/NASA",
+          "length": 228390
+        },
+        {
+          "name": "Space Shuttle Endeavour",
+          "url": "/wiki/Space_Shuttle_Endeavour",
+          "length": 62618
+        },
+        {
+          "name": "STS-47",
+          "url": "/wiki/STS-47",
+          "length": 23000
+        },
+        {
+          "name": "Mae Jemison",
+          "url": "/wiki/Mae_Jemison",
+          "length": 73985
+        },
+        {
+          "name": "African-American",
+          "url": "/wiki/African-American",
+          "length": 82
+        },
+        {
+          "name": "Mamoru Mohri",
+          "url": "/wiki/Mamoru_Mohri",
+          "length": 4253
+        },
+        {
+          "name": "Mark C. Lee",
+          "url": "/wiki/Mark_C._Lee",
+          "length": 10613
+        },
+        {
+          "name": "Jan Davis",
+          "url": "/wiki/Jan_Davis",
+          "length": 14995
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "description": "Emperor Haile Selassie of Ethiopia, 'Messiah' of the Rastafari movement, is deposed following a military coup by the Derg, ending a reign of 58 years.",
+      "html": "<li>\n<a href=\"/wiki/1974\" title=\"1974\">1974</a> – Emperor <a href=\"/wiki/Haile_Selassie\" title=\"Haile Selassie\">Haile Selassie</a> of <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a>, '<a href=\"/wiki/Messiah\" title=\"Messiah\">Messiah</a>' of the <a href=\"/wiki/Rastafari\" title=\"Rastafari\">Rastafari</a> movement, is deposed following a <a href=\"/wiki/Coup_d%27%C3%A9tat\" title=\"Coup d'état\">military coup</a> by the <a href=\"/wiki/Derg\" title=\"Derg\">Derg</a>, ending a reign of 58 years.</li>",
+      "entities": [
+        {
+          "name": "Haile Selassie",
+          "url": "/wiki/Haile_Selassie",
+          "length": 223259
+        },
+        {
+          "name": "Ethiopia",
+          "url": "/wiki/Ethiopia",
+          "length": 231706
+        },
+        {
+          "name": "Messiah",
+          "url": "/wiki/Messiah",
+          "length": 55613
+        },
+        {
+          "name": "Rastafari",
+          "url": "/wiki/Rastafari",
+          "length": 144003
+        },
+        {
+          "name": "Coup d'état",
+          "url": "/wiki/Coup_d%27%C3%A9tat",
+          "length": 82976
+        },
+        {
+          "name": "Derg",
+          "url": "/wiki/Derg",
+          "length": 43648
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "World War II: First day of the Battle of Edson's Ridge during the Guadalcanal Campaign. U.S. Marines protecting Henderson Field are attacked by Imperial Japanese Army troops.",
+      "html": "<li>1942   – World War II: First day of the <a href=\"/wiki/Battle_of_Edson%27s_Ridge\" title=\"Battle of Edson's Ridge\">Battle of Edson's Ridge</a> during the <a href=\"/wiki/Guadalcanal_campaign\" title=\"Guadalcanal campaign\">Guadalcanal Campaign</a>. <a href=\"/wiki/United_States_Marine_Corps\" title=\"United States Marine Corps\">U.S. Marines</a> protecting <a href=\"/wiki/Henderson_Field_(Guadalcanal)\" title=\"Henderson Field (Guadalcanal)\">Henderson Field</a> are attacked by <a href=\"/wiki/Imperial_Japanese_Army\" title=\"Imperial Japanese Army\">Imperial Japanese Army</a> troops.</li>",
+      "entities": [
+        {
+          "name": "Battle of Edson's Ridge",
+          "url": "/wiki/Battle_of_Edson%27s_Ridge",
+          "length": 66527
+        },
+        {
+          "name": "Guadalcanal campaign",
+          "url": "/wiki/Guadalcanal_campaign",
+          "length": 163677
+        },
+        {
+          "name": "United States Marine Corps",
+          "url": "/wiki/United_States_Marine_Corps",
+          "length": 185829
+        },
+        {
+          "name": "Henderson Field (Guadalcanal)",
+          "url": "/wiki/Henderson_Field_(Guadalcanal)",
+          "length": 20546
+        },
+        {
+          "name": "Imperial Japanese Army",
+          "url": "/wiki/Imperial_Japanese_Army",
+          "length": 69918
+        }
+      ]
+    },
+    {
+      "year": "490 BC",
+      "description": "Battle of Marathon: The conventionally accepted date for the Battle of Marathon. The Athenians and their Plataean allies defeat the first Persian invasion force of Greece.",
+      "html": "<li>\n<a href=\"/wiki/490_BC\" title=\"490 BC\">490 BC</a> – <a href=\"/wiki/Battle_of_Marathon\" title=\"Battle of Marathon\">Battle of Marathon</a>: The conventionally accepted date for the Battle of Marathon. The <a href=\"/wiki/Classical_Athens\" title=\"Classical Athens\">Athenians</a> and their <a href=\"/wiki/Plataea\" title=\"Plataea\">Plataean</a> allies defeat the <a href=\"/wiki/First_Persian_invasion_of_Greece\" title=\"First Persian invasion of Greece\">first Persian invasion force of Greece</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "490 BC",
+          "url": "/wiki/490_BC",
+          "length": 4505
+        },
+        {
+          "name": "Battle of Marathon",
+          "url": "/wiki/Battle_of_Marathon",
+          "length": 76721
+        },
+        {
+          "name": "Classical Athens",
+          "url": "/wiki/Classical_Athens",
+          "length": 28280
+        },
+        {
+          "name": "Plataea",
+          "url": "/wiki/Plataea",
+          "length": 19631
+        },
+        {
+          "name": "First Persian invasion of Greece",
+          "url": "/wiki/First_Persian_invasion_of_Greece",
+          "length": 52397
+        }
+      ]
+    },
+    {
+      "year": "1933",
+      "description": "Leó Szilárd, waiting for a red light on Southampton Row in Bloomsbury, conceives the idea of the nuclear chain reaction.",
+      "html": "<li>\n<a href=\"/wiki/1933\" title=\"1933\">1933</a> – <a href=\"/wiki/Le%C3%B3_Szil%C3%A1rd\" class=\"mw-redirect\" title=\"Leó Szilárd\">Leó Szilárd</a>, waiting for a red light on <a href=\"/wiki/Southampton_Row\" class=\"mw-redirect\" title=\"Southampton Row\">Southampton Row</a> in <a href=\"/wiki/Bloomsbury\" title=\"Bloomsbury\">Bloomsbury</a>, conceives the idea of the <a href=\"/wiki/Nuclear_chain_reaction\" title=\"Nuclear chain reaction\">nuclear chain reaction</a>.</li>",
+      "entities": [
+        {
+          "name": "Leó Szilárd",
+          "url": "/wiki/Le%C3%B3_Szil%C3%A1rd",
+          "length": 41
+        },
+        {
+          "name": "Southampton Row",
+          "url": "/wiki/Southampton_Row",
+          "length": 162
+        },
+        {
+          "name": "Bloomsbury",
+          "url": "/wiki/Bloomsbury",
+          "length": 55930
+        },
+        {
+          "name": "Nuclear chain reaction",
+          "url": "/wiki/Nuclear_chain_reaction",
+          "length": 35619
+        }
+      ]
+    },
+    {
+      "year": "1309",
+      "description": "The First siege of Gibraltar takes place in the context of the Spanish Reconquista pitting the forces of the Kingdom of Castile against the Emirate of Granada resulting in a Castilian victory.",
+      "html": "<li>\n<a href=\"/wiki/1309\" title=\"1309\">1309</a> – The <a href=\"/wiki/First_siege_of_Gibraltar\" title=\"First siege of Gibraltar\">First siege of Gibraltar</a> takes place in the context of the Spanish <a href=\"/wiki/Reconquista\" title=\"Reconquista\">Reconquista</a> pitting the forces of the <a href=\"/wiki/Kingdom_of_Castile\" title=\"Kingdom of Castile\">Kingdom of Castile</a> against the <a href=\"/wiki/Emirate_of_Granada\" title=\"Emirate of Granada\">Emirate of Granada</a> resulting in a Castilian victory.</li>",
+      "entities": [
+        {
+          "name": "First siege of Gibraltar",
+          "url": "/wiki/First_siege_of_Gibraltar",
+          "length": 26180
+        },
+        {
+          "name": "Reconquista",
+          "url": "/wiki/Reconquista",
+          "length": 136546
+        },
+        {
+          "name": "Kingdom of Castile",
+          "url": "/wiki/Kingdom_of_Castile",
+          "length": 25580
+        },
+        {
+          "name": "Emirate of Granada",
+          "url": "/wiki/Emirate_of_Granada",
+          "length": 96426
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Bertie Ahern, Irish accountant and politician, 11th Taoiseach of Ireland, was born.",
+      "html": "<li>\n<a href=\"/wiki/1951\" title=\"1951\">1951</a> – <a href=\"/wiki/Bertie_Ahern\" title=\"Bertie Ahern\">Bertie Ahern</a>, Irish accountant and politician, 11th <a href=\"/wiki/Taoiseach\" title=\"Taoiseach\">Taoiseach of Ireland</a>\n</li>",
+      "entities": [
+        {
+          "name": "Bertie Ahern",
+          "url": "/wiki/Bertie_Ahern",
+          "length": 156132
+        },
+        {
+          "name": "Taoiseach",
+          "url": "/wiki/Taoiseach",
+          "length": 63341
+        }
+      ]
+    },
+    {
+      "year": "1992",
+      "description": "Anthony Perkins, American actor, singer, and director, died.",
+      "html": "<li>1992   – <a href=\"/wiki/Anthony_Perkins\" title=\"Anthony Perkins\">Anthony Perkins</a>, American actor, singer, and director (b. 1932)</li>",
+      "entities": [
+        {
+          "name": "Anthony Perkins",
+          "url": "/wiki/Anthony_Perkins",
+          "length": 176351
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1852",
+      "description": "H. H. Asquith, English lawyer and politician, Prime Minister of the United Kingdom, was born.",
+      "html": "<li>\n<a href=\"/wiki/1852\" title=\"1852\">1852</a> – <a href=\"/wiki/H._H._Asquith\" title=\"H. H. Asquith\">H. H. Asquith</a>, English lawyer and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (d. 1928)<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\"><span class=\"cite-bracket\">[</span>23<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "H. H. Asquith",
+          "url": "/wiki/H._H._Asquith",
+          "length": 248865
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Bertie Ahern, Irish accountant and politician, 11th Taoiseach of Ireland, was born.",
+      "html": "<li>\n<a href=\"/wiki/1951\" title=\"1951\">1951</a> – <a href=\"/wiki/Bertie_Ahern\" title=\"Bertie Ahern\">Bertie Ahern</a>, Irish accountant and politician, 11th <a href=\"/wiki/Taoiseach\" title=\"Taoiseach\">Taoiseach of Ireland</a>\n</li>",
+      "entities": [
+        {
+          "name": "Bertie Ahern",
+          "url": "/wiki/Bertie_Ahern",
+          "length": 156132
+        },
+        {
+          "name": "Taoiseach",
+          "url": "/wiki/Taoiseach",
+          "length": 63341
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Andrew Luck, American football player, was born.",
+      "html": "<li>1989   – <a href=\"/wiki/Andrew_Luck\" title=\"Andrew Luck\">Andrew Luck</a>, American football player</li>",
+      "entities": [
+        {
+          "name": "Andrew Luck",
+          "url": "/wiki/Andrew_Luck",
+          "length": 130690
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1992",
+      "description": "Anthony Perkins, American actor, singer, and director, died.",
+      "html": "<li>1992   – <a href=\"/wiki/Anthony_Perkins\" title=\"Anthony Perkins\">Anthony Perkins</a>, American actor, singer, and director (b. 1932)</li>",
+      "entities": [
+        {
+          "name": "Anthony Perkins",
+          "url": "/wiki/Anthony_Perkins",
+          "length": 176351
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "description": "Johnny Cash, American singer-songwriter, guitarist, and actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2003\" title=\"2003\">2003</a> – <a href=\"/wiki/Johnny_Cash\" title=\"Johnny Cash\">Johnny Cash</a>, American singer-songwriter, guitarist, and actor (b. 1932)</li>",
+      "entities": [
+        {
+          "name": "Johnny Cash",
+          "url": "/wiki/Johnny_Cash",
+          "length": 129060
+        }
+      ]
+    },
+    {
+      "year": "1993",
+      "description": "Raymond Burr, Canadian-American actor and director, died.",
+      "html": "<li>\n<a href=\"/wiki/1993\" title=\"1993\">1993</a> – <a href=\"/wiki/Raymond_Burr\" title=\"Raymond Burr\">Raymond Burr</a>, Canadian-American actor and director (b. 1917)</li>",
+      "entities": [
+        {
+          "name": "Raymond Burr",
+          "url": "/wiki/Raymond_Burr",
+          "length": 127050
+        }
+      ]
+    }
+  ]
+}

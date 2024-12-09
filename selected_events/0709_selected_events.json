@@ -1,0 +1,321 @@
+{
+  "events": [
+    {
+      "year": "1776",
+      "description": "George Washington orders the Declaration of Independence to be read out to members of the Continental Army in Manhattan, while thousands of British troops on Staten Island prepare for the Battle of Long Island.",
+      "html": "<li>\n<a href=\"/wiki/1776\" title=\"1776\">1776</a> – <a href=\"/wiki/George_Washington\" title=\"George Washington\">George Washington</a> orders the <a href=\"/wiki/United_States_Declaration_of_Independence\" title=\"United States Declaration of Independence\">Declaration of Independence</a> to be read out to members of the <a href=\"/wiki/Continental_Army\" title=\"Continental Army\">Continental Army</a> in <a href=\"/wiki/Manhattan\" title=\"Manhattan\">Manhattan</a>, while thousands of British troops on <a href=\"/wiki/Staten_Island\" title=\"Staten Island\">Staten Island</a> prepare for the <a href=\"/wiki/Battle_of_Long_Island\" title=\"Battle of Long Island\">Battle of Long Island</a>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "George Washington",
+          "url": "/wiki/George_Washington",
+          "length": 227867
+        },
+        {
+          "name": "United States Declaration of Independence",
+          "url": "/wiki/United_States_Declaration_of_Independence",
+          "length": 158403
+        },
+        {
+          "name": "Continental Army",
+          "url": "/wiki/Continental_Army",
+          "length": 56496
+        },
+        {
+          "name": "Manhattan",
+          "url": "/wiki/Manhattan",
+          "length": 314602
+        },
+        {
+          "name": "Staten Island",
+          "url": "/wiki/Staten_Island",
+          "length": 163823
+        },
+        {
+          "name": "Battle of Long Island",
+          "url": "/wiki/Battle_of_Long_Island",
+          "length": 61762
+        }
+      ]
+    },
+    {
+      "year": "969",
+      "description": "The Fatimid general Jawhar leads the Friday prayer in Fustat in the name of Caliph al-Mu'izz li-Din Allah, thereby symbolically completing the Fatimid conquest of Egypt.",
+      "html": "<li>\n<a href=\"/wiki/969\" title=\"969\">969</a> – The <a href=\"/wiki/Fatimid\" class=\"mw-redirect\" title=\"Fatimid\">Fatimid</a> general <a href=\"/wiki/Jawhar_(general)\" title=\"Jawhar (general)\">Jawhar</a> leads the <a href=\"/wiki/Friday_prayer\" title=\"Friday prayer\">Friday prayer</a> in <a href=\"/wiki/Fustat\" title=\"Fustat\">Fustat</a> in the name of Caliph <a href=\"/wiki/Al-Mu%27izz_li-Din_Allah\" title=\"Al-Mu'izz li-Din Allah\">al-Mu'izz li-Din Allah</a>, thereby symbolically completing the <a href=\"/wiki/Fatimid_conquest_of_Egypt\" title=\"Fatimid conquest of Egypt\">Fatimid conquest of Egypt</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Fatimid",
+          "url": "/wiki/Fatimid",
+          "length": 52
+        },
+        {
+          "name": "Jawhar (general)",
+          "url": "/wiki/Jawhar_(general)",
+          "length": 11405
+        },
+        {
+          "name": "Friday prayer",
+          "url": "/wiki/Friday_prayer",
+          "length": 36865
+        },
+        {
+          "name": "Fustat",
+          "url": "/wiki/Fustat",
+          "length": 25765
+        },
+        {
+          "name": "Al-Mu'izz li-Din Allah",
+          "url": "/wiki/Al-Mu%27izz_li-Din_Allah",
+          "length": 14037
+        },
+        {
+          "name": "Fatimid conquest of Egypt",
+          "url": "/wiki/Fatimid_conquest_of_Egypt",
+          "length": 67278
+        }
+      ]
+    },
+    {
+      "year": "1944",
+      "description": "World War II: Continuation War: Finland wins the Battle of Tali–Ihantala, the largest battle ever fought in northern Europe. The Red Army withdraws its troops from Ihantala and digs into a defensive position, thus ending the Vyborg–Petrozavodsk Offensive.",
+      "html": "<li>1944   – World War II: <a href=\"/wiki/Continuation_War\" title=\"Continuation War\">Continuation War</a>: Finland wins the <a href=\"/wiki/Battle_of_Tali%E2%80%93Ihantala\" title=\"Battle of Tali–Ihantala\">Battle of Tali–Ihantala</a>, the largest battle ever fought in <a href=\"/wiki/Northern_Europe\" title=\"Northern Europe\">northern Europe</a>. The <a href=\"/wiki/Red_Army\" title=\"Red Army\">Red Army</a> withdraws its troops from Ihantala and digs into a defensive position, thus ending the <a href=\"/wiki/Vyborg%E2%80%93Petrozavodsk_Offensive\" class=\"mw-redirect\" title=\"Vyborg–Petrozavodsk Offensive\">Vyborg–Petrozavodsk Offensive</a>.</li>",
+      "entities": [
+        {
+          "name": "Continuation War",
+          "url": "/wiki/Continuation_War",
+          "length": 139060
+        },
+        {
+          "name": "Battle of Tali–Ihantala",
+          "url": "/wiki/Battle_of_Tali%E2%80%93Ihantala",
+          "length": 41490
+        },
+        {
+          "name": "Northern Europe",
+          "url": "/wiki/Northern_Europe",
+          "length": 21727
+        },
+        {
+          "name": "Red Army",
+          "url": "/wiki/Red_Army",
+          "length": 98834
+        },
+        {
+          "name": "Vyborg–Petrozavodsk Offensive",
+          "url": "/wiki/Vyborg%E2%80%93Petrozavodsk_Offensive",
+          "length": 92
+        }
+      ]
+    },
+    {
+      "year": "1926",
+      "description": "Chiang Kai-shek accepts the post of commander-in-chief of the National Revolutionary Army, marking the beginning of the Northern Expedition to unite China under the rule of the Nationalist government.",
+      "html": "<li>\n<a href=\"/wiki/1926\" title=\"1926\">1926</a> – <a href=\"/wiki/Chiang_Kai-shek\" title=\"Chiang Kai-shek\">Chiang Kai-shek</a> accepts the post of commander-in-chief of the <a href=\"/wiki/National_Revolutionary_Army\" title=\"National Revolutionary Army\">National Revolutionary Army</a>, marking the beginning of the <a href=\"/wiki/Northern_Expedition\" title=\"Northern Expedition\">Northern Expedition</a> to unite <a href=\"/wiki/Republic_of_China_(1912%E2%80%931949)\" title=\"Republic of China (1912–1949)\">China</a> under the rule of the <a href=\"/wiki/Nationalist_government\" title=\"Nationalist government\">Nationalist government</a>.<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\"><span class=\"cite-bracket\">[</span>11<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Chiang Kai-shek",
+          "url": "/wiki/Chiang_Kai-shek",
+          "length": 195872
+        },
+        {
+          "name": "National Revolutionary Army",
+          "url": "/wiki/National_Revolutionary_Army",
+          "length": 76195
+        },
+        {
+          "name": "Northern Expedition",
+          "url": "/wiki/Northern_Expedition",
+          "length": 66353
+        },
+        {
+          "name": "Republic of China (1912–1949)",
+          "url": "/wiki/Republic_of_China_(1912%E2%80%931949)",
+          "length": 123635
+        },
+        {
+          "name": "Nationalist government",
+          "url": "/wiki/Nationalist_government",
+          "length": 56125
+        }
+      ]
+    },
+    {
+      "year": "1863",
+      "description": "American Civil War: The Siege of Port Hudson ends in a Union victory and, along with the fall of Vicksburg five days earlier, gives the Union complete control of the Mississippi River.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/Siege_of_Port_Hudson\" title=\"Siege of Port Hudson\">Siege of Port Hudson</a> ends in a <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> victory and, along with the <a href=\"/wiki/Siege_of_Vicksburg\" title=\"Siege of Vicksburg\">fall of Vicksburg</a> five days earlier, gives the Union complete control of the <a href=\"/wiki/Mississippi_River\" title=\"Mississippi River\">Mississippi River</a>.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Siege of Port Hudson",
+          "url": "/wiki/Siege_of_Port_Hudson",
+          "length": 69772
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Siege of Vicksburg",
+          "url": "/wiki/Siege_of_Vicksburg",
+          "length": 51538
+        },
+        {
+          "name": "Mississippi River",
+          "url": "/wiki/Mississippi_River",
+          "length": 145492
+        }
+      ]
+    },
+    {
+      "year": "1755",
+      "description": "The Braddock Expedition is soundly defeated by a smaller French and Native American force in its attempt to capture Fort Duquesne in what is now downtown Pittsburgh.",
+      "html": "<li>\n<a href=\"/wiki/1755\" title=\"1755\">1755</a> – The <a href=\"/wiki/Braddock_Expedition\" title=\"Braddock Expedition\">Braddock Expedition</a> is <a href=\"/wiki/Battle_of_the_Monongahela\" title=\"Battle of the Monongahela\">soundly defeated</a> by a smaller French and <a href=\"/wiki/Native_Americans_in_the_United_States\" title=\"Native Americans in the United States\">Native American</a> force in its attempt to capture <a href=\"/wiki/Fort_Duquesne\" title=\"Fort Duquesne\">Fort Duquesne</a> in what is now <a href=\"/wiki/Downtown_Pittsburgh\" title=\"Downtown Pittsburgh\">downtown Pittsburgh</a>.</li>",
+      "entities": [
+        {
+          "name": "Braddock Expedition",
+          "url": "/wiki/Braddock_Expedition",
+          "length": 22762
+        },
+        {
+          "name": "Battle of the Monongahela",
+          "url": "/wiki/Battle_of_the_Monongahela",
+          "length": 23819
+        },
+        {
+          "name": "Native Americans in the United States",
+          "url": "/wiki/Native_Americans_in_the_United_States",
+          "length": 265372
+        },
+        {
+          "name": "Fort Duquesne",
+          "url": "/wiki/Fort_Duquesne",
+          "length": 14826
+        },
+        {
+          "name": "Downtown Pittsburgh",
+          "url": "/wiki/Downtown_Pittsburgh",
+          "length": 24663
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "O. J. Simpson, American football player and actor, was born.",
+      "html": "<li>1947   – <a href=\"/wiki/O._J._Simpson\" title=\"O. J. Simpson\">O. J. Simpson</a>, American football player and actor (d. 2024)<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "O. J. Simpson",
+          "url": "/wiki/O._J._Simpson",
+          "length": 223093
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "description": "Earl Warren, American jurist and politician, 14th Chief Justice of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1974\" title=\"1974\">1974</a> – <a href=\"/wiki/Earl_Warren\" title=\"Earl Warren\">Earl Warren</a>, American jurist and politician, 14th <a href=\"/wiki/Chief_Justice_of_the_United_States\" title=\"Chief Justice of the United States\">Chief Justice of the United States</a> (b. 1891)</li>",
+      "entities": [
+        {
+          "name": "Earl Warren",
+          "url": "/wiki/Earl_Warren",
+          "length": 126220
+        },
+        {
+          "name": "Chief Justice of the United States",
+          "url": "/wiki/Chief_Justice_of_the_United_States",
+          "length": 42104
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1955",
+      "description": "Lindsey Graham, American lawyer and politician, was born.",
+      "html": "<li>1955   – <a href=\"/wiki/Lindsey_Graham\" title=\"Lindsey Graham\">Lindsey Graham</a>, American lawyer and politician</li>",
+      "entities": [
+        {
+          "name": "Lindsey Graham",
+          "url": "/wiki/Lindsey_Graham",
+          "length": 236944
+        }
+      ]
+    },
+    {
+      "year": "1947",
+      "description": "O. J. Simpson, American football player and actor, was born.",
+      "html": "<li>1947   – <a href=\"/wiki/O._J._Simpson\" title=\"O. J. Simpson\">O. J. Simpson</a>, American football player and actor (d. 2024)<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "O. J. Simpson",
+          "url": "/wiki/O._J._Simpson",
+          "length": 223093
+        }
+      ]
+    },
+    {
+      "year": "1950",
+      "description": "Viktor Yanukovych, Ukrainian engineer and politician, 4th President of Ukraine, was born.",
+      "html": "<li>1950   – <a href=\"/wiki/Viktor_Yanukovych\" title=\"Viktor Yanukovych\">Viktor Yanukovych</a>, Ukrainian engineer and politician, 4th <a href=\"/wiki/President_of_Ukraine\" title=\"President of Ukraine\">President of Ukraine</a>\n</li>",
+      "entities": [
+        {
+          "name": "Viktor Yanukovych",
+          "url": "/wiki/Viktor_Yanukovych",
+          "length": 210455
+        },
+        {
+          "name": "President of Ukraine",
+          "url": "/wiki/President_of_Ukraine",
+          "length": 71093
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2024",
+      "description": "Jim Inhofe, American politician, died.",
+      "html": "<li>2024 – <a href=\"/wiki/Jim_Inhofe\" title=\"Jim Inhofe\">Jim Inhofe</a>, American politician (b. 1934)<sup id=\"cite_ref-58\" class=\"reference\"><a href=\"#cite_note-58\"><span class=\"cite-bracket\">[</span>58<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jim Inhofe",
+          "url": "/wiki/Jim_Inhofe",
+          "length": 213874
+        }
+      ]
+    },
+    {
+      "year": "1797",
+      "description": "Edmund Burke, Irish-English philosopher, academic, and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/1797\" title=\"1797\">1797</a> – <a href=\"/wiki/Edmund_Burke\" title=\"Edmund Burke\">Edmund Burke</a>, Irish-English philosopher, academic, and politician (b. 1729)</li>",
+      "entities": [
+        {
+          "name": "Edmund Burke",
+          "url": "/wiki/Edmund_Burke",
+          "length": 134257
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "description": "Earl Warren, American jurist and politician, 14th Chief Justice of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1974\" title=\"1974\">1974</a> – <a href=\"/wiki/Earl_Warren\" title=\"Earl Warren\">Earl Warren</a>, American jurist and politician, 14th <a href=\"/wiki/Chief_Justice_of_the_United_States\" title=\"Chief Justice of the United States\">Chief Justice of the United States</a> (b. 1891)</li>",
+      "entities": [
+        {
+          "name": "Earl Warren",
+          "url": "/wiki/Earl_Warren",
+          "length": 126220
+        },
+        {
+          "name": "Chief Justice of the United States",
+          "url": "/wiki/Chief_Justice_of_the_United_States",
+          "length": 42104
+        }
+      ]
+    }
+  ]
+}

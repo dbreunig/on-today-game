@@ -1,0 +1,351 @@
+{
+  "events": [
+    {
+      "year": "1911",
+      "description": "During the Battle of Deçiq, Dedë Gjon Luli Dedvukaj, leader of the Malësori Albanians, raises the Albanian flag in the town of Tuzi, Montenegro, for the first time after George Kastrioti (Skanderbeg).",
+      "html": "<li>\n<a href=\"/wiki/1911\" title=\"1911\">1911</a> – During the <a href=\"/wiki/Battle_of_De%C3%A7iq\" title=\"Battle of Deçiq\">Battle of Deçiq</a>, <a href=\"/wiki/Ded_Gjo_Luli\" title=\"Ded Gjo Luli\">Dedë Gjon Luli Dedvukaj</a>, leader of the <a href=\"/wiki/Mal%C3%ABsori\" class=\"mw-redirect\" title=\"Malësori\">Malësori</a> <a href=\"/wiki/Albania\" title=\"Albania\">Albanians</a>, raises the Albanian flag in the town of <a href=\"/wiki/Tuzi\" title=\"Tuzi\">Tuzi</a>, <a href=\"/wiki/Montenegro\" title=\"Montenegro\">Montenegro</a>, for the first time after George Kastrioti (<a href=\"/wiki/Skanderbeg\" title=\"Skanderbeg\">Skanderbeg</a>).</li>",
+      "entities": [
+        {
+          "name": "Battle of Deçiq",
+          "url": "/wiki/Battle_of_De%C3%A7iq",
+          "length": 10359
+        },
+        {
+          "name": "Ded Gjo Luli",
+          "url": "/wiki/Ded_Gjo_Luli",
+          "length": 8166
+        },
+        {
+          "name": "Malësori",
+          "url": "/wiki/Mal%C3%ABsori",
+          "length": 22
+        },
+        {
+          "name": "Albania",
+          "url": "/wiki/Albania",
+          "length": 277263
+        },
+        {
+          "name": "Tuzi",
+          "url": "/wiki/Tuzi",
+          "length": 11866
+        },
+        {
+          "name": "Montenegro",
+          "url": "/wiki/Montenegro",
+          "length": 121534
+        },
+        {
+          "name": "Skanderbeg",
+          "url": "/wiki/Skanderbeg",
+          "length": 146275
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "The Rwandan genocide begins when the aircraft carrying Rwandan president Juvénal Habyarimana and Burundian president Cyprien Ntaryamira is shot down.",
+      "html": "<li>\n<a href=\"/wiki/1994\" title=\"1994\">1994</a> – The <a href=\"/wiki/Rwandan_genocide\" title=\"Rwandan genocide\">Rwandan genocide</a> begins when the aircraft carrying <a href=\"/wiki/Rwanda\" title=\"Rwanda\">Rwandan</a> <a href=\"/wiki/President_(government_title)\" title=\"President (government title)\">president</a> <a href=\"/wiki/Juv%C3%A9nal_Habyarimana\" title=\"Juvénal Habyarimana\">Juvénal Habyarimana</a> and <a href=\"/wiki/Burundi\" title=\"Burundi\">Burundian</a> president <a href=\"/wiki/Cyprien_Ntaryamira\" title=\"Cyprien Ntaryamira\">Cyprien Ntaryamira</a> is <a href=\"/wiki/Assassination_of_Juv%C3%A9nal_Habyarimana_and_Cyprien_Ntaryamira\" title=\"Assassination of Juvénal Habyarimana and Cyprien Ntaryamira\">shot down</a>.</li>",
+      "entities": [
+        {
+          "name": "Rwandan genocide",
+          "url": "/wiki/Rwandan_genocide",
+          "length": 186549
+        },
+        {
+          "name": "Rwanda",
+          "url": "/wiki/Rwanda",
+          "length": 208095
+        },
+        {
+          "name": "President (government title)",
+          "url": "/wiki/President_(government_title)",
+          "length": 51921
+        },
+        {
+          "name": "Juvénal Habyarimana",
+          "url": "/wiki/Juv%C3%A9nal_Habyarimana",
+          "length": 25689
+        },
+        {
+          "name": "Burundi",
+          "url": "/wiki/Burundi",
+          "length": 130064
+        },
+        {
+          "name": "Cyprien Ntaryamira",
+          "url": "/wiki/Cyprien_Ntaryamira",
+          "length": 28746
+        },
+        {
+          "name": "Assassination of Juvénal Habyarimana and Cyprien Ntaryamira",
+          "url": "/wiki/Assassination_of_Juv%C3%A9nal_Habyarimana_and_Cyprien_Ntaryamira",
+          "length": 53776
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: The Battle of Shiloh begins: In Tennessee, forces under Union General Ulysses S. Grant meet Confederate troops led by General Albert Sidney Johnston.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/Battle_of_Shiloh\" title=\"Battle of Shiloh\">Battle of Shiloh</a> begins: In <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, forces under <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> General <a href=\"/wiki/Ulysses_S._Grant\" title=\"Ulysses S. Grant\">Ulysses S. Grant</a> meet <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> troops led by General <a href=\"/wiki/Albert_Sidney_Johnston\" title=\"Albert Sidney Johnston\">Albert Sidney Johnston</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Battle of Shiloh",
+          "url": "/wiki/Battle_of_Shiloh",
+          "length": 106583
+        },
+        {
+          "name": "Tennessee",
+          "url": "/wiki/Tennessee",
+          "length": 254762
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Ulysses S. Grant",
+          "url": "/wiki/Ulysses_S._Grant",
+          "length": 190178
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Albert Sidney Johnston",
+          "url": "/wiki/Albert_Sidney_Johnston",
+          "length": 63476
+        }
+      ]
+    },
+    {
+      "year": "1830",
+      "description": "Church of Christ, the original church of the Latter Day Saint movement, is organized by Joseph Smith and others at either Fayette or Manchester, New York.",
+      "html": "<li>\n<a href=\"/wiki/1830\" title=\"1830\">1830</a> – <a href=\"/wiki/Church_of_Christ_(Latter_Day_Saints)\" title=\"Church of Christ (Latter Day Saints)\">Church of Christ</a>, the original church of the <a href=\"/wiki/Latter_Day_Saint_movement\" title=\"Latter Day Saint movement\">Latter Day Saint movement</a>, is <a href=\"/wiki/April_6_(LDS_Church)\" title=\"April 6 (LDS Church)\">organized</a> by <a href=\"/wiki/Joseph_Smith\" title=\"Joseph Smith\">Joseph Smith</a> and others at either <a href=\"/wiki/Fayette,_New_York\" title=\"Fayette, New York\">Fayette</a> or <a href=\"/wiki/Manchester,_New_York\" title=\"Manchester, New York\">Manchester, New York</a>.</li>",
+      "entities": [
+        {
+          "name": "Church of Christ (Latter Day Saints)",
+          "url": "/wiki/Church_of_Christ_(Latter_Day_Saints)",
+          "length": 30706
+        },
+        {
+          "name": "Latter Day Saint movement",
+          "url": "/wiki/Latter_Day_Saint_movement",
+          "length": 27838
+        },
+        {
+          "name": "April 6 (LDS Church)",
+          "url": "/wiki/April_6_(LDS_Church)",
+          "length": 16385
+        },
+        {
+          "name": "Joseph Smith",
+          "url": "/wiki/Joseph_Smith",
+          "length": 128493
+        },
+        {
+          "name": "Fayette, New York",
+          "url": "/wiki/Fayette,_New_York",
+          "length": 14539
+        },
+        {
+          "name": "Manchester, New York",
+          "url": "/wiki/Manchester,_New_York",
+          "length": 13008
+        }
+      ]
+    },
+    {
+      "year": "1776",
+      "description": "American Revolutionary War: Ships of the Continental Navy fail in their attempt to capture a Royal Navy dispatch boat.",
+      "html": "<li>\n<a href=\"/wiki/1776\" title=\"1776\">1776</a> – <a href=\"/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: Ships of the <a href=\"/wiki/Continental_Navy\" title=\"Continental Navy\">Continental Navy</a> fail in their <a href=\"/wiki/Battle_of_Block_Island\" title=\"Battle of Block Island\">attempt to capture</a> a <a href=\"/wiki/Royal_Navy\" title=\"Royal Navy\">Royal Navy</a> <a href=\"/wiki/Dispatch_boat\" title=\"Dispatch boat\">dispatch boat</a>.</li>",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 285512
+        },
+        {
+          "name": "Continental Navy",
+          "url": "/wiki/Continental_Navy",
+          "length": 43856
+        },
+        {
+          "name": "Battle of Block Island",
+          "url": "/wiki/Battle_of_Block_Island",
+          "length": 12858
+        },
+        {
+          "name": "Royal Navy",
+          "url": "/wiki/Royal_Navy",
+          "length": 157804
+        },
+        {
+          "name": "Dispatch boat",
+          "url": "/wiki/Dispatch_boat",
+          "length": 5328
+        }
+      ]
+    },
+    {
+      "year": "46 BC",
+      "description": "Julius Caesar defeats Caecilius Metellus Scipio and Marcus Porcius Cato (Cato the Younger) at the Battle of Thapsus.",
+      "html": "<li>\n<a href=\"/wiki/46_BC\" title=\"46 BC\">46 BC</a> – <a href=\"/wiki/Julius_Caesar\" title=\"Julius Caesar\">Julius Caesar</a> defeats <a href=\"/wiki/Quintus_Caecilius_Metellus_Pius_Scipio_Nasica\" class=\"mw-redirect\" title=\"Quintus Caecilius Metellus Pius Scipio Nasica\">Caecilius Metellus Scipio</a> and <a href=\"/wiki/Cato_the_Younger\" title=\"Cato the Younger\">Marcus Porcius Cato (Cato the Younger)</a> at the <a href=\"/wiki/Battle_of_Thapsus\" title=\"Battle of Thapsus\">Battle of Thapsus</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "46 BC",
+          "url": "/wiki/46_BC",
+          "length": 6295
+        },
+        {
+          "name": "Julius Caesar",
+          "url": "/wiki/Julius_Caesar",
+          "length": 143346
+        },
+        {
+          "name": "Quintus Caecilius Metellus Pius Scipio Nasica",
+          "url": "/wiki/Quintus_Caecilius_Metellus_Pius_Scipio_Nasica",
+          "length": 123
+        },
+        {
+          "name": "Cato the Younger",
+          "url": "/wiki/Cato_the_Younger",
+          "length": 90648
+        },
+        {
+          "name": "Battle of Thapsus",
+          "url": "/wiki/Battle_of_Thapsus",
+          "length": 19623
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Rafael Correa, Ecuadorian economist and politician, 54th President of Ecuador, was born.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Rafael_Correa\" title=\"Rafael Correa\">Rafael Correa</a>, Ecuadorian economist and politician, 54th <a href=\"/wiki/President_of_Ecuador\" title=\"President of Ecuador\">President of Ecuador</a>\n</li>",
+      "entities": [
+        {
+          "name": "Rafael Correa",
+          "url": "/wiki/Rafael_Correa",
+          "length": 182389
+        },
+        {
+          "name": "President of Ecuador",
+          "url": "/wiki/President_of_Ecuador",
+          "length": 6574
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "description": "Habib Bourguiba, Tunisian politician, 1st President of Tunisia, died.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Habib_Bourguiba\" title=\"Habib Bourguiba\">Habib Bourguiba</a>, Tunisian politician, 1st <a href=\"/wiki/President_of_Tunisia\" title=\"President of Tunisia\">President of Tunisia</a> (b. 1903)</li>",
+      "entities": [
+        {
+          "name": "Habib Bourguiba",
+          "url": "/wiki/Habib_Bourguiba",
+          "length": 160568
+        },
+        {
+          "name": "President of Tunisia",
+          "url": "/wiki/President_of_Tunisia",
+          "length": 19810
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1964",
+      "description": "Tim Walz, American politician, Governor of Minnesota & vice presidential candidate, was born.",
+      "html": "<li>1964 – <a href=\"/wiki/Tim_Walz\" title=\"Tim Walz\">Tim Walz</a>, American politician, Governor of Minnesota &amp; vice presidential candidate<sup id=\"cite_ref-25\" class=\"reference\"><a href=\"#cite_note-25\"><span class=\"cite-bracket\">[</span>25<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Tim Walz",
+          "url": "/wiki/Tim_Walz",
+          "length": 211656
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Rafael Correa, Ecuadorian economist and politician, 54th President of Ecuador, was born.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Rafael_Correa\" title=\"Rafael Correa\">Rafael Correa</a>, Ecuadorian economist and politician, 54th <a href=\"/wiki/President_of_Ecuador\" title=\"President of Ecuador\">President of Ecuador</a>\n</li>",
+      "entities": [
+        {
+          "name": "Rafael Correa",
+          "url": "/wiki/Rafael_Correa",
+          "length": 182389
+        },
+        {
+          "name": "President of Ecuador",
+          "url": "/wiki/President_of_Ecuador",
+          "length": 6574
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "Michele Bachmann, American lawyer and politician, was born.",
+      "html": "<li>\n<a href=\"/wiki/1956\" title=\"1956\">1956</a> – <a href=\"/wiki/Michele_Bachmann\" title=\"Michele Bachmann\">Michele Bachmann</a>, American lawyer and politician</li>",
+      "entities": [
+        {
+          "name": "Michele Bachmann",
+          "url": "/wiki/Michele_Bachmann",
+          "length": 177971
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1992",
+      "description": "Isaac Asimov, American science fiction writer, died.",
+      "html": "<li>\n<a href=\"/wiki/1992\" title=\"1992\">1992</a> – <a href=\"/wiki/Isaac_Asimov\" title=\"Isaac Asimov\">Isaac Asimov</a>, American science fiction writer (b. 1920)<sup id=\"cite_ref-45\" class=\"reference\"><a href=\"#cite_note-45\"><span class=\"cite-bracket\">[</span>45<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Isaac Asimov",
+          "url": "/wiki/Isaac_Asimov",
+          "length": 193116
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "description": "Habib Bourguiba, Tunisian politician, 1st President of Tunisia, died.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Habib_Bourguiba\" title=\"Habib Bourguiba\">Habib Bourguiba</a>, Tunisian politician, 1st <a href=\"/wiki/President_of_Tunisia\" title=\"President of Tunisia\">President of Tunisia</a> (b. 1903)</li>",
+      "entities": [
+        {
+          "name": "Habib Bourguiba",
+          "url": "/wiki/Habib_Bourguiba",
+          "length": 160568
+        },
+        {
+          "name": "President of Tunisia",
+          "url": "/wiki/President_of_Tunisia",
+          "length": 19810
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "description": "Tammy Wynette, American singer-songwriter, died.",
+      "html": "<li>1998   – <a href=\"/wiki/Tammy_Wynette\" title=\"Tammy Wynette\">Tammy Wynette</a>, American singer-songwriter (b. 1942)</li>",
+      "entities": [
+        {
+          "name": "Tammy Wynette",
+          "url": "/wiki/Tammy_Wynette",
+          "length": 135073
+        }
+      ]
+    }
+  ]
+}

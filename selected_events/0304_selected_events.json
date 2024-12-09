@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "year": "2018",
+      "description": "Former MI6 spy Sergei Skripal and his daughter are poisoned with a Novichok nerve agent in Salisbury, England, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – Former <a href=\"/wiki/MI6\" title=\"MI6\">MI6</a> spy <a href=\"/wiki/Sergei_Skripal\" title=\"Sergei Skripal\">Sergei Skripal</a> and his daughter are <a href=\"/wiki/Poisoning_of_Sergei_and_Yulia_Skripal\" title=\"Poisoning of Sergei and Yulia Skripal\">poisoned</a> with a <a href=\"/wiki/Novichok\" title=\"Novichok\">Novichok</a> <a href=\"/wiki/Nerve_agent\" title=\"Nerve agent\">nerve agent</a> in <a href=\"/wiki/Salisbury\" title=\"Salisbury\">Salisbury</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved.</li>",
+      "entities": [
+        {
+          "name": "MI6",
+          "url": "/wiki/MI6",
+          "length": 119486
+        },
+        {
+          "name": "Sergei Skripal",
+          "url": "/wiki/Sergei_Skripal",
+          "length": 48337
+        },
+        {
+          "name": "Poisoning of Sergei and Yulia Skripal",
+          "url": "/wiki/Poisoning_of_Sergei_and_Yulia_Skripal",
+          "length": 206028
+        },
+        {
+          "name": "Novichok",
+          "url": "/wiki/Novichok",
+          "length": 74666
+        },
+        {
+          "name": "Nerve agent",
+          "url": "/wiki/Nerve_agent",
+          "length": 57345
+        },
+        {
+          "name": "Salisbury",
+          "url": "/wiki/Salisbury",
+          "length": 95902
+        },
+        {
+          "name": "England",
+          "url": "/wiki/England",
+          "length": 232951
+        }
+      ]
+    },
+    {
+      "year": "1776",
+      "description": "American Revolutionary War: The Continental Army fortifies Dorchester Heights with cannon, leading the British troops to abandon the Siege of Boston.",
+      "html": "<li>\n<a href=\"/wiki/1776\" title=\"1776\">1776</a> – <a href=\"/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: The <a href=\"/wiki/Continental_Army\" title=\"Continental Army\">Continental Army</a> <a href=\"/wiki/Fortification_of_Dorchester_Heights\" title=\"Fortification of Dorchester Heights\">fortifies</a> <a href=\"/wiki/Dorchester_Heights\" title=\"Dorchester Heights\">Dorchester Heights</a> with <a href=\"/wiki/Cannon\" title=\"Cannon\">cannon</a>, leading the <a href=\"/wiki/Kingdom_of_Great_Britain\" title=\"Kingdom of Great Britain\">British</a> troops to abandon the <a href=\"/wiki/Siege_of_Boston\" title=\"Siege of Boston\">Siege of Boston</a>.</li>",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 285512
+        },
+        {
+          "name": "Continental Army",
+          "url": "/wiki/Continental_Army",
+          "length": 56496
+        },
+        {
+          "name": "Fortification of Dorchester Heights",
+          "url": "/wiki/Fortification_of_Dorchester_Heights",
+          "length": 17919
+        },
+        {
+          "name": "Dorchester Heights",
+          "url": "/wiki/Dorchester_Heights",
+          "length": 6880
+        },
+        {
+          "name": "Cannon",
+          "url": "/wiki/Cannon",
+          "length": 157676
+        },
+        {
+          "name": "Kingdom of Great Britain",
+          "url": "/wiki/Kingdom_of_Great_Britain",
+          "length": 86535
+        },
+        {
+          "name": "Siege of Boston",
+          "url": "/wiki/Siege_of_Boston",
+          "length": 49261
+        }
+      ]
+    },
+    {
+      "year": "1849",
+      "description": "President-elect of the United States Zachary Taylor and Vice President-elect Millard Fillmore did not take their respective oaths of office (they did so the following day), leading to the erroneous theory that outgoing President pro tempore of the United States Senate David Rice Atchison had assumed the role of acting president for one day.",
+      "html": "<li>\n<a href=\"/wiki/1849\" title=\"1849\">1849</a> – <a href=\"/wiki/President-elect_of_the_United_States\" title=\"President-elect of the United States\">President-elect of the United States</a> <a href=\"/wiki/Zachary_Taylor\" title=\"Zachary Taylor\">Zachary Taylor</a> and Vice President-elect <a href=\"/wiki/Millard_Fillmore\" title=\"Millard Fillmore\">Millard Fillmore</a> did not take their respective oaths of office (<a href=\"/wiki/Inauguration_of_Zachary_Taylor\" title=\"Inauguration of Zachary Taylor\">they did so the following day</a>), leading to the erroneous theory that outgoing <a href=\"/wiki/President_pro_tempore_of_the_United_States_Senate\" title=\"President pro tempore of the United States Senate\">President pro tempore of the United States Senate</a> <a href=\"/wiki/David_Rice_Atchison\" title=\"David Rice Atchison\">David Rice Atchison</a> had assumed the role of <a href=\"/wiki/Acting_president_of_the_United_States\" class=\"mw-redirect\" title=\"Acting president of the United States\">acting president</a> for one day.</li>",
+      "entities": [
+        {
+          "name": "President-elect of the United States",
+          "url": "/wiki/President-elect_of_the_United_States",
+          "length": 48666
+        },
+        {
+          "name": "Zachary Taylor",
+          "url": "/wiki/Zachary_Taylor",
+          "length": 99854
+        },
+        {
+          "name": "Millard Fillmore",
+          "url": "/wiki/Millard_Fillmore",
+          "length": 105229
+        },
+        {
+          "name": "Inauguration of Zachary Taylor",
+          "url": "/wiki/Inauguration_of_Zachary_Taylor",
+          "length": 6569
+        },
+        {
+          "name": "President pro tempore of the United States Senate",
+          "url": "/wiki/President_pro_tempore_of_the_United_States_Senate",
+          "length": 27944
+        },
+        {
+          "name": "David Rice Atchison",
+          "url": "/wiki/David_Rice_Atchison",
+          "length": 29933
+        },
+        {
+          "name": "Acting president of the United States",
+          "url": "/wiki/Acting_president_of_the_United_States",
+          "length": 168
+        }
+      ]
+    },
+    {
+      "year": "1909",
+      "description": "U.S. President William Taft used what became known as a Saxbe fix, a mechanism to avoid the restriction of the U.S. Constitution's Ineligibility Clause, to appoint Philander C. Knox as U.S. Secretary of State.",
+      "html": "<li>\n<a href=\"/wiki/1909\" title=\"1909\">1909</a> – U.S. President <a href=\"/wiki/William_Taft\" class=\"mw-redirect\" title=\"William Taft\">William Taft</a> used what became known as a <a href=\"/wiki/Saxbe_fix\" title=\"Saxbe fix\">Saxbe fix</a>, a mechanism to avoid the restriction of the <a href=\"/wiki/United_States_Constitution\" class=\"mw-redirect\" title=\"United States Constitution\">U.S. Constitution</a>'s <a href=\"/wiki/Ineligibility_Clause\" title=\"Ineligibility Clause\">Ineligibility Clause</a>, to appoint <a href=\"/wiki/Philander_C._Knox\" title=\"Philander C. Knox\">Philander C. Knox</a> as <a href=\"/wiki/United_States_Secretary_of_State\" title=\"United States Secretary of State\">U.S. Secretary of State</a>.</li>",
+      "entities": [
+        {
+          "name": "William Taft",
+          "url": "/wiki/William_Taft",
+          "length": 128
+        },
+        {
+          "name": "Saxbe fix",
+          "url": "/wiki/Saxbe_fix",
+          "length": 63648
+        },
+        {
+          "name": "United States Constitution",
+          "url": "/wiki/United_States_Constitution",
+          "length": 140
+        },
+        {
+          "name": "Ineligibility Clause",
+          "url": "/wiki/Ineligibility_Clause",
+          "length": 19409
+        },
+        {
+          "name": "Philander C. Knox",
+          "url": "/wiki/Philander_C._Knox",
+          "length": 23986
+        },
+        {
+          "name": "United States Secretary of State",
+          "url": "/wiki/United_States_Secretary_of_State",
+          "length": 18112
+        }
+      ]
+    },
+    {
+      "year": "1493",
+      "description": "Explorer Christopher Columbus arrives back in Lisbon, Portugal, aboard his ship Niña from his voyage to what are now The Bahamas and other islands in the Caribbean.",
+      "html": "<li>\n<a href=\"/wiki/1493\" title=\"1493\">1493</a> – Explorer <a href=\"/wiki/Christopher_Columbus\" title=\"Christopher Columbus\">Christopher Columbus</a> arrives back in <a href=\"/wiki/Lisbon\" title=\"Lisbon\">Lisbon</a>, Portugal, aboard his ship <i><a href=\"/wiki/Ni%C3%B1a_(ship)\" class=\"mw-redirect\" title=\"Niña (ship)\">Niña</a></i> from <a href=\"/wiki/Voyages_of_Christopher_Columbus#First_voyage\" title=\"Voyages of Christopher Columbus\">his voyage</a> to what are now <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">The Bahamas</a> and other islands in the <a href=\"/wiki/Caribbean\" title=\"Caribbean\">Caribbean</a>.</li>",
+      "entities": [
+        {
+          "name": "Christopher Columbus",
+          "url": "/wiki/Christopher_Columbus",
+          "length": null
+        },
+        {
+          "name": "Lisbon",
+          "url": "/wiki/Lisbon",
+          "length": null
+        },
+        {
+          "name": "Niña (ship)",
+          "url": "/wiki/Ni%C3%B1a_(ship)",
+          "length": null
+        },
+        {
+          "name": "Voyages of Christopher Columbus",
+          "url": "/wiki/Voyages_of_Christopher_Columbus#First_voyage",
+          "length": null
+        },
+        {
+          "name": "The Bahamas",
+          "url": "/wiki/The_Bahamas",
+          "length": null
+        },
+        {
+          "name": "Caribbean",
+          "url": "/wiki/Caribbean",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Lennox Sebe, President for life of the South African Bantustan of Ciskei, is ousted from power in a bloodless military coup led by Brigadier Oupa Gqozo.",
+      "html": "<li>1990   – <a href=\"/wiki/Lennox_Sebe\" title=\"Lennox Sebe\">Lennox Sebe</a>, <a href=\"/wiki/President_for_life\" title=\"President for life\">President for life</a> of the South African <a href=\"/wiki/Bantustan\" title=\"Bantustan\">Bantustan</a> of Ciskei, is ousted from power in <a href=\"/wiki/1990_Ciskei_coup_d%27%C3%A9tat\" title=\"1990 Ciskei coup d'état\">a bloodless military coup</a> led by Brigadier <a href=\"/wiki/Oupa_Gqozo\" title=\"Oupa Gqozo\">Oupa Gqozo</a>.<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Lennox Sebe",
+          "url": "/wiki/Lennox_Sebe",
+          "length": 5754
+        },
+        {
+          "name": "President for life",
+          "url": "/wiki/President_for_life",
+          "length": 14546
+        },
+        {
+          "name": "Bantustan",
+          "url": "/wiki/Bantustan",
+          "length": 78274
+        },
+        {
+          "name": "1990 Ciskei coup d'état",
+          "url": "/wiki/1990_Ciskei_coup_d%27%C3%A9tat",
+          "length": 5970
+        },
+        {
+          "name": "Oupa Gqozo",
+          "url": "/wiki/Oupa_Gqozo",
+          "length": 8461
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Kenny Dalglish, Scottish footballer and manager, was born.",
+      "html": "<li>1951   – <a href=\"/wiki/Kenny_Dalglish\" title=\"Kenny Dalglish\">Kenny Dalglish</a>, Scottish footballer and manager</li>",
+      "entities": [
+        {
+          "name": "Kenny Dalglish",
+          "url": "/wiki/Kenny_Dalglish",
+          "length": 116430
+        }
+      ]
+    },
+    {
+      "year": "1193",
+      "description": "Saladin, founder of the Ayyubid Sultanate, died.",
+      "html": "<li>\n<a href=\"/wiki/1193\" title=\"1193\">1193</a> – <a href=\"/wiki/Saladin\" title=\"Saladin\">Saladin</a>, founder of the Ayyubid Sultanate (b. 1137)<sup id=\"cite_ref-52\" class=\"reference\"><a href=\"#cite_note-52\"><span class=\"cite-bracket\">[</span>52<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Saladin",
+          "url": "/wiki/Saladin",
+          "length": 119759
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1883",
+      "description": "Sam Langford, Canadian-American boxer, was born.",
+      "html": "<li>1883   – <a href=\"/wiki/Sam_Langford\" title=\"Sam Langford\">Sam Langford</a>, Canadian-American boxer (d. 1956)</li>",
+      "entities": [
+        {
+          "name": "Sam Langford",
+          "url": "/wiki/Sam_Langford",
+          "length": 210519
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Rohan Bopanna, Indian tennis player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Rohan_Bopanna\" title=\"Rohan Bopanna\">Rohan Bopanna</a>, Indian tennis player</li>",
+      "entities": [
+        {
+          "name": "Rohan Bopanna",
+          "url": "/wiki/Rohan_Bopanna",
+          "length": 139102
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Kenny Dalglish, Scottish footballer and manager, was born.",
+      "html": "<li>1951   – <a href=\"/wiki/Kenny_Dalglish\" title=\"Kenny Dalglish\">Kenny Dalglish</a>, Scottish footballer and manager</li>",
+      "entities": [
+        {
+          "name": "Kenny Dalglish",
+          "url": "/wiki/Kenny_Dalglish",
+          "length": 116430
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2022",
+      "description": "Shane Warne, Australian cricketer, coach, and sportscaster, died.",
+      "html": "<li>2022   – <a href=\"/wiki/Shane_Warne\" title=\"Shane Warne\">Shane Warne</a>, Australian cricketer, coach, and sportscaster (b. 1969)<sup id=\"cite_ref-64\" class=\"reference\"><a href=\"#cite_note-64\"><span class=\"cite-bracket\">[</span>64<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Shane Warne",
+          "url": "/wiki/Shane_Warne",
+          "length": 176858
+        }
+      ]
+    },
+    {
+      "year": "1193",
+      "description": "Saladin, founder of the Ayyubid Sultanate, died.",
+      "html": "<li>\n<a href=\"/wiki/1193\" title=\"1193\">1193</a> – <a href=\"/wiki/Saladin\" title=\"Saladin\">Saladin</a>, founder of the Ayyubid Sultanate (b. 1137)<sup id=\"cite_ref-52\" class=\"reference\"><a href=\"#cite_note-52\"><span class=\"cite-bracket\">[</span>52<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Saladin",
+          "url": "/wiki/Saladin",
+          "length": 119759
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "Davide Astori, Italian soccer player, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Davide_Astori\" title=\"Davide Astori\">Davide Astori</a>, Italian soccer player (b. 1987)<sup id=\"cite_ref-59\" class=\"reference\"><a href=\"#cite_note-59\"><span class=\"cite-bracket\">[</span>59<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Davide Astori",
+          "url": "/wiki/Davide_Astori",
+          "length": 114473
+        }
+      ]
+    }
+  ]
+}

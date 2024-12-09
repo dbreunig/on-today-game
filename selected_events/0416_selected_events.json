@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": "1799",
+      "description": "French Revolutionary Wars: The Battle of Mount Tabor: Napoleon drives Ottoman Turks across the River Jordan near Acre.",
+      "html": "<li>\n<a href=\"/wiki/1799\" title=\"1799\">1799</a> – <a href=\"/wiki/French_Revolutionary_Wars\" title=\"French Revolutionary Wars\">French Revolutionary Wars</a>: The <a href=\"/wiki/Battle_of_Mount_Tabor_(1799)\" title=\"Battle of Mount Tabor (1799)\">Battle of Mount Tabor</a>: <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon</a> drives <a href=\"/wiki/Ottoman_Turks\" title=\"Ottoman Turks\">Ottoman Turks</a> across the <a href=\"/wiki/River_Jordan\" class=\"mw-redirect\" title=\"River Jordan\">River Jordan</a> near <a href=\"/wiki/Acre,_Israel\" title=\"Acre, Israel\">Acre</a>.</li>",
+      "entities": [
+        {
+          "name": "French Revolutionary Wars",
+          "url": "/wiki/French_Revolutionary_Wars",
+          "length": 78933
+        },
+        {
+          "name": "Battle of Mount Tabor (1799)",
+          "url": "/wiki/Battle_of_Mount_Tabor_(1799)",
+          "length": 11550
+        },
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189162
+        },
+        {
+          "name": "Ottoman Turks",
+          "url": "/wiki/Ottoman_Turks",
+          "length": 11921
+        },
+        {
+          "name": "River Jordan",
+          "url": "/wiki/River_Jordan",
+          "length": 26
+        },
+        {
+          "name": "Acre, Israel",
+          "url": "/wiki/Acre,_Israel",
+          "length": 90791
+        }
+      ]
+    },
+    {
+      "year": "1346",
+      "description": "Stefan Dušan, \"the Mighty\", is crowned Emperor of the Serbs at Skopje, his empire occupying much of the Balkans.",
+      "html": "<li>\n<a href=\"/wiki/1346\" title=\"1346\">1346</a> – <a href=\"/wiki/Stefan_Du%C5%A1an\" title=\"Stefan Dušan\">Stefan Dušan</a>, \"the Mighty\", is crowned <a href=\"/wiki/Emperor_of_the_Serbs\" title=\"Emperor of the Serbs\">Emperor of the Serbs</a> at <a href=\"/wiki/Skopje\" title=\"Skopje\">Skopje</a>, <a href=\"/wiki/Serbian_Empire\" title=\"Serbian Empire\">his empire</a> occupying much of the <a href=\"/wiki/Balkans\" title=\"Balkans\">Balkans</a>.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Stefan Dušan",
+          "url": "/wiki/Stefan_Du%C5%A1an",
+          "length": 61656
+        },
+        {
+          "name": "Emperor of the Serbs",
+          "url": "/wiki/Emperor_of_the_Serbs",
+          "length": 16181
+        },
+        {
+          "name": "Skopje",
+          "url": "/wiki/Skopje",
+          "length": 197857
+        },
+        {
+          "name": "Serbian Empire",
+          "url": "/wiki/Serbian_Empire",
+          "length": 41912
+        },
+        {
+          "name": "Balkans",
+          "url": "/wiki/Balkans",
+          "length": 121161
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "The U.S. Supreme Court rules in the Baze v. Rees decision that execution by lethal injection does not violate the Eighth Amendment ban against cruel and unusual punishment.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – The <a href=\"/wiki/Supreme_Court_of_the_United_States\" title=\"Supreme Court of the United States\">U.S. Supreme Court</a> rules in the <i><a href=\"/wiki/Baze_v._Rees\" title=\"Baze v. Rees\">Baze v. Rees</a></i> decision that <a href=\"/wiki/Lethal_injection\" title=\"Lethal injection\">execution by lethal injection</a> does not violate the <a href=\"/wiki/Eighth_Amendment_to_the_United_States_Constitution\" title=\"Eighth Amendment to the United States Constitution\">Eighth Amendment</a> ban against <a href=\"/wiki/Cruel_and_unusual_punishment\" title=\"Cruel and unusual punishment\">cruel and unusual punishment</a>.<sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Supreme Court of the United States",
+          "url": "/wiki/Supreme_Court_of_the_United_States",
+          "length": 317130
+        },
+        {
+          "name": "Baze v. Rees",
+          "url": "/wiki/Baze_v._Rees",
+          "length": 12723
+        },
+        {
+          "name": "Lethal injection",
+          "url": "/wiki/Lethal_injection",
+          "length": 101810
+        },
+        {
+          "name": "Eighth Amendment to the United States Constitution",
+          "url": "/wiki/Eighth_Amendment_to_the_United_States_Constitution",
+          "length": 83147
+        },
+        {
+          "name": "Cruel and unusual punishment",
+          "url": "/wiki/Cruel_and_unusual_punishment",
+          "length": 11766
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Polish–Lithuanian War: The Polish Army launches the Vilna offensive to capture Vilnius in modern Lithuania.",
+      "html": "<li>1919   – <a href=\"/wiki/Polish%E2%80%93Lithuanian_War\" title=\"Polish–Lithuanian War\">Polish–Lithuanian War</a>: The <a href=\"/wiki/Polish_Land_Forces\" title=\"Polish Land Forces\">Polish Army</a> launches the <a href=\"/wiki/Vilna_offensive\" title=\"Vilna offensive\">Vilna offensive</a> to capture <a href=\"/wiki/Vilnius\" title=\"Vilnius\">Vilnius</a> in modern <a href=\"/wiki/Lithuania\" title=\"Lithuania\">Lithuania</a>.</li>",
+      "entities": [
+        {
+          "name": "Polish–Lithuanian War",
+          "url": "/wiki/Polish%E2%80%93Lithuanian_War",
+          "length": 86126
+        },
+        {
+          "name": "Polish Land Forces",
+          "url": "/wiki/Polish_Land_Forces",
+          "length": 47358
+        },
+        {
+          "name": "Vilna offensive",
+          "url": "/wiki/Vilna_offensive",
+          "length": 32807
+        },
+        {
+          "name": "Vilnius",
+          "url": "/wiki/Vilnius",
+          "length": 246465
+        },
+        {
+          "name": "Lithuania",
+          "url": "/wiki/Lithuania",
+          "length": 313986
+        }
+      ]
+    },
+    {
+      "year": "73",
+      "description": "Masada, a Jewish fortress, falls to the Romans after several months of siege, ending the First Jewish–Roman War.",
+      "html": "<li>\n<a href=\"/wiki/AD_73\" title=\"AD 73\">73</a> – <a href=\"/wiki/Masada\" title=\"Masada\">Masada</a>, a Jewish fortress, falls to the <a href=\"/wiki/Roman_Empire\" title=\"Roman Empire\">Romans</a> after several months of siege, ending the <a href=\"/wiki/First_Jewish%E2%80%93Roman_War\" title=\"First Jewish–Roman War\">First Jewish–Roman War</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "AD 73",
+          "url": "/wiki/AD_73",
+          "length": 2924
+        },
+        {
+          "name": "Masada",
+          "url": "/wiki/Masada",
+          "length": 49392
+        },
+        {
+          "name": "Roman Empire",
+          "url": "/wiki/Roman_Empire",
+          "length": 257524
+        },
+        {
+          "name": "First Jewish–Roman War",
+          "url": "/wiki/First_Jewish%E2%80%93Roman_War",
+          "length": 99606
+        }
+      ]
+    },
+    {
+      "year": "1746",
+      "description": "The Battle of Culloden is fought between the French-supported Jacobites and the British Hanoverian forces commanded by William Augustus, Duke of Cumberland, in Scotland.",
+      "html": "<li>\n<a href=\"/wiki/1746\" title=\"1746\">1746</a> – The <a href=\"/wiki/Battle_of_Culloden\" title=\"Battle of Culloden\">Battle of Culloden</a> is fought between the French-supported <a href=\"/wiki/Jacobitism\" title=\"Jacobitism\">Jacobites</a> and the British <a href=\"/wiki/House_of_Hanover\" title=\"House of Hanover\">Hanoverian</a> forces commanded by <a href=\"/wiki/Prince_William,_Duke_of_Cumberland\" title=\"Prince William, Duke of Cumberland\">William Augustus, Duke of Cumberland</a>, in Scotland.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Battle of Culloden",
+          "url": "/wiki/Battle_of_Culloden",
+          "length": 66479
+        },
+        {
+          "name": "Jacobitism",
+          "url": "/wiki/Jacobitism",
+          "length": 85447
+        },
+        {
+          "name": "House of Hanover",
+          "url": "/wiki/House_of_Hanover",
+          "length": 32471
+        },
+        {
+          "name": "Prince William, Duke of Cumberland",
+          "url": "/wiki/Prince_William,_Duke_of_Cumberland",
+          "length": 42888
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Taye Taiwo, Nigerian footballer, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Taye_Taiwo\" title=\"Taye Taiwo\">Taye Taiwo</a>, Nigerian footballer</li>",
+      "entities": [
+        {
+          "name": "Taye Taiwo",
+          "url": "/wiki/Taye_Taiwo",
+          "length": 176300
+        }
+      ]
+    },
+    {
+      "year": "1958",
+      "description": "Rosalind Franklin, English biophysicist and academic, died.",
+      "html": "<li>\n<a href=\"/wiki/1958\" title=\"1958\">1958</a> – <a href=\"/wiki/Rosalind_Franklin\" title=\"Rosalind Franklin\">Rosalind Franklin</a>, English biophysicist and academic (b. 1920)<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\"><span class=\"cite-bracket\">[</span>57<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rosalind Franklin",
+          "url": "/wiki/Rosalind_Franklin",
+          "length": 170109
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1927",
+      "description": "Pope Benedict XVI, was born.",
+      "html": "<li>1927   – <a href=\"/wiki/Pope_Benedict_XVI\" title=\"Pope Benedict XVI\">Pope Benedict XVI</a>  (d. 2022)<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\"><span class=\"cite-bracket\">[</span>32<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pope Benedict XVI",
+          "url": "/wiki/Pope_Benedict_XVI",
+          "length": 243196
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Taye Taiwo, Nigerian footballer, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Taye_Taiwo\" title=\"Taye Taiwo\">Taye Taiwo</a>, Nigerian footballer</li>",
+      "entities": [
+        {
+          "name": "Taye Taiwo",
+          "url": "/wiki/Taye_Taiwo",
+          "length": 176300
+        }
+      ]
+    },
+    {
+      "year": "1889",
+      "description": "Charlie Chaplin, English actor, director, producer, screenwriter, and composer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1889\" title=\"1889\">1889</a> – <a href=\"/wiki/Charlie_Chaplin\" title=\"Charlie Chaplin\">Charlie Chaplin</a>, English actor, director, producer, screenwriter, and composer (d. 1977)</li>",
+      "entities": [
+        {
+          "name": "Charlie Chaplin",
+          "url": "/wiki/Charlie_Chaplin",
+          "length": 175745
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1958",
+      "description": "Rosalind Franklin, English biophysicist and academic, died.",
+      "html": "<li>\n<a href=\"/wiki/1958\" title=\"1958\">1958</a> – <a href=\"/wiki/Rosalind_Franklin\" title=\"Rosalind Franklin\">Rosalind Franklin</a>, English biophysicist and academic (b. 1920)<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\"><span class=\"cite-bracket\">[</span>57<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rosalind Franklin",
+          "url": "/wiki/Rosalind_Franklin",
+          "length": 170109
+        }
+      ]
+    },
+    {
+      "year": "1992",
+      "description": "Andy Russell, American singer and actor, died.",
+      "html": "<li>1992   – <a href=\"/wiki/Andy_Russell_(singer)\" title=\"Andy Russell (singer)\">Andy Russell</a>, American singer and actor (b. 1919)</li>",
+      "entities": [
+        {
+          "name": "Andy Russell (singer)",
+          "url": "/wiki/Andy_Russell_(singer)",
+          "length": 158584
+        }
+      ]
+    },
+    {
+      "year": "1859",
+      "description": "Alexis de Tocqueville, French historian and philosopher, French Minister of Foreign Affairs, died.",
+      "html": "<li>\n<a href=\"/wiki/1859\" title=\"1859\">1859</a> – <a href=\"/wiki/Alexis_de_Tocqueville\" title=\"Alexis de Tocqueville\">Alexis de Tocqueville</a>, French historian and philosopher, <a href=\"/wiki/Minister_of_Foreign_Affairs_(France)\" class=\"mw-redirect\" title=\"Minister of Foreign Affairs (France)\">French Minister of Foreign Affairs</a> (b. 1805)</li>",
+      "entities": [
+        {
+          "name": "Alexis de Tocqueville",
+          "url": "/wiki/Alexis_de_Tocqueville",
+          "length": 79803
+        },
+        {
+          "name": "Minister of Foreign Affairs (France)",
+          "url": "/wiki/Minister_of_Foreign_Affairs_(France)",
+          "length": 62
+        }
+      ]
+    }
+  ]
+}

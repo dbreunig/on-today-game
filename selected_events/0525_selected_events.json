@@ -1,0 +1,341 @@
+{
+  "events": [
+    {
+      "year": "1981",
+      "description": "In Riyadh, the Gulf Cooperation Council is created between Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – In <a href=\"/wiki/Riyadh\" title=\"Riyadh\">Riyadh</a>, the <a href=\"/wiki/Gulf_Cooperation_Council\" title=\"Gulf Cooperation Council\">Gulf Cooperation Council</a> is created between <a href=\"/wiki/Bahrain\" title=\"Bahrain\">Bahrain</a>, <a href=\"/wiki/Kuwait\" title=\"Kuwait\">Kuwait</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a>, <a href=\"/wiki/Qatar\" title=\"Qatar\">Qatar</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a> and the <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a>.</li>",
+      "entities": [
+        {
+          "name": "Riyadh",
+          "url": "/wiki/Riyadh",
+          "length": 91532
+        },
+        {
+          "name": "Gulf Cooperation Council",
+          "url": "/wiki/Gulf_Cooperation_Council",
+          "length": 68085
+        },
+        {
+          "name": "Bahrain",
+          "url": "/wiki/Bahrain",
+          "length": 237957
+        },
+        {
+          "name": "Kuwait",
+          "url": "/wiki/Kuwait",
+          "length": 318972
+        },
+        {
+          "name": "Oman",
+          "url": "/wiki/Oman",
+          "length": 202174
+        },
+        {
+          "name": "Qatar",
+          "url": "/wiki/Qatar",
+          "length": 233670
+        },
+        {
+          "name": "Saudi Arabia",
+          "url": "/wiki/Saudi_Arabia",
+          "length": 311890
+        },
+        {
+          "name": "United Arab Emirates",
+          "url": "/wiki/United_Arab_Emirates",
+          "length": 252334
+        }
+      ]
+    },
+    {
+      "year": "1810",
+      "description": "May Revolution: Citizens of Buenos Aires expel Viceroy Baltasar Hidalgo de Cisneros during the \"May Week\", starting the Argentine War of Independence.",
+      "html": "<li>\n<a href=\"/wiki/1810\" title=\"1810\">1810</a> – <a href=\"/wiki/May_Revolution\" title=\"May Revolution\">May Revolution</a>: Citizens of <a href=\"/wiki/Buenos_Aires\" title=\"Buenos Aires\">Buenos Aires</a> expel <a href=\"/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata\" title=\"Viceroyalty of the Río de la Plata\">Viceroy</a> <a href=\"/wiki/Baltasar_Hidalgo_de_Cisneros\" title=\"Baltasar Hidalgo de Cisneros\">Baltasar Hidalgo de Cisneros</a> during the <a href=\"/wiki/May_Revolution#May_Week\" title=\"May Revolution\">\"May Week\"</a>, starting the <a href=\"/wiki/Argentine_War_of_Independence\" title=\"Argentine War of Independence\">Argentine War of Independence</a>.</li>",
+      "entities": [
+        {
+          "name": "May Revolution",
+          "url": "/wiki/May_Revolution",
+          "length": null
+        },
+        {
+          "name": "Buenos Aires",
+          "url": "/wiki/Buenos_Aires",
+          "length": null
+        },
+        {
+          "name": "Viceroyalty of the Río de la Plata",
+          "url": "/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata",
+          "length": null
+        },
+        {
+          "name": "Baltasar Hidalgo de Cisneros",
+          "url": "/wiki/Baltasar_Hidalgo_de_Cisneros",
+          "length": null
+        },
+        {
+          "name": "May Revolution",
+          "url": "/wiki/May_Revolution#May_Week",
+          "length": null
+        },
+        {
+          "name": "Argentine War of Independence",
+          "url": "/wiki/Argentine_War_of_Independence",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1933",
+      "description": "The Walt Disney Company cartoon Three Little Pigs premieres at Radio City Music Hall, featuring the hit song \"Who's Afraid of the Big Bad Wolf?\"",
+      "html": "<li>\n<a href=\"/wiki/1933\" title=\"1933\">1933</a> – <a href=\"/wiki/The_Walt_Disney_Company\" title=\"The Walt Disney Company\">The Walt Disney Company</a> <a href=\"/wiki/Cartoon\" title=\"Cartoon\">cartoon</a> <i><a href=\"/wiki/Three_Little_Pigs_(film)\" title=\"Three Little Pigs (film)\">Three Little Pigs</a></i> premieres at <a href=\"/wiki/Radio_City_Music_Hall\" title=\"Radio City Music Hall\">Radio City Music Hall</a>, featuring the hit song \"<a href=\"/wiki/Who%27s_Afraid_of_the_Big_Bad_Wolf%3F\" title=\"Who's Afraid of the Big Bad Wolf?\">Who's Afraid of the Big Bad Wolf?</a>\"<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "The Walt Disney Company",
+          "url": "/wiki/The_Walt_Disney_Company",
+          "length": 337632
+        },
+        {
+          "name": "Cartoon",
+          "url": "/wiki/Cartoon",
+          "length": 21948
+        },
+        {
+          "name": "Three Little Pigs (film)",
+          "url": "/wiki/Three_Little_Pigs_(film)",
+          "length": 23675
+        },
+        {
+          "name": "Radio City Music Hall",
+          "url": "/wiki/Radio_City_Music_Hall",
+          "length": 161954
+        },
+        {
+          "name": "Who's Afraid of the Big Bad Wolf?",
+          "url": "/wiki/Who%27s_Afraid_of_the_Big_Bad_Wolf%3F",
+          "length": 11028
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "NASA's Phoenix lander touches down in the Green Valley region of Mars to search for environments suitable for water and microbial life.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a>'s <i><a href=\"/wiki/Phoenix_(spacecraft)\" title=\"Phoenix (spacecraft)\">Phoenix</a></i> lander touches down in the <a href=\"/wiki/Green_Valley_(Mars)\" title=\"Green Valley (Mars)\">Green Valley</a> region of <a href=\"/wiki/Mars\" title=\"Mars\">Mars</a> to search for environments suitable for water and <a href=\"/wiki/Life_on_Mars\" title=\"Life on Mars\">microbial life</a>.</li>",
+      "entities": [
+        {
+          "name": "NASA",
+          "url": "/wiki/NASA",
+          "length": 228390
+        },
+        {
+          "name": "Phoenix (spacecraft)",
+          "url": "/wiki/Phoenix_(spacecraft)",
+          "length": 119884
+        },
+        {
+          "name": "Green Valley (Mars)",
+          "url": "/wiki/Green_Valley_(Mars)",
+          "length": 3861
+        },
+        {
+          "name": "Mars",
+          "url": "/wiki/Mars",
+          "length": 210834
+        },
+        {
+          "name": "Life on Mars",
+          "url": "/wiki/Life_on_Mars",
+          "length": 217121
+        }
+      ]
+    },
+    {
+      "year": "1738",
+      "description": "A treaty between Pennsylvania and Maryland ends the Conojocular War with settlement of a boundary dispute and exchange of prisoners.",
+      "html": "<li>\n<a href=\"/wiki/1738\" title=\"1738\">1738</a> – A treaty between <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a> and <a href=\"/wiki/Maryland\" title=\"Maryland\">Maryland</a> ends the <a href=\"/wiki/Cresap%27s_War\" title=\"Cresap's War\">Conojocular War</a> with settlement of a <a href=\"/wiki/Territorial_dispute\" title=\"Territorial dispute\">boundary dispute</a> and exchange of <a href=\"/wiki/Prisoner_of_war\" title=\"Prisoner of war\">prisoners</a>.</li>",
+      "entities": [
+        {
+          "name": "Pennsylvania",
+          "url": "/wiki/Pennsylvania",
+          "length": 197481
+        },
+        {
+          "name": "Maryland",
+          "url": "/wiki/Maryland",
+          "length": 221206
+        },
+        {
+          "name": "Cresap's War",
+          "url": "/wiki/Cresap%27s_War",
+          "length": 21516
+        },
+        {
+          "name": "Territorial dispute",
+          "url": "/wiki/Territorial_dispute",
+          "length": 8805
+        },
+        {
+          "name": "Prisoner of war",
+          "url": "/wiki/Prisoner_of_war",
+          "length": 134895
+        }
+      ]
+    },
+    {
+      "year": "1660",
+      "description": "Charles II lands at Dover at the invitation of the Convention Parliament, which marks the end of the Cromwell-proclaimed Commonwealth of England, Scotland and Ireland and begins the Restoration of the British monarchy.",
+      "html": "<li>\n<a href=\"/wiki/1660\" title=\"1660\">1660</a> – <a href=\"/wiki/Charles_II_of_England\" title=\"Charles II of England\">Charles II</a> lands at Dover at the invitation of the <a href=\"/wiki/Convention_Parliament_(England)\" title=\"Convention Parliament (England)\">Convention Parliament</a>, which marks the end of the <a href=\"/wiki/Cromwell\" class=\"mw-redirect\" title=\"Cromwell\">Cromwell</a>-proclaimed <a href=\"/wiki/Commonwealth_of_England,_Scotland_and_Ireland\" class=\"mw-redirect\" title=\"Commonwealth of England, Scotland and Ireland\">Commonwealth of England, Scotland and Ireland</a> and begins the <a href=\"/wiki/Stuart_Restoration\" title=\"Stuart Restoration\">Restoration of the British monarchy</a>.</li>",
+      "entities": [
+        {
+          "name": "Charles II of England",
+          "url": "/wiki/Charles_II_of_England",
+          "length": 85420
+        },
+        {
+          "name": "Convention Parliament (England)",
+          "url": "/wiki/Convention_Parliament_(England)",
+          "length": 9506
+        },
+        {
+          "name": "Cromwell",
+          "url": "/wiki/Cromwell",
+          "length": 112
+        },
+        {
+          "name": "Commonwealth of England, Scotland and Ireland",
+          "url": "/wiki/Commonwealth_of_England,_Scotland_and_Ireland",
+          "length": 183
+        },
+        {
+          "name": "Stuart Restoration",
+          "url": "/wiki/Stuart_Restoration",
+          "length": 39583
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "Larry Hogan, American politician, 62nd Governor of Maryland, was born.",
+      "html": "<li>1956   – <a href=\"/wiki/Larry_Hogan\" title=\"Larry Hogan\">Larry Hogan</a>, American politician, 62nd <a href=\"/wiki/Governor_of_Maryland\" title=\"Governor of Maryland\">Governor of Maryland</a>\n</li>",
+      "entities": [
+        {
+          "name": "Larry Hogan",
+          "url": "/wiki/Larry_Hogan",
+          "length": 231195
+        },
+        {
+          "name": "Governor of Maryland",
+          "url": "/wiki/Governor_of_Maryland",
+          "length": 26901
+        }
+      ]
+    },
+    {
+      "year": "1930",
+      "description": "Randall Davidson, Scottish-English archbishop, died.",
+      "html": "<li>\n<a href=\"/wiki/1930\" title=\"1930\">1930</a> – <a href=\"/wiki/Randall_Davidson\" title=\"Randall Davidson\">Randall Davidson</a>, Scottish-English archbishop (b. 1848)</li>",
+      "entities": [
+        {
+          "name": "Randall Davidson",
+          "url": "/wiki/Randall_Davidson",
+          "length": 79370
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1956",
+      "description": "Larry Hogan, American politician, 62nd Governor of Maryland, was born.",
+      "html": "<li>1956   – <a href=\"/wiki/Larry_Hogan\" title=\"Larry Hogan\">Larry Hogan</a>, American politician, 62nd <a href=\"/wiki/Governor_of_Maryland\" title=\"Governor of Maryland\">Governor of Maryland</a>\n</li>",
+      "entities": [
+        {
+          "name": "Larry Hogan",
+          "url": "/wiki/Larry_Hogan",
+          "length": 231195
+        },
+        {
+          "name": "Governor of Maryland",
+          "url": "/wiki/Governor_of_Maryland",
+          "length": 26901
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Roman Reigns, American football player and wrestler, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Roman_Reigns\" title=\"Roman Reigns\">Roman Reigns</a>, American football player and wrestler</li>",
+      "entities": [
+        {
+          "name": "Roman Reigns",
+          "url": "/wiki/Roman_Reigns",
+          "length": 229284
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Anne Heche, American actress, was born.",
+      "html": "<li>1969   – <a href=\"/wiki/Anne_Heche\" title=\"Anne Heche\">Anne Heche</a>, American actress (d. 2022)</li>",
+      "entities": [
+        {
+          "name": "Anne Heche",
+          "url": "/wiki/Anne_Heche",
+          "length": 169618
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2020",
+      "description": "George Floyd, African American man murdered by Minneapolis police officer Derek Chauvin, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/George_Floyd\" title=\"George Floyd\">George Floyd</a>, African American man <a href=\"/wiki/Murder_of_George_Floyd\" title=\"Murder of George Floyd\">murdered</a> by <a href=\"/wiki/Minneapolis\" title=\"Minneapolis\">Minneapolis</a> police officer <a href=\"/wiki/Derek_Chauvin\" title=\"Derek Chauvin\">Derek Chauvin</a> (b. 1973)<sup id=\"cite_ref-:0_44-0\" class=\"reference\"><a href=\"#cite_note-:0-44\"><span class=\"cite-bracket\">[</span>43<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "George Floyd",
+          "url": "/wiki/George_Floyd",
+          "length": 105684
+        },
+        {
+          "name": "Murder of George Floyd",
+          "url": "/wiki/Murder_of_George_Floyd",
+          "length": 213246
+        },
+        {
+          "name": "Minneapolis",
+          "url": "/wiki/Minneapolis",
+          "length": 321763
+        },
+        {
+          "name": "Derek Chauvin",
+          "url": "/wiki/Derek_Chauvin",
+          "length": 117438
+        }
+      ]
+    },
+    {
+      "year": "1934",
+      "description": "Gustav Holst, English trombonist, composer, and educator, died.",
+      "html": "<li>\n<a href=\"/wiki/1934\" title=\"1934\">1934</a> – <a href=\"/wiki/Gustav_Holst\" title=\"Gustav Holst\">Gustav Holst</a>, English trombonist, composer, and educator (b. 1874)</li>",
+      "entities": [
+        {
+          "name": "Gustav Holst",
+          "url": "/wiki/Gustav_Holst",
+          "length": 91200
+        }
+      ]
+    },
+    {
+      "year": "1930",
+      "description": "Randall Davidson, Scottish-English archbishop, died.",
+      "html": "<li>\n<a href=\"/wiki/1930\" title=\"1930\">1930</a> – <a href=\"/wiki/Randall_Davidson\" title=\"Randall Davidson\">Randall Davidson</a>, Scottish-English archbishop (b. 1848)</li>",
+      "entities": [
+        {
+          "name": "Randall Davidson",
+          "url": "/wiki/Randall_Davidson",
+          "length": 79370
+        }
+      ]
+    }
+  ]
+}

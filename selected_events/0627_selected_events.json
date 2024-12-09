@@ -1,0 +1,306 @@
+{
+  "events": [
+    {
+      "year": "2024",
+      "description": "U.S. president Joe Biden debates former U.S president Donald Trump. The debate leads to Biden's withdrawal from the election on July 21.",
+      "html": "<li>\n<a href=\"/wiki/2024\" title=\"2024\">2024</a> – <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">U.S. president</a> <a href=\"/wiki/Joe_Biden\" title=\"Joe Biden\">Joe Biden</a> <a href=\"/wiki/2024_United_States_presidential_debates#June_27:_First_presidential_debate_(CNN,_Atlanta)\" title=\"2024 United States presidential debates\">debates</a> former U.S president <a href=\"/wiki/Donald_Trump\" title=\"Donald Trump\">Donald Trump</a>. The debate leads to Biden's <a href=\"/wiki/Withdrawal_of_Joe_Biden_from_the_2024_United_States_presidential_election\" title=\"Withdrawal of Joe Biden from the 2024 United States presidential election\">withdrawal</a> from the <a href=\"/wiki/2024_United_States_presidential_election\" title=\"2024 United States presidential election\">election</a> on July 21.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": null
+        },
+        {
+          "name": "Joe Biden",
+          "url": "/wiki/Joe_Biden",
+          "length": null
+        },
+        {
+          "name": "2024 United States presidential debates",
+          "url": "/wiki/2024_United_States_presidential_debates#June_27:_First_presidential_debate_(CNN,_Atlanta)",
+          "length": null
+        },
+        {
+          "name": "Donald Trump",
+          "url": "/wiki/Donald_Trump",
+          "length": null
+        },
+        {
+          "name": "Withdrawal of Joe Biden from the 2024 United States presidential election",
+          "url": "/wiki/Withdrawal_of_Joe_Biden_from_the_2024_United_States_presidential_election",
+          "length": null
+        },
+        {
+          "name": "2024 United States presidential election",
+          "url": "/wiki/2024_United_States_presidential_election",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1760",
+      "description": "Anglo-Cherokee War: Cherokee warriors defeat British forces at the Battle of Echoee near present-day Otto, North Carolina.",
+      "html": "<li>\n<a href=\"/wiki/1760\" title=\"1760\">1760</a> – <a href=\"/wiki/Anglo-Cherokee_War\" title=\"Anglo-Cherokee War\">Anglo-Cherokee War</a>: <a href=\"/wiki/Cherokee\" title=\"Cherokee\">Cherokee</a> warriors defeat <a href=\"/wiki/British_Empire\" title=\"British Empire\">British</a> forces at the <a href=\"/wiki/Battle_of_Echoee\" title=\"Battle of Echoee\">Battle of Echoee</a> near present-day <a href=\"/wiki/Otto,_North_Carolina\" title=\"Otto, North Carolina\">Otto, North Carolina</a>.</li>",
+      "entities": [
+        {
+          "name": "Anglo-Cherokee War",
+          "url": "/wiki/Anglo-Cherokee_War",
+          "length": 18054
+        },
+        {
+          "name": "Cherokee",
+          "url": "/wiki/Cherokee",
+          "length": 116805
+        },
+        {
+          "name": "British Empire",
+          "url": "/wiki/British_Empire",
+          "length": 158590
+        },
+        {
+          "name": "Battle of Echoee",
+          "url": "/wiki/Battle_of_Echoee",
+          "length": 16718
+        },
+        {
+          "name": "Otto, North Carolina",
+          "url": "/wiki/Otto,_North_Carolina",
+          "length": 8314
+        }
+      ]
+    },
+    {
+      "year": "1844",
+      "description": "Joseph Smith, founder of the Latter Day Saint movement, and his brother Hyrum Smith, are killed by a mob at the Carthage, Illinois jail.",
+      "html": "<li>\n<a href=\"/wiki/1844\" title=\"1844\">1844</a> – <a href=\"/wiki/Joseph_Smith\" title=\"Joseph Smith\">Joseph Smith</a>, founder of the <a href=\"/wiki/Latter_Day_Saint_movement\" title=\"Latter Day Saint movement\">Latter Day Saint movement</a>, and his brother <a href=\"/wiki/Hyrum_Smith\" title=\"Hyrum Smith\">Hyrum Smith</a>, are <a href=\"/wiki/Death_of_Joseph_Smith\" class=\"mw-redirect\" title=\"Death of Joseph Smith\">killed by a mob</a> at the <a href=\"/wiki/Carthage,_Illinois\" title=\"Carthage, Illinois\">Carthage, Illinois</a> jail.</li>",
+      "entities": [
+        {
+          "name": "Joseph Smith",
+          "url": "/wiki/Joseph_Smith",
+          "length": 128493
+        },
+        {
+          "name": "Latter Day Saint movement",
+          "url": "/wiki/Latter_Day_Saint_movement",
+          "length": 27838
+        },
+        {
+          "name": "Hyrum Smith",
+          "url": "/wiki/Hyrum_Smith",
+          "length": 17002
+        },
+        {
+          "name": "Death of Joseph Smith",
+          "url": "/wiki/Death_of_Joseph_Smith",
+          "length": 112
+        },
+        {
+          "name": "Carthage, Illinois",
+          "url": "/wiki/Carthage,_Illinois",
+          "length": 16978
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "In a highly scrutinized election, President of Zimbabwe Robert Mugabe is re-elected in a landslide after his opponent Morgan Tsvangirai had withdrawn a week earlier, citing violence against his party's supporters.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – In a <a href=\"/wiki/2008_Zimbabwean_general_election\" title=\"2008 Zimbabwean general election\">highly scrutinized election</a>, <a href=\"/wiki/President_of_Zimbabwe\" title=\"President of Zimbabwe\">President of Zimbabwe</a> <a href=\"/wiki/Robert_Mugabe\" title=\"Robert Mugabe\">Robert Mugabe</a> is re-elected in a landslide after his opponent <a href=\"/wiki/Morgan_Tsvangirai\" title=\"Morgan Tsvangirai\">Morgan Tsvangirai</a> had withdrawn a week earlier, citing violence against <a href=\"/wiki/Movement_for_Democratic_Change_%E2%80%93_Tsvangirai\" title=\"Movement for Democratic Change – Tsvangirai\">his party</a>'s supporters.</li>",
+      "entities": [
+        {
+          "name": "2008 Zimbabwean general election",
+          "url": "/wiki/2008_Zimbabwean_general_election",
+          "length": 130283
+        },
+        {
+          "name": "President of Zimbabwe",
+          "url": "/wiki/President_of_Zimbabwe",
+          "length": 12622
+        },
+        {
+          "name": "Robert Mugabe",
+          "url": "/wiki/Robert_Mugabe",
+          "length": 179596
+        },
+        {
+          "name": "Morgan Tsvangirai",
+          "url": "/wiki/Morgan_Tsvangirai",
+          "length": 78332
+        },
+        {
+          "name": "Movement for Democratic Change – Tsvangirai",
+          "url": "/wiki/Movement_for_Democratic_Change_%E2%80%93_Tsvangirai",
+          "length": 24654
+        }
+      ]
+    },
+    {
+      "year": "1497",
+      "description": "Cornish rebels Michael An Gof and Thomas Flamank are executed at Tyburn, London, England.",
+      "html": "<li>\n<a href=\"/wiki/1497\" title=\"1497\">1497</a> – <a href=\"/wiki/Cornwall\" title=\"Cornwall\">Cornish</a> rebels <a href=\"/wiki/Michael_An_Gof\" title=\"Michael An Gof\">Michael An Gof</a> and <a href=\"/wiki/Thomas_Flamank\" title=\"Thomas Flamank\">Thomas Flamank</a> are executed at <a href=\"/wiki/Tyburn\" title=\"Tyburn\">Tyburn</a>, London, England.</li>",
+      "entities": [
+        {
+          "name": "Cornwall",
+          "url": "/wiki/Cornwall",
+          "length": 146962
+        },
+        {
+          "name": "Michael An Gof",
+          "url": "/wiki/Michael_An_Gof",
+          "length": 9224
+        },
+        {
+          "name": "Thomas Flamank",
+          "url": "/wiki/Thomas_Flamank",
+          "length": 8711
+        },
+        {
+          "name": "Tyburn",
+          "url": "/wiki/Tyburn",
+          "length": 39786
+        }
+      ]
+    },
+    {
+      "year": "1927",
+      "description": "Prime Minister of Japan Tanaka Giichi convenes an eleven-day conference to discuss Japan's strategy in China. The Tanaka Memorial, a forged plan for world domination, is later claimed to be a secret report leaked from this conference.",
+      "html": "<li>\n<a href=\"/wiki/1927\" title=\"1927\">1927</a> – <a href=\"/wiki/Prime_Minister_of_Japan\" title=\"Prime Minister of Japan\">Prime Minister of Japan</a> <a href=\"/wiki/Tanaka_Giichi\" title=\"Tanaka Giichi\">Tanaka Giichi</a> convenes an eleven-day conference to discuss <a href=\"/wiki/Empire_of_Japan\" title=\"Empire of Japan\">Japan</a>'s strategy in China. The <a href=\"/wiki/Tanaka_Memorial\" title=\"Tanaka Memorial\">Tanaka Memorial</a>, a forged plan for world domination, is later claimed to be a secret report leaked from this conference.</li>",
+      "entities": [
+        {
+          "name": "Prime Minister of Japan",
+          "url": "/wiki/Prime_Minister_of_Japan",
+          "length": 24426
+        },
+        {
+          "name": "Tanaka Giichi",
+          "url": "/wiki/Tanaka_Giichi",
+          "length": 17402
+        },
+        {
+          "name": "Empire of Japan",
+          "url": "/wiki/Empire_of_Japan",
+          "length": 144162
+        },
+        {
+          "name": "Tanaka Memorial",
+          "url": "/wiki/Tanaka_Memorial",
+          "length": 15689
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Nico Rosberg, German race car driver, was born.",
+      "html": "<li>1985 – <a href=\"/wiki/Nico_Rosberg\" title=\"Nico Rosberg\">Nico Rosberg</a>, German race car driver</li>",
+      "entities": [
+        {
+          "name": "Nico Rosberg",
+          "url": "/wiki/Nico_Rosberg",
+          "length": 177038
+        }
+      ]
+    },
+    {
+      "year": "1839",
+      "description": "Ranjit Singh, founder of the Sikh Empire, died.",
+      "html": "<li>\n<a href=\"/wiki/1839\" title=\"1839\">1839</a> – <a href=\"/wiki/Ranjit_Singh\" title=\"Ranjit Singh\">Ranjit Singh</a>, founder of the <a href=\"/wiki/Sikh_Empire\" title=\"Sikh Empire\">Sikh Empire</a> (b. 1780)</li>",
+      "entities": [
+        {
+          "name": "Ranjit Singh",
+          "url": "/wiki/Ranjit_Singh",
+          "length": 97645
+        },
+        {
+          "name": "Sikh Empire",
+          "url": "/wiki/Sikh_Empire",
+          "length": 91917
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1985",
+      "description": "Nico Rosberg, German race car driver, was born.",
+      "html": "<li>1985 – <a href=\"/wiki/Nico_Rosberg\" title=\"Nico Rosberg\">Nico Rosberg</a>, German race car driver</li>",
+      "entities": [
+        {
+          "name": "Nico Rosberg",
+          "url": "/wiki/Nico_Rosberg",
+          "length": 177038
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Svetlana Kuznetsova, Russian tennis player, was born.",
+      "html": "<li>1985 – <a href=\"/wiki/Svetlana_Kuznetsova\" title=\"Svetlana Kuznetsova\">Svetlana Kuznetsova</a>, Russian tennis player</li>",
+      "entities": [
+        {
+          "name": "Svetlana Kuznetsova",
+          "url": "/wiki/Svetlana_Kuznetsova",
+          "length": 152305
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Kevin Pietersen, South African-English cricketer, was born.",
+      "html": "<li>1980 – <a href=\"/wiki/Kevin_Pietersen\" title=\"Kevin Pietersen\">Kevin Pietersen</a>, South African-English cricketer</li>",
+      "entities": [
+        {
+          "name": "Kevin Pietersen",
+          "url": "/wiki/Kevin_Pietersen",
+          "length": 147185
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1844",
+      "description": "Joseph Smith, American religious leader, founded the Latter Day Saint movement, died.",
+      "html": "<li>1844 – <a href=\"/wiki/Joseph_Smith\" title=\"Joseph Smith\">Joseph Smith</a>, American religious leader, founded the <a href=\"/wiki/Latter_Day_Saint_movement\" title=\"Latter Day Saint movement\">Latter Day Saint movement</a> (b. 1805)</li>",
+      "entities": [
+        {
+          "name": "Joseph Smith",
+          "url": "/wiki/Joseph_Smith",
+          "length": 128493
+        },
+        {
+          "name": "Latter Day Saint movement",
+          "url": "/wiki/Latter_Day_Saint_movement",
+          "length": 27838
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Sam Manekshaw, Indian field marshal, died.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/Sam_Manekshaw\" title=\"Sam Manekshaw\">Sam Manekshaw</a>, Indian field marshal (b. 1914)</li>",
+      "entities": [
+        {
+          "name": "Sam Manekshaw",
+          "url": "/wiki/Sam_Manekshaw",
+          "length": 107180
+        }
+      ]
+    },
+    {
+      "year": "1839",
+      "description": "Ranjit Singh, founder of the Sikh Empire, died.",
+      "html": "<li>\n<a href=\"/wiki/1839\" title=\"1839\">1839</a> – <a href=\"/wiki/Ranjit_Singh\" title=\"Ranjit Singh\">Ranjit Singh</a>, founder of the <a href=\"/wiki/Sikh_Empire\" title=\"Sikh Empire\">Sikh Empire</a> (b. 1780)</li>",
+      "entities": [
+        {
+          "name": "Ranjit Singh",
+          "url": "/wiki/Ranjit_Singh",
+          "length": 97645
+        },
+        {
+          "name": "Sikh Empire",
+          "url": "/wiki/Sikh_Empire",
+          "length": 91917
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "1863",
+      "description": "American Civil War: In the Battle of Campbell's Station, Confederate troops unsuccessfully attack Union forces which allows General Ambrose Burnside to secure Knoxville, Tennessee.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: In the <a href=\"/wiki/Battle_of_Campbell%27s_Station\" title=\"Battle of Campbell's Station\">Battle of Campbell's Station</a>, <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> troops unsuccessfully attack <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> forces which allows General <a href=\"/wiki/Ambrose_Burnside\" title=\"Ambrose Burnside\">Ambrose Burnside</a> to secure <a href=\"/wiki/Knoxville,_Tennessee\" title=\"Knoxville, Tennessee\">Knoxville, Tennessee</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Battle of Campbell's Station",
+          "url": "/wiki/Battle_of_Campbell%27s_Station",
+          "length": 35242
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Ambrose Burnside",
+          "url": "/wiki/Ambrose_Burnside",
+          "length": 48531
+        },
+        {
+          "name": "Knoxville, Tennessee",
+          "url": "/wiki/Knoxville,_Tennessee",
+          "length": 167720
+        }
+      ]
+    },
+    {
+      "year": "1822",
+      "description": "American Old West: Missouri trader William Becknell arrives in Santa Fe, New Mexico, over a route that became known as the Santa Fe Trail.",
+      "html": "<li>\n<a href=\"/wiki/1822\" title=\"1822\">1822</a> – <a href=\"/wiki/American_Old_West\" class=\"mw-redirect\" title=\"American Old West\">American Old West</a>: <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a> trader <a href=\"/wiki/William_Becknell\" title=\"William Becknell\">William Becknell</a> arrives in <a href=\"/wiki/Santa_Fe,_New_Mexico\" title=\"Santa Fe, New Mexico\">Santa Fe, New Mexico</a>, over a route that became known as the <a href=\"/wiki/Santa_Fe_Trail\" title=\"Santa Fe Trail\">Santa Fe Trail</a>.</li>",
+      "entities": [
+        {
+          "name": "American Old West",
+          "url": "/wiki/American_Old_West",
+          "length": 147
+        },
+        {
+          "name": "Missouri",
+          "url": "/wiki/Missouri",
+          "length": 156568
+        },
+        {
+          "name": "William Becknell",
+          "url": "/wiki/William_Becknell",
+          "length": 10846
+        },
+        {
+          "name": "Santa Fe, New Mexico",
+          "url": "/wiki/Santa_Fe,_New_Mexico",
+          "length": 95799
+        },
+        {
+          "name": "Santa Fe Trail",
+          "url": "/wiki/Santa_Fe_Trail",
+          "length": 34253
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Pop_music\" title=\"Pop music\">Pop group</a> <a href=\"/wiki/Milli_Vanilli\" title=\"Milli Vanilli\">Milli Vanilli</a> are stripped of their <a href=\"/wiki/Grammy_Award\" class=\"mw-redirect\" title=\"Grammy Award\">Grammy Award</a> because the duo did not sing at all on the <i><a href=\"/wiki/All_or_Nothing_(Milli_Vanilli_album)\" title=\"All or Nothing (Milli Vanilli album)\">Girl You Know It's True</a></i> album. <a href=\"/wiki/Session_musician\" title=\"Session musician\">Session musicians</a> had provided all the vocals.</li>",
+      "entities": [
+        {
+          "name": "Pop music",
+          "url": "/wiki/Pop_music",
+          "length": 46211
+        },
+        {
+          "name": "Milli Vanilli",
+          "url": "/wiki/Milli_Vanilli",
+          "length": 63765
+        },
+        {
+          "name": "Grammy Award",
+          "url": "/wiki/Grammy_Award",
+          "length": 74
+        },
+        {
+          "name": "All or Nothing (Milli Vanilli album)",
+          "url": "/wiki/All_or_Nothing_(Milli_Vanilli_album)",
+          "length": 9109
+        },
+        {
+          "name": "Session musician",
+          "url": "/wiki/Session_musician",
+          "length": 20048
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.",
+      "html": "<li>\n<a href=\"/wiki/1965\" title=\"1965\">1965</a> – <a href=\"/wiki/Venera_program\" class=\"mw-redirect\" title=\"Venera program\">Venera program</a>: The Soviet Union launches the <i><a href=\"/wiki/Venera_3\" title=\"Venera 3\">Venera 3</a></i> space probe toward <a href=\"/wiki/Venus\" title=\"Venus\">Venus</a>, which will be the first <a href=\"/wiki/Spacecraft\" title=\"Spacecraft\">spacecraft</a> to reach the surface of another <a href=\"/wiki/Planet\" title=\"Planet\">planet</a>.</li>",
+      "entities": [
+        {
+          "name": "Venera program",
+          "url": "/wiki/Venera_program",
+          "length": 20
+        },
+        {
+          "name": "Venera 3",
+          "url": "/wiki/Venera_3",
+          "length": 8172
+        },
+        {
+          "name": "Venus",
+          "url": "/wiki/Venus",
+          "length": 221844
+        },
+        {
+          "name": "Spacecraft",
+          "url": "/wiki/Spacecraft",
+          "length": 50000
+        },
+        {
+          "name": "Planet",
+          "url": "/wiki/Planet",
+          "length": 202427
+        }
+      ]
+    },
+    {
+      "year": "1973",
+      "description": "Skylab program: NASA launches Skylab 4 with a crew of three astronauts from Cape Canaveral, Florida for an 84-day mission.",
+      "html": "<li>\n<a href=\"/wiki/1973\" title=\"1973\">1973</a> – <a href=\"/wiki/Skylab\" title=\"Skylab\">Skylab</a> program: <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a> launches <i><a href=\"/wiki/Skylab_4\" title=\"Skylab 4\">Skylab 4</a></i> with a crew of three <a href=\"/wiki/Astronaut\" title=\"Astronaut\">astronauts</a> from <a href=\"/wiki/Cape_Canaveral,_Florida\" title=\"Cape Canaveral, Florida\">Cape Canaveral, Florida</a> for an 84-day mission.<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Skylab",
+          "url": "/wiki/Skylab",
+          "length": 113029
+        },
+        {
+          "name": "NASA",
+          "url": "/wiki/NASA",
+          "length": 228390
+        },
+        {
+          "name": "Skylab 4",
+          "url": "/wiki/Skylab_4",
+          "length": 42138
+        },
+        {
+          "name": "Astronaut",
+          "url": "/wiki/Astronaut",
+          "length": 83416
+        },
+        {
+          "name": "Cape Canaveral, Florida",
+          "url": "/wiki/Cape_Canaveral,_Florida",
+          "length": 30658
+        }
+      ]
+    },
+    {
+      "year": "1491",
+      "description": "An auto-da-fé, held in the Brasero de la Dehesa outside of Ávila, concludes the case of the Holy Child of La Guardia with the public execution of several Jewish and converso suspects.",
+      "html": "<li>\n<a href=\"/wiki/1491\" title=\"1491\">1491</a> – An <a href=\"/wiki/Auto-da-f%C3%A9\" title=\"Auto-da-fé\">auto-da-fé</a>, held in the Brasero de la Dehesa outside of <a href=\"/wiki/%C3%81vila,_Spain\" class=\"mw-redirect\" title=\"Ávila, Spain\">Ávila</a>, concludes the case of the <a href=\"/wiki/Holy_Child_of_La_Guardia\" title=\"Holy Child of La Guardia\">Holy Child of La Guardia</a> with the public execution of several Jewish and <a href=\"/wiki/Converso\" title=\"Converso\">converso</a> suspects.</li>",
+      "entities": [
+        {
+          "name": "Auto-da-fé",
+          "url": "/wiki/Auto-da-f%C3%A9",
+          "length": 18346
+        },
+        {
+          "name": "Ávila, Spain",
+          "url": "/wiki/%C3%81vila,_Spain",
+          "length": 95
+        },
+        {
+          "name": "Holy Child of La Guardia",
+          "url": "/wiki/Holy_Child_of_La_Guardia",
+          "length": 20259
+        },
+        {
+          "name": "Converso",
+          "url": "/wiki/Converso",
+          "length": 27129
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "Maggie Gyllenhaal, American actress and singer, was born.",
+      "html": "<li>1977   – <a href=\"/wiki/Maggie_Gyllenhaal\" title=\"Maggie Gyllenhaal\">Maggie Gyllenhaal</a>, American actress and singer<sup id=\"cite_ref-AP_28-13\" class=\"reference\"><a href=\"#cite_note-AP-28\"><span class=\"cite-bracket\">[</span>28<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Maggie Gyllenhaal",
+          "url": "/wiki/Maggie_Gyllenhaal",
+          "length": 146067
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Clark Gable, American actor, died.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Clark_Gable\" title=\"Clark Gable\">Clark Gable</a>, American actor (b. 1901)<sup id=\"cite_ref-59\" class=\"reference\"><a href=\"#cite_note-59\"><span class=\"cite-bracket\">[</span>59<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Clark Gable",
+          "url": "/wiki/Clark_Gable",
+          "length": 110530
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1956",
+      "description": "Terry Labonte, American race car driver and businessman, was born.",
+      "html": "<li>\n<a href=\"/wiki/1956\" title=\"1956\">1956</a> – <a href=\"/wiki/Terry_Labonte\" title=\"Terry Labonte\">Terry Labonte</a>, American race car driver and businessman</li>",
+      "entities": [
+        {
+          "name": "Terry Labonte",
+          "url": "/wiki/Terry_Labonte",
+          "length": 156606
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "Maggie Gyllenhaal, American actress and singer, was born.",
+      "html": "<li>1977   – <a href=\"/wiki/Maggie_Gyllenhaal\" title=\"Maggie Gyllenhaal\">Maggie Gyllenhaal</a>, American actress and singer<sup id=\"cite_ref-AP_28-13\" class=\"reference\"><a href=\"#cite_note-AP-28\"><span class=\"cite-bracket\">[</span>28<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Maggie Gyllenhaal",
+          "url": "/wiki/Maggie_Gyllenhaal",
+          "length": 146067
+        }
+      ]
+    },
+    {
+      "year": "1836",
+      "description": "Kalākaua of Hawaii, was born.",
+      "html": "<li>\n<a href=\"/wiki/1836\" title=\"1836\">1836</a> – <a href=\"/wiki/Kal%C4%81kaua\" title=\"Kalākaua\">Kalākaua</a> of Hawaii (d. 1891)</li>",
+      "entities": [
+        {
+          "name": "Kalākaua",
+          "url": "/wiki/Kal%C4%81kaua",
+          "length": 141553
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2006",
+      "description": "Milton Friedman, American economist and academic, Nobel Prize laureate, died.",
+      "html": "<li>\n<a href=\"/wiki/2006\" title=\"2006\">2006</a> – <a href=\"/wiki/Milton_Friedman\" title=\"Milton Friedman\">Milton Friedman</a>, American economist and academic, <a href=\"/wiki/Nobel_Memorial_Prize_in_Economic_Sciences\" title=\"Nobel Memorial Prize in Economic Sciences\">Nobel Prize</a> laureate (b. 1912)</li>",
+      "entities": [
+        {
+          "name": "Milton Friedman",
+          "url": "/wiki/Milton_Friedman",
+          "length": 161791
+        },
+        {
+          "name": "Nobel Memorial Prize in Economic Sciences",
+          "url": "/wiki/Nobel_Memorial_Prize_in_Economic_Sciences",
+          "length": 44755
+        }
+      ]
+    },
+    {
+      "year": "1272",
+      "description": "Henry III of England, died.",
+      "html": "<li>\n<a href=\"/wiki/1272\" title=\"1272\">1272</a> – <a href=\"/wiki/Henry_III_of_England\" title=\"Henry III of England\">Henry III of England</a> (b. 1207)<sup id=\"cite_ref-55\" class=\"reference\"><a href=\"#cite_note-55\"><span class=\"cite-bracket\">[</span>55<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Henry III of England",
+          "url": "/wiki/Henry_III_of_England",
+          "length": 137048
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Clark Gable, American actor, died.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Clark_Gable\" title=\"Clark Gable\">Clark Gable</a>, American actor (b. 1901)<sup id=\"cite_ref-59\" class=\"reference\"><a href=\"#cite_note-59\"><span class=\"cite-bracket\">[</span>59<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Clark Gable",
+          "url": "/wiki/Clark_Gable",
+          "length": 110530
+        }
+      ]
+    }
+  ]
+}

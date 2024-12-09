@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "962",
+      "description": "The Sack of Aleppo as part of the Arab–Byzantine wars: Under the future Emperor Nicephorus Phocas, Byzantine troops storm the city of Aleppo.",
+      "html": "<li>\n<a href=\"/wiki/962\" title=\"962\">962</a> – The <a href=\"/wiki/Sack_of_Aleppo_(962)\" title=\"Sack of Aleppo (962)\">Sack of Aleppo</a> as part of the <a href=\"/wiki/Arab%E2%80%93Byzantine_wars\" title=\"Arab–Byzantine wars\">Arab–Byzantine wars</a>: Under the future <a href=\"/wiki/List_of_Byzantine_emperors\" title=\"List of Byzantine emperors\">Emperor</a> <a href=\"/wiki/Nikephoros_II_Phokas\" title=\"Nikephoros II Phokas\">Nicephorus Phocas</a>, <a href=\"/wiki/Byzantine_army\" title=\"Byzantine army\">Byzantine troops</a> storm the city of <a href=\"/wiki/Aleppo\" title=\"Aleppo\">Aleppo</a>.</li>",
+      "entities": [
+        {
+          "name": "Sack of Aleppo (962)",
+          "url": "/wiki/Sack_of_Aleppo_(962)",
+          "length": 12401
+        },
+        {
+          "name": "Arab–Byzantine wars",
+          "url": "/wiki/Arab%E2%80%93Byzantine_wars",
+          "length": 73237
+        },
+        {
+          "name": "List of Byzantine emperors",
+          "url": "/wiki/List_of_Byzantine_emperors",
+          "length": 89137
+        },
+        {
+          "name": "Nikephoros II Phokas",
+          "url": "/wiki/Nikephoros_II_Phokas",
+          "length": 33633
+        },
+        {
+          "name": "Byzantine army",
+          "url": "/wiki/Byzantine_army",
+          "length": 108416
+        },
+        {
+          "name": "Aleppo",
+          "url": "/wiki/Aleppo",
+          "length": 189147
+        }
+      ]
+    },
+    {
+      "year": "1598",
+      "description": "Arauco War: Governor of Chile Martín García Óñez de Loyola is killed in the Battle of Curalaba by Mapuches led by Pelantaru.",
+      "html": "<li>\n<a href=\"/wiki/1598\" title=\"1598\">1598</a> – <a href=\"/wiki/Arauco_War\" title=\"Arauco War\">Arauco War</a>: <a href=\"/wiki/Governor_of_Chile\" class=\"mw-redirect\" title=\"Governor of Chile\">Governor of Chile</a> <a href=\"/wiki/Mart%C3%ADn_Garc%C3%ADa_%C3%93%C3%B1ez_de_Loyola\" title=\"Martín García Óñez de Loyola\">Martín García Óñez de Loyola</a> is killed in the <a href=\"/wiki/Battle_of_Curalaba\" title=\"Battle of Curalaba\">Battle of Curalaba</a> by <a href=\"/wiki/Mapuche\" title=\"Mapuche\">Mapuches</a> led by <a href=\"/wiki/Pelantaru\" class=\"mw-redirect\" title=\"Pelantaru\">Pelantaru</a>.</li>",
+      "entities": [
+        {
+          "name": "Arauco War",
+          "url": "/wiki/Arauco_War",
+          "length": 68979
+        },
+        {
+          "name": "Governor of Chile",
+          "url": "/wiki/Governor_of_Chile",
+          "length": 36
+        },
+        {
+          "name": "Martín García Óñez de Loyola",
+          "url": "/wiki/Mart%C3%ADn_Garc%C3%ADa_%C3%93%C3%B1ez_de_Loyola",
+          "length": 9296
+        },
+        {
+          "name": "Battle of Curalaba",
+          "url": "/wiki/Battle_of_Curalaba",
+          "length": 4413
+        },
+        {
+          "name": "Mapuche",
+          "url": "/wiki/Mapuche",
+          "length": 70223
+        },
+        {
+          "name": "Pelantaru",
+          "url": "/wiki/Pelantaru",
+          "length": 22
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Voyager, piloted by Dick Rutan and Jeana Yeager, lands at Edwards Air Force Base in California becoming the first aircraft to fly non-stop around the world without aerial or ground refueling.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <i><a href=\"/wiki/Rutan_Voyager\" title=\"Rutan Voyager\">Voyager</a></i>, piloted by <a href=\"/wiki/Dick_Rutan\" title=\"Dick Rutan\">Dick Rutan</a> and <a href=\"/wiki/Jeana_Yeager\" title=\"Jeana Yeager\">Jeana Yeager</a>, lands at <a href=\"/wiki/Edwards_Air_Force_Base\" title=\"Edwards Air Force Base\">Edwards Air Force Base</a> in <a href=\"/wiki/California\" title=\"California\">California</a> becoming the first aircraft to fly non-stop around the world without <a href=\"/wiki/Aerial_refueling\" title=\"Aerial refueling\">aerial</a> or ground refueling.</li>",
+      "entities": [
+        {
+          "name": "Rutan Voyager",
+          "url": "/wiki/Rutan_Voyager",
+          "length": 15154
+        },
+        {
+          "name": "Dick Rutan",
+          "url": "/wiki/Dick_Rutan",
+          "length": 21519
+        },
+        {
+          "name": "Jeana Yeager",
+          "url": "/wiki/Jeana_Yeager",
+          "length": 9028
+        },
+        {
+          "name": "Edwards Air Force Base",
+          "url": "/wiki/Edwards_Air_Force_Base",
+          "length": 84960
+        },
+        {
+          "name": "California",
+          "url": "/wiki/California",
+          "length": 281839
+        },
+        {
+          "name": "Aerial refueling",
+          "url": "/wiki/Aerial_refueling",
+          "length": 84362
+        }
+      ]
+    },
+    {
+      "year": "1783",
+      "description": "George Washington resigns as commander-in-chief of the Continental Army at the Maryland State House in Annapolis, Maryland.",
+      "html": "<li>\n<a href=\"/wiki/1783\" title=\"1783\">1783</a> – <a href=\"/wiki/George_Washington\" title=\"George Washington\">George Washington</a> <a href=\"/wiki/George_Washington%27s_resignation_as_commander-in-chief\" title=\"George Washington's resignation as commander-in-chief\">resigns as commander-in-chief</a> of the <a href=\"/wiki/Continental_Army\" title=\"Continental Army\">Continental Army</a> at the <a href=\"/wiki/Maryland_State_House\" title=\"Maryland State House\">Maryland State House</a> in <a href=\"/wiki/Annapolis,_Maryland\" title=\"Annapolis, Maryland\">Annapolis, Maryland</a>.</li>",
+      "entities": [
+        {
+          "name": "George Washington",
+          "url": "/wiki/George_Washington",
+          "length": 223195
+        },
+        {
+          "name": "George Washington's resignation as commander-in-chief",
+          "url": "/wiki/George_Washington%27s_resignation_as_commander-in-chief",
+          "length": 18787
+        },
+        {
+          "name": "Continental Army",
+          "url": "/wiki/Continental_Army",
+          "length": 56496
+        },
+        {
+          "name": "Maryland State House",
+          "url": "/wiki/Maryland_State_House",
+          "length": 28668
+        },
+        {
+          "name": "Annapolis, Maryland",
+          "url": "/wiki/Annapolis,_Maryland",
+          "length": 93704
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "The first film adaptation of Väinö Linna's novel The Unknown Soldier, directed by Edvin Laine, premieres.",
+      "html": "<li>\n<a href=\"/wiki/1955\" title=\"1955\">1955</a> – The <a href=\"/wiki/The_Unknown_Soldier_(1955_film)\" title=\"The Unknown Soldier (1955 film)\">first film adaptation</a> of <a href=\"/wiki/V%C3%A4in%C3%B6_Linna\" title=\"Väinö Linna\">Väinö Linna</a>'s novel <i><a href=\"/wiki/The_Unknown_Soldier_(novel)\" title=\"The Unknown Soldier (novel)\">The Unknown Soldier</a></i>, directed by <a href=\"/wiki/Edvin_Laine\" title=\"Edvin Laine\">Edvin Laine</a>, premieres.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "The Unknown Soldier (1955 film)",
+          "url": "/wiki/The_Unknown_Soldier_(1955_film)",
+          "length": 12122
+        },
+        {
+          "name": "Väinö Linna",
+          "url": "/wiki/V%C3%A4in%C3%B6_Linna",
+          "length": 10031
+        },
+        {
+          "name": "The Unknown Soldier (novel)",
+          "url": "/wiki/The_Unknown_Soldier_(novel)",
+          "length": 24040
+        },
+        {
+          "name": "Edvin Laine",
+          "url": "/wiki/Edvin_Laine",
+          "length": 3684
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "description": "Colombia becomes a signatory to the Buenos Aires copyright treaty.",
+      "html": "<li>\n<a href=\"/wiki/1936\" title=\"1936\">1936</a> – <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a> becomes a signatory to the <a href=\"/wiki/Buenos_Aires_Convention\" title=\"Buenos Aires Convention\">Buenos Aires</a> <a href=\"/wiki/Copyright\" title=\"Copyright\">copyright</a> <a href=\"/wiki/Treaty\" title=\"Treaty\">treaty</a>.</li>",
+      "entities": [
+        {
+          "name": "Colombia",
+          "url": "/wiki/Colombia",
+          "length": 301848
+        },
+        {
+          "name": "Buenos Aires Convention",
+          "url": "/wiki/Buenos_Aires_Convention",
+          "length": 9691
+        },
+        {
+          "name": "Copyright",
+          "url": "/wiki/Copyright",
+          "length": 94902
+        },
+        {
+          "name": "Treaty",
+          "url": "/wiki/Treaty",
+          "length": 65740
+        }
+      ]
+    },
+    {
+      "year": "1805",
+      "description": "Joseph Smith, American religious leader, founder of the Latter Day Saint movement, was born.",
+      "html": "<li>\n<a href=\"/wiki/1805\" title=\"1805\">1805</a> – <a href=\"/wiki/Joseph_Smith\" title=\"Joseph Smith\">Joseph Smith</a>, American religious leader, founder of the <a href=\"/wiki/Latter_Day_Saint_movement\" title=\"Latter Day Saint movement\">Latter Day Saint movement</a> (d. 1844)</li>",
+      "entities": [
+        {
+          "name": "Joseph Smith",
+          "url": "/wiki/Joseph_Smith",
+          "length": 128493
+        },
+        {
+          "name": "Latter Day Saint movement",
+          "url": "/wiki/Latter_Day_Saint_movement",
+          "length": 27838
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "description": "P. V. Narasimha Rao, Indian lawyer and politician, 9th Prime Minister of India, died.",
+      "html": "<li>\n<a href=\"/wiki/2004\" title=\"2004\">2004</a> – <a href=\"/wiki/P._V._Narasimha_Rao\" title=\"P. V. Narasimha Rao\">P. V. Narasimha Rao</a>, Indian lawyer and politician, 9th <a href=\"/wiki/Prime_Minister_of_India\" title=\"Prime Minister of India\">Prime Minister of India</a> (b. 1921)</li>",
+      "entities": [
+        {
+          "name": "P. V. Narasimha Rao",
+          "url": "/wiki/P._V._Narasimha_Rao",
+          "length": 102830
+        },
+        {
+          "name": "Prime Minister of India",
+          "url": "/wiki/Prime_Minister_of_India",
+          "length": 87530
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1963",
+      "description": "Jim Harbaugh, American football player and coach, was born.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Jim_Harbaugh\" title=\"Jim Harbaugh\">Jim Harbaugh</a>, American football player and coach</li>",
+      "entities": [
+        {
+          "name": "Jim Harbaugh",
+          "url": "/wiki/Jim_Harbaugh",
+          "length": 198159
+        }
+      ]
+    },
+    {
+      "year": "1964",
+      "description": "Eddie Vedder, American singer-songwriter and guitarist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Eddie_Vedder\" title=\"Eddie Vedder\">Eddie Vedder</a>, American singer-songwriter and guitarist<sup id=\"cite_ref-AP_27-8\" class=\"reference\"><a href=\"#cite_note-AP-27\"><span class=\"cite-bracket\">[</span>27<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Eddie Vedder",
+          "url": "/wiki/Eddie_Vedder",
+          "length": 135126
+        }
+      ]
+    },
+    {
+      "year": "1805",
+      "description": "Joseph Smith, American religious leader, founder of the Latter Day Saint movement, was born.",
+      "html": "<li>\n<a href=\"/wiki/1805\" title=\"1805\">1805</a> – <a href=\"/wiki/Joseph_Smith\" title=\"Joseph Smith\">Joseph Smith</a>, American religious leader, founder of the <a href=\"/wiki/Latter_Day_Saint_movement\" title=\"Latter Day Saint movement\">Latter Day Saint movement</a> (d. 1844)</li>",
+      "entities": [
+        {
+          "name": "Joseph Smith",
+          "url": "/wiki/Joseph_Smith",
+          "length": 128493
+        },
+        {
+          "name": "Latter Day Saint movement",
+          "url": "/wiki/Latter_Day_Saint_movement",
+          "length": 27838
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2004",
+      "description": "P. V. Narasimha Rao, Indian lawyer and politician, 9th Prime Minister of India, died.",
+      "html": "<li>\n<a href=\"/wiki/2004\" title=\"2004\">2004</a> – <a href=\"/wiki/P._V._Narasimha_Rao\" title=\"P. V. Narasimha Rao\">P. V. Narasimha Rao</a>, Indian lawyer and politician, 9th <a href=\"/wiki/Prime_Minister_of_India\" title=\"Prime Minister of India\">Prime Minister of India</a> (b. 1921)</li>",
+      "entities": [
+        {
+          "name": "P. V. Narasimha Rao",
+          "url": "/wiki/P._V._Narasimha_Rao",
+          "length": 102830
+        },
+        {
+          "name": "Prime Minister of India",
+          "url": "/wiki/Prime_Minister_of_India",
+          "length": 87530
+        }
+      ]
+    },
+    {
+      "year": "1953",
+      "description": "Lavrentiy Beria,  Soviet general and politician, head of the People's Commissariat for Internal Affairs, died.",
+      "html": "<li>\n<a href=\"/wiki/1953\" title=\"1953\">1953</a> – <a href=\"/wiki/Lavrentiy_Beria\" title=\"Lavrentiy Beria\">Lavrentiy Beria</a>,  Soviet general and politician, head of the <a href=\"/wiki/NKVD\" title=\"NKVD\">People's Commissariat for Internal Affairs</a>  (b. 1899)</li>",
+      "entities": [
+        {
+          "name": "Lavrentiy Beria",
+          "url": "/wiki/Lavrentiy_Beria",
+          "length": 91297
+        },
+        {
+          "name": "NKVD",
+          "url": "/wiki/NKVD",
+          "length": 44212
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "description": "Hideki Tojo, Japanese general and politician, 40th Prime Minister of Japan, died.",
+      "html": "<li>1948   – <a href=\"/wiki/Hideki_Tojo\" title=\"Hideki Tojo\">Hideki Tojo</a>, Japanese general and politician, 40th <a href=\"/wiki/Prime_Minister_of_Japan\" title=\"Prime Minister of Japan\">Prime Minister of Japan</a> (b. 1884)</li>",
+      "entities": [
+        {
+          "name": "Hideki Tojo",
+          "url": "/wiki/Hideki_Tojo",
+          "length": 88092
+        },
+        {
+          "name": "Prime Minister of Japan",
+          "url": "/wiki/Prime_Minister_of_Japan",
+          "length": 24426
+        }
+      ]
+    }
+  ]
+}

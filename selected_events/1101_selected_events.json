@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "1956",
+      "description": "The Indian states Kerala, Andhra Pradesh, and Mysore are formally created under the States Reorganisation Act; Kanyakumari district is joined to Tamil Nadu from Kerala. Delhi was established as a union territory.",
+      "html": "<li>\n<a href=\"/wiki/1956\" title=\"1956\">1956</a> – The Indian states <a href=\"/wiki/Kerala\" title=\"Kerala\">Kerala</a>, <a href=\"/wiki/Andhra_Pradesh\" title=\"Andhra Pradesh\">Andhra Pradesh</a>, and <a href=\"/wiki/Mysore_State\" title=\"Mysore State\">Mysore</a> are formally created under the <a href=\"/wiki/States_Reorganisation_Act,_1956\" title=\"States Reorganisation Act, 1956\">States Reorganisation Act</a>; <a href=\"/wiki/Kanyakumari\" title=\"Kanyakumari\">Kanyakumari</a> district is joined to <a href=\"/wiki/Tamil_Nadu\" title=\"Tamil Nadu\">Tamil Nadu</a> from <a href=\"/wiki/Kerala\" title=\"Kerala\">Kerala</a>. <a href=\"/wiki/Delhi\" title=\"Delhi\">Delhi</a> was established as a <a href=\"/wiki/Union_territory\" title=\"Union territory\">union territory</a>.</li>",
+      "entities": [
+        {
+          "name": "Kerala",
+          "url": "/wiki/Kerala",
+          "length": 344554
+        },
+        {
+          "name": "Andhra Pradesh",
+          "url": "/wiki/Andhra_Pradesh",
+          "length": 203220
+        },
+        {
+          "name": "Mysore State",
+          "url": "/wiki/Mysore_State",
+          "length": 16736
+        },
+        {
+          "name": "States Reorganisation Act, 1956",
+          "url": "/wiki/States_Reorganisation_Act,_1956",
+          "length": 15756
+        },
+        {
+          "name": "Kanyakumari",
+          "url": "/wiki/Kanyakumari",
+          "length": 29434
+        },
+        {
+          "name": "Tamil Nadu",
+          "url": "/wiki/Tamil_Nadu",
+          "length": 328396
+        },
+        {
+          "name": "Kerala",
+          "url": "/wiki/Kerala",
+          "length": null
+        },
+        {
+          "name": "Delhi",
+          "url": "/wiki/Delhi",
+          "length": 216424
+        },
+        {
+          "name": "Union territory",
+          "url": "/wiki/Union_territory",
+          "length": 24206
+        }
+      ]
+    },
+    {
+      "year": "365",
+      "description": "The Alemanni cross the Rhine and invade Gaul. Emperor Valentinian I moves to Paris to command the army and defend the Gallic cities.",
+      "html": "<li>\n<a href=\"/wiki/AD_365\" title=\"AD 365\">365</a> – The <a href=\"/wiki/Alemanni\" title=\"Alemanni\">Alemanni</a> cross the <a href=\"/wiki/Rhine\" title=\"Rhine\">Rhine</a> and invade <a href=\"/wiki/Gaul\" title=\"Gaul\">Gaul</a>. Emperor <a href=\"/wiki/Valentinian_I\" title=\"Valentinian I\">Valentinian I</a> moves to <a href=\"/wiki/Paris\" title=\"Paris\">Paris</a> to command the army and defend the Gallic cities.</li>",
+      "entities": [
+        {
+          "name": "AD 365",
+          "url": "/wiki/AD_365",
+          "length": 4233
+        },
+        {
+          "name": "Alemanni",
+          "url": "/wiki/Alemanni",
+          "length": 39948
+        },
+        {
+          "name": "Rhine",
+          "url": "/wiki/Rhine",
+          "length": 97190
+        },
+        {
+          "name": "Gaul",
+          "url": "/wiki/Gaul",
+          "length": 36277
+        },
+        {
+          "name": "Valentinian I",
+          "url": "/wiki/Valentinian_I",
+          "length": 42086
+        },
+        {
+          "name": "Paris",
+          "url": "/wiki/Paris",
+          "length": 251755
+        }
+      ]
+    },
+    {
+      "year": "1950",
+      "description": "Puerto Rican nationalists Griselio Torresola and Oscar Collazo attempt to assassinate US President Harry S. Truman at Blair House.",
+      "html": "<li>\n<a href=\"/wiki/1950\" title=\"1950\">1950</a> – <a href=\"/wiki/Puerto_Rico\" title=\"Puerto Rico\">Puerto Rican</a> nationalists <a href=\"/wiki/Griselio_Torresola\" title=\"Griselio Torresola\">Griselio Torresola</a> and <a href=\"/wiki/Oscar_Collazo\" title=\"Oscar Collazo\">Oscar Collazo</a> <a href=\"/wiki/Attempted_assassination_of_Harry_S._Truman\" title=\"Attempted assassination of Harry S. Truman\">attempt to assassinate</a> US President <a href=\"/wiki/Harry_S._Truman\" title=\"Harry S. Truman\">Harry S. Truman</a> at <a href=\"/wiki/Blair_House\" title=\"Blair House\">Blair House</a>.</li>",
+      "entities": [
+        {
+          "name": "Puerto Rico",
+          "url": "/wiki/Puerto_Rico",
+          "length": 262785
+        },
+        {
+          "name": "Griselio Torresola",
+          "url": "/wiki/Griselio_Torresola",
+          "length": 9474
+        },
+        {
+          "name": "Oscar Collazo",
+          "url": "/wiki/Oscar_Collazo",
+          "length": 13825
+        },
+        {
+          "name": "Attempted assassination of Harry S. Truman",
+          "url": "/wiki/Attempted_assassination_of_Harry_S._Truman",
+          "length": 22276
+        },
+        {
+          "name": "Harry S. Truman",
+          "url": "/wiki/Harry_S._Truman",
+          "length": 227506
+        },
+        {
+          "name": "Blair House",
+          "url": "/wiki/Blair_House",
+          "length": 32476
+        }
+      ]
+    },
+    {
+      "year": "1914",
+      "description": "World War I: The first British Royal Navy defeat of the war with Germany, the Battle of Coronel, is fought off of the western coast of Chile, in the Pacific, with the loss of HMS Good Hope and HMS Monmouth.",
+      "html": "<li>\n<a href=\"/wiki/1914\" title=\"1914\">1914</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: The first British <a href=\"/wiki/Royal_Navy\" title=\"Royal Navy\">Royal Navy</a> defeat of the war with Germany, the <a href=\"/wiki/Battle_of_Coronel\" title=\"Battle of Coronel\">Battle of Coronel</a>, is fought off of the western coast of <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a>, in the Pacific, with the loss of <a href=\"/wiki/HMS_Good_Hope_(1901)\" title=\"HMS Good Hope (1901)\">HMS <i>Good Hope</i></a> and <a href=\"/wiki/HMS_Monmouth_(1901)\" title=\"HMS Monmouth (1901)\">HMS <i>Monmouth</i></a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213513
+        },
+        {
+          "name": "Royal Navy",
+          "url": "/wiki/Royal_Navy",
+          "length": 158090
+        },
+        {
+          "name": "Battle of Coronel",
+          "url": "/wiki/Battle_of_Coronel",
+          "length": 30535
+        },
+        {
+          "name": "Chile",
+          "url": "/wiki/Chile",
+          "length": 216275
+        },
+        {
+          "name": "HMS Good Hope (1901)",
+          "url": "/wiki/HMS_Good_Hope_(1901)",
+          "length": 21728
+        },
+        {
+          "name": "HMS Monmouth (1901)",
+          "url": "/wiki/HMS_Monmouth_(1901)",
+          "length": 19212
+        }
+      ]
+    },
+    {
+      "year": "1894",
+      "description": "Buffalo Bill, 15 of his Native Americans, and Annie Oakley were filmed by Thomas Edison in his Black Maria Studio in West Orange, New Jersey.",
+      "html": "<li>1894   – <a href=\"/wiki/Buffalo_Bill\" title=\"Buffalo Bill\">Buffalo Bill</a>, 15 of his Native Americans, and <a href=\"/wiki/Annie_Oakley\" title=\"Annie Oakley\">Annie Oakley</a> were filmed by <a href=\"/wiki/Thomas_Edison\" title=\"Thomas Edison\">Thomas Edison</a> in his <a href=\"/wiki/Edison%27s_Black_Maria\" title=\"Edison's Black Maria\">Black Maria Studio</a> in <a href=\"/wiki/West_Orange,_New_Jersey\" title=\"West Orange, New Jersey\">West Orange, New Jersey</a>.</li>",
+      "entities": [
+        {
+          "name": "Buffalo Bill",
+          "url": "/wiki/Buffalo_Bill",
+          "length": 96455
+        },
+        {
+          "name": "Annie Oakley",
+          "url": "/wiki/Annie_Oakley",
+          "length": 49015
+        },
+        {
+          "name": "Thomas Edison",
+          "url": "/wiki/Thomas_Edison",
+          "length": 124433
+        },
+        {
+          "name": "Edison's Black Maria",
+          "url": "/wiki/Edison%27s_Black_Maria",
+          "length": 10716
+        },
+        {
+          "name": "West Orange, New Jersey",
+          "url": "/wiki/West_Orange,_New_Jersey",
+          "length": 148368
+        }
+      ]
+    },
+    {
+      "year": "1861",
+      "description": "American Civil War: U.S. President Abraham Lincoln appoints George B. McClellan as the commander of the Union Army, replacing General Winfield Scott.",
+      "html": "<li>\n<a href=\"/wiki/1861\" title=\"1861\">1861</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: U.S. President <a href=\"/wiki/Abraham_Lincoln\" title=\"Abraham Lincoln\">Abraham Lincoln</a> appoints <a href=\"/wiki/George_B._McClellan\" title=\"George B. McClellan\">George B. McClellan</a> as the commander of the <a href=\"/wiki/Union_Army\" class=\"mw-redirect\" title=\"Union Army\">Union Army</a>, replacing General <a href=\"/wiki/Winfield_Scott\" title=\"Winfield Scott\">Winfield Scott</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Abraham Lincoln",
+          "url": "/wiki/Abraham_Lincoln",
+          "length": 209994
+        },
+        {
+          "name": "George B. McClellan",
+          "url": "/wiki/George_B._McClellan",
+          "length": 114412
+        },
+        {
+          "name": "Union Army",
+          "url": "/wiki/Union_Army",
+          "length": 95
+        },
+        {
+          "name": "Winfield Scott",
+          "url": "/wiki/Winfield_Scott",
+          "length": 101619
+        }
+      ]
+    },
+    {
+      "year": "1967",
+      "description": "Tina Arena, Australian singer-songwriter, producer, and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1967\" title=\"1967\">1967</a> – <a href=\"/wiki/Tina_Arena\" title=\"Tina Arena\">Tina Arena</a>, Australian singer-songwriter, producer, and actress</li>",
+      "entities": [
+        {
+          "name": "Tina Arena",
+          "url": "/wiki/Tina_Arena",
+          "length": 197110
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "Ezra Pound, American poet and critic, died.",
+      "html": "<li>1972   – <a href=\"/wiki/Ezra_Pound\" title=\"Ezra Pound\">Ezra Pound</a>, American poet and critic (b. 1885)</li>",
+      "entities": [
+        {
+          "name": "Ezra Pound",
+          "url": "/wiki/Ezra_Pound",
+          "length": 199561
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1984",
+      "description": "Stephen Vogt, American baseball player, was born.",
+      "html": "<li>1984   – <a href=\"/wiki/Stephen_Vogt\" title=\"Stephen Vogt\">Stephen Vogt</a>, American baseball player<sup id=\"cite_ref-40\" class=\"reference\"><a href=\"#cite_note-40\"><span class=\"cite-bracket\">[</span>40<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Stephen Vogt",
+          "url": "/wiki/Stephen_Vogt",
+          "length": 200873
+        }
+      ]
+    },
+    {
+      "year": "1967",
+      "description": "Tina Arena, Australian singer-songwriter, producer, and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1967\" title=\"1967\">1967</a> – <a href=\"/wiki/Tina_Arena\" title=\"Tina Arena\">Tina Arena</a>, Australian singer-songwriter, producer, and actress</li>",
+      "entities": [
+        {
+          "name": "Tina Arena",
+          "url": "/wiki/Tina_Arena",
+          "length": 197110
+        }
+      ]
+    },
+    {
+      "year": "1907",
+      "description": "Maxie Rosenbloom, American boxer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1907\" title=\"1907\">1907</a> – <a href=\"/wiki/Maxie_Rosenbloom\" title=\"Maxie Rosenbloom\">Maxie Rosenbloom</a>, American boxer (d. 1976)</li>",
+      "entities": [
+        {
+          "name": "Maxie Rosenbloom",
+          "url": "/wiki/Maxie_Rosenbloom",
+          "length": 180819
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1972",
+      "description": "Ezra Pound, American poet and critic, died.",
+      "html": "<li>1972   – <a href=\"/wiki/Ezra_Pound\" title=\"Ezra Pound\">Ezra Pound</a>, American poet and critic (b. 1885)</li>",
+      "entities": [
+        {
+          "name": "Ezra Pound",
+          "url": "/wiki/Ezra_Pound",
+          "length": 199561
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "description": "King Vidor, American director, producer, and screenwriter, died.",
+      "html": "<li>1982   – <a href=\"/wiki/King_Vidor\" title=\"King Vidor\">King Vidor</a>, American director, producer, and screenwriter (b. 1894)</li>",
+      "entities": [
+        {
+          "name": "King Vidor",
+          "url": "/wiki/King_Vidor",
+          "length": 172320
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "description": "Fred Thompson, American actor, lawyer, and politician, died.",
+      "html": "<li>2015   – <a href=\"/wiki/Fred_Thompson\" title=\"Fred Thompson\">Fred Thompson</a>, American actor, lawyer, and politician (b. 1942)<sup id=\"cite_ref-90\" class=\"reference\"><a href=\"#cite_note-90\"><span class=\"cite-bracket\">[</span>90<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Fred Thompson",
+          "url": "/wiki/Fred_Thompson",
+          "length": 92100
+        }
+      ]
+    }
+  ]
+}

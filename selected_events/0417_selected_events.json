@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "1895",
+      "description": "The Treaty of Shimonoseki between China and Japan is signed. This marks the end of the First Sino-Japanese War, and the defeated Qing Empire is forced to renounce its claims on Korea and to concede the southern portion of the Fengtian province, Taiwan and the Penghu to Japan.",
+      "html": "<li>\n<a href=\"/wiki/1895\" title=\"1895\">1895</a> – The <a href=\"/wiki/Treaty_of_Shimonoseki\" title=\"Treaty of Shimonoseki\">Treaty of Shimonoseki</a> between China and Japan is signed. This marks the end of the <a href=\"/wiki/First_Sino-Japanese_War\" title=\"First Sino-Japanese War\">First Sino-Japanese War</a>, and the defeated <a href=\"/wiki/Qing_Empire\" class=\"mw-redirect\" title=\"Qing Empire\">Qing Empire</a> is forced to renounce its claims on Korea and to concede the southern portion of the <a href=\"/wiki/Liaoning\" title=\"Liaoning\">Fengtian</a> province, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a> and the <a href=\"/wiki/Penghu\" title=\"Penghu\">Penghu</a> to Japan.</li>",
+      "entities": [
+        {
+          "name": "Treaty of Shimonoseki",
+          "url": "/wiki/Treaty_of_Shimonoseki",
+          "length": 23333
+        },
+        {
+          "name": "First Sino-Japanese War",
+          "url": "/wiki/First_Sino-Japanese_War",
+          "length": 130506
+        },
+        {
+          "name": "Qing Empire",
+          "url": "/wiki/Qing_Empire",
+          "length": 72
+        },
+        {
+          "name": "Liaoning",
+          "url": "/wiki/Liaoning",
+          "length": 70483
+        },
+        {
+          "name": "Taiwan",
+          "url": "/wiki/Taiwan",
+          "length": 344497
+        },
+        {
+          "name": "Penghu",
+          "url": "/wiki/Penghu",
+          "length": 63796
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "description": "Bay of Pigs Invasion: A group of Cuban exiles financed and trained by the CIA lands at the Bay of Pigs in Cuba with the aim of ousting Fidel Castro.",
+      "html": "<li>\n<a href=\"/wiki/1961\" title=\"1961\">1961</a> – <a href=\"/wiki/Bay_of_Pigs_Invasion\" title=\"Bay of Pigs Invasion\">Bay of Pigs Invasion</a>: A group of <a href=\"/wiki/Cuban_exile\" title=\"Cuban exile\">Cuban exiles</a> financed and trained by the <a href=\"/wiki/Central_Intelligence_Agency\" title=\"Central Intelligence Agency\">CIA</a> lands at the <a href=\"/wiki/Bay_of_Pigs\" title=\"Bay of Pigs\">Bay of Pigs</a> in Cuba with the aim of ousting <a href=\"/wiki/Fidel_Castro\" title=\"Fidel Castro\">Fidel Castro</a>.</li>",
+      "entities": [
+        {
+          "name": "Bay of Pigs Invasion",
+          "url": "/wiki/Bay_of_Pigs_Invasion",
+          "length": 168448
+        },
+        {
+          "name": "Cuban exile",
+          "url": "/wiki/Cuban_exile",
+          "length": 7383
+        },
+        {
+          "name": "Central Intelligence Agency",
+          "url": "/wiki/Central_Intelligence_Agency",
+          "length": 221242
+        },
+        {
+          "name": "Bay of Pigs",
+          "url": "/wiki/Bay_of_Pigs",
+          "length": 21198
+        },
+        {
+          "name": "Fidel Castro",
+          "url": "/wiki/Fidel_Castro",
+          "length": 246523
+        }
+      ]
+    },
+    {
+      "year": "1905",
+      "description": "The Supreme Court of the United States decides Lochner v. New York, which holds that the \"right to free contract\" is implicit in the due process clause of the Fourteenth Amendment to the United States Constitution.",
+      "html": "<li>\n<a href=\"/wiki/1905\" title=\"1905\">1905</a> – The <a href=\"/wiki/Supreme_Court_of_the_United_States\" title=\"Supreme Court of the United States\">Supreme Court of the United States</a> decides <i><a href=\"/wiki/Lochner_v._New_York\" title=\"Lochner v. New York\">Lochner v. New York</a></i>, which holds that the \"<a href=\"/wiki/Freedom_of_contract\" title=\"Freedom of contract\">right to free contract</a>\" is implicit in the <a href=\"/wiki/Due_process\" title=\"Due process\">due process clause</a> of the <a href=\"/wiki/Fourteenth_Amendment_to_the_United_States_Constitution\" title=\"Fourteenth Amendment to the United States Constitution\">Fourteenth Amendment to the United States Constitution</a>.</li>",
+      "entities": [
+        {
+          "name": "Supreme Court of the United States",
+          "url": "/wiki/Supreme_Court_of_the_United_States",
+          "length": 317130
+        },
+        {
+          "name": "Lochner v. New York",
+          "url": "/wiki/Lochner_v._New_York",
+          "length": 34432
+        },
+        {
+          "name": "Freedom of contract",
+          "url": "/wiki/Freedom_of_contract",
+          "length": 16630
+        },
+        {
+          "name": "Due process",
+          "url": "/wiki/Due_process",
+          "length": 21939
+        },
+        {
+          "name": "Fourteenth Amendment to the United States Constitution",
+          "url": "/wiki/Fourteenth_Amendment_to_the_United_States_Constitution",
+          "length": 226720
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "The Cambodian Civil War ends. The Khmer Rouge captures the capital Phnom Penh and Cambodian government forces surrender.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – The <a href=\"/wiki/Cambodian_Civil_War\" title=\"Cambodian Civil War\">Cambodian Civil War</a> ends. The <a href=\"/wiki/Khmer_Rouge\" title=\"Khmer Rouge\">Khmer Rouge</a> <a href=\"/wiki/Fall_of_Phnom_Penh\" title=\"Fall of Phnom Penh\">captures</a> the capital <a href=\"/wiki/Phnom_Penh\" title=\"Phnom Penh\">Phnom Penh</a> and <a href=\"/wiki/Khmer_National_Armed_Forces\" title=\"Khmer National Armed Forces\">Cambodian government forces</a> surrender.</li>",
+      "entities": [
+        {
+          "name": "Cambodian Civil War",
+          "url": "/wiki/Cambodian_Civil_War",
+          "length": 82049
+        },
+        {
+          "name": "Khmer Rouge",
+          "url": "/wiki/Khmer_Rouge",
+          "length": 154947
+        },
+        {
+          "name": "Fall of Phnom Penh",
+          "url": "/wiki/Fall_of_Phnom_Penh",
+          "length": 30543
+        },
+        {
+          "name": "Phnom Penh",
+          "url": "/wiki/Phnom_Penh",
+          "length": 85701
+        },
+        {
+          "name": "Khmer National Armed Forces",
+          "url": "/wiki/Khmer_National_Armed_Forces",
+          "length": 33798
+        }
+      ]
+    },
+    {
+      "year": "1863",
+      "description": "American Civil War: Grierson's Raid begins: Troops under Union Army Colonel Benjamin Grierson attack central Mississippi.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Grierson%27s_Raid\" title=\"Grierson's Raid\">Grierson's Raid</a> begins: Troops under <a href=\"/wiki/Union_Army\" class=\"mw-redirect\" title=\"Union Army\">Union Army</a> Colonel <a href=\"/wiki/Benjamin_Grierson\" title=\"Benjamin Grierson\">Benjamin Grierson</a> attack central <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Grierson's Raid",
+          "url": "/wiki/Grierson%27s_Raid",
+          "length": 8406
+        },
+        {
+          "name": "Union Army",
+          "url": "/wiki/Union_Army",
+          "length": 95
+        },
+        {
+          "name": "Benjamin Grierson",
+          "url": "/wiki/Benjamin_Grierson",
+          "length": 13916
+        },
+        {
+          "name": "Mississippi",
+          "url": "/wiki/Mississippi",
+          "length": 170103
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "description": "NASA's Kepler space telescope confirms the discovery of the first Earth-size planet in the habitable zone of another star.",
+      "html": "<li>\n<a href=\"/wiki/2014\" title=\"2014\">2014</a> – <a href=\"/wiki/NASA\" title=\"NASA\">NASA</a>'s <a href=\"/wiki/Kepler_space_telescope\" title=\"Kepler space telescope\">Kepler space telescope</a> confirms the discovery of <a href=\"/wiki/Kepler-186f\" title=\"Kepler-186f\">the first Earth-size planet</a> in the <a href=\"/wiki/Circumstellar_habitable_zone\" class=\"mw-redirect\" title=\"Circumstellar habitable zone\">habitable zone</a> of another star.</li>",
+      "entities": [
+        {
+          "name": "NASA",
+          "url": "/wiki/NASA",
+          "length": 228390
+        },
+        {
+          "name": "Kepler space telescope",
+          "url": "/wiki/Kepler_space_telescope",
+          "length": 190170
+        },
+        {
+          "name": "Kepler-186f",
+          "url": "/wiki/Kepler-186f",
+          "length": 32691
+        },
+        {
+          "name": "Circumstellar habitable zone",
+          "url": "/wiki/Circumstellar_habitable_zone",
+          "length": 114
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Romain Grosjean, French race car driver, was born.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Romain_Grosjean\" title=\"Romain Grosjean\">Romain Grosjean</a>, French race car driver</li>",
+      "entities": [
+        {
+          "name": "Romain Grosjean",
+          "url": "/wiki/Romain_Grosjean",
+          "length": 147856
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "Barbara Bush, American political matriarch and literacy advocate, First Lady of the United States, and Second Lady of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Barbara_Bush\" title=\"Barbara Bush\">Barbara Bush</a>, American political matriarch and literacy advocate, <a href=\"/wiki/First_Lady_of_the_United_States\" title=\"First Lady of the United States\">First Lady of the United States</a> (1989–1993), and <a href=\"/wiki/Second_ladies_and_gentlemen_of_the_United_States\" title=\"Second ladies and gentlemen of the United States\">Second Lady of the United States</a> (1981–1989) (b. 1925)<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\"><span class=\"cite-bracket\">[</span>38<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Barbara Bush",
+          "url": "/wiki/Barbara_Bush",
+          "length": 98226
+        },
+        {
+          "name": "First Lady of the United States",
+          "url": "/wiki/First_Lady_of_the_United_States",
+          "length": 38997
+        },
+        {
+          "name": "Second ladies and gentlemen of the United States",
+          "url": "/wiki/Second_ladies_and_gentlemen_of_the_United_States",
+          "length": 45664
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1972",
+      "description": "Muttiah Muralitharan, Sri Lankan cricketer, was born.",
+      "html": "<li>1972 – <a href=\"/wiki/Muttiah_Muralitharan\" title=\"Muttiah Muralitharan\">Muttiah Muralitharan</a>, Sri Lankan cricketer</li>",
+      "entities": [
+        {
+          "name": "Muttiah Muralitharan",
+          "url": "/wiki/Muttiah_Muralitharan",
+          "length": 171754
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Romain Grosjean, French race car driver, was born.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Romain_Grosjean\" title=\"Romain Grosjean\">Romain Grosjean</a>, French race car driver</li>",
+      "entities": [
+        {
+          "name": "Romain Grosjean",
+          "url": "/wiki/Romain_Grosjean",
+          "length": 147856
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "description": "Vikram, Indian actor and singer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1966\" title=\"1966\">1966</a> – <a href=\"/wiki/Vikram_(actor)\" title=\"Vikram (actor)\">Vikram</a>, Indian actor and singer</li>",
+      "entities": [
+        {
+          "name": "Vikram (actor)",
+          "url": "/wiki/Vikram_(actor)",
+          "length": 126791
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1790",
+      "description": "Benjamin Franklin, American inventor, publisher, and politician, 6th President of Pennsylvania, died.",
+      "html": "<li>\n<a href=\"/wiki/1790\" title=\"1790\">1790</a> – <a href=\"/wiki/Benjamin_Franklin\" title=\"Benjamin Franklin\">Benjamin Franklin</a>, American inventor, publisher, and politician, 6th <a href=\"/wiki/List_of_Governors_of_Pennsylvania\" class=\"mw-redirect\" title=\"List of Governors of Pennsylvania\">President of Pennsylvania</a> (b. 1706)</li>",
+      "entities": [
+        {
+          "name": "Benjamin Franklin",
+          "url": "/wiki/Benjamin_Franklin",
+          "length": 216369
+        },
+        {
+          "name": "List of Governors of Pennsylvania",
+          "url": "/wiki/List_of_Governors_of_Pennsylvania",
+          "length": 64
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "Barbara Bush, American political matriarch and literacy advocate, First Lady of the United States, and Second Lady of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Barbara_Bush\" title=\"Barbara Bush\">Barbara Bush</a>, American political matriarch and literacy advocate, <a href=\"/wiki/First_Lady_of_the_United_States\" title=\"First Lady of the United States\">First Lady of the United States</a> (1989–1993), and <a href=\"/wiki/Second_ladies_and_gentlemen_of_the_United_States\" title=\"Second ladies and gentlemen of the United States\">Second Lady of the United States</a> (1981–1989) (b. 1925)<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\"><span class=\"cite-bracket\">[</span>38<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Barbara Bush",
+          "url": "/wiki/Barbara_Bush",
+          "length": 98226
+        },
+        {
+          "name": "First Lady of the United States",
+          "url": "/wiki/First_Lady_of_the_United_States",
+          "length": 38997
+        },
+        {
+          "name": "Second ladies and gentlemen of the United States",
+          "url": "/wiki/Second_ladies_and_gentlemen_of_the_United_States",
+          "length": 45664
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "description": "Gabriel García Márquez, Colombian journalist and author, Nobel Prize laureate, died.",
+      "html": "<li>\n<a href=\"/wiki/2014\" title=\"2014\">2014</a> – <a href=\"/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez\" title=\"Gabriel García Márquez\">Gabriel García Márquez</a>, Colombian journalist and author, <a href=\"/wiki/Nobel_Prize_in_Literature\" title=\"Nobel Prize in Literature\">Nobel Prize</a> laureate (b. 1927)</li>",
+      "entities": [
+        {
+          "name": "Gabriel García Márquez",
+          "url": "/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez",
+          "length": 96070
+        },
+        {
+          "name": "Nobel Prize in Literature",
+          "url": "/wiki/Nobel_Prize_in_Literature",
+          "length": 78775
+        }
+      ]
+    }
+  ]
+}

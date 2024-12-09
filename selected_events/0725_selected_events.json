@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "1861",
+      "description": "American Civil War: The United States Congress passes the Crittenden–Johnson Resolution, stating that the war is being fought to preserve the Union and not to end slavery, in the wake of the defeat at the First Battle of Bull Run.",
+      "html": "<li>\n<a href=\"/wiki/1861\" title=\"1861\">1861</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/United_States_Congress\" title=\"United States Congress\">United States Congress</a> passes the <a href=\"/wiki/Crittenden%E2%80%93Johnson_Resolution\" title=\"Crittenden–Johnson Resolution\">Crittenden–Johnson Resolution</a>, stating that the war is being fought to preserve the <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> and not to end <a href=\"/wiki/Slavery_in_the_United_States\" title=\"Slavery in the United States\">slavery</a>, in the wake of the defeat at the <a href=\"/wiki/First_Battle_of_Bull_Run\" title=\"First Battle of Bull Run\">First Battle of Bull Run</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "United States Congress",
+          "url": "/wiki/United_States_Congress",
+          "length": 192932
+        },
+        {
+          "name": "Crittenden–Johnson Resolution",
+          "url": "/wiki/Crittenden%E2%80%93Johnson_Resolution",
+          "length": 10427
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Slavery in the United States",
+          "url": "/wiki/Slavery_in_the_United_States",
+          "length": 347417
+        },
+        {
+          "name": "First Battle of Bull Run",
+          "url": "/wiki/First_Battle_of_Bull_Run",
+          "length": 93555
+        }
+      ]
+    },
+    {
+      "year": "1943",
+      "description": "World War II: Benito Mussolini is forced out of office by the King (encouraged by the Grand Council of Fascism) and is replaced by Pietro Badoglio.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Benito_Mussolini\" title=\"Benito Mussolini\">Benito Mussolini</a> <a href=\"/wiki/25_Luglio\" class=\"mw-redirect\" title=\"25 Luglio\">is forced out of office</a> by the King (encouraged by the <a href=\"/wiki/Grand_Council_of_Fascism\" title=\"Grand Council of Fascism\">Grand Council of Fascism</a>) and is replaced by <a href=\"/wiki/Pietro_Badoglio\" title=\"Pietro Badoglio\">Pietro Badoglio</a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Benito Mussolini",
+          "url": "/wiki/Benito_Mussolini",
+          "length": 195206
+        },
+        {
+          "name": "25 Luglio",
+          "url": "/wiki/25_Luglio",
+          "length": 66
+        },
+        {
+          "name": "Grand Council of Fascism",
+          "url": "/wiki/Grand_Council_of_Fascism",
+          "length": 42571
+        },
+        {
+          "name": "Pietro Badoglio",
+          "url": "/wiki/Pietro_Badoglio",
+          "length": 21421
+        }
+      ]
+    },
+    {
+      "year": "1755",
+      "description": "British governor Charles Lawrence and the Nova Scotia Council order the deportation of the Acadians.",
+      "html": "<li>\n<a href=\"/wiki/1755\" title=\"1755\">1755</a> – <a href=\"/wiki/British_Empire\" title=\"British Empire\">British</a> governor <a href=\"/wiki/Charles_Lawrence_(British_Army_officer)\" title=\"Charles Lawrence (British Army officer)\">Charles Lawrence</a> and the <a href=\"/wiki/Nova_Scotia\" title=\"Nova Scotia\">Nova Scotia</a> Council order the <a href=\"/wiki/Expulsion_of_the_Acadians\" title=\"Expulsion of the Acadians\">deportation</a> of the <a href=\"/wiki/Acadians\" title=\"Acadians\">Acadians</a>.</li>",
+      "entities": [
+        {
+          "name": "British Empire",
+          "url": "/wiki/British_Empire",
+          "length": 158590
+        },
+        {
+          "name": "Charles Lawrence (British Army officer)",
+          "url": "/wiki/Charles_Lawrence_(British_Army_officer)",
+          "length": 9532
+        },
+        {
+          "name": "Nova Scotia",
+          "url": "/wiki/Nova_Scotia",
+          "length": 105437
+        },
+        {
+          "name": "Expulsion of the Acadians",
+          "url": "/wiki/Expulsion_of_the_Acadians",
+          "length": 94893
+        },
+        {
+          "name": "Acadians",
+          "url": "/wiki/Acadians",
+          "length": 39992
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Vietnam War: U.S. President Richard Nixon declares the Nixon Doctrine, stating that the United States now expects its Asian allies to take care of their own military defense. This is the start of the \"Vietnamization\" of the war.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">U.S. President</a> <a href=\"/wiki/Richard_Nixon\" title=\"Richard Nixon\">Richard Nixon</a> declares the <a href=\"/wiki/Nixon_Doctrine\" title=\"Nixon Doctrine\">Nixon Doctrine</a>, stating that the United States now expects its Asian allies to take care of their own military defense. This is the start of the \"<a href=\"/wiki/Vietnamization\" title=\"Vietnamization\">Vietnamization</a>\" of the war.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "Richard Nixon",
+          "url": "/wiki/Richard_Nixon",
+          "length": 199208
+        },
+        {
+          "name": "Nixon Doctrine",
+          "url": "/wiki/Nixon_Doctrine",
+          "length": 15017
+        },
+        {
+          "name": "Vietnamization",
+          "url": "/wiki/Vietnamization",
+          "length": 31528
+        }
+      ]
+    },
+    {
+      "year": "1909",
+      "description": "Louis Blériot makes the first flight across the English Channel in a heavier-than-air machine from Calais to Dover, England, United Kingdom in 37 minutes.",
+      "html": "<li>\n<a href=\"/wiki/1909\" title=\"1909\">1909</a> – <a href=\"/wiki/Louis_Bl%C3%A9riot\" title=\"Louis Blériot\">Louis Blériot</a> makes the first flight across the <a href=\"/wiki/English_Channel\" title=\"English Channel\">English Channel</a> in a <a href=\"/wiki/Bl%C3%A9riot_XI\" title=\"Blériot XI\">heavier-than-air machine</a> from <a href=\"/wiki/Calais\" title=\"Calais\">Calais</a> to <a href=\"/wiki/Dover\" title=\"Dover\">Dover, England, United Kingdom</a> in 37 minutes.</li>",
+      "entities": [
+        {
+          "name": "Louis Blériot",
+          "url": "/wiki/Louis_Bl%C3%A9riot",
+          "length": 40345
+        },
+        {
+          "name": "English Channel",
+          "url": "/wiki/English_Channel",
+          "length": 93891
+        },
+        {
+          "name": "Blériot XI",
+          "url": "/wiki/Bl%C3%A9riot_XI",
+          "length": 52922
+        },
+        {
+          "name": "Calais",
+          "url": "/wiki/Calais",
+          "length": 95374
+        },
+        {
+          "name": "Dover",
+          "url": "/wiki/Dover",
+          "length": 52731
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "description": "Black July: Thirty-seven Tamil political prisoners at the Welikada high security prison in Colombo are massacred by the fellow Sinhalese prisoners.",
+      "html": "<li>\n<a href=\"/wiki/1983\" title=\"1983\">1983</a> – <a href=\"/wiki/Black_July\" title=\"Black July\">Black July</a>: Thirty-seven <a href=\"/wiki/Sri_Lankan_Tamils\" title=\"Sri Lankan Tamils\">Tamil</a> political prisoners at the Welikada high security prison in <a href=\"/wiki/Colombo\" title=\"Colombo\">Colombo</a> are <a href=\"/wiki/Welikada_prison_massacre\" title=\"Welikada prison massacre\">massacred</a> by the fellow <a href=\"/wiki/Sinhalese_people\" title=\"Sinhalese people\">Sinhalese</a> prisoners.</li>",
+      "entities": [
+        {
+          "name": "Black July",
+          "url": "/wiki/Black_July",
+          "length": 77044
+        },
+        {
+          "name": "Sri Lankan Tamils",
+          "url": "/wiki/Sri_Lankan_Tamils",
+          "length": 127148
+        },
+        {
+          "name": "Colombo",
+          "url": "/wiki/Colombo",
+          "length": 82700
+        },
+        {
+          "name": "Welikada prison massacre",
+          "url": "/wiki/Welikada_prison_massacre",
+          "length": 2087
+        },
+        {
+          "name": "Sinhalese people",
+          "url": "/wiki/Sinhalese_people",
+          "length": 62218
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Finn Bálor, Irish wrestler, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Finn_B%C3%A1lor\" title=\"Finn Bálor\">Finn Bálor</a>, Irish wrestler<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Finn Bálor",
+          "url": "/wiki/Finn_B%C3%A1lor",
+          "length": 183658
+        }
+      ]
+    },
+    {
+      "year": "1934",
+      "description": "Nestor Makhno, Ukrainian anarchist revolutionary, died.",
+      "html": "<li>1934   – <a href=\"/wiki/Nestor_Makhno\" title=\"Nestor Makhno\">Nestor Makhno</a>, Ukrainian anarchist revolutionary (b. 1888)<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\"><span class=\"cite-bracket\">[</span>38<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-39\" class=\"reference\"><a href=\"#cite_note-39\"><span class=\"cite-bracket\">[</span>39<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-40\" class=\"reference\"><a href=\"#cite_note-40\"><span class=\"cite-bracket\">[</span>40<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Nestor Makhno",
+          "url": "/wiki/Nestor_Makhno",
+          "length": 123370
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1981",
+      "description": "Finn Bálor, Irish wrestler, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Finn_B%C3%A1lor\" title=\"Finn Bálor\">Finn Bálor</a>, Irish wrestler<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"#cite_note-26\"><span class=\"cite-bracket\">[</span>26<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Finn Bálor",
+          "url": "/wiki/Finn_B%C3%A1lor",
+          "length": 183658
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Sarah Geronimo, Filipino singer and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1988\" title=\"1988\">1988</a> – <a href=\"/wiki/Sarah_Geronimo\" title=\"Sarah Geronimo\">Sarah Geronimo</a>, Filipino singer and actress<sup id=\"cite_ref-27\" class=\"reference\"><a href=\"#cite_note-27\"><span class=\"cite-bracket\">[</span>27<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sarah Geronimo",
+          "url": "/wiki/Sarah_Geronimo",
+          "length": 182302
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "description": "Rosalind Franklin, English biophysicist, chemist, and academic, was born.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – <a href=\"/wiki/Rosalind_Franklin\" title=\"Rosalind Franklin\">Rosalind Franklin</a>, English biophysicist, chemist, and academic (d. 1958)<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rosalind Franklin",
+          "url": "/wiki/Rosalind_Franklin",
+          "length": 170109
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1934",
+      "description": "Nestor Makhno, Ukrainian anarchist revolutionary, died.",
+      "html": "<li>1934   – <a href=\"/wiki/Nestor_Makhno\" title=\"Nestor Makhno\">Nestor Makhno</a>, Ukrainian anarchist revolutionary (b. 1888)<sup id=\"cite_ref-38\" class=\"reference\"><a href=\"#cite_note-38\"><span class=\"cite-bracket\">[</span>38<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-39\" class=\"reference\"><a href=\"#cite_note-39\"><span class=\"cite-bracket\">[</span>39<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-40\" class=\"reference\"><a href=\"#cite_note-40\"><span class=\"cite-bracket\">[</span>40<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Nestor Makhno",
+          "url": "/wiki/Nestor_Makhno",
+          "length": 123370
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Vincente Minnelli, American director and screenwriter, died.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Vincente_Minnelli\" title=\"Vincente Minnelli\">Vincente Minnelli</a>, American director and screenwriter (b. 1903)</li>",
+      "entities": [
+        {
+          "name": "Vincente Minnelli",
+          "url": "/wiki/Vincente_Minnelli",
+          "length": 117158
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Vladimir Vysotsky, Russian singer-songwriter, guitarist, and actor, died.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Vladimir_Vysotsky\" title=\"Vladimir Vysotsky\">Vladimir Vysotsky</a>, Russian singer-songwriter, guitarist, and actor (b. 1938)</li>",
+      "entities": [
+        {
+          "name": "Vladimir Vysotsky",
+          "url": "/wiki/Vladimir_Vysotsky",
+          "length": 104073
+        }
+      ]
+    }
+  ]
+}

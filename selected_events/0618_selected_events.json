@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "year": "1815",
+      "description": "Napoleonic Wars: The Battle of Waterloo results in the defeat of Napoleon Bonaparte by the Duke of Wellington and Gebhard Leberecht von Blücher forcing him to abdicate the throne of France for the second and last time.",
+      "html": "<li>\n<a href=\"/wiki/1815\" title=\"1815\">1815</a> – <a href=\"/wiki/Napoleonic_Wars\" title=\"Napoleonic Wars\">Napoleonic Wars</a>: The <a href=\"/wiki/Battle_of_Waterloo\" title=\"Battle of Waterloo\">Battle of Waterloo</a> results in the defeat of <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon Bonaparte</a> by the <a href=\"/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington\" title=\"Arthur Wellesley, 1st Duke of Wellington\">Duke of Wellington</a> and <a href=\"/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher\" title=\"Gebhard Leberecht von Blücher\">Gebhard Leberecht von Blücher</a> forcing him to abdicate the throne of <a href=\"/wiki/First_French_Empire\" title=\"First French Empire\">France</a> for the second and last time.</li>",
+      "entities": [
+        {
+          "name": "Napoleonic Wars",
+          "url": "/wiki/Napoleonic_Wars",
+          "length": 196704
+        },
+        {
+          "name": "Battle of Waterloo",
+          "url": "/wiki/Battle_of_Waterloo",
+          "length": 201207
+        },
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189164
+        },
+        {
+          "name": "Arthur Wellesley, 1st Duke of Wellington",
+          "url": "/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington",
+          "length": 153855
+        },
+        {
+          "name": "Gebhard Leberecht von Blücher",
+          "url": "/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher",
+          "length": 51728
+        },
+        {
+          "name": "First French Empire",
+          "url": "/wiki/First_French_Empire",
+          "length": 47700
+        }
+      ]
+    },
+    {
+      "year": "1757",
+      "description": "Battle of Kolín between Prussian forces under Frederick the Great and an Austrian army under the command of Field Marshal Count Leopold Joseph von Daun in the Seven Years' War.",
+      "html": "<li>\n<a href=\"/wiki/1757\" title=\"1757\">1757</a> – <a href=\"/wiki/Battle_of_Kol%C3%ADn\" title=\"Battle of Kolín\">Battle of Kolín</a> between <a href=\"/wiki/Prussian_Army\" title=\"Prussian Army\">Prussian forces</a> under <a href=\"/wiki/Frederick_the_Great\" title=\"Frederick the Great\">Frederick the Great</a> and an <a href=\"/wiki/Imperial_Army_(Holy_Roman_Empire)\" class=\"mw-redirect\" title=\"Imperial Army (Holy Roman Empire)\">Austrian army</a> under the command of Field Marshal <a href=\"/wiki/Count_Leopold_Joseph_von_Daun\" class=\"mw-redirect\" title=\"Count Leopold Joseph von Daun\">Count Leopold Joseph von Daun</a> in the <a href=\"/wiki/Seven_Years%27_War\" title=\"Seven Years' War\">Seven Years' War</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Kolín",
+          "url": "/wiki/Battle_of_Kol%C3%ADn",
+          "length": 12367
+        },
+        {
+          "name": "Prussian Army",
+          "url": "/wiki/Prussian_Army",
+          "length": 65896
+        },
+        {
+          "name": "Frederick the Great",
+          "url": "/wiki/Frederick_the_Great",
+          "length": 187022
+        },
+        {
+          "name": "Imperial Army (Holy Roman Empire)",
+          "url": "/wiki/Imperial_Army_(Holy_Roman_Empire)",
+          "length": 100
+        },
+        {
+          "name": "Count Leopold Joseph von Daun",
+          "url": "/wiki/Count_Leopold_Joseph_von_Daun",
+          "length": 54
+        },
+        {
+          "name": "Seven Years' War",
+          "url": "/wiki/Seven_Years%27_War",
+          "length": 143862
+        }
+      ]
+    },
+    {
+      "year": "1822",
+      "description": "Konstantinos Kanaris blows up the Ottoman navy's flagship at Chios, killing the Kapudan Pasha Nasuhzade Ali Pasha.",
+      "html": "<li>\n<a href=\"/wiki/1822\" title=\"1822\">1822</a> – <a href=\"/wiki/Konstantinos_Kanaris\" title=\"Konstantinos Kanaris\">Konstantinos Kanaris</a> blows up the <a href=\"/wiki/Ottoman_navy\" class=\"mw-redirect\" title=\"Ottoman navy\">Ottoman navy</a>'s flagship at <a href=\"/wiki/Chios\" title=\"Chios\">Chios</a>, killing the <a href=\"/wiki/Kapudan_Pasha\" title=\"Kapudan Pasha\">Kapudan Pasha</a> <a href=\"/wiki/Nasuhzade_Ali_Pasha\" title=\"Nasuhzade Ali Pasha\">Nasuhzade Ali Pasha</a>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Konstantinos Kanaris",
+          "url": "/wiki/Konstantinos_Kanaris",
+          "length": 19408
+        },
+        {
+          "name": "Ottoman navy",
+          "url": "/wiki/Ottoman_navy",
+          "length": 58
+        },
+        {
+          "name": "Chios",
+          "url": "/wiki/Chios",
+          "length": 54907
+        },
+        {
+          "name": "Kapudan Pasha",
+          "url": "/wiki/Kapudan_Pasha",
+          "length": 6035
+        },
+        {
+          "name": "Nasuhzade Ali Pasha",
+          "url": "/wiki/Nasuhzade_Ali_Pasha",
+          "length": 10837
+        }
+      ]
+    },
+    {
+      "year": "1391",
+      "description": "Tokhtamysh–Timur war: Battle of the Kondurcha River: Timur defeats Tokhtamysh of the Golden Horde in present-day southeast Russia.",
+      "html": "<li>\n<a href=\"/wiki/1391\" title=\"1391\">1391</a> – <a href=\"/wiki/Tokhtamysh%E2%80%93Timur_war\" title=\"Tokhtamysh–Timur war\">Tokhtamysh–Timur war</a>: <a href=\"/wiki/Battle_of_the_Kondurcha_River\" title=\"Battle of the Kondurcha River\">Battle of the Kondurcha River</a>: <a href=\"/wiki/Timur\" title=\"Timur\">Timur</a> defeats <a href=\"/wiki/Tokhtamysh\" title=\"Tokhtamysh\">Tokhtamysh</a> of the <a href=\"/wiki/Golden_Horde\" title=\"Golden Horde\">Golden Horde</a> in present-day southeast Russia.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Tokhtamysh–Timur war",
+          "url": "/wiki/Tokhtamysh%E2%80%93Timur_war",
+          "length": 8140
+        },
+        {
+          "name": "Battle of the Kondurcha River",
+          "url": "/wiki/Battle_of_the_Kondurcha_River",
+          "length": 4500
+        },
+        {
+          "name": "Timur",
+          "url": "/wiki/Timur",
+          "length": 103454
+        },
+        {
+          "name": "Tokhtamysh",
+          "url": "/wiki/Tokhtamysh",
+          "length": 40646
+        },
+        {
+          "name": "Golden Horde",
+          "url": "/wiki/Golden_Horde",
+          "length": 139571
+        }
+      ]
+    },
+    {
+      "year": "1965",
+      "description": "Vietnam War: The United States Air Force uses B-52 bombers to attack guerrilla fighters in South Vietnam.",
+      "html": "<li>\n<a href=\"/wiki/1965\" title=\"1965\">1965</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: The <a href=\"/wiki/United_States_Air_Force\" title=\"United States Air Force\">United States Air Force</a> uses <a href=\"/wiki/Boeing_B-52_Stratofortress\" title=\"Boeing B-52 Stratofortress\">B-52 bombers</a> to <a href=\"/wiki/Operation_Arc_Light\" title=\"Operation Arc Light\">attack guerrilla fighters</a> in <a href=\"/wiki/South_Vietnam\" title=\"South Vietnam\">South Vietnam</a>.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "United States Air Force",
+          "url": "/wiki/United_States_Air_Force",
+          "length": 177380
+        },
+        {
+          "name": "Boeing B-52 Stratofortress",
+          "url": "/wiki/Boeing_B-52_Stratofortress",
+          "length": 172089
+        },
+        {
+          "name": "Operation Arc Light",
+          "url": "/wiki/Operation_Arc_Light",
+          "length": 9630
+        },
+        {
+          "name": "South Vietnam",
+          "url": "/wiki/South_Vietnam",
+          "length": 263773
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including the co-founder and CEO of the company, Stockton Rush in the North Atlantic Ocean.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <i>Titan</i>, a submersible operated by <a href=\"/wiki/OceanGate\" title=\"OceanGate\">OceanGate Expeditions</a>, <a href=\"/wiki/Titan_submersible_implosion\" title=\"Titan submersible implosion\">imploded</a> while attempting to view the <a href=\"/wiki/Wreck_of_the_Titanic\" title=\"Wreck of the Titanic\">wreck of the Titanic</a>, killing all five people on board including the co-founder and CEO of the company, <a href=\"/wiki/Stockton_Rush\" title=\"Stockton Rush\">Stockton Rush</a> in the <a href=\"/wiki/North_Atlantic_Ocean\" class=\"mw-redirect\" title=\"North Atlantic Ocean\">North Atlantic Ocean</a>.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "OceanGate",
+          "url": "/wiki/OceanGate",
+          "length": 46226
+        },
+        {
+          "name": "Titan submersible implosion",
+          "url": "/wiki/Titan_submersible_implosion",
+          "length": 148519
+        },
+        {
+          "name": "Wreck of the Titanic",
+          "url": "/wiki/Wreck_of_the_Titanic",
+          "length": 119400
+        },
+        {
+          "name": "Stockton Rush",
+          "url": "/wiki/Stockton_Rush",
+          "length": 27355
+        },
+        {
+          "name": "North Atlantic Ocean",
+          "url": "/wiki/North_Atlantic_Ocean",
+          "length": 87
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "Paul McCartney, English singer-songwriter and guitarist, was born.",
+      "html": "<li>1942   – <a href=\"/wiki/Paul_McCartney\" title=\"Paul McCartney\">Paul McCartney</a>, English singer-songwriter and guitarist</li>",
+      "entities": [
+        {
+          "name": "Paul McCartney",
+          "url": "/wiki/Paul_McCartney",
+          "length": 262756
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "XXXTentacion, American rapper, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/XXXTentacion\" title=\"XXXTentacion\">XXXTentacion</a>, American rapper (b. 1998)<sup id=\"cite_ref-46\" class=\"reference\"><a href=\"#cite_note-46\"><span class=\"cite-bracket\">[</span>46<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-:0_47-0\" class=\"reference\"><a href=\"#cite_note-:0-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "XXXTentacion",
+          "url": "/wiki/XXXTentacion",
+          "length": 239577
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1942",
+      "description": "Paul McCartney, English singer-songwriter and guitarist, was born.",
+      "html": "<li>1942   – <a href=\"/wiki/Paul_McCartney\" title=\"Paul McCartney\">Paul McCartney</a>, English singer-songwriter and guitarist</li>",
+      "entities": [
+        {
+          "name": "Paul McCartney",
+          "url": "/wiki/Paul_McCartney",
+          "length": 262756
+        }
+      ]
+    },
+    {
+      "year": "1886",
+      "description": "George Mallory, English lieutenant and mountaineer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1886\" title=\"1886\">1886</a> – <a href=\"/wiki/George_Mallory\" title=\"George Mallory\">George Mallory</a>, English lieutenant and mountaineer (d. 1924)</li>",
+      "entities": [
+        {
+          "name": "George Mallory",
+          "url": "/wiki/George_Mallory",
+          "length": 234541
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "Roger Ebert, American journalist, critic, and screenwriter, was born.",
+      "html": "<li>1942   – <a href=\"/wiki/Roger_Ebert\" title=\"Roger Ebert\">Roger Ebert</a>, American journalist, critic, and screenwriter (d. 2013)</li>",
+      "entities": [
+        {
+          "name": "Roger Ebert",
+          "url": "/wiki/Roger_Ebert",
+          "length": 211872
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2018",
+      "description": "XXXTentacion, American rapper, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/XXXTentacion\" title=\"XXXTentacion\">XXXTentacion</a>, American rapper (b. 1998)<sup id=\"cite_ref-46\" class=\"reference\"><a href=\"#cite_note-46\"><span class=\"cite-bracket\">[</span>46<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-:0_47-0\" class=\"reference\"><a href=\"#cite_note-:0-47\"><span class=\"cite-bracket\">[</span>47<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "XXXTentacion",
+          "url": "/wiki/XXXTentacion",
+          "length": 239577
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Notable victims of the Titan submersible implosion:\nShahzada Dawood, Pakistani-British businessmanHamish Harding, British businessmanPaul-Henri Nargeolet, French navy commander and explorerStockton Rush, American businessman, CEO and founder of OceanGate, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – Notable victims of the <a href=\"/wiki/Titan_submersible_implosion\" title=\"Titan submersible implosion\"><i>Titan</i> submersible implosion</a>:<sup id=\"cite_ref-52\" class=\"reference\"><a href=\"#cite_note-52\"><span class=\"cite-bracket\">[</span>52<span class=\"cite-bracket\">]</span></a></sup>\n<ul>\n<li>\n<a href=\"/wiki/Shahzada_Dawood\" title=\"Shahzada Dawood\">Shahzada Dawood</a>, Pakistani-British businessman (b. 1975)</li>\n<li>\n<a href=\"/wiki/Hamish_Harding\" title=\"Hamish Harding\">Hamish Harding</a>, British businessman (b. 1964)</li>\n<li>\n<a href=\"/wiki/Paul-Henri_Nargeolet\" title=\"Paul-Henri Nargeolet\">Paul-Henri Nargeolet</a>, French <a href=\"/wiki/French_Navy\" title=\"French Navy\">navy</a> commander and explorer (b. 1946)</li>\n<li>\n<a href=\"/wiki/Stockton_Rush\" title=\"Stockton Rush\">Stockton Rush</a>, American businessman, CEO and founder of <a href=\"/wiki/OceanGate\" title=\"OceanGate\">OceanGate</a> (b. 1962)</li>\n</ul>\n</li>",
+      "entities": [
+        {
+          "name": "Titan submersible implosion",
+          "url": "/wiki/Titan_submersible_implosion",
+          "length": 148519
+        },
+        {
+          "name": "Shahzada Dawood",
+          "url": "/wiki/Shahzada_Dawood",
+          "length": 20188
+        },
+        {
+          "name": "Hamish Harding",
+          "url": "/wiki/Hamish_Harding",
+          "length": 18515
+        },
+        {
+          "name": "Paul-Henri Nargeolet",
+          "url": "/wiki/Paul-Henri_Nargeolet",
+          "length": 18798
+        },
+        {
+          "name": "French Navy",
+          "url": "/wiki/French_Navy",
+          "length": 54175
+        },
+        {
+          "name": "Stockton Rush",
+          "url": "/wiki/Stockton_Rush",
+          "length": 27355
+        },
+        {
+          "name": "OceanGate",
+          "url": "/wiki/OceanGate",
+          "length": 46226
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "description": "Willie Mays, American baseball player, died.",
+      "html": "<li>2024 – <a href=\"/wiki/Willie_Mays\" title=\"Willie Mays\">Willie Mays</a>, American baseball player (b. 1931)<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Willie Mays",
+          "url": "/wiki/Willie_Mays",
+          "length": 136768
+        }
+      ]
+    }
+  ]
+}

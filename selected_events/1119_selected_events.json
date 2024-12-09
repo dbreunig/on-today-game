@@ -1,0 +1,341 @@
+{
+  "events": [
+    {
+      "year": "1969",
+      "description": "Apollo program: Apollo 12 astronauts Pete Conrad and Alan Bean land at Oceanus Procellarum (the \"Ocean of Storms\") and become the third and fourth humans to walk on the Moon.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Apollo_program\" title=\"Apollo program\">Apollo program</a>: <a href=\"/wiki/Apollo_12\" title=\"Apollo 12\">Apollo 12</a> astronauts <a href=\"/wiki/Pete_Conrad\" title=\"Pete Conrad\">Pete Conrad</a> and <a href=\"/wiki/Alan_Bean\" title=\"Alan Bean\">Alan Bean</a> land at <i><a href=\"/wiki/Oceanus_Procellarum\" title=\"Oceanus Procellarum\">Oceanus Procellarum</a></i> (the \"Ocean of Storms\") and become the third and fourth <a href=\"/wiki/Human\" title=\"Human\">humans</a> to walk on the <a href=\"/wiki/Moon\" title=\"Moon\">Moon</a>.</li>",
+      "entities": [
+        {
+          "name": "Apollo program",
+          "url": "/wiki/Apollo_program",
+          "length": 155122
+        },
+        {
+          "name": "Apollo 12",
+          "url": "/wiki/Apollo_12",
+          "length": 65462
+        },
+        {
+          "name": "Pete Conrad",
+          "url": "/wiki/Pete_Conrad",
+          "length": 41013
+        },
+        {
+          "name": "Alan Bean",
+          "url": "/wiki/Alan_Bean",
+          "length": 34938
+        },
+        {
+          "name": "Oceanus Procellarum",
+          "url": "/wiki/Oceanus_Procellarum",
+          "length": 13329
+        },
+        {
+          "name": "Human",
+          "url": "/wiki/Human",
+          "length": 270116
+        },
+        {
+          "name": "Moon",
+          "url": "/wiki/Moon",
+          "length": 274405
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Serbian communist representative and future Serbian and Yugoslav president Slobodan Milošević publicly declares that Serbia is under attack from Albanian separatists in Kosovo as well as internal treachery within Yugoslavia and a foreign conspiracy to destroy Serbia and Yugoslavia.",
+      "html": "<li>\n<a href=\"/wiki/1988\" title=\"1988\">1988</a> – <a href=\"/wiki/Serbia\" title=\"Serbia\">Serbian</a> communist representative and future Serbian and <a href=\"/wiki/Federal_Republic_of_Yugoslavia\" class=\"mw-redirect\" title=\"Federal Republic of Yugoslavia\">Yugoslav</a> president <a href=\"/wiki/Slobodan_Milo%C5%A1evi%C4%87\" title=\"Slobodan Milošević\">Slobodan Milošević</a> publicly declares that <a href=\"/wiki/Serbia\" title=\"Serbia\">Serbia</a> is under attack from <a href=\"/wiki/Albanians\" title=\"Albanians\">Albanian</a> separatists in <a href=\"/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a> as well as internal treachery within <a href=\"/wiki/Socialist_Federal_Republic_of_Yugoslavia\" title=\"Socialist Federal Republic of Yugoslavia\">Yugoslavia</a> and a foreign conspiracy to destroy Serbia and Yugoslavia.</li>",
+      "entities": [
+        {
+          "name": "Serbia",
+          "url": "/wiki/Serbia",
+          "length": 316741
+        },
+        {
+          "name": "Federal Republic of Yugoslavia",
+          "url": "/wiki/Federal_Republic_of_Yugoslavia",
+          "length": 598
+        },
+        {
+          "name": "Slobodan Milošević",
+          "url": "/wiki/Slobodan_Milo%C5%A1evi%C4%87",
+          "length": 126302
+        },
+        {
+          "name": "Serbia",
+          "url": "/wiki/Serbia",
+          "length": null
+        },
+        {
+          "name": "Albanians",
+          "url": "/wiki/Albanians",
+          "length": 242607
+        },
+        {
+          "name": "Kosovo",
+          "url": "/wiki/Kosovo",
+          "length": 256128
+        },
+        {
+          "name": "Socialist Federal Republic of Yugoslavia",
+          "url": "/wiki/Socialist_Federal_Republic_of_Yugoslavia",
+          "length": 201927
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "World War II: Battle of Stalingrad: Soviet Union forces under General Georgy Zhukov launch the Operation Uranus counterattacks at Stalingrad, turning the tide of the battle in the USSR's favor.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – World War II: <a href=\"/wiki/Battle_of_Stalingrad\" title=\"Battle of Stalingrad\">Battle of Stalingrad</a>: <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a> forces under General <a href=\"/wiki/Georgy_Zhukov\" title=\"Georgy Zhukov\">Georgy Zhukov</a> launch the <a href=\"/wiki/Operation_Uranus\" title=\"Operation Uranus\">Operation Uranus</a> <a href=\"/wiki/Counterattack\" title=\"Counterattack\">counterattacks</a> at <a href=\"/wiki/Stalingrad\" class=\"mw-redirect\" title=\"Stalingrad\">Stalingrad</a>, turning the tide of the battle in the USSR's favor.</li>",
+      "entities": [
+        {
+          "name": "Battle of Stalingrad",
+          "url": "/wiki/Battle_of_Stalingrad",
+          "length": 202354
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Georgy Zhukov",
+          "url": "/wiki/Georgy_Zhukov",
+          "length": 84481
+        },
+        {
+          "name": "Operation Uranus",
+          "url": "/wiki/Operation_Uranus",
+          "length": 46478
+        },
+        {
+          "name": "Counterattack",
+          "url": "/wiki/Counterattack",
+          "length": 11784
+        },
+        {
+          "name": "Stalingrad",
+          "url": "/wiki/Stalingrad",
+          "length": 154
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Iran hostage crisis: Iranian leader Ayatollah Ruhollah Khomeini orders the release of 13 female and black American hostages being held at the US Embassy in Tehran.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Iran_hostage_crisis\" title=\"Iran hostage crisis\">Iran hostage crisis</a>: <a href=\"/wiki/Iran\" title=\"Iran\">Iranian</a> leader <a href=\"/wiki/Ayatollah\" title=\"Ayatollah\">Ayatollah</a> <a href=\"/wiki/Ruhollah_Khomeini\" title=\"Ruhollah Khomeini\">Ruhollah Khomeini</a> orders the release of 13 female and black American hostages being held at the <a href=\"/wiki/US_Embassy_in_Tehran\" class=\"mw-redirect\" title=\"US Embassy in Tehran\">US Embassy in Tehran</a>.</li>",
+      "entities": [
+        {
+          "name": "Iran hostage crisis",
+          "url": "/wiki/Iran_hostage_crisis",
+          "length": 118725
+        },
+        {
+          "name": "Iran",
+          "url": "/wiki/Iran",
+          "length": 379191
+        },
+        {
+          "name": "Ayatollah",
+          "url": "/wiki/Ayatollah",
+          "length": 22144
+        },
+        {
+          "name": "Ruhollah Khomeini",
+          "url": "/wiki/Ruhollah_Khomeini",
+          "length": 172449
+        },
+        {
+          "name": "US Embassy in Tehran",
+          "url": "/wiki/US_Embassy_in_Tehran",
+          "length": 50
+        }
+      ]
+    },
+    {
+      "year": "1863",
+      "description": "American Civil War: U.S. President Abraham Lincoln delivers the Gettysburg Address at the dedication ceremony for the military cemetery at Gettysburg, Pennsylvania.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: U.S. President <a href=\"/wiki/Abraham_Lincoln\" title=\"Abraham Lincoln\">Abraham Lincoln</a> delivers the <a href=\"/wiki/Gettysburg_Address\" title=\"Gettysburg Address\">Gettysburg Address</a> at the dedication ceremony for the <a href=\"/wiki/Gettysburg_National_Cemetery\" title=\"Gettysburg National Cemetery\">military cemetery</a> at <a href=\"/wiki/Gettysburg,_Pennsylvania\" title=\"Gettysburg, Pennsylvania\">Gettysburg, Pennsylvania</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Abraham Lincoln",
+          "url": "/wiki/Abraham_Lincoln",
+          "length": 209994
+        },
+        {
+          "name": "Gettysburg Address",
+          "url": "/wiki/Gettysburg_Address",
+          "length": 115860
+        },
+        {
+          "name": "Gettysburg National Cemetery",
+          "url": "/wiki/Gettysburg_National_Cemetery",
+          "length": 70237
+        },
+        {
+          "name": "Gettysburg, Pennsylvania",
+          "url": "/wiki/Gettysburg,_Pennsylvania",
+          "length": 34893
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "description": "Space Shuttle program: Columbia is launched on STS-80, which would become the longest mission in the program at 17 days. On this mission, astronaut Story Musgrave becomes the only astronaut to fly on all five space shuttles.",
+      "html": "<li>\n<a href=\"/wiki/1996\" title=\"1996\">1996</a> – <a href=\"/wiki/Space_Shuttle_program\" title=\"Space Shuttle program\">Space Shuttle program</a>: <a href=\"/wiki/Space_Shuttle_Columbia\" title=\"Space Shuttle Columbia\"><i>Columbia</i></a> is launched on <a href=\"/wiki/STS-80\" title=\"STS-80\">STS-80</a>, which would become the longest mission in the program at 17 days.<sup id=\"cite_ref-Day19_7-0\" class=\"reference\"><a href=\"#cite_note-Day19-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup> On this mission, astronaut <a href=\"/wiki/Story_Musgrave\" title=\"Story Musgrave\">Story Musgrave</a> becomes the only astronaut to fly on all five space shuttles.<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Space Shuttle program",
+          "url": "/wiki/Space_Shuttle_program",
+          "length": 63244
+        },
+        {
+          "name": "Space Shuttle Columbia",
+          "url": "/wiki/Space_Shuttle_Columbia",
+          "length": 54994
+        },
+        {
+          "name": "STS-80",
+          "url": "/wiki/STS-80",
+          "length": 27083
+        },
+        {
+          "name": "Story Musgrave",
+          "url": "/wiki/Story_Musgrave",
+          "length": 26862
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "Abdel Fattah el-Sisi, Egyptian field marshal and politician, 6th President of Egypt, was born.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/Abdel_Fattah_el-Sisi\" title=\"Abdel Fattah el-Sisi\">Abdel Fattah el-Sisi</a>, Egyptian field marshal and politician, 6th <a href=\"/wiki/President_of_Egypt\" title=\"President of Egypt\">President of Egypt</a>\n</li>",
+      "entities": [
+        {
+          "name": "Abdel Fattah el-Sisi",
+          "url": "/wiki/Abdel_Fattah_el-Sisi",
+          "length": 155133
+        },
+        {
+          "name": "President of Egypt",
+          "url": "/wiki/President_of_Egypt",
+          "length": 24039
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "description": "Charles Manson, American cult leader and mass murderer, died.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – <a href=\"/wiki/Charles_Manson\" title=\"Charles Manson\">Charles Manson</a>, American cult leader and mass murderer (b. 1934)</li>",
+      "entities": [
+        {
+          "name": "Charles Manson",
+          "url": "/wiki/Charles_Manson",
+          "length": 166382
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1917",
+      "description": "Indira Gandhi, Indian politician, 3rd Prime Minister of India, was born.",
+      "html": "<li>\n<a href=\"/wiki/1917\" title=\"1917\">1917</a> – <a href=\"/wiki/Indira_Gandhi\" title=\"Indira Gandhi\">Indira Gandhi</a>, Indian politician, 3rd <a href=\"/wiki/Prime_Minister_of_India\" title=\"Prime Minister of India\">Prime Minister of India</a> (d. 1984)<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\"><span class=\"cite-bracket\">[</span>29<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Indira Gandhi",
+          "url": "/wiki/Indira_Gandhi",
+          "length": 223445
+        },
+        {
+          "name": "Prime Minister of India",
+          "url": "/wiki/Prime_Minister_of_India",
+          "length": 87530
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "Abdel Fattah el-Sisi, Egyptian field marshal and politician, 6th President of Egypt, was born.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/Abdel_Fattah_el-Sisi\" title=\"Abdel Fattah el-Sisi\">Abdel Fattah el-Sisi</a>, Egyptian field marshal and politician, 6th <a href=\"/wiki/President_of_Egypt\" title=\"President of Egypt\">President of Egypt</a>\n</li>",
+      "entities": [
+        {
+          "name": "Abdel Fattah el-Sisi",
+          "url": "/wiki/Abdel_Fattah_el-Sisi",
+          "length": 155133
+        },
+        {
+          "name": "President of Egypt",
+          "url": "/wiki/President_of_Egypt",
+          "length": 24039
+        }
+      ]
+    },
+    {
+      "year": "1999",
+      "description": "Evgenia Medvedeva, Russian figure skater, was born.",
+      "html": "<li>\n<a href=\"/wiki/1999\" title=\"1999\">1999</a> – <a href=\"/wiki/Evgenia_Medvedeva\" title=\"Evgenia Medvedeva\">Evgenia Medvedeva</a>, Russian figure skater<sup id=\"cite_ref-61\" class=\"reference\"><a href=\"#cite_note-61\"><span class=\"cite-bracket\">[</span>61<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Evgenia Medvedeva",
+          "url": "/wiki/Evgenia_Medvedeva",
+          "length": 145275
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2017",
+      "description": "Charles Manson, American cult leader and mass murderer, died.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – <a href=\"/wiki/Charles_Manson\" title=\"Charles Manson\">Charles Manson</a>, American cult leader and mass murderer (b. 1934)</li>",
+      "entities": [
+        {
+          "name": "Charles Manson",
+          "url": "/wiki/Charles_Manson",
+          "length": 166382
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "description": "Rosalynn Carter, American mental health activist, First Lady of the United States, and of Georgia, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Rosalynn_Carter\" title=\"Rosalynn Carter\">Rosalynn Carter</a>, American mental health activist, <a href=\"/wiki/First_Lady_of_the_United_States\" title=\"First Lady of the United States\">First Lady of the United States</a> (1977–1981), and <a href=\"/wiki/First_ladies_of_Georgia_(U.S._state)\" title=\"First ladies of Georgia (U.S. state)\">of Georgia</a> (1971–1975) (b. 1927)<sup id=\"cite_ref-69\" class=\"reference\"><a href=\"#cite_note-69\"><span class=\"cite-bracket\">[</span>69<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Rosalynn Carter",
+          "url": "/wiki/Rosalynn_Carter",
+          "length": 150123
+        },
+        {
+          "name": "First Lady of the United States",
+          "url": "/wiki/First_Lady_of_the_United_States",
+          "length": 38997
+        },
+        {
+          "name": "First ladies of Georgia (U.S. state)",
+          "url": "/wiki/First_ladies_of_Georgia_(U.S._state)",
+          "length": 10431
+        }
+      ]
+    },
+    {
+      "year": "1703",
+      "description": "Man in the Iron Mask, French prisoner, died.",
+      "html": "<li>\n<a href=\"/wiki/1703\" title=\"1703\">1703</a> – <a href=\"/wiki/Man_in_the_Iron_Mask\" title=\"Man in the Iron Mask\">Man in the Iron Mask</a>, French prisoner</li>",
+      "entities": [
+        {
+          "name": "Man in the Iron Mask",
+          "url": "/wiki/Man_in_the_Iron_Mask",
+          "length": 101701
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "events": [
+    {
+      "year": "1925",
+      "description": "Secret agent Sidney Reilly, the first \"super-spy\" of the 20th century, is executed by the OGPU, the secret police of the Soviet Union.",
+      "html": "<li>\n<a href=\"/wiki/1925\" title=\"1925\">1925</a> – <a href=\"/wiki/Secret_agent\" class=\"mw-redirect\" title=\"Secret agent\">Secret agent</a> <a href=\"/wiki/Sidney_Reilly\" title=\"Sidney Reilly\">Sidney Reilly</a>, the first \"super-spy\" of the 20th century, is executed by the <a href=\"/wiki/State_Political_Directorate\" title=\"State Political Directorate\">OGPU</a>, the <a href=\"/wiki/Secret_police\" title=\"Secret police\">secret police</a> of the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a>.</li>",
+      "entities": [
+        {
+          "name": "Secret agent",
+          "url": "/wiki/Secret_agent",
+          "length": 133
+        },
+        {
+          "name": "Sidney Reilly",
+          "url": "/wiki/Sidney_Reilly",
+          "length": 110974
+        },
+        {
+          "name": "State Political Directorate",
+          "url": "/wiki/State_Political_Directorate",
+          "length": 9853
+        },
+        {
+          "name": "Secret police",
+          "url": "/wiki/Secret_police",
+          "length": 41905
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        }
+      ]
+    },
+    {
+      "year": "1940",
+      "description": "World War II: The British armed merchant cruiser HMS Jervis Bay is sunk by the German pocket battleship Admiral Scheer.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The British <a href=\"/wiki/Armed_merchant_cruiser\" class=\"mw-redirect\" title=\"Armed merchant cruiser\">armed merchant cruiser</a> <a href=\"/wiki/HMS_Jervis_Bay\" title=\"HMS Jervis Bay\">HMS <i>Jervis Bay</i></a> is sunk by the German <a href=\"/wiki/Pocket_battleship\" class=\"mw-redirect\" title=\"Pocket battleship\">pocket battleship</a> <a href=\"/wiki/German_cruiser_Admiral_Scheer\" title=\"German cruiser Admiral Scheer\"><i>Admiral Scheer</i></a>.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 254994
+        },
+        {
+          "name": "Armed merchant cruiser",
+          "url": "/wiki/Armed_merchant_cruiser",
+          "length": 105
+        },
+        {
+          "name": "HMS Jervis Bay",
+          "url": "/wiki/HMS_Jervis_Bay",
+          "length": 20180
+        },
+        {
+          "name": "Pocket battleship",
+          "url": "/wiki/Pocket_battleship",
+          "length": 100
+        },
+        {
+          "name": "German cruiser Admiral Scheer",
+          "url": "/wiki/German_cruiser_Admiral_Scheer",
+          "length": 36754
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "description": "Pakistani President Farooq Leghari dismisses the government of Prime Minister Benazir Bhutto and dissolves the National Assembly.",
+      "html": "<li>\n<a href=\"/wiki/1996\" title=\"1996\">1996</a> – <a href=\"/wiki/President_of_Pakistan\" title=\"President of Pakistan\">Pakistani President</a> <a href=\"/wiki/Farooq_Leghari\" title=\"Farooq Leghari\">Farooq Leghari</a> dismisses the government of <a href=\"/wiki/Prime_Minister_of_Pakistan\" title=\"Prime Minister of Pakistan\">Prime Minister</a> <a href=\"/wiki/Benazir_Bhutto\" title=\"Benazir Bhutto\">Benazir Bhutto</a> and dissolves the <a href=\"/wiki/National_Assembly_of_Pakistan\" title=\"National Assembly of Pakistan\">National Assembly</a>.</li>",
+      "entities": [
+        {
+          "name": "President of Pakistan",
+          "url": "/wiki/President_of_Pakistan",
+          "length": 52966
+        },
+        {
+          "name": "Farooq Leghari",
+          "url": "/wiki/Farooq_Leghari",
+          "length": 34991
+        },
+        {
+          "name": "Prime Minister of Pakistan",
+          "url": "/wiki/Prime_Minister_of_Pakistan",
+          "length": 41659
+        },
+        {
+          "name": "Benazir Bhutto",
+          "url": "/wiki/Benazir_Bhutto",
+          "length": 200104
+        },
+        {
+          "name": "National Assembly of Pakistan",
+          "url": "/wiki/National_Assembly_of_Pakistan",
+          "length": 33811
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "description": "U.S. Army Major Nidal Hasan murders 13 and wounds 32 at Fort Hood, Texas in the deadliest mass shooting at a U.S. military installation.",
+      "html": "<li>\n<a href=\"/wiki/2009\" title=\"2009\">2009</a> – U.S. Army Major <a href=\"/wiki/Nidal_Hasan\" title=\"Nidal Hasan\">Nidal Hasan</a> murders 13 and wounds 32 at <a href=\"/wiki/Fort_Hood\" class=\"mw-redirect\" title=\"Fort Hood\">Fort Hood</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a> in the deadliest <a href=\"/wiki/2009_Fort_Hood_shooting\" title=\"2009 Fort Hood shooting\">mass shooting</a> at a U.S. military installation.</li>",
+      "entities": [
+        {
+          "name": "Nidal Hasan",
+          "url": "/wiki/Nidal_Hasan",
+          "length": 127622
+        },
+        {
+          "name": "Fort Hood",
+          "url": "/wiki/Fort_Hood",
+          "length": 73
+        },
+        {
+          "name": "Texas",
+          "url": "/wiki/Texas",
+          "length": 262159
+        },
+        {
+          "name": "2009 Fort Hood shooting",
+          "url": "/wiki/2009_Fort_Hood_shooting",
+          "length": 213541
+        }
+      ]
+    },
+    {
+      "year": "1912",
+      "description": "Woodrow Wilson is elected the 28th President of the United States, defeating incumbent William Howard Taft.",
+      "html": "<li>\n<a href=\"/wiki/1912\" title=\"1912\">1912</a> – <a href=\"/wiki/Woodrow_Wilson\" title=\"Woodrow Wilson\">Woodrow Wilson</a> is <a href=\"/wiki/1912_United_States_presidential_election\" title=\"1912 United States presidential election\">elected</a> the 28th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a>, defeating incumbent <a href=\"/wiki/William_Howard_Taft\" title=\"William Howard Taft\">William Howard Taft</a>.</li>",
+      "entities": [
+        {
+          "name": "Woodrow Wilson",
+          "url": "/wiki/Woodrow_Wilson",
+          "length": 157479
+        },
+        {
+          "name": "1912 United States presidential election",
+          "url": "/wiki/1912_United_States_presidential_election",
+          "length": 109751
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "William Howard Taft",
+          "url": "/wiki/William_Howard_Taft",
+          "length": 149416
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "description": "An iron ore tailings dam bursts in the Brazilian state of Minas Gerais, flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing at least 17 deaths and two missing.",
+      "html": "<li>\n<a href=\"/wiki/2015\" title=\"2015\">2015</a> – An <a href=\"/wiki/Iron_ore\" title=\"Iron ore\">iron ore</a> <a href=\"/wiki/Tailings_dam\" title=\"Tailings dam\">tailings dam</a> <a href=\"/wiki/Bento_Rodrigues_dam_disaster\" class=\"mw-redirect\" title=\"Bento Rodrigues dam disaster\">bursts</a> in the Brazilian state of <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing at least 17 deaths and two missing.</li>",
+      "entities": [
+        {
+          "name": "Iron ore",
+          "url": "/wiki/Iron_ore",
+          "length": 55888
+        },
+        {
+          "name": "Tailings dam",
+          "url": "/wiki/Tailings_dam",
+          "length": 22460
+        },
+        {
+          "name": "Bento Rodrigues dam disaster",
+          "url": "/wiki/Bento_Rodrigues_dam_disaster",
+          "length": 51
+        },
+        {
+          "name": "Minas Gerais",
+          "url": "/wiki/Minas_Gerais",
+          "length": 126317
+        }
+      ]
+    },
+    {
+      "year": "1952",
+      "description": "Bill Walton, American basketball player and sportscaster, was born.",
+      "html": "<li>1952   – <a href=\"/wiki/Bill_Walton\" title=\"Bill Walton\">Bill Walton</a>, American basketball player and sportscaster (d. 2024)<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\"><span class=\"cite-bracket\">[</span>18<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bill Walton",
+          "url": "/wiki/Bill_Walton",
+          "length": 162199
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Al Capp, American cartoonist, died.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Al_Capp\" title=\"Al Capp\">Al Capp</a>, American cartoonist (b. 1909)</li>",
+      "entities": [
+        {
+          "name": "Al Capp",
+          "url": "/wiki/Al_Capp",
+          "length": 94819
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1959",
+      "description": "Bryan Adams, Canadian singer-songwriter, guitarist, producer and actor, was born.",
+      "html": "<li>\n<a href=\"/wiki/1959\" title=\"1959\">1959</a> – <a href=\"/wiki/Bryan_Adams\" title=\"Bryan Adams\">Bryan Adams</a>, Canadian singer-songwriter, guitarist, producer and actor<sup id=\"cite_ref-AP_15-8\" class=\"reference\"><a href=\"#cite_note-AP-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bryan Adams",
+          "url": "/wiki/Bryan_Adams",
+          "length": 253478
+        }
+      ]
+    },
+    {
+      "year": "1992",
+      "description": "Odell Beckham Jr., American football player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1992\" title=\"1992\">1992</a> – <a href=\"/wiki/Odell_Beckham_Jr.\" title=\"Odell Beckham Jr.\">Odell Beckham Jr.</a>, American football player<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\"><span class=\"cite-bracket\">[</span>30<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Odell Beckham Jr.",
+          "url": "/wiki/Odell_Beckham_Jr.",
+          "length": 165596
+        }
+      ]
+    },
+    {
+      "year": "1952",
+      "description": "Bill Walton, American basketball player and sportscaster, was born.",
+      "html": "<li>1952   – <a href=\"/wiki/Bill_Walton\" title=\"Bill Walton\">Bill Walton</a>, American basketball player and sportscaster (d. 2024)<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-18\" class=\"reference\"><a href=\"#cite_note-18\"><span class=\"cite-bracket\">[</span>18<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bill Walton",
+          "url": "/wiki/Bill_Walton",
+          "length": 162199
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1963",
+      "description": "Luis Cernuda, Spanish poet and critic, died.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Luis_Cernuda\" title=\"Luis Cernuda\">Luis Cernuda</a>, Spanish poet and critic (b. 1902)</li>",
+      "entities": [
+        {
+          "name": "Luis Cernuda",
+          "url": "/wiki/Luis_Cernuda",
+          "length": 148725
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Al Capp, American cartoonist, died.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Al_Capp\" title=\"Al Capp\">Al Capp</a>, American cartoonist (b. 1909)</li>",
+      "entities": [
+        {
+          "name": "Al Capp",
+          "url": "/wiki/Al_Capp",
+          "length": 94819
+        }
+      ]
+    },
+    {
+      "year": "1879",
+      "description": "James Clerk Maxwell, Scottish physicist and mathematician, died.",
+      "html": "<li>\n<a href=\"/wiki/1879\" title=\"1879\">1879</a> – <a href=\"/wiki/James_Clerk_Maxwell\" title=\"James Clerk Maxwell\">James Clerk Maxwell</a>, Scottish physicist and mathematician (b. 1831)</li>",
+      "entities": [
+        {
+          "name": "James Clerk Maxwell",
+          "url": "/wiki/James_Clerk_Maxwell",
+          "length": 90814
+        }
+      ]
+    }
+  ]
+}

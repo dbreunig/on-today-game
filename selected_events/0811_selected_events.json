@@ -1,0 +1,316 @@
+{
+  "events": [
+    {
+      "year": "490",
+      "description": "Battle of Adda: The Goths under Theodoric the Great and his ally Alaric II defeat the forces of Odoacer on the Adda River, near Milan.",
+      "html": "<li>\n<a href=\"/wiki/490\" title=\"490\">490</a> – Battle of Adda: The <a href=\"/wiki/Goths\" title=\"Goths\">Goths</a> under <a href=\"/wiki/Theodoric_the_Great\" title=\"Theodoric the Great\">Theodoric the Great</a> and his ally <a href=\"/wiki/Alaric_II\" title=\"Alaric II\">Alaric II</a> defeat the forces of <a href=\"/wiki/Odoacer\" title=\"Odoacer\">Odoacer</a> on the <a href=\"/wiki/Adda_River,_Italy\" class=\"mw-redirect\" title=\"Adda River, Italy\">Adda River</a>, near <a href=\"/wiki/Milan\" title=\"Milan\">Milan</a>.</li>",
+      "entities": [
+        {
+          "name": "Goths",
+          "url": "/wiki/Goths",
+          "length": 180672
+        },
+        {
+          "name": "Theodoric the Great",
+          "url": "/wiki/Theodoric_the_Great",
+          "length": 53291
+        },
+        {
+          "name": "Alaric II",
+          "url": "/wiki/Alaric_II",
+          "length": 10356
+        },
+        {
+          "name": "Odoacer",
+          "url": "/wiki/Odoacer",
+          "length": 52233
+        },
+        {
+          "name": "Adda River, Italy",
+          "url": "/wiki/Adda_River,_Italy",
+          "length": 117
+        },
+        {
+          "name": "Milan",
+          "url": "/wiki/Milan",
+          "length": 221372
+        }
+      ]
+    },
+    {
+      "year": "1975",
+      "description": "East Timor: Governor Mário Lemos Pires of Portuguese Timor abandons the capital Dili, following a coup by the Timorese Democratic Union (UDT) and the outbreak of civil war between UDT and Fretilin.",
+      "html": "<li>\n<a href=\"/wiki/1975\" title=\"1975\">1975</a> – <a href=\"/wiki/East_Timor\" title=\"East Timor\">East Timor</a>: Governor <a href=\"/wiki/M%C3%A1rio_Lemos_Pires\" title=\"Mário Lemos Pires\">Mário Lemos Pires</a> of <a href=\"/wiki/Portuguese_Timor\" title=\"Portuguese Timor\">Portuguese Timor</a> abandons the capital <a href=\"/wiki/Dili\" title=\"Dili\">Dili</a>, following a coup by the <a href=\"/wiki/Timorese_Democratic_Union\" title=\"Timorese Democratic Union\">Timorese Democratic Union</a> (UDT) and the outbreak of civil war between UDT and <a href=\"/wiki/Fretilin\" title=\"Fretilin\">Fretilin</a>.</li>",
+      "entities": [
+        {
+          "name": "East Timor",
+          "url": "/wiki/East_Timor",
+          "length": 164128
+        },
+        {
+          "name": "Mário Lemos Pires",
+          "url": "/wiki/M%C3%A1rio_Lemos_Pires",
+          "length": 10209
+        },
+        {
+          "name": "Portuguese Timor",
+          "url": "/wiki/Portuguese_Timor",
+          "length": 53608
+        },
+        {
+          "name": "Dili",
+          "url": "/wiki/Dili",
+          "length": 148450
+        },
+        {
+          "name": "Timorese Democratic Union",
+          "url": "/wiki/Timorese_Democratic_Union",
+          "length": 23263
+        },
+        {
+          "name": "Fretilin",
+          "url": "/wiki/Fretilin",
+          "length": 17121
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "A meeting between Sayyed Imam Al-Sharif, Osama bin Laden, Abdullah Yusuf Azzam, and leaders of Egyptian Islamic Jihad in Afghanistan culminates in the formation of Al-Qaeda.",
+      "html": "<li>\n<a href=\"/wiki/1988\" title=\"1988\">1988</a> – A meeting between <a href=\"/wiki/Sayyed_Imam_Al-Sharif\" title=\"Sayyed Imam Al-Sharif\">Sayyed Imam Al-Sharif</a>, <a href=\"/wiki/Osama_bin_Laden\" title=\"Osama bin Laden\">Osama bin Laden</a>, <a href=\"/wiki/Abdullah_Yusuf_Azzam\" title=\"Abdullah Yusuf Azzam\">Abdullah Yusuf Azzam</a>, and leaders of <a href=\"/wiki/Egyptian_Islamic_Jihad\" title=\"Egyptian Islamic Jihad\">Egyptian Islamic Jihad</a> in <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a> culminates in the formation of <a href=\"/wiki/Al-Qaeda\" title=\"Al-Qaeda\">Al-Qaeda</a>.<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sayyed Imam Al-Sharif",
+          "url": "/wiki/Sayyed_Imam_Al-Sharif",
+          "length": 24499
+        },
+        {
+          "name": "Osama bin Laden",
+          "url": "/wiki/Osama_bin_Laden",
+          "length": 198532
+        },
+        {
+          "name": "Abdullah Yusuf Azzam",
+          "url": "/wiki/Abdullah_Yusuf_Azzam",
+          "length": 49117
+        },
+        {
+          "name": "Egyptian Islamic Jihad",
+          "url": "/wiki/Egyptian_Islamic_Jihad",
+          "length": 25165
+        },
+        {
+          "name": "Afghanistan",
+          "url": "/wiki/Afghanistan",
+          "length": 329029
+        },
+        {
+          "name": "Al-Qaeda",
+          "url": "/wiki/Al-Qaeda",
+          "length": 257960
+        }
+      ]
+    },
+    {
+      "year": "1858",
+      "description": "The Eiger in the Bernese Alps is ascended for the first time by Charles Barrington accompanied by Christian Almer and Peter Bohren.",
+      "html": "<li>\n<a href=\"/wiki/1858\" title=\"1858\">1858</a> – The <a href=\"/wiki/Eiger\" title=\"Eiger\">Eiger</a> in the <a href=\"/wiki/Bernese_Alps\" title=\"Bernese Alps\">Bernese Alps</a> is ascended for the first time by <a href=\"/wiki/Charles_Barrington_(mountaineer)\" title=\"Charles Barrington (mountaineer)\">Charles Barrington</a> accompanied by <a href=\"/wiki/Christian_Almer\" title=\"Christian Almer\">Christian Almer</a> and <a href=\"/wiki/Peter_Bohren\" title=\"Peter Bohren\">Peter Bohren</a>.</li>",
+      "entities": [
+        {
+          "name": "Eiger",
+          "url": "/wiki/Eiger",
+          "length": 38738
+        },
+        {
+          "name": "Bernese Alps",
+          "url": "/wiki/Bernese_Alps",
+          "length": 24113
+        },
+        {
+          "name": "Charles Barrington (mountaineer)",
+          "url": "/wiki/Charles_Barrington_(mountaineer)",
+          "length": 3812
+        },
+        {
+          "name": "Christian Almer",
+          "url": "/wiki/Christian_Almer",
+          "length": 7619
+        },
+        {
+          "name": "Peter Bohren",
+          "url": "/wiki/Peter_Bohren",
+          "length": 2083
+        }
+      ]
+    },
+    {
+      "year": "1473",
+      "description": "The Battle of Otlukbeli: Mehmed the Conqueror of the Ottoman Empire decisively defeats Uzun Hassan of Aq Qoyunlu.",
+      "html": "<li>\n<a href=\"/wiki/1473\" title=\"1473\">1473</a> – The <a href=\"/wiki/Battle_of_Otlukbeli\" title=\"Battle of Otlukbeli\">Battle of Otlukbeli</a>: <a href=\"/wiki/Mehmed_the_Conqueror\" class=\"mw-redirect\" title=\"Mehmed the Conqueror\">Mehmed the Conqueror</a> of the <a href=\"/wiki/Ottoman_Empire\" title=\"Ottoman Empire\">Ottoman Empire</a> decisively defeats <a href=\"/wiki/Uzun_Hassan\" class=\"mw-redirect\" title=\"Uzun Hassan\">Uzun Hassan</a> of <a href=\"/wiki/Aq_Qoyunlu\" title=\"Aq Qoyunlu\">Aq Qoyunlu</a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Otlukbeli",
+          "url": "/wiki/Battle_of_Otlukbeli",
+          "length": 20291
+        },
+        {
+          "name": "Mehmed the Conqueror",
+          "url": "/wiki/Mehmed_the_Conqueror",
+          "length": 70
+        },
+        {
+          "name": "Ottoman Empire",
+          "url": "/wiki/Ottoman_Empire",
+          "length": 268337
+        },
+        {
+          "name": "Uzun Hassan",
+          "url": "/wiki/Uzun_Hassan",
+          "length": 41
+        },
+        {
+          "name": "Aq Qoyunlu",
+          "url": "/wiki/Aq_Qoyunlu",
+          "length": 42470
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "description": "The former Portuguese territories in India of Dadra and Nagar Haveli are merged to create the Union Territory Dadra and Nagar Haveli.",
+      "html": "<li>\n<a href=\"/wiki/1961\" title=\"1961\">1961</a> – The former Portuguese territories in <a href=\"/wiki/India\" title=\"India\">India</a> of <a href=\"/wiki/Dadra_DNH\" class=\"mw-redirect\" title=\"Dadra DNH\">Dadra</a> and <a href=\"/wiki/Nagar_Haveli_DNH\" class=\"mw-redirect\" title=\"Nagar Haveli DNH\">Nagar Haveli</a> are merged to create the <a href=\"/wiki/Union_Territory\" class=\"mw-redirect\" title=\"Union Territory\">Union Territory</a> <a href=\"/wiki/Dadra_and_Nagar_Haveli\" class=\"mw-redirect\" title=\"Dadra and Nagar Haveli\">Dadra and Nagar Haveli</a>.</li>",
+      "entities": [
+        {
+          "name": "India",
+          "url": "/wiki/India",
+          "length": 307570
+        },
+        {
+          "name": "Dadra DNH",
+          "url": "/wiki/Dadra_DNH",
+          "length": 25
+        },
+        {
+          "name": "Nagar Haveli DNH",
+          "url": "/wiki/Nagar_Haveli_DNH",
+          "length": 26
+        },
+        {
+          "name": "Union Territory",
+          "url": "/wiki/Union_Territory",
+          "length": 61
+        },
+        {
+          "name": "Dadra and Nagar Haveli",
+          "url": "/wiki/Dadra_and_Nagar_Haveli",
+          "length": 92
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "description": "Lucas di Grassi, Brazilian race car driver, was born.",
+      "html": "<li>1984   – <a href=\"/wiki/Lucas_di_Grassi\" title=\"Lucas di Grassi\">Lucas di Grassi</a>, Brazilian race car driver</li>",
+      "entities": [
+        {
+          "name": "Lucas di Grassi",
+          "url": "/wiki/Lucas_di_Grassi",
+          "length": 172729
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "John Henry Newman, English cardinal and theologian, died.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – <a href=\"/wiki/John_Henry_Newman\" title=\"John Henry Newman\">John Henry Newman</a>, English cardinal and theologian (b. 1801)</li>",
+      "entities": [
+        {
+          "name": "John Henry Newman",
+          "url": "/wiki/John_Henry_Newman",
+          "length": 133664
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1953",
+      "description": "Hulk Hogan, American wrestler, was born.",
+      "html": "<li>\n<a href=\"/wiki/1953\" title=\"1953\">1953</a> – <a href=\"/wiki/Hulk_Hogan\" title=\"Hulk Hogan\">Hulk Hogan</a>, American wrestler</li>",
+      "entities": [
+        {
+          "name": "Hulk Hogan",
+          "url": "/wiki/Hulk_Hogan",
+          "length": 283125
+        }
+      ]
+    },
+    {
+      "year": "1943",
+      "description": "Pervez Musharraf, Pakistani general and politician, 10th President of Pakistan, was born.",
+      "html": "<li>1943   – <a href=\"/wiki/Pervez_Musharraf\" title=\"Pervez Musharraf\">Pervez Musharraf</a>, Pakistani general and politician, 10th <a href=\"/wiki/President_of_Pakistan\" title=\"President of Pakistan\">President of Pakistan</a> (d. 2023)<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\"><span class=\"cite-bracket\">[</span>23<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pervez Musharraf",
+          "url": "/wiki/Pervez_Musharraf",
+          "length": 214149
+        },
+        {
+          "name": "President of Pakistan",
+          "url": "/wiki/President_of_Pakistan",
+          "length": 52966
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "description": "Lucas di Grassi, Brazilian race car driver, was born.",
+      "html": "<li>1984   – <a href=\"/wiki/Lucas_di_Grassi\" title=\"Lucas di Grassi\">Lucas di Grassi</a>, Brazilian race car driver</li>",
+      "entities": [
+        {
+          "name": "Lucas di Grassi",
+          "url": "/wiki/Lucas_di_Grassi",
+          "length": 172729
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2022",
+      "description": "Anne Heche, American actress, died.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – <a href=\"/wiki/Anne_Heche\" title=\"Anne Heche\">Anne Heche</a>, American actress (b. 1969)<sup id=\"cite_ref-51\" class=\"reference\"><a href=\"#cite_note-51\"><span class=\"cite-bracket\">[</span>51<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Anne Heche",
+          "url": "/wiki/Anne_Heche",
+          "length": 169618
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "description": "Robin Williams, American actor and comedian, died.",
+      "html": "<li>2014   – <a href=\"/wiki/Robin_Williams\" title=\"Robin Williams\">Robin Williams</a>, American actor and comedian (b. 1951)</li>",
+      "entities": [
+        {
+          "name": "Robin Williams",
+          "url": "/wiki/Robin_Williams",
+          "length": 155099
+        }
+      ]
+    },
+    {
+      "year": "1890",
+      "description": "John Henry Newman, English cardinal and theologian, died.",
+      "html": "<li>\n<a href=\"/wiki/1890\" title=\"1890\">1890</a> – <a href=\"/wiki/John_Henry_Newman\" title=\"John Henry Newman\">John Henry Newman</a>, English cardinal and theologian (b. 1801)</li>",
+      "entities": [
+        {
+          "name": "John Henry Newman",
+          "url": "/wiki/John_Henry_Newman",
+          "length": 133664
+        }
+      ]
+    }
+  ]
+}

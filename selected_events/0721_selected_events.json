@@ -1,0 +1,331 @@
+{
+  "events": [
+    {
+      "year": "2023",
+      "description": "The Barbenheimer phenomenon begins as two major motion pictures, Greta Gerwig's fantasy comedy Barbie and Christopher Nolan's epic biographical thriller Oppenheimer, are released in theaters on the same day and audiences, instead of creating a rivalry between the extremely dissimilar films, instead attend and praise both as an informal, surreal double feature.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – The <a href=\"/wiki/Barbenheimer\" title=\"Barbenheimer\">Barbenheimer</a> phenomenon begins as two major motion pictures, <a href=\"/wiki/Greta_Gerwig\" title=\"Greta Gerwig\">Greta Gerwig</a>'s <a href=\"/wiki/Fantasy_comedy\" title=\"Fantasy comedy\">fantasy comedy</a> <i><a href=\"/wiki/Barbie_(film)\" title=\"Barbie (film)\">Barbie</a></i> and <a href=\"/wiki/Christopher_Nolan\" title=\"Christopher Nolan\">Christopher Nolan</a>'s <a href=\"/wiki/Epic_film\" title=\"Epic film\">epic</a> <a href=\"/wiki/Biographical_film\" title=\"Biographical film\">biographical</a> <a href=\"/wiki/Thriller_film\" title=\"Thriller film\">thriller</a> <i><a href=\"/wiki/Oppenheimer_(film)\" title=\"Oppenheimer (film)\">Oppenheimer</a></i>, are released in theaters on the same day and audiences, instead of creating a rivalry between the extremely dissimilar films, instead attend and praise both as an informal, surreal <a href=\"/wiki/Double_feature\" title=\"Double feature\">double feature</a>.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Barbenheimer",
+          "url": "/wiki/Barbenheimer",
+          "length": 118334
+        },
+        {
+          "name": "Greta Gerwig",
+          "url": "/wiki/Greta_Gerwig",
+          "length": 75042
+        },
+        {
+          "name": "Fantasy comedy",
+          "url": "/wiki/Fantasy_comedy",
+          "length": 5287
+        },
+        {
+          "name": "Barbie (film)",
+          "url": "/wiki/Barbie_(film)",
+          "length": 265753
+        },
+        {
+          "name": "Christopher Nolan",
+          "url": "/wiki/Christopher_Nolan",
+          "length": 151485
+        },
+        {
+          "name": "Epic film",
+          "url": "/wiki/Epic_film",
+          "length": 11121
+        },
+        {
+          "name": "Biographical film",
+          "url": "/wiki/Biographical_film",
+          "length": 12099
+        },
+        {
+          "name": "Thriller film",
+          "url": "/wiki/Thriller_film",
+          "length": 63382
+        },
+        {
+          "name": "Oppenheimer (film)",
+          "url": "/wiki/Oppenheimer_(film)",
+          "length": 232327
+        },
+        {
+          "name": "Double feature",
+          "url": "/wiki/Double_feature",
+          "length": 14215
+        }
+      ]
+    },
+    {
+      "year": "1798",
+      "description": "French campaign in Egypt and Syria: Napoleon's forces defeat an Ottoman-Mamluk army near Cairo in the Battle of the Pyramids.",
+      "html": "<li>\n<a href=\"/wiki/1798\" title=\"1798\">1798</a> – <a href=\"/wiki/French_campaign_in_Egypt_and_Syria\" class=\"mw-redirect\" title=\"French campaign in Egypt and Syria\">French campaign in Egypt and Syria</a>: <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon's</a> forces defeat an <a href=\"/wiki/Ottoman_Empire\" title=\"Ottoman Empire\">Ottoman</a>-<a href=\"/wiki/Mamluk\" title=\"Mamluk\">Mamluk</a> army near <a href=\"/wiki/Cairo\" title=\"Cairo\">Cairo</a> in the <a href=\"/wiki/Battle_of_the_Pyramids\" title=\"Battle of the Pyramids\">Battle of the Pyramids</a>.</li>",
+      "entities": [
+        {
+          "name": "French campaign in Egypt and Syria",
+          "url": "/wiki/French_campaign_in_Egypt_and_Syria",
+          "length": 95
+        },
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189164
+        },
+        {
+          "name": "Ottoman Empire",
+          "url": "/wiki/Ottoman_Empire",
+          "length": 268337
+        },
+        {
+          "name": "Mamluk",
+          "url": "/wiki/Mamluk",
+          "length": 77445
+        },
+        {
+          "name": "Cairo",
+          "url": "/wiki/Cairo",
+          "length": 164830
+        },
+        {
+          "name": "Battle of the Pyramids",
+          "url": "/wiki/Battle_of_the_Pyramids",
+          "length": 18810
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Elijah Jerry \"Pumpsie\" Green becomes the first African-American to play for the Boston Red Sox, the last team to integrate. He came in as a pinch runner for Vic Wertz and stayed in as shortstop in a 2–1 loss to the Chicago White Sox.",
+      "html": "<li>1959 – <a href=\"/wiki/Pumpsie_Green\" title=\"Pumpsie Green\">Elijah Jerry \"Pumpsie\" Green</a> becomes the first <a href=\"/wiki/List_of_African-American_firsts\" class=\"mw-redirect\" title=\"List of African-American firsts\">African-American</a> to play for the <a href=\"/wiki/Boston_Red_Sox\" title=\"Boston Red Sox\">Boston Red Sox</a>, the last team to integrate. He came in as a <a href=\"/wiki/Pinch_runner\" title=\"Pinch runner\">pinch runner</a> for <a href=\"/wiki/Vic_Wertz\" title=\"Vic Wertz\">Vic Wertz</a> and stayed in as shortstop in a 2–1 loss to the <a href=\"/wiki/Chicago_White_Sox\" title=\"Chicago White Sox\">Chicago White Sox</a>.</li>",
+      "entities": [
+        {
+          "name": "Pumpsie Green",
+          "url": "/wiki/Pumpsie_Green",
+          "length": 13036
+        },
+        {
+          "name": "List of African-American firsts",
+          "url": "/wiki/List_of_African-American_firsts",
+          "length": 96
+        },
+        {
+          "name": "Boston Red Sox",
+          "url": "/wiki/Boston_Red_Sox",
+          "length": 171566
+        },
+        {
+          "name": "Pinch runner",
+          "url": "/wiki/Pinch_runner",
+          "length": 11040
+        },
+        {
+          "name": "Vic Wertz",
+          "url": "/wiki/Vic_Wertz",
+          "length": 8517
+        },
+        {
+          "name": "Chicago White Sox",
+          "url": "/wiki/Chicago_White_Sox",
+          "length": 126223
+        }
+      ]
+    },
+    {
+      "year": "1873",
+      "description": "At Adair, Iowa, Jesse James and the James–Younger Gang pull off the first successful train robbery in the American Old West.",
+      "html": "<li>\n<a href=\"/wiki/1873\" title=\"1873\">1873</a> – At <a href=\"/wiki/Adair,_Iowa\" title=\"Adair, Iowa\">Adair, Iowa</a>, <a href=\"/wiki/Jesse_James\" title=\"Jesse James\">Jesse James</a> and the <a href=\"/wiki/James%E2%80%93Younger_Gang\" title=\"James–Younger Gang\">James–Younger Gang</a> pull off the first successful <a href=\"/wiki/Train_robbery\" title=\"Train robbery\">train robbery</a> in the <a href=\"/wiki/American_Frontier\" class=\"mw-redirect\" title=\"American Frontier\">American Old West</a>.</li>",
+      "entities": [
+        {
+          "name": "Adair, Iowa",
+          "url": "/wiki/Adair,_Iowa",
+          "length": 16462
+        },
+        {
+          "name": "Jesse James",
+          "url": "/wiki/Jesse_James",
+          "length": 72731
+        },
+        {
+          "name": "James–Younger Gang",
+          "url": "/wiki/James%E2%80%93Younger_Gang",
+          "length": 45853
+        },
+        {
+          "name": "Train robbery",
+          "url": "/wiki/Train_robbery",
+          "length": 35312
+        },
+        {
+          "name": "American Frontier",
+          "url": "/wiki/American_Frontier",
+          "length": 80
+        }
+      ]
+    },
+    {
+      "year": "1645",
+      "description": "Qing dynasty regent Dorgon issues an edict ordering all Han Chinese men to shave their forehead and braid the rest of their hair into a queue identical to those of the Manchus.",
+      "html": "<li>\n<a href=\"/wiki/1645\" title=\"1645\">1645</a> – <a href=\"/wiki/Qing_dynasty\" title=\"Qing dynasty\">Qing dynasty</a> regent <a href=\"/wiki/Dorgon\" title=\"Dorgon\">Dorgon</a> issues an <a href=\"/wiki/Queue_(hairstyle)#Queue_order\" title=\"Queue (hairstyle)\">edict</a> ordering all <a href=\"/wiki/Han_Chinese\" title=\"Han Chinese\">Han Chinese</a> men to shave their forehead and braid the rest of their hair into a queue identical to those of the <a href=\"/wiki/Manchus\" class=\"mw-redirect\" title=\"Manchus\">Manchus</a>.</li>",
+      "entities": [
+        {
+          "name": "Qing dynasty",
+          "url": "/wiki/Qing_dynasty",
+          "length": null
+        },
+        {
+          "name": "Dorgon",
+          "url": "/wiki/Dorgon",
+          "length": null
+        },
+        {
+          "name": "Queue (hairstyle)",
+          "url": "/wiki/Queue_(hairstyle)#Queue_order",
+          "length": null
+        },
+        {
+          "name": "Han Chinese",
+          "url": "/wiki/Han_Chinese",
+          "length": null
+        },
+        {
+          "name": "Manchus",
+          "url": "/wiki/Manchus",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "356 BC",
+      "description": "The Temple of Artemis in Ephesus, one of the Seven Wonders of the World, is destroyed by arson.",
+      "html": "<li>\n<a href=\"/wiki/356_BC\" title=\"356 BC\">356 BC</a> – The <a href=\"/wiki/Temple_of_Artemis\" title=\"Temple of Artemis\">Temple of Artemis</a> in <a href=\"/wiki/Ephesus\" title=\"Ephesus\">Ephesus</a>, one of the <a href=\"/wiki/Wonders_of_the_World\" title=\"Wonders of the World\">Seven Wonders of the World</a>, is destroyed by <a href=\"/wiki/Arson\" title=\"Arson\">arson</a>.</li>",
+      "entities": [
+        {
+          "name": "356 BC",
+          "url": "/wiki/356_BC",
+          "length": 7060
+        },
+        {
+          "name": "Temple of Artemis",
+          "url": "/wiki/Temple_of_Artemis",
+          "length": 44542
+        },
+        {
+          "name": "Ephesus",
+          "url": "/wiki/Ephesus",
+          "length": 61961
+        },
+        {
+          "name": "Wonders of the World",
+          "url": "/wiki/Wonders_of_the_World",
+          "length": 27564
+        },
+        {
+          "name": "Arson",
+          "url": "/wiki/Arson",
+          "length": 32110
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Robin Williams, American actor and comedian, was born.",
+      "html": "<li>1951   – <a href=\"/wiki/Robin_Williams\" title=\"Robin Williams\">Robin Williams</a>, American actor and comedian (d. 2014)<sup id=\"cite_ref-67\" class=\"reference\"><a href=\"#cite_note-67\"><span class=\"cite-bracket\">[</span>67<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Robin Williams",
+          "url": "/wiki/Robin_Williams",
+          "length": 155099
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "description": "Jerry Goldsmith, American composer and conductor, died.",
+      "html": "<li>\n<a href=\"/wiki/2004\" title=\"2004\">2004</a> – <a href=\"/wiki/Jerry_Goldsmith\" title=\"Jerry Goldsmith\">Jerry Goldsmith</a>, American composer and conductor (b. 1929)</li>",
+      "entities": [
+        {
+          "name": "Jerry Goldsmith",
+          "url": "/wiki/Jerry_Goldsmith",
+          "length": 88766
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "2000",
+      "description": "Erling Haaland, Norwegian footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Erling_Haaland\" title=\"Erling Haaland\">Erling Haaland</a>, Norwegian footballer<sup id=\"cite_ref-101\" class=\"reference\"><a href=\"#cite_note-101\"><span class=\"cite-bracket\">[</span>101<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Erling Haaland",
+          "url": "/wiki/Erling_Haaland",
+          "length": 159761
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Robin Williams, American actor and comedian, was born.",
+      "html": "<li>1951   – <a href=\"/wiki/Robin_Williams\" title=\"Robin Williams\">Robin Williams</a>, American actor and comedian (d. 2014)<sup id=\"cite_ref-67\" class=\"reference\"><a href=\"#cite_note-67\"><span class=\"cite-bracket\">[</span>67<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Robin Williams",
+          "url": "/wiki/Robin_Williams",
+          "length": 155099
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "description": "Cat Stevens, English singer-songwriter and guitarist, was born.",
+      "html": "<li>1948   – <a href=\"/wiki/Cat_Stevens\" title=\"Cat Stevens\">Cat Stevens</a>, English singer-songwriter and guitarist</li>",
+      "entities": [
+        {
+          "name": "Cat Stevens",
+          "url": "/wiki/Cat_Stevens",
+          "length": 134735
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2023",
+      "description": "Tony Bennett, American singer, died.",
+      "html": "<li>\n<a href=\"/wiki/2023\" title=\"2023\">2023</a> – <a href=\"/wiki/Tony_Bennett\" title=\"Tony Bennett\">Tony Bennett</a>, American singer (b. 1926)<sup id=\"cite_ref-123\" class=\"reference\"><a href=\"#cite_note-123\"><span class=\"cite-bracket\">[</span>123<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Tony Bennett",
+          "url": "/wiki/Tony_Bennett",
+          "length": 131494
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "description": "Alan Shepard, American admiral, pilot, and astronaut, died.",
+      "html": "<li>\n<a href=\"/wiki/1998\" title=\"1998\">1998</a> – <a href=\"/wiki/Alan_Shepard\" title=\"Alan Shepard\">Alan Shepard</a>, American admiral, pilot, and astronaut (b. 1923)</li>",
+      "entities": [
+        {
+          "name": "Alan Shepard",
+          "url": "/wiki/Alan_Shepard",
+          "length": 94130
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "description": "Jerry Goldsmith, American composer and conductor, died.",
+      "html": "<li>\n<a href=\"/wiki/2004\" title=\"2004\">2004</a> – <a href=\"/wiki/Jerry_Goldsmith\" title=\"Jerry Goldsmith\">Jerry Goldsmith</a>, American composer and conductor (b. 1929)</li>",
+      "entities": [
+        {
+          "name": "Jerry Goldsmith",
+          "url": "/wiki/Jerry_Goldsmith",
+          "length": 88766
+        }
+      ]
+    }
+  ]
+}

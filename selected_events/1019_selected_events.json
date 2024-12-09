@@ -1,0 +1,221 @@
+{
+  "events": [
+    {
+      "year": "202 BC",
+      "description": "Second Punic War: At the Battle of Zama, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.",
+      "html": "<li>\n<a href=\"/wiki/202_BC\" title=\"202 BC\">202 BC</a> – <a href=\"/wiki/Second_Punic_War\" title=\"Second Punic War\">Second Punic War</a>: At the <a href=\"/wiki/Battle_of_Zama\" title=\"Battle of Zama\">Battle of Zama</a>, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.</li>",
+      "entities": [
+        {
+          "name": "202 BC",
+          "url": "/wiki/202_BC",
+          "length": 4342
+        },
+        {
+          "name": "Second Punic War",
+          "url": "/wiki/Second_Punic_War",
+          "length": 70680
+        },
+        {
+          "name": "Battle of Zama",
+          "url": "/wiki/Battle_of_Zama",
+          "length": 66062
+        }
+      ]
+    },
+    {
+      "year": "1453",
+      "description": "Hundred Years' War: Three months after the Battle of Castillon, England loses its last possessions in southern France.",
+      "html": "<li>\n<a href=\"/wiki/1453\" title=\"1453\">1453</a> – <a href=\"/wiki/Hundred_Years%27_War\" title=\"Hundred Years' War\">Hundred Years' War</a>: Three months after the <a href=\"/wiki/Battle_of_Castillon\" title=\"Battle of Castillon\">Battle of Castillon</a>, England loses its last possessions in southern France.</li>",
+      "entities": [
+        {
+          "name": "Hundred Years' War",
+          "url": "/wiki/Hundred_Years%27_War",
+          "length": 101420
+        },
+        {
+          "name": "Battle of Castillon",
+          "url": "/wiki/Battle_of_Castillon",
+          "length": 20301
+        }
+      ]
+    },
+    {
+      "year": "1466",
+      "description": "The Thirteen Years' War between Poland and the Teutonic Order ends with the Second Treaty of Thorn.",
+      "html": "<li>\n<a href=\"/wiki/1466\" title=\"1466\">1466</a> – The <a href=\"/wiki/Thirteen_Years%27_War_(1454%E2%80%9366)\" class=\"mw-redirect\" title=\"Thirteen Years' War (1454–66)\">Thirteen Years' War</a> between Poland and the Teutonic Order ends with the <a href=\"/wiki/Second_Peace_of_Thorn_(1466)\" title=\"Second Peace of Thorn (1466)\">Second Treaty of Thorn</a>.</li>",
+      "entities": [
+        {
+          "name": "Thirteen Years' War (1454–66)",
+          "url": "/wiki/Thirteen_Years%27_War_(1454%E2%80%9366)",
+          "length": 64
+        },
+        {
+          "name": "Second Peace of Thorn (1466)",
+          "url": "/wiki/Second_Peace_of_Thorn_(1466)",
+          "length": 8412
+        }
+      ]
+    },
+    {
+      "year": "1579",
+      "description": "James VI of Scotland is celebrated as an adult ruler by a festival in Edinburgh.",
+      "html": "<li>\n<a href=\"/wiki/1579\" title=\"1579\">1579</a> – <a href=\"/wiki/James_VI_of_Scotland\" class=\"mw-redirect\" title=\"James VI of Scotland\">James VI of Scotland</a> is celebrated as an adult ruler by a <a href=\"/wiki/Entry_of_James_VI_into_Edinburgh\" title=\"Entry of James VI into Edinburgh\">festival in Edinburgh</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "James VI of Scotland",
+          "url": "/wiki/James_VI_of_Scotland",
+          "length": 104
+        },
+        {
+          "name": "Entry of James VI into Edinburgh",
+          "url": "/wiki/Entry_of_James_VI_into_Edinburgh",
+          "length": 10872
+        }
+      ]
+    },
+    {
+      "year": "1781",
+      "description": "American Revolutionary War: The siege of Yorktown comes to an end.",
+      "html": "<li>\n<a href=\"/wiki/1781\" title=\"1781\">1781</a> – <a href=\"/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: The <a href=\"/wiki/Siege_of_Yorktown\" title=\"Siege of Yorktown\">siege of Yorktown</a> comes to an end.</li>",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 285512
+        },
+        {
+          "name": "Siege of Yorktown",
+          "url": "/wiki/Siege_of_Yorktown",
+          "length": 70147
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "American Civil War: The Battle of Cedar Creek ends the last Confederate threat to Washington, DC.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/Battle_of_Cedar_Creek\" title=\"Battle of Cedar Creek\">Battle of Cedar Creek</a> ends the last Confederate threat to Washington, DC.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Battle of Cedar Creek",
+          "url": "/wiki/Battle_of_Cedar_Creek",
+          "length": 80434
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "description": "Sunny Deol, Indian actor and producer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1961\" title=\"1961\">1961</a> – <a href=\"/wiki/Sunny_Deol\" title=\"Sunny Deol\">Sunny Deol</a>, Indian actor and producer</li>",
+      "entities": [
+        {
+          "name": "Sunny Deol",
+          "url": "/wiki/Sunny_Deol",
+          "length": 126276
+        }
+      ]
+    },
+    {
+      "year": "1216",
+      "description": "John, King of England, died.",
+      "html": "<li>\n<a href=\"/wiki/1216\" title=\"1216\">1216</a> – <a href=\"/wiki/John,_King_of_England\" title=\"John, King of England\">John, King of England</a> (b. 1166)</li>",
+      "entities": [
+        {
+          "name": "John, King of England",
+          "url": "/wiki/John,_King_of_England",
+          "length": 129424
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1969",
+      "description": "Pedro Castillo, Peruvian politician, 130th President of Peru, was born.",
+      "html": "<li>\n<a href=\"/wiki/1969\" title=\"1969\">1969</a> – <a href=\"/wiki/Pedro_Castillo\" title=\"Pedro Castillo\">Pedro Castillo</a>, Peruvian politician, 130th President of Peru<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\"><span class=\"cite-bracket\">[</span>23<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Pedro Castillo",
+          "url": "/wiki/Pedro_Castillo",
+          "length": 133030
+        }
+      ]
+    },
+    {
+      "year": "1961",
+      "description": "Sunny Deol, Indian actor and producer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1961\" title=\"1961\">1961</a> – <a href=\"/wiki/Sunny_Deol\" title=\"Sunny Deol\">Sunny Deol</a>, Indian actor and producer</li>",
+      "entities": [
+        {
+          "name": "Sunny Deol",
+          "url": "/wiki/Sunny_Deol",
+          "length": 126276
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "Sam Allardyce, English footballer and manager, was born.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/Sam_Allardyce\" title=\"Sam Allardyce\">Sam Allardyce</a>, English footballer and manager</li>",
+      "entities": [
+        {
+          "name": "Sam Allardyce",
+          "url": "/wiki/Sam_Allardyce",
+          "length": 121463
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1216",
+      "description": "John, King of England, died.",
+      "html": "<li>\n<a href=\"/wiki/1216\" title=\"1216\">1216</a> – <a href=\"/wiki/John,_King_of_England\" title=\"John, King of England\">John, King of England</a> (b. 1166)</li>",
+      "entities": [
+        {
+          "name": "John, King of England",
+          "url": "/wiki/John,_King_of_England",
+          "length": 129424
+        }
+      ]
+    },
+    {
+      "year": "1970",
+      "description": "Lázaro Cárdenas, Mexican general and politician, 44th President of Mexico, died.",
+      "html": "<li>\n<a href=\"/wiki/1970\" title=\"1970\">1970</a> – <a href=\"/wiki/L%C3%A1zaro_C%C3%A1rdenas\" title=\"Lázaro Cárdenas\">Lázaro Cárdenas</a>, Mexican general and politician, 44th <a href=\"/wiki/President_of_Mexico\" title=\"President of Mexico\">President of Mexico</a> (b. 1895)</li>",
+      "entities": [
+        {
+          "name": "Lázaro Cárdenas",
+          "url": "/wiki/L%C3%A1zaro_C%C3%A1rdenas",
+          "length": 99663
+        },
+        {
+          "name": "President of Mexico",
+          "url": "/wiki/President_of_Mexico",
+          "length": 41375
+        }
+      ]
+    },
+    {
+      "year": "1937",
+      "description": "Ernest Rutherford, New Zealand-English physicist and chemist, Nobel Prize laureate, died.",
+      "html": "<li>\n<a href=\"/wiki/1937\" title=\"1937\">1937</a> – <a href=\"/wiki/Ernest_Rutherford\" title=\"Ernest Rutherford\">Ernest Rutherford</a>, New Zealand-English physicist and chemist, <a href=\"/wiki/Nobel_Prize_in_Chemistry\" title=\"Nobel Prize in Chemistry\">Nobel Prize</a> laureate (b. 1871)</li>",
+      "entities": [
+        {
+          "name": "Ernest Rutherford",
+          "url": "/wiki/Ernest_Rutherford",
+          "length": 73236
+        },
+        {
+          "name": "Nobel Prize in Chemistry",
+          "url": "/wiki/Nobel_Prize_in_Chemistry",
+          "length": 25743
+        }
+      ]
+    }
+  ]
+}

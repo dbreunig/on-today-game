@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": "1794",
+      "description": "French Revolution: Maximilien Robespierre and Louis Antoine de Saint-Just are executed by guillotine in Paris, France.",
+      "html": "<li>\n<a href=\"/wiki/1794\" title=\"1794\">1794</a> – <a href=\"/wiki/French_Revolution\" title=\"French Revolution\">French Revolution</a>: <a href=\"/wiki/Maximilien_Robespierre\" title=\"Maximilien Robespierre\">Maximilien Robespierre</a> and <a href=\"/wiki/Louis_Antoine_de_Saint-Just\" title=\"Louis Antoine de Saint-Just\">Louis Antoine de Saint-Just</a> are executed by <a href=\"/wiki/Guillotine\" title=\"Guillotine\">guillotine</a> in <a href=\"/wiki/Paris\" title=\"Paris\">Paris, France</a>.</li>",
+      "entities": [
+        {
+          "name": "French Revolution",
+          "url": "/wiki/French_Revolution",
+          "length": 152584
+        },
+        {
+          "name": "Maximilien Robespierre",
+          "url": "/wiki/Maximilien_Robespierre",
+          "length": 277203
+        },
+        {
+          "name": "Louis Antoine de Saint-Just",
+          "url": "/wiki/Louis_Antoine_de_Saint-Just",
+          "length": 77437
+        },
+        {
+          "name": "Guillotine",
+          "url": "/wiki/Guillotine",
+          "length": 42068
+        },
+        {
+          "name": "Paris",
+          "url": "/wiki/Paris",
+          "length": 251645
+        }
+      ]
+    },
+    {
+      "year": "1864",
+      "description": "American Civil War: Battle of Ezra Church: Confederate troops make a third unsuccessful attempt to drive Union forces from Atlanta, Georgia.",
+      "html": "<li>\n<a href=\"/wiki/1864\" title=\"1864\">1864</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Battle_of_Ezra_Church\" title=\"Battle of Ezra Church\">Battle of Ezra Church</a>: <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate</a> troops make a third unsuccessful attempt to drive <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> forces from <a href=\"/wiki/Atlanta\" title=\"Atlanta\">Atlanta, Georgia</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Battle of Ezra Church",
+          "url": "/wiki/Battle_of_Ezra_Church",
+          "length": 10124
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Atlanta",
+          "url": "/wiki/Atlanta",
+          "length": 234833
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "description": "Prime Minister of Pakistan, Nawaz Sharif was disqualified from office for life by Supreme Court of Pakistan after finding him guilty of corruption charges.",
+      "html": "<li>\n<a href=\"/wiki/2017\" title=\"2017\">2017</a> – <a href=\"/wiki/Prime_Minister_of_Pakistan\" title=\"Prime Minister of Pakistan\">Prime Minister of Pakistan</a>, <a href=\"/wiki/Nawaz_Sharif\" title=\"Nawaz Sharif\">Nawaz Sharif</a> was disqualified from office for life by <a href=\"/wiki/Supreme_Court_of_Pakistan\" title=\"Supreme Court of Pakistan\">Supreme Court of Pakistan</a> after finding him guilty of <a href=\"/wiki/Panama_Papers_case_(Pakistan)\" class=\"mw-redirect\" title=\"Panama Papers case (Pakistan)\">corruption charges</a>.</li>",
+      "entities": [
+        {
+          "name": "Prime Minister of Pakistan",
+          "url": "/wiki/Prime_Minister_of_Pakistan",
+          "length": 41659
+        },
+        {
+          "name": "Nawaz Sharif",
+          "url": "/wiki/Nawaz_Sharif",
+          "length": 239484
+        },
+        {
+          "name": "Supreme Court of Pakistan",
+          "url": "/wiki/Supreme_Court_of_Pakistan",
+          "length": 125728
+        },
+        {
+          "name": "Panama Papers case (Pakistan)",
+          "url": "/wiki/Panama_Papers_case_(Pakistan)",
+          "length": 104
+        }
+      ]
+    },
+    {
+      "year": "1809",
+      "description": "Peninsular War: Battle of Talavera: Sir Arthur Wellesley's British, Portuguese and Spanish army defeats a French force led by Joseph Bonaparte.",
+      "html": "<li>\n<a href=\"/wiki/1809\" title=\"1809\">1809</a> – <a href=\"/wiki/Peninsular_War\" title=\"Peninsular War\">Peninsular War</a>: <a href=\"/wiki/Battle_of_Talavera\" title=\"Battle of Talavera\">Battle of Talavera</a>: Sir <a href=\"/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington\" title=\"Arthur Wellesley, 1st Duke of Wellington\">Arthur Wellesley</a>'s British, Portuguese and Spanish army defeats a French force led by <a href=\"/wiki/Joseph_Bonaparte\" title=\"Joseph Bonaparte\">Joseph Bonaparte</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Peninsular War",
+          "url": "/wiki/Peninsular_War",
+          "length": 130961
+        },
+        {
+          "name": "Battle of Talavera",
+          "url": "/wiki/Battle_of_Talavera",
+          "length": 27653
+        },
+        {
+          "name": "Arthur Wellesley, 1st Duke of Wellington",
+          "url": "/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington",
+          "length": 153855
+        },
+        {
+          "name": "Joseph Bonaparte",
+          "url": "/wiki/Joseph_Bonaparte",
+          "length": 36057
+        }
+      ]
+    },
+    {
+      "year": "1938",
+      "description": "Hawaii Clipper disappears between Guam and Manila as the first loss of an airliner in trans-Pacific China Clipper service.",
+      "html": "<li>\n<a href=\"/wiki/1938\" title=\"1938\">1938</a> – <i><a href=\"/wiki/Hawaii_Clipper\" title=\"Hawaii Clipper\">Hawaii Clipper</a></i> disappears between <a href=\"/wiki/Guam\" title=\"Guam\">Guam</a> and <a href=\"/wiki/Manila\" title=\"Manila\">Manila</a> as the first loss of an airliner in trans-Pacific <i><a href=\"/wiki/China_Clipper\" title=\"China Clipper\">China Clipper</a></i> service.</li>",
+      "entities": [
+        {
+          "name": "Hawaii Clipper",
+          "url": "/wiki/Hawaii_Clipper",
+          "length": 5580
+        },
+        {
+          "name": "Guam",
+          "url": "/wiki/Guam",
+          "length": 111005
+        },
+        {
+          "name": "Manila",
+          "url": "/wiki/Manila",
+          "length": 287205
+        },
+        {
+          "name": "China Clipper",
+          "url": "/wiki/China_Clipper",
+          "length": 23559
+        }
+      ]
+    },
+    {
+      "year": "1914",
+      "description": "In the culmination of the July Crisis, Austria-Hungary declares war on Serbia, igniting World War I.",
+      "html": "<li>\n<a href=\"/wiki/1914\" title=\"1914\">1914</a> – In the culmination of the <a href=\"/wiki/July_Crisis\" title=\"July Crisis\">July Crisis</a>, <a href=\"/wiki/Austria-Hungary\" title=\"Austria-Hungary\">Austria-Hungary</a> declares war on <a href=\"/wiki/Serbia\" title=\"Serbia\">Serbia</a>, igniting <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>.</li>",
+      "entities": [
+        {
+          "name": "July Crisis",
+          "url": "/wiki/July_Crisis",
+          "length": 160376
+        },
+        {
+          "name": "Austria-Hungary",
+          "url": "/wiki/Austria-Hungary",
+          "length": 173784
+        },
+        {
+          "name": "Serbia",
+          "url": "/wiki/Serbia",
+          "length": 316741
+        },
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "Hugo Chávez, Venezuelan colonel and politician, President of Venezuela, was born.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/Hugo_Ch%C3%A1vez\" title=\"Hugo Chávez\">Hugo Chávez</a>, Venezuelan colonel and politician, <a href=\"/wiki/President_of_Venezuela\" title=\"President of Venezuela\">President of Venezuela</a> (d. 2013)<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\"><span class=\"cite-bracket\">[</span>32<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Hugo Chávez",
+          "url": "/wiki/Hugo_Ch%C3%A1vez",
+          "length": 250193
+        },
+        {
+          "name": "President of Venezuela",
+          "url": "/wiki/President_of_Venezuela",
+          "length": 30926
+        }
+      ]
+    },
+    {
+      "year": "1750",
+      "description": "Johann Sebastian Bach, German organist and composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1750\" title=\"1750\">1750</a> – <a href=\"/wiki/Johann_Sebastian_Bach\" title=\"Johann Sebastian Bach\">Johann Sebastian Bach</a>, German organist and composer (b. 1685)<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "/wiki/Johann_Sebastian_Bach",
+          "length": 162715
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1993",
+      "description": "Harry Kane, English footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1993\" title=\"1993\">1993</a> – <a href=\"/wiki/Harry_Kane\" title=\"Harry Kane\">Harry Kane</a>, English footballer<sup id=\"cite_ref-43\" class=\"reference\"><a href=\"#cite_note-43\"><span class=\"cite-bracket\">[</span>43<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Harry Kane",
+          "url": "/wiki/Harry_Kane",
+          "length": 251691
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "Hugo Chávez, Venezuelan colonel and politician, President of Venezuela, was born.",
+      "html": "<li>\n<a href=\"/wiki/1954\" title=\"1954\">1954</a> – <a href=\"/wiki/Hugo_Ch%C3%A1vez\" title=\"Hugo Chávez\">Hugo Chávez</a>, Venezuelan colonel and politician, <a href=\"/wiki/President_of_Venezuela\" title=\"President of Venezuela\">President of Venezuela</a> (d. 2013)<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"#cite_note-32\"><span class=\"cite-bracket\">[</span>32<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Hugo Chávez",
+          "url": "/wiki/Hugo_Ch%C3%A1vez",
+          "length": 250193
+        },
+        {
+          "name": "President of Venezuela",
+          "url": "/wiki/President_of_Venezuela",
+          "length": 30926
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "description": "Abu Bakr al-Baghdadi, Iraqi leader of the Islamic State of Iraq and the Levant, was born.",
+      "html": "<li>\n<a href=\"/wiki/1971\" title=\"1971\">1971</a> – <a href=\"/wiki/Abu_Bakr_al-Baghdadi\" title=\"Abu Bakr al-Baghdadi\">Abu Bakr al-Baghdadi</a>, Iraqi leader of the <a href=\"/wiki/Islamic_State_of_Iraq_and_the_Levant\" class=\"mw-redirect\" title=\"Islamic State of Iraq and the Levant\">Islamic State of Iraq and the Levant</a> (d. 2019)</li>",
+      "entities": [
+        {
+          "name": "Abu Bakr al-Baghdadi",
+          "url": "/wiki/Abu_Bakr_al-Baghdadi",
+          "length": 176607
+        },
+        {
+          "name": "Islamic State of Iraq and the Levant",
+          "url": "/wiki/Islamic_State_of_Iraq_and_the_Levant",
+          "length": 102
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1794",
+      "description": "Maximilien Robespierre, French politician,, died.",
+      "html": "<li>\n<a href=\"/wiki/1794\" title=\"1794\">1794</a> – <a href=\"/wiki/Maximilien_Robespierre\" title=\"Maximilien Robespierre\">Maximilien Robespierre</a>, French politician, (b. 1758)<sup id=\"cite_ref-57\" class=\"reference\"><a href=\"#cite_note-57\"><span class=\"cite-bracket\">[</span>57<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Maximilien Robespierre",
+          "url": "/wiki/Maximilien_Robespierre",
+          "length": 277203
+        }
+      ]
+    },
+    {
+      "year": "1750",
+      "description": "Johann Sebastian Bach, German organist and composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1750\" title=\"1750\">1750</a> – <a href=\"/wiki/Johann_Sebastian_Bach\" title=\"Johann Sebastian Bach\">Johann Sebastian Bach</a>, German organist and composer (b. 1685)<sup id=\"cite_ref-56\" class=\"reference\"><a href=\"#cite_note-56\"><span class=\"cite-bracket\">[</span>56<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "/wiki/Johann_Sebastian_Bach",
+          "length": 162715
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "description": "Otto Hahn, German chemist and academic, Nobel Prize laureate, died.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Otto_Hahn\" title=\"Otto Hahn\">Otto Hahn</a>, German chemist and academic, <a href=\"/wiki/Nobel_Prize_in_Chemistry\" title=\"Nobel Prize in Chemistry\">Nobel Prize</a> laureate (b. 1879)</li>",
+      "entities": [
+        {
+          "name": "Otto Hahn",
+          "url": "/wiki/Otto_Hahn",
+          "length": 120965
+        },
+        {
+          "name": "Nobel Prize in Chemistry",
+          "url": "/wiki/Nobel_Prize_in_Chemistry",
+          "length": 25743
+        }
+      ]
+    }
+  ]
+}

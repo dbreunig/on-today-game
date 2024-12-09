@@ -1,0 +1,346 @@
+{
+  "events": [
+    {
+      "year": "1967",
+      "description": "Apollo program: Astronauts Gus Grissom, Ed White and Roger Chaffee are killed in a fire during a test of their Apollo 1 spacecraft at the Kennedy Space Center, Florida.",
+      "html": "<li>\n<a href=\"/wiki/1967\" title=\"1967\">1967</a> – <a href=\"/wiki/Apollo_program\" title=\"Apollo program\">Apollo program</a>: <a href=\"/wiki/Astronaut\" title=\"Astronaut\">Astronauts</a> <a href=\"/wiki/Gus_Grissom\" title=\"Gus Grissom\">Gus Grissom</a>, <a href=\"/wiki/Ed_White_(astronaut)\" title=\"Ed White (astronaut)\">Ed White</a> and <a href=\"/wiki/Roger_Chaffee\" class=\"mw-redirect\" title=\"Roger Chaffee\">Roger Chaffee</a> are killed in a fire during a test of their <a href=\"/wiki/Apollo_1\" title=\"Apollo 1\">Apollo 1</a> spacecraft at the <a href=\"/wiki/Kennedy_Space_Center\" title=\"Kennedy Space Center\">Kennedy Space Center</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>.</li>",
+      "entities": [
+        {
+          "name": "Apollo program",
+          "url": "/wiki/Apollo_program",
+          "length": 155122
+        },
+        {
+          "name": "Astronaut",
+          "url": "/wiki/Astronaut",
+          "length": 83416
+        },
+        {
+          "name": "Gus Grissom",
+          "url": "/wiki/Gus_Grissom",
+          "length": 81558
+        },
+        {
+          "name": "Ed White (astronaut)",
+          "url": "/wiki/Ed_White_(astronaut)",
+          "length": 60580
+        },
+        {
+          "name": "Roger Chaffee",
+          "url": "/wiki/Roger_Chaffee",
+          "length": 30
+        },
+        {
+          "name": "Apollo 1",
+          "url": "/wiki/Apollo_1",
+          "length": 107719
+        },
+        {
+          "name": "Kennedy Space Center",
+          "url": "/wiki/Kennedy_Space_Center",
+          "length": 66901
+        },
+        {
+          "name": "Florida",
+          "url": "/wiki/Florida",
+          "length": 257910
+        }
+      ]
+    },
+    {
+      "year": "1943",
+      "description": "World War II: The Eighth Air Force sorties ninety-one B-17s and B-24s to attack the U-boat construction yards at Wilhelmshaven, Germany. This was the first American bombing attack on Germany.",
+      "html": "<li>\n<a href=\"/wiki/1943\" title=\"1943\">1943</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: The <a href=\"/wiki/Eighth_Air_Force\" title=\"Eighth Air Force\">Eighth Air Force</a> sorties ninety-one <a href=\"/wiki/Boeing_B-17_Flying_Fortress\" title=\"Boeing B-17 Flying Fortress\">B-17s</a> and <a href=\"/wiki/Consolidated_B-24_Liberator\" title=\"Consolidated B-24 Liberator\">B-24s</a> to attack the <a href=\"/wiki/U-boat\" title=\"U-boat\">U-boat</a> construction yards at <a href=\"/wiki/Wilhelmshaven\" title=\"Wilhelmshaven\">Wilhelmshaven</a>, Germany. This was the first American bombing attack on Germany.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Eighth Air Force",
+          "url": "/wiki/Eighth_Air_Force",
+          "length": 91642
+        },
+        {
+          "name": "Boeing B-17 Flying Fortress",
+          "url": "/wiki/Boeing_B-17_Flying_Fortress",
+          "length": 144964
+        },
+        {
+          "name": "Consolidated B-24 Liberator",
+          "url": "/wiki/Consolidated_B-24_Liberator",
+          "length": 112396
+        },
+        {
+          "name": "U-boat",
+          "url": "/wiki/U-boat",
+          "length": 54855
+        },
+        {
+          "name": "Wilhelmshaven",
+          "url": "/wiki/Wilhelmshaven",
+          "length": 28181
+        }
+      ]
+    },
+    {
+      "year": "98",
+      "description": "Trajan succeeds his adoptive father Nerva as Roman emperor; under his rule the Roman Empire will reach its maximum extent.",
+      "html": "<li>\n<a href=\"/wiki/AD_98\" title=\"AD 98\">98</a> – <a href=\"/wiki/Trajan\" title=\"Trajan\">Trajan</a> succeeds his adoptive father <a href=\"/wiki/Nerva\" title=\"Nerva\">Nerva</a> as <a href=\"/wiki/Roman_emperor\" title=\"Roman emperor\">Roman emperor</a>;<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> under his rule the <a href=\"/wiki/Roman_Empire\" title=\"Roman Empire\">Roman Empire</a> will reach its maximum extent.</li>",
+      "entities": [
+        {
+          "name": "AD 98",
+          "url": "/wiki/AD_98",
+          "length": 3047
+        },
+        {
+          "name": "Trajan",
+          "url": "/wiki/Trajan",
+          "length": 145898
+        },
+        {
+          "name": "Nerva",
+          "url": "/wiki/Nerva",
+          "length": 45129
+        },
+        {
+          "name": "Roman emperor",
+          "url": "/wiki/Roman_emperor",
+          "length": 96438
+        },
+        {
+          "name": "Roman Empire",
+          "url": "/wiki/Roman_Empire",
+          "length": 257524
+        }
+      ]
+    },
+    {
+      "year": "1825",
+      "description": "The U.S. Congress approves Indian Territory (in what is present-day Oklahoma), clearing the way for forced relocation of the Eastern Indians on the \"Trail of Tears\".",
+      "html": "<li>\n<a href=\"/wiki/1825\" title=\"1825\">1825</a> – The <a href=\"/wiki/U.S._Congress\" class=\"mw-redirect\" title=\"U.S. Congress\">U.S. Congress</a> approves <a href=\"/wiki/Indian_Territory\" title=\"Indian Territory\">Indian Territory</a> (in what is present-day <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>), clearing the way for forced relocation of the <a href=\"/wiki/Five_Civilized_Tribes\" title=\"Five Civilized Tribes\">Eastern Indians</a> on the \"<a href=\"/wiki/Trail_of_Tears\" title=\"Trail of Tears\">Trail of Tears</a>\".</li>",
+      "entities": [
+        {
+          "name": "U.S. Congress",
+          "url": "/wiki/U.S._Congress",
+          "length": 74
+        },
+        {
+          "name": "Indian Territory",
+          "url": "/wiki/Indian_Territory",
+          "length": 72448
+        },
+        {
+          "name": "Oklahoma",
+          "url": "/wiki/Oklahoma",
+          "length": 219067
+        },
+        {
+          "name": "Five Civilized Tribes",
+          "url": "/wiki/Five_Civilized_Tribes",
+          "length": 51100
+        },
+        {
+          "name": "Trail of Tears",
+          "url": "/wiki/Trail_of_Tears",
+          "length": 130735
+        }
+      ]
+    },
+    {
+      "year": "1868",
+      "description": "Boshin War: The Battle of Toba–Fushimi begins, between forces of the Tokugawa shogunate and pro-Imperial factions; it will end in defeat for the shogunate, and is a pivotal point in the Meiji Restoration.",
+      "html": "<li>\n<a href=\"/wiki/1868\" title=\"1868\">1868</a> – <a href=\"/wiki/Boshin_War\" title=\"Boshin War\">Boshin War</a>: The <a href=\"/wiki/Battle_of_Toba%E2%80%93Fushimi\" title=\"Battle of Toba–Fushimi\">Battle of Toba–Fushimi</a> begins, between forces of the <a href=\"/wiki/Tokugawa_shogunate\" title=\"Tokugawa shogunate\">Tokugawa shogunate</a> and pro-<a href=\"/wiki/Emperor_of_Japan\" title=\"Emperor of Japan\">Imperial</a> factions; it will end in defeat for the shogunate, and is a pivotal point in the <a href=\"/wiki/Meiji_Restoration\" title=\"Meiji Restoration\">Meiji Restoration</a>.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Boshin War",
+          "url": "/wiki/Boshin_War",
+          "length": 80405
+        },
+        {
+          "name": "Battle of Toba–Fushimi",
+          "url": "/wiki/Battle_of_Toba%E2%80%93Fushimi",
+          "length": 23159
+        },
+        {
+          "name": "Tokugawa shogunate",
+          "url": "/wiki/Tokugawa_shogunate",
+          "length": 54094
+        },
+        {
+          "name": "Emperor of Japan",
+          "url": "/wiki/Emperor_of_Japan",
+          "length": 90335
+        },
+        {
+          "name": "Meiji Restoration",
+          "url": "/wiki/Meiji_Restoration",
+          "length": 39940
+        }
+      ]
+    },
+    {
+      "year": "945",
+      "description": "The co-emperors Stephen and Constantine are overthrown and forced to become monks by Constantine VII, who becomes sole emperor of the Byzantine Empire.",
+      "html": "<li>\n<a href=\"/wiki/945\" title=\"945\">945</a> – The co-emperors <a href=\"/wiki/Stephen_Lekapenos\" title=\"Stephen Lekapenos\">Stephen</a> and <a href=\"/wiki/Constantine_Lekapenos\" title=\"Constantine Lekapenos\">Constantine</a> are overthrown and forced to become monks by <a href=\"/wiki/Constantine_VII\" title=\"Constantine VII\">Constantine VII</a>, who becomes sole emperor of the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine Empire</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Stephen Lekapenos",
+          "url": "/wiki/Stephen_Lekapenos",
+          "length": 11773
+        },
+        {
+          "name": "Constantine Lekapenos",
+          "url": "/wiki/Constantine_Lekapenos",
+          "length": 12483
+        },
+        {
+          "name": "Constantine VII",
+          "url": "/wiki/Constantine_VII",
+          "length": 26489
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201250
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "John Roberts, American lawyer and judge, 17th Chief Justice of the United States, was born.",
+      "html": "<li>1955   – <a href=\"/wiki/John_Roberts\" title=\"John Roberts\">John Roberts</a>, American lawyer and judge, 17th <a href=\"/wiki/Chief_Justice_of_the_United_States\" title=\"Chief Justice of the United States\">Chief Justice of the United States</a><sup id=\"cite_ref-UPI_31-5\" class=\"reference\"><a href=\"#cite_note-UPI-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John Roberts",
+          "url": "/wiki/John_Roberts",
+          "length": 143621
+        },
+        {
+          "name": "Chief Justice of the United States",
+          "url": "/wiki/Chief_Justice_of_the_United_States",
+          "length": 42104
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "description": "Suharto, Indonesian general and politician, 2nd President of Indonesia, died.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/Suharto\" title=\"Suharto\">Suharto</a>, Indonesian general and politician, 2nd <a href=\"/wiki/President_of_Indonesia\" title=\"President of Indonesia\">President of Indonesia</a> (b. 1921)</li>",
+      "entities": [
+        {
+          "name": "Suharto",
+          "url": "/wiki/Suharto",
+          "length": 145592
+        },
+        {
+          "name": "President of Indonesia",
+          "url": "/wiki/President_of_Indonesia",
+          "length": 34811
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1968",
+      "description": "Mike Patton, American singer, composer, and voice artist, was born.",
+      "html": "<li>1968   – <a href=\"/wiki/Mike_Patton\" title=\"Mike Patton\">Mike Patton</a>, American singer, composer, and voice artist<sup id=\"cite_ref-AP_43-7\" class=\"reference\"><a href=\"#cite_note-AP-43\"><span class=\"cite-bracket\">[</span>43<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mike Patton",
+          "url": "/wiki/Mike_Patton",
+          "length": 225110
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "John Roberts, American lawyer and judge, 17th Chief Justice of the United States, was born.",
+      "html": "<li>1955   – <a href=\"/wiki/John_Roberts\" title=\"John Roberts\">John Roberts</a>, American lawyer and judge, 17th <a href=\"/wiki/Chief_Justice_of_the_United_States\" title=\"Chief Justice of the United States\">Chief Justice of the United States</a><sup id=\"cite_ref-UPI_31-5\" class=\"reference\"><a href=\"#cite_note-UPI-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John Roberts",
+          "url": "/wiki/John_Roberts",
+          "length": 143621
+        },
+        {
+          "name": "Chief Justice of the United States",
+          "url": "/wiki/Chief_Justice_of_the_United_States",
+          "length": 42104
+        }
+      ]
+    },
+    {
+      "year": "1929",
+      "description": "Mohamed Al-Fayed, Egyptian-Swiss businessman, was born.",
+      "html": "<li>\n<a href=\"/wiki/1929\" title=\"1929\">1929</a> – <a href=\"/wiki/Mohamed_Al-Fayed\" title=\"Mohamed Al-Fayed\">Mohamed Al-Fayed</a>, Egyptian-Swiss businessman (d. 2023)</li>",
+      "entities": [
+        {
+          "name": "Mohamed Al-Fayed",
+          "url": "/wiki/Mohamed_Al-Fayed",
+          "length": 126411
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2008",
+      "description": "Suharto, Indonesian general and politician, 2nd President of Indonesia, died.",
+      "html": "<li>\n<a href=\"/wiki/2008\" title=\"2008\">2008</a> – <a href=\"/wiki/Suharto\" title=\"Suharto\">Suharto</a>, Indonesian general and politician, 2nd <a href=\"/wiki/President_of_Indonesia\" title=\"President of Indonesia\">President of Indonesia</a> (b. 1921)</li>",
+      "entities": [
+        {
+          "name": "Suharto",
+          "url": "/wiki/Suharto",
+          "length": 145592
+        },
+        {
+          "name": "President of Indonesia",
+          "url": "/wiki/President_of_Indonesia",
+          "length": 34811
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "description": "Pete Seeger, American singer-songwriter, guitarist and activist, died.",
+      "html": "<li>\n<a href=\"/wiki/2014\" title=\"2014\">2014</a> – <a href=\"/wiki/Pete_Seeger\" title=\"Pete Seeger\">Pete Seeger</a>, American singer-songwriter, guitarist and activist (b. 1919)</li>",
+      "entities": [
+        {
+          "name": "Pete Seeger",
+          "url": "/wiki/Pete_Seeger",
+          "length": 123170
+        }
+      ]
+    },
+    {
+      "year": "1967",
+      "description": "crew of Apollo 1\nRoger B. Chaffee, American pilot, engineer, and astronautGus Grissom, American pilot and astronautEd White, American colonel, engineer, and astronaut, died.",
+      "html": "<li>\n<a href=\"/wiki/1967\" title=\"1967\">1967</a> – crew of <a href=\"/wiki/Apollo_1\" title=\"Apollo 1\">Apollo 1</a>\n<ul>\n<li>\n<a href=\"/wiki/Roger_B._Chaffee\" title=\"Roger B. Chaffee\">Roger B. Chaffee</a>, American pilot, engineer, and astronaut (b. 1935)<sup id=\"cite_ref-68\" class=\"reference\"><a href=\"#cite_note-68\"><span class=\"cite-bracket\">[</span>68<span class=\"cite-bracket\">]</span></a></sup>\n</li>\n<li>\n<a href=\"/wiki/Gus_Grissom\" title=\"Gus Grissom\">Gus Grissom</a>, American pilot and astronaut (b. 1926)<sup id=\"cite_ref-69\" class=\"reference\"><a href=\"#cite_note-69\"><span class=\"cite-bracket\">[</span>69<span class=\"cite-bracket\">]</span></a></sup>\n</li>\n<li>\n<a href=\"/wiki/Ed_White_(astronaut)\" title=\"Ed White (astronaut)\">Ed White</a>, American colonel, engineer, and astronaut (b. 1930)<sup id=\"cite_ref-70\" class=\"reference\"><a href=\"#cite_note-70\"><span class=\"cite-bracket\">[</span>70<span class=\"cite-bracket\">]</span></a></sup>\n</li>\n</ul>\n</li>",
+      "entities": [
+        {
+          "name": "Apollo 1",
+          "url": "/wiki/Apollo_1",
+          "length": 107719
+        },
+        {
+          "name": "Roger B. Chaffee",
+          "url": "/wiki/Roger_B._Chaffee",
+          "length": 50242
+        },
+        {
+          "name": "Gus Grissom",
+          "url": "/wiki/Gus_Grissom",
+          "length": 81558
+        },
+        {
+          "name": "Ed White (astronaut)",
+          "url": "/wiki/Ed_White_(astronaut)",
+          "length": 60580
+        }
+      ]
+    }
+  ]
+}

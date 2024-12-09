@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "year": "748",
+      "description": "Abbasid Revolution: The Hashimi rebels under Abu Muslim Khorasani take Merv, capital of the Umayyad province Khorasan, marking the consolidation of the Abbasid revolt.",
+      "html": "<li>\n<a href=\"/wiki/748\" title=\"748\">748</a> – <a href=\"/wiki/Abbasid_Revolution#Persian_phase\" class=\"mw-redirect\" title=\"Abbasid Revolution\">Abbasid Revolution</a>: The <a href=\"/wiki/Kaysanites_Shia#History\" class=\"mw-redirect\" title=\"Kaysanites Shia\">Hashimi</a> rebels under <a href=\"/wiki/Abu_Muslim_Khorasani\" class=\"mw-redirect\" title=\"Abu Muslim Khorasani\">Abu Muslim Khorasani</a> take <a href=\"/wiki/Merv\" title=\"Merv\">Merv</a>, capital of the <a href=\"/wiki/Umayyad_Caliphate\" title=\"Umayyad Caliphate\">Umayyad</a> province <a href=\"/wiki/Greater_Khorasan\" title=\"Greater Khorasan\">Khorasan</a>, marking the consolidation of the <a href=\"/wiki/Abbasid_Caliphate\" title=\"Abbasid Caliphate\">Abbasid</a> revolt.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Abbasid Revolution",
+          "url": "/wiki/Abbasid_Revolution#Persian_phase",
+          "length": null
+        },
+        {
+          "name": "Kaysanites Shia",
+          "url": "/wiki/Kaysanites_Shia#History",
+          "length": null
+        },
+        {
+          "name": "Abu Muslim Khorasani",
+          "url": "/wiki/Abu_Muslim_Khorasani",
+          "length": null
+        },
+        {
+          "name": "Merv",
+          "url": "/wiki/Merv",
+          "length": null
+        },
+        {
+          "name": "Umayyad Caliphate",
+          "url": "/wiki/Umayyad_Caliphate",
+          "length": null
+        },
+        {
+          "name": "Greater Khorasan",
+          "url": "/wiki/Greater_Khorasan",
+          "length": null
+        },
+        {
+          "name": "Abbasid Caliphate",
+          "url": "/wiki/Abbasid_Caliphate",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1778",
+      "description": "The United States flag is formally recognized by a foreign naval vessel for the first time, when French Admiral Toussaint-Guillaume Picquet de la Motte renders a nine gun salute to USS Ranger, commanded by John Paul Jones.",
+      "html": "<li>\n<a href=\"/wiki/1778\" title=\"1778\">1778</a> – The <a href=\"/wiki/Flag_of_the_United_States\" title=\"Flag of the United States\">United States flag</a> is formally recognized by a foreign <a href=\"/wiki/Naval_ship\" title=\"Naval ship\">naval vessel</a> for the first time, when French <a href=\"/wiki/Admiral\" title=\"Admiral\">Admiral</a> <a href=\"/wiki/Toussaint-Guillaume_Picquet_de_la_Motte\" title=\"Toussaint-Guillaume Picquet de la Motte\">Toussaint-Guillaume Picquet de la Motte</a> renders a nine gun salute to <a href=\"/wiki/USS_Ranger_(1777)\" title=\"USS Ranger (1777)\">USS <i>Ranger</i></a>, commanded by <a href=\"/wiki/John_Paul_Jones\" title=\"John Paul Jones\">John Paul Jones</a>.</li>",
+      "entities": [
+        {
+          "name": "Flag of the United States",
+          "url": "/wiki/Flag_of_the_United_States",
+          "length": 153873
+        },
+        {
+          "name": "Naval ship",
+          "url": "/wiki/Naval_ship",
+          "length": 9847
+        },
+        {
+          "name": "Admiral",
+          "url": "/wiki/Admiral",
+          "length": 32714
+        },
+        {
+          "name": "Toussaint-Guillaume Picquet de la Motte",
+          "url": "/wiki/Toussaint-Guillaume_Picquet_de_la_Motte",
+          "length": 14580
+        },
+        {
+          "name": "USS Ranger (1777)",
+          "url": "/wiki/USS_Ranger_(1777)",
+          "length": 13344
+        },
+        {
+          "name": "John Paul Jones",
+          "url": "/wiki/John_Paul_Jones",
+          "length": 71203
+        }
+      ]
+    },
+    {
+      "year": "1797",
+      "description": "French Revolutionary Wars: Battle of Cape St. Vincent: John Jervis, (later 1st Earl of St Vincent) and Horatio Nelson (later 1st Viscount Nelson) lead the British Royal Navy to victory over a Spanish fleet in action near Gibraltar.",
+      "html": "<li>\n<a href=\"/wiki/1797\" title=\"1797\">1797</a> – <a href=\"/wiki/French_Revolutionary_Wars\" title=\"French Revolutionary Wars\">French Revolutionary Wars</a>: <a href=\"/wiki/Battle_of_Cape_St._Vincent_(1797)\" title=\"Battle of Cape St. Vincent (1797)\">Battle of Cape St. Vincent</a>: <a href=\"/wiki/John_Jervis,_1st_Earl_of_St_Vincent\" title=\"John Jervis, 1st Earl of St Vincent\">John Jervis, (later 1st Earl of St Vincent)</a> and <a href=\"/wiki/Horatio_Nelson,_1st_Viscount_Nelson\" title=\"Horatio Nelson, 1st Viscount Nelson\">Horatio Nelson (later 1st Viscount Nelson)</a> lead the <a href=\"/wiki/Royal_Navy\" title=\"Royal Navy\">British Royal Navy</a> to victory over a Spanish fleet in action near <a href=\"/wiki/Gibraltar\" title=\"Gibraltar\">Gibraltar</a>.</li>",
+      "entities": [
+        {
+          "name": "French Revolutionary Wars",
+          "url": "/wiki/French_Revolutionary_Wars",
+          "length": 78933
+        },
+        {
+          "name": "Battle of Cape St. Vincent (1797)",
+          "url": "/wiki/Battle_of_Cape_St._Vincent_(1797)",
+          "length": 44057
+        },
+        {
+          "name": "John Jervis, 1st Earl of St Vincent",
+          "url": "/wiki/John_Jervis,_1st_Earl_of_St_Vincent",
+          "length": 100646
+        },
+        {
+          "name": "Horatio Nelson, 1st Viscount Nelson",
+          "url": "/wiki/Horatio_Nelson,_1st_Viscount_Nelson",
+          "length": 151119
+        },
+        {
+          "name": "Royal Navy",
+          "url": "/wiki/Royal_Navy",
+          "length": 157804
+        },
+        {
+          "name": "Gibraltar",
+          "url": "/wiki/Gibraltar",
+          "length": 151846
+        }
+      ]
+    },
+    {
+      "year": "1943",
+      "description": "World War II: Tunisia Campaign: General Hans-Jürgen von Arnim's Fifth Panzer Army launches a counter-attack against Allied positions in Tunisia.",
+      "html": "<li>1943   – World War II: <a href=\"/wiki/Tunisia_Campaign\" class=\"mw-redirect\" title=\"Tunisia Campaign\">Tunisia Campaign</a>: General <a href=\"/wiki/Hans-J%C3%BCrgen_von_Arnim\" title=\"Hans-Jürgen von Arnim\">Hans-Jürgen von Arnim</a>'s <a href=\"/wiki/5th_Panzer_Army\" title=\"5th Panzer Army\">Fifth Panzer Army</a> launches a <a href=\"/wiki/Battle_of_Sidi_Bou_Zid\" title=\"Battle of Sidi Bou Zid\">counter-attack</a> against <a href=\"/wiki/Allies_of_World_War_II\" title=\"Allies of World War II\">Allied</a> positions in <a href=\"/wiki/Tunisia\" title=\"Tunisia\">Tunisia</a>.</li>",
+      "entities": [
+        {
+          "name": "Tunisia Campaign",
+          "url": "/wiki/Tunisia_Campaign",
+          "length": 47
+        },
+        {
+          "name": "Hans-Jürgen von Arnim",
+          "url": "/wiki/Hans-J%C3%BCrgen_von_Arnim",
+          "length": 9570
+        },
+        {
+          "name": "5th Panzer Army",
+          "url": "/wiki/5th_Panzer_Army",
+          "length": 13702
+        },
+        {
+          "name": "Battle of Sidi Bou Zid",
+          "url": "/wiki/Battle_of_Sidi_Bou_Zid",
+          "length": 15397
+        },
+        {
+          "name": "Allies of World War II",
+          "url": "/wiki/Allies_of_World_War_II",
+          "length": 166559
+        },
+        {
+          "name": "Tunisia",
+          "url": "/wiki/Tunisia",
+          "length": 160549
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Iranian leader Ruhollah Khomeini issues a fatwa encouraging Muslims to kill Salman Rushdie, author of The Satanic Verses.",
+      "html": "<li>1989   – <a href=\"/wiki/Iran\" title=\"Iran\">Iranian</a> leader <a href=\"/wiki/Ruhollah_Khomeini\" title=\"Ruhollah Khomeini\">Ruhollah Khomeini</a> issues a <a href=\"/wiki/Fatwa\" title=\"Fatwa\">fatwa</a> encouraging <a href=\"/wiki/Muslims\" title=\"Muslims\">Muslims</a> to kill <a href=\"/wiki/Salman_Rushdie\" title=\"Salman Rushdie\">Salman Rushdie</a>, author of <i><a href=\"/wiki/The_Satanic_Verses\" title=\"The Satanic Verses\">The Satanic Verses</a></i>.</li>",
+      "entities": [
+        {
+          "name": "Iran",
+          "url": "/wiki/Iran",
+          "length": 379191
+        },
+        {
+          "name": "Ruhollah Khomeini",
+          "url": "/wiki/Ruhollah_Khomeini",
+          "length": 172449
+        },
+        {
+          "name": "Fatwa",
+          "url": "/wiki/Fatwa",
+          "length": 51812
+        },
+        {
+          "name": "Muslims",
+          "url": "/wiki/Muslims",
+          "length": 73197
+        },
+        {
+          "name": "Salman Rushdie",
+          "url": "/wiki/Salman_Rushdie",
+          "length": 160642
+        },
+        {
+          "name": "The Satanic Verses",
+          "url": "/wiki/The_Satanic_Verses",
+          "length": 30928
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "description": "Iraq disarmament crisis: UNMOVIC Executive Chairman Hans Blix reports to the United Nations Security Council that disarmament inspectors have found no weapons of mass destruction in Ba'athist Iraq.",
+      "html": "<li>\n<a href=\"/wiki/2003\" title=\"2003\">2003</a> – <a href=\"/wiki/Iraq_disarmament_crisis\" title=\"Iraq disarmament crisis\">Iraq disarmament crisis</a>: <a href=\"/wiki/United_Nations_Monitoring,_Verification_and_Inspection_Commission\" title=\"United Nations Monitoring, Verification and Inspection Commission\">UNMOVIC</a> Executive Chairman <a href=\"/wiki/Hans_Blix\" title=\"Hans Blix\">Hans Blix</a> reports to the <a href=\"/wiki/United_Nations_Security_Council\" title=\"United Nations Security Council\">United Nations Security Council</a> that disarmament inspectors have found no <a href=\"/wiki/Iraq_and_weapons_of_mass_destruction\" title=\"Iraq and weapons of mass destruction\">weapons of mass destruction</a> in <a href=\"/wiki/Ba%27athist_Iraq\" title=\"Ba'athist Iraq\">Ba'athist Iraq</a>.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Iraq disarmament crisis",
+          "url": "/wiki/Iraq_disarmament_crisis",
+          "length": 26130
+        },
+        {
+          "name": "United Nations Monitoring, Verification and Inspection Commission",
+          "url": "/wiki/United_Nations_Monitoring,_Verification_and_Inspection_Commission",
+          "length": 7507
+        },
+        {
+          "name": "Hans Blix",
+          "url": "/wiki/Hans_Blix",
+          "length": 22466
+        },
+        {
+          "name": "United Nations Security Council",
+          "url": "/wiki/United_Nations_Security_Council",
+          "length": 108512
+        },
+        {
+          "name": "Iraq and weapons of mass destruction",
+          "url": "/wiki/Iraq_and_weapons_of_mass_destruction",
+          "length": 126199
+        },
+        {
+          "name": "Ba'athist Iraq",
+          "url": "/wiki/Ba%27athist_Iraq",
+          "length": 109859
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Edinson Cavani, Uruguayan footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1987\" title=\"1987\">1987</a> – <a href=\"/wiki/Edinson_Cavani\" title=\"Edinson Cavani\">Edinson Cavani</a>, Uruguayan footballer</li>",
+      "entities": [
+        {
+          "name": "Edinson Cavani",
+          "url": "/wiki/Edinson_Cavani",
+          "length": 126989
+        }
+      ]
+    },
+    {
+      "year": "1229",
+      "description": "Rǫgnvaldr Guðrøðarson, king of the Isles, died.",
+      "html": "<li>\n<a href=\"/wiki/1229\" title=\"1229\">1229</a> – <a href=\"/wiki/R%C7%ABgnvaldr_Gu%C3%B0r%C3%B8%C3%B0arson\" title=\"Rǫgnvaldr Guðrøðarson\">Rǫgnvaldr Guðrøðarson</a>, king of the Isles</li>",
+      "entities": [
+        {
+          "name": "Rǫgnvaldr Guðrøðarson",
+          "url": "/wiki/R%C7%ABgnvaldr_Gu%C3%B0r%C3%B8%C3%B0arson",
+          "length": 237611
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1942",
+      "description": "Michael Bloomberg, American businessman and politician, 108th Mayor of New York City, was born.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – <a href=\"/wiki/Michael_Bloomberg\" title=\"Michael Bloomberg\">Michael Bloomberg</a>, American businessman and politician, 108th <a href=\"/wiki/Mayor_of_New_York_City\" title=\"Mayor of New York City\">Mayor of New York City</a><sup id=\"cite_ref-UPI_31-5\" class=\"reference\"><a href=\"#cite_note-UPI-31\"><span class=\"cite-bracket\">[</span>31<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Michael Bloomberg",
+          "url": "/wiki/Michael_Bloomberg",
+          "length": 196651
+        },
+        {
+          "name": "Mayor of New York City",
+          "url": "/wiki/Mayor_of_New_York_City",
+          "length": 25578
+        }
+      ]
+    },
+    {
+      "year": "1951",
+      "description": "Kevin Keegan, English footballer and manager, was born.",
+      "html": "<li>1951   – <a href=\"/wiki/Kevin_Keegan\" title=\"Kevin Keegan\">Kevin Keegan</a>, English footballer and manager</li>",
+      "entities": [
+        {
+          "name": "Kevin Keegan",
+          "url": "/wiki/Kevin_Keegan",
+          "length": 135585
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "description": "Edinson Cavani, Uruguayan footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1987\" title=\"1987\">1987</a> – <a href=\"/wiki/Edinson_Cavani\" title=\"Edinson Cavani\">Edinson Cavani</a>, Uruguayan footballer</li>",
+      "entities": [
+        {
+          "name": "Edinson Cavani",
+          "url": "/wiki/Edinson_Cavani",
+          "length": 126989
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1229",
+      "description": "Rǫgnvaldr Guðrøðarson, king of the Isles, died.",
+      "html": "<li>\n<a href=\"/wiki/1229\" title=\"1229\">1229</a> – <a href=\"/wiki/R%C7%ABgnvaldr_Gu%C3%B0r%C3%B8%C3%B0arson\" title=\"Rǫgnvaldr Guðrøðarson\">Rǫgnvaldr Guðrøðarson</a>, king of the Isles</li>",
+      "entities": [
+        {
+          "name": "Rǫgnvaldr Guðrøðarson",
+          "url": "/wiki/R%C7%ABgnvaldr_Gu%C3%B0r%C3%B8%C3%B0arson",
+          "length": 237611
+        }
+      ]
+    },
+    {
+      "year": "1891",
+      "description": "William Tecumseh Sherman, American general, died.",
+      "html": "<li>\n<a href=\"/wiki/1891\" title=\"1891\">1891</a> – <a href=\"/wiki/William_Tecumseh_Sherman\" title=\"William Tecumseh Sherman\">William Tecumseh Sherman</a>, American general (b. 1820)</li>",
+      "entities": [
+        {
+          "name": "William Tecumseh Sherman",
+          "url": "/wiki/William_Tecumseh_Sherman",
+          "length": 145883
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Andrei Chikatilo, Soviet serial killer, died.",
+      "html": "<li>\n<a href=\"/wiki/1994\" title=\"1994\">1994</a> – <a href=\"/wiki/Andrei_Chikatilo\" title=\"Andrei Chikatilo\">Andrei Chikatilo</a>, Soviet serial killer (b. 1936)</li>",
+      "entities": [
+        {
+          "name": "Andrei Chikatilo",
+          "url": "/wiki/Andrei_Chikatilo",
+          "length": 121990
+        }
+      ]
+    }
+  ]
+}

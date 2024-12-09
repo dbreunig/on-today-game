@@ -1,0 +1,291 @@
+{
+  "events": [
+    {
+      "year": "1942",
+      "description": "World War II: The Battle of Bataan ends. An Indian Ocean raid by Japan's 1st Air Fleet sinks the British aircraft carrier HMS Hermes and the Australian destroyer HMAS Vampire.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – World War II: The <a href=\"/wiki/Battle_of_Bataan\" title=\"Battle of Bataan\">Battle of Bataan</a> ends. An <a href=\"/wiki/Indian_Ocean_raid\" title=\"Indian Ocean raid\">Indian Ocean raid</a> by Japan's <a href=\"/wiki/1st_Air_Fleet\" title=\"1st Air Fleet\">1st Air Fleet</a> sinks the British aircraft carrier <a href=\"/wiki/HMS_Hermes_(95)\" title=\"HMS Hermes (95)\">HMS <i>Hermes</i></a> and the Australian destroyer <a href=\"/wiki/HMAS_Vampire_(D68)\" title=\"HMAS Vampire (D68)\">HMAS <i>Vampire</i></a>.</li>",
+      "entities": [
+        {
+          "name": "Battle of Bataan",
+          "url": "/wiki/Battle_of_Bataan",
+          "length": 64763
+        },
+        {
+          "name": "Indian Ocean raid",
+          "url": "/wiki/Indian_Ocean_raid",
+          "length": 49432
+        },
+        {
+          "name": "1st Air Fleet",
+          "url": "/wiki/1st_Air_Fleet",
+          "length": 39604
+        },
+        {
+          "name": "HMS Hermes (95)",
+          "url": "/wiki/HMS_Hermes_(95)",
+          "length": 39333
+        },
+        {
+          "name": "HMAS Vampire (D68)",
+          "url": "/wiki/HMAS_Vampire_(D68)",
+          "length": 20566
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Dr. Hendrik Verwoerd, Prime Minister of South Africa and architect of apartheid, narrowly survives an assassination attempt by a white farmer, David Pratt in Johannesburg.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Hendrik_Verwoerd\" title=\"Hendrik Verwoerd\">Dr. Hendrik Verwoerd</a>, <a href=\"/wiki/Prime_Minister_of_South_Africa\" title=\"Prime Minister of South Africa\">Prime Minister of South Africa</a> and architect of <a href=\"/wiki/Apartheid\" title=\"Apartheid\">apartheid</a>, narrowly survives an assassination attempt by a white farmer, <a href=\"/wiki/David_Pratt_(assassin)\" class=\"mw-redirect\" title=\"David Pratt (assassin)\">David Pratt</a> in <a href=\"/wiki/Johannesburg\" title=\"Johannesburg\">Johannesburg</a>.</li>",
+      "entities": [
+        {
+          "name": "Hendrik Verwoerd",
+          "url": "/wiki/Hendrik_Verwoerd",
+          "length": 53046
+        },
+        {
+          "name": "Prime Minister of South Africa",
+          "url": "/wiki/Prime_Minister_of_South_Africa",
+          "length": 18126
+        },
+        {
+          "name": "Apartheid",
+          "url": "/wiki/Apartheid",
+          "length": 222423
+        },
+        {
+          "name": "David Pratt (assassin)",
+          "url": "/wiki/David_Pratt_(assassin)",
+          "length": 87
+        },
+        {
+          "name": "Johannesburg",
+          "url": "/wiki/Johannesburg",
+          "length": 130918
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "description": "Jorge Eliécer Gaitán's assassination provokes a violent riot in Bogotá (the Bogotazo), and a further ten years of violence in Colombia.",
+      "html": "<li>\n<a href=\"/wiki/1948\" title=\"1948\">1948</a> – <a href=\"/wiki/Jorge_Eli%C3%A9cer_Gait%C3%A1n\" title=\"Jorge Eliécer Gaitán\">Jorge Eliécer Gaitán</a>'s assassination provokes a violent riot in <a href=\"/wiki/Bogot%C3%A1\" title=\"Bogotá\">Bogotá</a> (the <i><a href=\"/wiki/Bogotazo\" title=\"Bogotazo\">Bogotazo</a></i>), and a further <a href=\"/wiki/La_Violencia\" title=\"La Violencia\">ten years of violence</a> in <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a>.</li>",
+      "entities": [
+        {
+          "name": "Jorge Eliécer Gaitán",
+          "url": "/wiki/Jorge_Eli%C3%A9cer_Gait%C3%A1n",
+          "length": 28403
+        },
+        {
+          "name": "Bogotá",
+          "url": "/wiki/Bogot%C3%A1",
+          "length": 171035
+        },
+        {
+          "name": "Bogotazo",
+          "url": "/wiki/Bogotazo",
+          "length": 19857
+        },
+        {
+          "name": "La Violencia",
+          "url": "/wiki/La_Violencia",
+          "length": 32090
+        },
+        {
+          "name": "Colombia",
+          "url": "/wiki/Colombia",
+          "length": 301848
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "The Iraqi regime of Saddam Hussein kills philosopher Muhammad Baqir al-Sadr and his sister Bint al-Huda after three days of torture.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – The <a href=\"/wiki/Iraq\" title=\"Iraq\">Iraqi</a> regime of <a href=\"/wiki/Saddam_Hussein\" title=\"Saddam Hussein\">Saddam Hussein</a> kills philosopher <a href=\"/wiki/Muhammad_Baqir_al-Sadr\" title=\"Muhammad Baqir al-Sadr\">Muhammad Baqir al-Sadr</a> and his sister <a href=\"/wiki/Bint_al-Huda\" class=\"mw-redirect\" title=\"Bint al-Huda\">Bint al-Huda</a> after three days of torture.</li>",
+      "entities": [
+        {
+          "name": "Iraq",
+          "url": "/wiki/Iraq",
+          "length": 181589
+        },
+        {
+          "name": "Saddam Hussein",
+          "url": "/wiki/Saddam_Hussein",
+          "length": 226060
+        },
+        {
+          "name": "Muhammad Baqir al-Sadr",
+          "url": "/wiki/Muhammad_Baqir_al-Sadr",
+          "length": 29450
+        },
+        {
+          "name": "Bint al-Huda",
+          "url": "/wiki/Bint_al-Huda",
+          "length": 43
+        }
+      ]
+    },
+    {
+      "year": "1609",
+      "description": "Eighty Years' War: Spain and the Dutch Republic sign the Treaty of Antwerp to initiate twelve years of truce.",
+      "html": "<li>\n<a href=\"/wiki/1609\" title=\"1609\">1609</a> – <a href=\"/wiki/Eighty_Years%27_War\" title=\"Eighty Years' War\">Eighty Years' War</a>: <a href=\"/wiki/Spanish_Empire\" title=\"Spanish Empire\">Spain</a> and the <a href=\"/wiki/Dutch_Republic\" title=\"Dutch Republic\">Dutch Republic</a> sign the <a href=\"/wiki/Treaty_of_Antwerp_(1609)\" title=\"Treaty of Antwerp (1609)\">Treaty of Antwerp</a> to initiate twelve years of truce.</li>",
+      "entities": [
+        {
+          "name": "Eighty Years' War",
+          "url": "/wiki/Eighty_Years%27_War",
+          "length": 35259
+        },
+        {
+          "name": "Spanish Empire",
+          "url": "/wiki/Spanish_Empire",
+          "length": 155046
+        },
+        {
+          "name": "Dutch Republic",
+          "url": "/wiki/Dutch_Republic",
+          "length": 68189
+        },
+        {
+          "name": "Treaty of Antwerp (1609)",
+          "url": "/wiki/Treaty_of_Antwerp_(1609)",
+          "length": 7347
+        }
+      ]
+    },
+    {
+      "year": "1917",
+      "description": "World War I: The Battle of Arras: The battle begins with Canadian Corps executing a massive assault on Vimy Ridge.",
+      "html": "<li>\n<a href=\"/wiki/1917\" title=\"1917\">1917</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: The <a href=\"/wiki/Battle_of_Arras_(1917)\" title=\"Battle of Arras (1917)\">Battle of Arras</a>: The battle begins with <a href=\"/wiki/Canadian_Corps\" title=\"Canadian Corps\">Canadian Corps</a> executing a <a href=\"/wiki/Battle_of_Vimy_Ridge\" title=\"Battle of Vimy Ridge\">massive assault on Vimy Ridge</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "Battle of Arras (1917)",
+          "url": "/wiki/Battle_of_Arras_(1917)",
+          "length": 76998
+        },
+        {
+          "name": "Canadian Corps",
+          "url": "/wiki/Canadian_Corps",
+          "length": 18394
+        },
+        {
+          "name": "Battle of Vimy Ridge",
+          "url": "/wiki/Battle_of_Vimy_Ridge",
+          "length": 83338
+        }
+      ]
+    },
+    {
+      "year": "1898",
+      "description": "Paul Robeson, American singer, actor, and activist, was born.",
+      "html": "<li>1898   – <a href=\"/wiki/Paul_Robeson\" title=\"Paul Robeson\">Paul Robeson</a>, American singer, actor, and activist (d. 1976)</li>",
+      "entities": [
+        {
+          "name": "Paul Robeson",
+          "url": "/wiki/Paul_Robeson",
+          "length": 177674
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "description": "Prince Philip, Duke of Edinburgh, died.",
+      "html": "<li>\n<a href=\"/wiki/2021\" title=\"2021\">2021</a> – <a href=\"/wiki/Prince_Philip,_Duke_of_Edinburgh\" title=\"Prince Philip, Duke of Edinburgh\">Prince Philip, Duke of Edinburgh</a> (b. 1921)<sup id=\"cite_ref-59\" class=\"reference\"><a href=\"#cite_note-59\"><span class=\"cite-bracket\">[</span>59<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Prince Philip, Duke of Edinburgh",
+          "url": "/wiki/Prince_Philip,_Duke_of_Edinburgh",
+          "length": 161945
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1971",
+      "description": "Jacques Villeneuve, Canadian race car driver, was born.",
+      "html": "<li>1971   – <a href=\"/wiki/Jacques_Villeneuve\" title=\"Jacques Villeneuve\">Jacques Villeneuve</a>, Canadian race car driver</li>",
+      "entities": [
+        {
+          "name": "Jacques Villeneuve",
+          "url": "/wiki/Jacques_Villeneuve",
+          "length": 232440
+        }
+      ]
+    },
+    {
+      "year": "1898",
+      "description": "Paul Robeson, American singer, actor, and activist, was born.",
+      "html": "<li>1898   – <a href=\"/wiki/Paul_Robeson\" title=\"Paul Robeson\">Paul Robeson</a>, American singer, actor, and activist (d. 1976)</li>",
+      "entities": [
+        {
+          "name": "Paul Robeson",
+          "url": "/wiki/Paul_Robeson",
+          "length": 177674
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "description": "Jackie Evancho, American singer, was born.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Jackie_Evancho\" title=\"Jackie Evancho\">Jackie Evancho</a>, American singer<sup id=\"cite_ref-48\" class=\"reference\"><a href=\"#cite_note-48\"><span class=\"cite-bracket\">[</span>48<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Jackie Evancho",
+          "url": "/wiki/Jackie_Evancho",
+          "length": 173022
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2021",
+      "description": "Prince Philip, Duke of Edinburgh, died.",
+      "html": "<li>\n<a href=\"/wiki/2021\" title=\"2021\">2021</a> – <a href=\"/wiki/Prince_Philip,_Duke_of_Edinburgh\" title=\"Prince Philip, Duke of Edinburgh\">Prince Philip, Duke of Edinburgh</a> (b. 1921)<sup id=\"cite_ref-59\" class=\"reference\"><a href=\"#cite_note-59\"><span class=\"cite-bracket\">[</span>59<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Prince Philip, Duke of Edinburgh",
+          "url": "/wiki/Prince_Philip,_Duke_of_Edinburgh",
+          "length": 161945
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "description": "DMX, American rapper and actor, died.",
+      "html": "<li>2021   – <a href=\"/wiki/DMX\" title=\"DMX\">DMX</a>, American rapper and actor (b. 1970)<sup id=\"cite_ref-60\" class=\"reference\"><a href=\"#cite_note-60\"><span class=\"cite-bracket\">[</span>60<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "DMX",
+          "url": "/wiki/DMX",
+          "length": 134661
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "description": "Frank Lloyd Wright, American architect, designed the Price Tower and Fallingwater, died.",
+      "html": "<li>\n<a href=\"/wiki/1959\" title=\"1959\">1959</a> – <a href=\"/wiki/Frank_Lloyd_Wright\" title=\"Frank Lloyd Wright\">Frank Lloyd Wright</a>, American architect, designed the <a href=\"/wiki/Price_Tower\" title=\"Price Tower\">Price Tower</a> and <a href=\"/wiki/Fallingwater\" title=\"Fallingwater\">Fallingwater</a> (b. 1867)</li>",
+      "entities": [
+        {
+          "name": "Frank Lloyd Wright",
+          "url": "/wiki/Frank_Lloyd_Wright",
+          "length": 128857
+        },
+        {
+          "name": "Price Tower",
+          "url": "/wiki/Price_Tower",
+          "length": 21527
+        },
+        {
+          "name": "Fallingwater",
+          "url": "/wiki/Fallingwater",
+          "length": 81161
+        }
+      ]
+    }
+  ]
+}

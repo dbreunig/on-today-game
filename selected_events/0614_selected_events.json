@@ -1,0 +1,316 @@
+{
+  "events": [
+    {
+      "year": "1807",
+      "description": "Emperor Napoleon's French Grande Armée defeats the Russian Army at the Battle of Friedland in Poland (modern Russian  Kaliningrad Oblast) ending the War of the Fourth Coalition.",
+      "html": "<li>\n<a href=\"/wiki/1807\" title=\"1807\">1807</a> – Emperor <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon</a>'s French <a href=\"/wiki/Grande_Arm%C3%A9e\" title=\"Grande Armée\">Grande Armée</a> defeats the <a href=\"/wiki/Russian_Empire\" title=\"Russian Empire\">Russian</a> Army at the <a href=\"/wiki/Battle_of_Friedland\" title=\"Battle of Friedland\">Battle of Friedland</a> in Poland (modern Russian  <a href=\"/wiki/Kaliningrad_Oblast\" title=\"Kaliningrad Oblast\">Kaliningrad Oblast</a>) ending the <a href=\"/wiki/War_of_the_Fourth_Coalition\" title=\"War of the Fourth Coalition\">War of the Fourth Coalition</a>.</li>",
+      "entities": [
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189164
+        },
+        {
+          "name": "Grande Armée",
+          "url": "/wiki/Grande_Arm%C3%A9e",
+          "length": 130734
+        },
+        {
+          "name": "Russian Empire",
+          "url": "/wiki/Russian_Empire",
+          "length": 215756
+        },
+        {
+          "name": "Battle of Friedland",
+          "url": "/wiki/Battle_of_Friedland",
+          "length": 32867
+        },
+        {
+          "name": "Kaliningrad Oblast",
+          "url": "/wiki/Kaliningrad_Oblast",
+          "length": 83168
+        },
+        {
+          "name": "War of the Fourth Coalition",
+          "url": "/wiki/War_of_the_Fourth_Coalition",
+          "length": 39728
+        }
+      ]
+    },
+    {
+      "year": "1863",
+      "description": "American Civil War: Second Battle of Winchester: A Union garrison is defeated by the Army of Northern Virginia in the Shenandoah Valley town of Winchester, Virginia.",
+      "html": "<li>\n<a href=\"/wiki/1863\" title=\"1863\">1863</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Second_Battle_of_Winchester\" title=\"Second Battle of Winchester\">Second Battle of Winchester</a>: A <a href=\"/wiki/United_States\" title=\"United States\">Union</a> garrison is defeated by the <a href=\"/wiki/Army_of_Northern_Virginia\" title=\"Army of Northern Virginia\">Army of Northern Virginia</a> in the <a href=\"/wiki/Shenandoah_Valley\" title=\"Shenandoah Valley\">Shenandoah Valley</a> town of <a href=\"/wiki/Winchester,_Virginia\" title=\"Winchester, Virginia\">Winchester, Virginia</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Second Battle of Winchester",
+          "url": "/wiki/Second_Battle_of_Winchester",
+          "length": 37361
+        },
+        {
+          "name": "United States",
+          "url": "/wiki/United_States",
+          "length": 336851
+        },
+        {
+          "name": "Army of Northern Virginia",
+          "url": "/wiki/Army_of_Northern_Virginia",
+          "length": 51195
+        },
+        {
+          "name": "Shenandoah Valley",
+          "url": "/wiki/Shenandoah_Valley",
+          "length": 25898
+        },
+        {
+          "name": "Winchester, Virginia",
+          "url": "/wiki/Winchester,_Virginia",
+          "length": 62537
+        }
+      ]
+    },
+    {
+      "year": "1839",
+      "description": "Henley Royal Regatta: the village of Henley-on-Thames, on the River Thames in Oxfordshire, stages its first regatta.",
+      "html": "<li>\n<a href=\"/wiki/1839\" title=\"1839\">1839</a> – <a href=\"/wiki/Henley_Royal_Regatta\" title=\"Henley Royal Regatta\">Henley Royal Regatta</a>: the village of <a href=\"/wiki/Henley-on-Thames\" title=\"Henley-on-Thames\">Henley-on-Thames</a>, on the <a href=\"/wiki/River_Thames\" title=\"River Thames\">River Thames</a> in <a href=\"/wiki/Oxfordshire\" title=\"Oxfordshire\">Oxfordshire</a>, stages its first <a href=\"/wiki/Regatta\" class=\"mw-redirect\" title=\"Regatta\">regatta</a>.</li>",
+      "entities": [
+        {
+          "name": "Henley Royal Regatta",
+          "url": "/wiki/Henley_Royal_Regatta",
+          "length": 49306
+        },
+        {
+          "name": "Henley-on-Thames",
+          "url": "/wiki/Henley-on-Thames",
+          "length": 32560
+        },
+        {
+          "name": "River Thames",
+          "url": "/wiki/River_Thames",
+          "length": 138663
+        },
+        {
+          "name": "Oxfordshire",
+          "url": "/wiki/Oxfordshire",
+          "length": 29787
+        },
+        {
+          "name": "Regatta",
+          "url": "/wiki/Regatta",
+          "length": 134
+        }
+      ]
+    },
+    {
+      "year": "1216",
+      "description": "First Barons' War: Prince Louis of France takes the city of Winchester, abandoned by John, King of England, and soon conquers over half of the kingdom.",
+      "html": "<li>\n<a href=\"/wiki/1216\" title=\"1216\">1216</a> – <a href=\"/wiki/First_Barons%27_War\" title=\"First Barons' War\">First Barons' War</a>: Prince <a href=\"/wiki/Louis_VIII_of_France\" title=\"Louis VIII of France\">Louis of France</a> takes the city of <a href=\"/wiki/Winchester\" title=\"Winchester\">Winchester</a>, abandoned by <a href=\"/wiki/John,_King_of_England\" title=\"John, King of England\">John, King of England</a>, and soon conquers over half of the <a href=\"/wiki/Kingdom_of_England\" title=\"Kingdom of England\">kingdom</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "First Barons' War",
+          "url": "/wiki/First_Barons%27_War",
+          "length": 21739
+        },
+        {
+          "name": "Louis VIII of France",
+          "url": "/wiki/Louis_VIII_of_France",
+          "length": 24844
+        },
+        {
+          "name": "Winchester",
+          "url": "/wiki/Winchester",
+          "length": 66231
+        },
+        {
+          "name": "John, King of England",
+          "url": "/wiki/John,_King_of_England",
+          "length": 129424
+        },
+        {
+          "name": "Kingdom of England",
+          "url": "/wiki/Kingdom_of_England",
+          "length": 59718
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "The Mindbender derails and kills three riders at the Fantasyland (known today as Galaxyland) indoor amusement park at West Edmonton Mall in Edmonton, Alberta.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Mindbender_(Galaxyland)\" title=\"Mindbender (Galaxyland)\">The Mindbender</a> derails and kills three riders at the Fantasyland (known today as <a href=\"/wiki/Galaxyland\" title=\"Galaxyland\">Galaxyland</a>) indoor amusement park at <a href=\"/wiki/West_Edmonton_Mall\" title=\"West Edmonton Mall\">West Edmonton Mall</a> in <a href=\"/wiki/Edmonton\" title=\"Edmonton\">Edmonton</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>.<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mindbender (Galaxyland)",
+          "url": "/wiki/Mindbender_(Galaxyland)",
+          "length": 11139
+        },
+        {
+          "name": "Galaxyland",
+          "url": "/wiki/Galaxyland",
+          "length": 32096
+        },
+        {
+          "name": "West Edmonton Mall",
+          "url": "/wiki/West_Edmonton_Mall",
+          "length": 42372
+        },
+        {
+          "name": "Edmonton",
+          "url": "/wiki/Edmonton",
+          "length": 244040
+        },
+        {
+          "name": "Alberta",
+          "url": "/wiki/Alberta",
+          "length": 168285
+        }
+      ]
+    },
+    {
+      "year": "1941",
+      "description": "June deportation: the first major wave of Soviet mass deportations of Estonians, Latvians and Lithuanians, begins.",
+      "html": "<li>\n<a href=\"/wiki/1941\" title=\"1941\">1941</a> – <a href=\"/wiki/June_deportation\" title=\"June deportation\">June deportation</a>: the first major wave of Soviet mass deportations of <a href=\"/wiki/Estonia\" title=\"Estonia\">Estonians</a>, <a href=\"/wiki/Latvia\" title=\"Latvia\">Latvians</a> and <a href=\"/wiki/Lithuania\" title=\"Lithuania\">Lithuanians</a>, begins.</li>",
+      "entities": [
+        {
+          "name": "June deportation",
+          "url": "/wiki/June_deportation",
+          "length": 20339
+        },
+        {
+          "name": "Estonia",
+          "url": "/wiki/Estonia",
+          "length": 321951
+        },
+        {
+          "name": "Latvia",
+          "url": "/wiki/Latvia",
+          "length": 203399
+        },
+        {
+          "name": "Lithuania",
+          "url": "/wiki/Lithuania",
+          "length": 313986
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "Donald Trump, American businessman, television personality and 45th President of the United States, was born.",
+      "html": "<li>1946   – <a href=\"/wiki/Donald_Trump\" title=\"Donald Trump\">Donald Trump</a>, American businessman, television personality and 45th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a><sup id=\"cite_ref-Chase's2018_21-1\" class=\"reference\"><a href=\"#cite_note-Chase's2018-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Donald Trump",
+          "url": "/wiki/Donald_Trump",
+          "length": 404744
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "description": "Max Weber, German sociologist and economist, died.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – <a href=\"/wiki/Max_Weber\" title=\"Max Weber\">Max Weber</a>, German sociologist and economist (b. 1864)</li>",
+      "entities": [
+        {
+          "name": "Max Weber",
+          "url": "/wiki/Max_Weber",
+          "length": 166842
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1946",
+      "description": "Donald Trump, American businessman, television personality and 45th President of the United States, was born.",
+      "html": "<li>1946   – <a href=\"/wiki/Donald_Trump\" title=\"Donald Trump\">Donald Trump</a>, American businessman, television personality and 45th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a><sup id=\"cite_ref-Chase's2018_21-1\" class=\"reference\"><a href=\"#cite_note-Chase's2018-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Donald Trump",
+          "url": "/wiki/Donald_Trump",
+          "length": 404744
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "1928",
+      "description": "Ernesto \"Che\" Guevara, Argentinian-Cuban physician, author, guerrilla leader and politician, was born.",
+      "html": "<li>\n<a href=\"/wiki/1928\" title=\"1928\">1928</a> – <a href=\"/wiki/Che_Guevara\" title=\"Che Guevara\">Ernesto \"Che\" Guevara</a>, Argentinian-Cuban physician, author, <a href=\"/wiki/Guerrilla\" class=\"mw-redirect\" title=\"Guerrilla\">guerrilla</a> leader and politician (d. 1967)</li>",
+      "entities": [
+        {
+          "name": "Che Guevara",
+          "url": "/wiki/Che_Guevara",
+          "length": 204383
+        },
+        {
+          "name": "Guerrilla",
+          "url": "/wiki/Guerrilla",
+          "length": 133
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "description": "Steffi Graf, German tennis player, was born.",
+      "html": "<li>1969   – <a href=\"/wiki/Steffi_Graf\" title=\"Steffi Graf\">Steffi Graf</a>, German tennis player<sup id=\"cite_ref-Chase's2018_21-3\" class=\"reference\"><a href=\"#cite_note-Chase's2018-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Steffi Graf",
+          "url": "/wiki/Steffi_Graf",
+          "length": 150707
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1920",
+      "description": "Max Weber, German sociologist and economist, died.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – <a href=\"/wiki/Max_Weber\" title=\"Max Weber\">Max Weber</a>, German sociologist and economist (b. 1864)</li>",
+      "entities": [
+        {
+          "name": "Max Weber",
+          "url": "/wiki/Max_Weber",
+          "length": 166842
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Sushant Singh Rajput, Indian film actor, died.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Sushant_Singh_Rajput\" title=\"Sushant Singh Rajput\">Sushant Singh Rajput</a>, Indian film actor (b. 1986)<sup id=\"cite_ref-62\" class=\"reference\"><a href=\"#cite_note-62\"><span class=\"cite-bracket\">[</span>62<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sushant Singh Rajput",
+          "url": "/wiki/Sushant_Singh_Rajput",
+          "length": 160376
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Jorge Luis Borges,  Argentine short-story writer, essayist, poet and translator, died.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Jorge_Luis_Borges\" title=\"Jorge Luis Borges\">Jorge Luis Borges</a>,  Argentine short-story writer, essayist, poet and translator (b. 1899)</li>",
+      "entities": [
+        {
+          "name": "Jorge Luis Borges",
+          "url": "/wiki/Jorge_Luis_Borges",
+          "length": 120736
+        }
+      ]
+    }
+  ]
+}

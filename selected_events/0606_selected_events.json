@@ -1,0 +1,406 @@
+{
+  "events": [
+    {
+      "year": "1942",
+      "description": "The United States Navy's victory over the Imperial Japanese Navy at the Battle of Midway is a major turning point in the Pacific Theater of World War II. All four Japanese fleet carriers taking part—Akagi, Kaga, Sōryū and Hiryū—are sunk, as is the heavy cruiser Mikuma. The American carrier Yorktown and the destroyer Hammann are also sunk.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – The <a href=\"/wiki/United_States_Navy\" title=\"United States Navy\">United States Navy</a>'s victory over the <a href=\"/wiki/Imperial_Japanese_Navy\" title=\"Imperial Japanese Navy\">Imperial Japanese Navy</a> at the <a href=\"/wiki/Battle_of_Midway\" title=\"Battle of Midway\">Battle of Midway</a> is a major turning point in the <a href=\"/wiki/Pacific_Ocean_theater_of_World_War_II\" title=\"Pacific Ocean theater of World War II\">Pacific Theater</a> of <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>. All four Japanese <a href=\"/wiki/Fleet_carrier\" title=\"Fleet carrier\">fleet carriers</a> taking part—<a href=\"/wiki/Japanese_aircraft_carrier_Akagi\" title=\"Japanese aircraft carrier Akagi\"><i>Akagi</i></a>, <a href=\"/wiki/Japanese_aircraft_carrier_Kaga\" title=\"Japanese aircraft carrier Kaga\"><i>Kaga</i></a>, <a href=\"/wiki/Japanese_aircraft_carrier_S%C5%8Dry%C5%AB\" title=\"Japanese aircraft carrier Sōryū\"><i>Sōryū</i></a> and <a href=\"/wiki/Japanese_aircraft_carrier_Hiry%C5%AB\" title=\"Japanese aircraft carrier Hiryū\"><i>Hiryū</i></a>—are sunk, as is the <a href=\"/wiki/Heavy_cruiser\" title=\"Heavy cruiser\">heavy cruiser</a> <a href=\"/wiki/Japanese_cruiser_Mikuma\" title=\"Japanese cruiser Mikuma\"><i>Mikuma</i></a>. The American carrier <a href=\"/wiki/USS_Yorktown_(CV-5)\" title=\"USS Yorktown (CV-5)\"><i>Yorktown</i></a> and the destroyer <a href=\"/wiki/USS_Hammann_(DD-412)\" title=\"USS Hammann (DD-412)\"><i>Hammann</i></a> are also sunk.<sup id=\"cite_ref-28\" class=\"reference\"><a href=\"#cite_note-28\"><span class=\"cite-bracket\">[</span>28<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "United States Navy",
+          "url": "/wiki/United_States_Navy",
+          "length": 133517
+        },
+        {
+          "name": "Imperial Japanese Navy",
+          "url": "/wiki/Imperial_Japanese_Navy",
+          "length": 106515
+        },
+        {
+          "name": "Battle of Midway",
+          "url": "/wiki/Battle_of_Midway",
+          "length": 125903
+        },
+        {
+          "name": "Pacific Ocean theater of World War II",
+          "url": "/wiki/Pacific_Ocean_theater_of_World_War_II",
+          "length": 9206
+        },
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Fleet carrier",
+          "url": "/wiki/Fleet_carrier",
+          "length": 12123
+        },
+        {
+          "name": "Japanese aircraft carrier Akagi",
+          "url": "/wiki/Japanese_aircraft_carrier_Akagi",
+          "length": 70269
+        },
+        {
+          "name": "Japanese aircraft carrier Kaga",
+          "url": "/wiki/Japanese_aircraft_carrier_Kaga",
+          "length": 64279
+        },
+        {
+          "name": "Japanese aircraft carrier Sōryū",
+          "url": "/wiki/Japanese_aircraft_carrier_S%C5%8Dry%C5%AB",
+          "length": 44128
+        },
+        {
+          "name": "Japanese aircraft carrier Hiryū",
+          "url": "/wiki/Japanese_aircraft_carrier_Hiry%C5%AB",
+          "length": 47498
+        },
+        {
+          "name": "Heavy cruiser",
+          "url": "/wiki/Heavy_cruiser",
+          "length": 30434
+        },
+        {
+          "name": "Japanese cruiser Mikuma",
+          "url": "/wiki/Japanese_cruiser_Mikuma",
+          "length": 28097
+        },
+        {
+          "name": "USS Yorktown (CV-5)",
+          "url": "/wiki/USS_Yorktown_(CV-5)",
+          "length": 58872
+        },
+        {
+          "name": "USS Hammann (DD-412)",
+          "url": "/wiki/USS_Hammann_(DD-412)",
+          "length": 13283
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "description": "The Lebanon War begins. Forces under Israeli Defense Minister Ariel Sharon invade southern Lebanon during Operation Peace for the Galilee, eventually reaching as far north as the capital Beirut.",
+      "html": "<li>\n<a href=\"/wiki/1982\" title=\"1982\">1982</a> – The <a href=\"/wiki/1982_Lebanon_War\" title=\"1982 Lebanon War\">Lebanon War</a> begins. Forces under <a href=\"/wiki/Israel\" title=\"Israel\">Israeli</a> <a href=\"/wiki/Defense_Minister\" class=\"mw-redirect\" title=\"Defense Minister\">Defense Minister</a> <a href=\"/wiki/Ariel_Sharon\" title=\"Ariel Sharon\">Ariel Sharon</a> invade <a href=\"/wiki/Southern_Lebanon\" title=\"Southern Lebanon\">southern Lebanon</a> during <a href=\"/wiki/Operation_Peace_for_the_Galilee\" class=\"mw-redirect\" title=\"Operation Peace for the Galilee\">Operation Peace for the Galilee</a>, eventually reaching as far north as the capital <a href=\"/wiki/Beirut\" title=\"Beirut\">Beirut</a>.<sup id=\"cite_ref-37\" class=\"reference\"><a href=\"#cite_note-37\"><span class=\"cite-bracket\">[</span>37<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "1982 Lebanon War",
+          "url": "/wiki/1982_Lebanon_War",
+          "length": 146460
+        },
+        {
+          "name": "Israel",
+          "url": "/wiki/Israel",
+          "length": 408355
+        },
+        {
+          "name": "Defense Minister",
+          "url": "/wiki/Defense_Minister",
+          "length": 33
+        },
+        {
+          "name": "Ariel Sharon",
+          "url": "/wiki/Ariel_Sharon",
+          "length": 118142
+        },
+        {
+          "name": "Southern Lebanon",
+          "url": "/wiki/Southern_Lebanon",
+          "length": 7683
+        },
+        {
+          "name": "Operation Peace for the Galilee",
+          "url": "/wiki/Operation_Peace_for_the_Galilee",
+          "length": 30
+        },
+        {
+          "name": "Beirut",
+          "url": "/wiki/Beirut",
+          "length": 151961
+        }
+      ]
+    },
+    {
+      "year": "913",
+      "description": "Constantine VII, the eight-year-old illegitimate son of Leo VI the Wise, becomes nominal ruler of the Byzantine Empire under the regency of a seven-man council headed by Patriarch Nicholas Mystikos, appointed by Constantine's uncle Alexander on his deathbed.",
+      "html": "<li>\n<a href=\"/wiki/913\" title=\"913\">913</a> – <a href=\"/wiki/Constantine_VII\" title=\"Constantine VII\">Constantine VII</a>, the eight-year-old illegitimate son of <a href=\"/wiki/Leo_VI_the_Wise\" title=\"Leo VI the Wise\">Leo VI the Wise</a>, becomes nominal ruler of the <a href=\"/wiki/Byzantine_Empire\" title=\"Byzantine Empire\">Byzantine Empire</a> under the <a href=\"/wiki/Regency\" class=\"mw-redirect\" title=\"Regency\">regency</a> of a seven-man council headed by Patriarch <a href=\"/wiki/Nicholas_Mystikos\" title=\"Nicholas Mystikos\">Nicholas Mystikos</a>, appointed by Constantine's uncle <a href=\"/wiki/Alexander_(Byzantine_emperor)\" title=\"Alexander (Byzantine emperor)\">Alexander</a> on his deathbed.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Constantine VII",
+          "url": "/wiki/Constantine_VII",
+          "length": 26489
+        },
+        {
+          "name": "Leo VI the Wise",
+          "url": "/wiki/Leo_VI_the_Wise",
+          "length": 24642
+        },
+        {
+          "name": "Byzantine Empire",
+          "url": "/wiki/Byzantine_Empire",
+          "length": 201302
+        },
+        {
+          "name": "Regency",
+          "url": "/wiki/Regency",
+          "length": 20
+        },
+        {
+          "name": "Nicholas Mystikos",
+          "url": "/wiki/Nicholas_Mystikos",
+          "length": 6024
+        },
+        {
+          "name": "Alexander (Byzantine emperor)",
+          "url": "/wiki/Alexander_(Byzantine_emperor)",
+          "length": 10549
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "description": "Soyuz 11 is launched. The mission ends in disaster when all three cosmonauts, Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev are suffocated by uncontrolled decompression of the capsule during re-entry on 29 June.",
+      "html": "<li>\n<a href=\"/wiki/1971\" title=\"1971\">1971</a> – <i><a href=\"/wiki/Soyuz_11\" title=\"Soyuz 11\">Soyuz 11</a></i> is launched. The mission ends in disaster when all three cosmonauts, <a href=\"/wiki/Georgy_Dobrovolsky\" title=\"Georgy Dobrovolsky\">Georgy Dobrovolsky</a>, <a href=\"/wiki/Vladislav_Volkov\" title=\"Vladislav Volkov\">Vladislav Volkov</a>, and <a href=\"/wiki/Viktor_Patsayev\" title=\"Viktor Patsayev\">Viktor Patsayev</a> are suffocated by <a href=\"/wiki/Uncontrolled_decompression\" title=\"Uncontrolled decompression\">uncontrolled decompression</a> of the capsule during <a href=\"/wiki/Atmospheric_entry\" title=\"Atmospheric entry\">re-entry</a> on 29 June.<sup id=\"cite_ref-33\" class=\"reference\"><a href=\"#cite_note-33\"><span class=\"cite-bracket\">[</span>33<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Soyuz 11",
+          "url": "/wiki/Soyuz_11",
+          "length": 27698
+        },
+        {
+          "name": "Georgy Dobrovolsky",
+          "url": "/wiki/Georgy_Dobrovolsky",
+          "length": 4130
+        },
+        {
+          "name": "Vladislav Volkov",
+          "url": "/wiki/Vladislav_Volkov",
+          "length": 7242
+        },
+        {
+          "name": "Viktor Patsayev",
+          "url": "/wiki/Viktor_Patsayev",
+          "length": 4459
+        },
+        {
+          "name": "Uncontrolled decompression",
+          "url": "/wiki/Uncontrolled_decompression",
+          "length": 58617
+        },
+        {
+          "name": "Atmospheric entry",
+          "url": "/wiki/Atmospheric_entry",
+          "length": 117389
+        }
+      ]
+    },
+    {
+      "year": "1894",
+      "description": "Governor Davis H. Waite orders the Colorado state militia to protect and support the miners engaged in the Cripple Creek miners' strike.",
+      "html": "<li>\n<a href=\"/wiki/1894\" title=\"1894\">1894</a> – <a href=\"/wiki/Governor_of_Colorado\" title=\"Governor of Colorado\">Governor</a> <a href=\"/wiki/Davis_Hanson_Waite\" title=\"Davis Hanson Waite\">Davis H. Waite</a> orders the <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a> <a href=\"/wiki/U.S._National_Guard\" class=\"mw-redirect\" title=\"U.S. National Guard\">state militia</a> to protect and support the miners engaged in the <a href=\"/wiki/Cripple_Creek_miners%27_strike_of_1894\" title=\"Cripple Creek miners' strike of 1894\">Cripple Creek miners' strike</a>.<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-21\" class=\"reference\"><a href=\"#cite_note-21\"><span class=\"cite-bracket\">[</span>21<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Governor of Colorado",
+          "url": "/wiki/Governor_of_Colorado",
+          "length": 106793
+        },
+        {
+          "name": "Davis Hanson Waite",
+          "url": "/wiki/Davis_Hanson_Waite",
+          "length": 9579
+        },
+        {
+          "name": "Colorado",
+          "url": "/wiki/Colorado",
+          "length": 216642
+        },
+        {
+          "name": "U.S. National Guard",
+          "url": "/wiki/U.S._National_Guard",
+          "length": 44
+        },
+        {
+          "name": "Cripple Creek miners' strike of 1894",
+          "url": "/wiki/Cripple_Creek_miners%27_strike_of_1894",
+          "length": 22861
+        }
+      ]
+    },
+    {
+      "year": "1882",
+      "description": "The Shewan forces of Menelik II of Ethiopia defeat the Gojjame army in the Battle of Embabo. The Shewans capture Negus Tekle Haymanot of Gojjam, and their victory leads to a Shewan hegemony over the territories south of the Abay River.",
+      "html": "<li>\n<a href=\"/wiki/1882\" title=\"1882\">1882</a> – The <a href=\"/wiki/Shewa\" title=\"Shewa\">Shewan</a> forces of <a href=\"/wiki/Menelik_II_of_Ethiopia\" class=\"mw-redirect\" title=\"Menelik II of Ethiopia\">Menelik II of Ethiopia</a> defeat the <a href=\"/wiki/Gojjam\" title=\"Gojjam\">Gojjame</a> army in the <a href=\"/wiki/Battle_of_Embabo\" title=\"Battle of Embabo\">Battle of Embabo</a>. The Shewans capture Negus Tekle Haymanot of Gojjam, and their victory leads to a Shewan hegemony over the territories south of the <a href=\"/wiki/Abay_River\" class=\"mw-redirect\" title=\"Abay River\">Abay River</a>.<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Shewa",
+          "url": "/wiki/Shewa",
+          "length": 12373
+        },
+        {
+          "name": "Menelik II of Ethiopia",
+          "url": "/wiki/Menelik_II_of_Ethiopia",
+          "length": 24
+        },
+        {
+          "name": "Gojjam",
+          "url": "/wiki/Gojjam",
+          "length": 5505
+        },
+        {
+          "name": "Battle of Embabo",
+          "url": "/wiki/Battle_of_Embabo",
+          "length": 7381
+        },
+        {
+          "name": "Abay River",
+          "url": "/wiki/Abay_River",
+          "length": 89
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Becky Sauerbrunn, American footballer; twice a winner of the FIFA Women's World Cup, also an Olympic gold medallist, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Becky_Sauerbrunn\" title=\"Becky Sauerbrunn\">Becky Sauerbrunn</a>, American footballer; twice a winner of the <a href=\"/wiki/FIFA_Women%27s_World_Cup\" title=\"FIFA Women's World Cup\">FIFA Women's World Cup</a>, also an <a href=\"/wiki/Olympic_Games\" title=\"Olympic Games\">Olympic</a> gold medallist<sup id=\"cite_ref-142\" class=\"reference\"><a href=\"#cite_note-142\"><span class=\"cite-bracket\">[</span>142<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Becky Sauerbrunn",
+          "url": "/wiki/Becky_Sauerbrunn",
+          "length": 152101
+        },
+        {
+          "name": "FIFA Women's World Cup",
+          "url": "/wiki/FIFA_Women%27s_World_Cup",
+          "length": 54259
+        },
+        {
+          "name": "Olympic Games",
+          "url": "/wiki/Olympic_Games",
+          "length": 207879
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "description": "Robert F. Kennedy, American soldier, lawyer, and politician, 64th United States Attorney General, died.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Robert_F._Kennedy\" title=\"Robert F. Kennedy\">Robert F. Kennedy</a>, American soldier, lawyer, and politician, 64th <a href=\"/wiki/United_States_Attorney_General\" title=\"United States Attorney General\">United States Attorney General</a> (b. 1925)<sup id=\"cite_ref-188\" class=\"reference\"><a href=\"#cite_note-188\"><span class=\"cite-bracket\">[</span>188<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Robert F. Kennedy",
+          "url": "/wiki/Robert_F._Kennedy",
+          "length": 230249
+        },
+        {
+          "name": "United States Attorney General",
+          "url": "/wiki/United_States_Attorney_General",
+          "length": 75489
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1985",
+      "description": "Drew McIntyre, Scottish professional wrestler, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Drew_McIntyre\" title=\"Drew McIntyre\">Drew McIntyre</a>, Scottish professional wrestler<sup id=\"cite_ref-141\" class=\"reference\"><a href=\"#cite_note-141\"><span class=\"cite-bracket\">[</span>141<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Drew McIntyre",
+          "url": "/wiki/Drew_McIntyre",
+          "length": 260873
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Becky Sauerbrunn, American footballer; twice a winner of the FIFA Women's World Cup, also an Olympic gold medallist, was born.",
+      "html": "<li>1985   – <a href=\"/wiki/Becky_Sauerbrunn\" title=\"Becky Sauerbrunn\">Becky Sauerbrunn</a>, American footballer; twice a winner of the <a href=\"/wiki/FIFA_Women%27s_World_Cup\" title=\"FIFA Women's World Cup\">FIFA Women's World Cup</a>, also an <a href=\"/wiki/Olympic_Games\" title=\"Olympic Games\">Olympic</a> gold medallist<sup id=\"cite_ref-142\" class=\"reference\"><a href=\"#cite_note-142\"><span class=\"cite-bracket\">[</span>142<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Becky Sauerbrunn",
+          "url": "/wiki/Becky_Sauerbrunn",
+          "length": 152101
+        },
+        {
+          "name": "FIFA Women's World Cup",
+          "url": "/wiki/FIFA_Women%27s_World_Cup",
+          "length": 54259
+        },
+        {
+          "name": "Olympic Games",
+          "url": "/wiki/Olympic_Games",
+          "length": 207879
+        }
+      ]
+    },
+    {
+      "year": "1901",
+      "description": "Sukarno, Indonesian engineer and politician, 1st President of Indonesia, was born.",
+      "html": "<li>1901   – <a href=\"/wiki/Sukarno\" title=\"Sukarno\">Sukarno</a>, Indonesian engineer and politician, 1st <a href=\"/wiki/President_of_Indonesia\" title=\"President of Indonesia\">President of Indonesia</a> (d. 1970)<sup id=\"cite_ref-80\" class=\"reference\"><a href=\"#cite_note-80\"><span class=\"cite-bracket\">[</span>80<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sukarno",
+          "url": "/wiki/Sukarno",
+          "length": 137318
+        },
+        {
+          "name": "President of Indonesia",
+          "url": "/wiki/President_of_Indonesia",
+          "length": 34811
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1968",
+      "description": "Robert F. Kennedy, American soldier, lawyer, and politician, 64th United States Attorney General, died.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Robert_F._Kennedy\" title=\"Robert F. Kennedy\">Robert F. Kennedy</a>, American soldier, lawyer, and politician, 64th <a href=\"/wiki/United_States_Attorney_General\" title=\"United States Attorney General\">United States Attorney General</a> (b. 1925)<sup id=\"cite_ref-188\" class=\"reference\"><a href=\"#cite_note-188\"><span class=\"cite-bracket\">[</span>188<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Robert F. Kennedy",
+          "url": "/wiki/Robert_F._Kennedy",
+          "length": 230249
+        },
+        {
+          "name": "United States Attorney General",
+          "url": "/wiki/United_States_Attorney_General",
+          "length": 75489
+        }
+      ]
+    },
+    {
+      "year": "1891",
+      "description": "John A. Macdonald, Scottish-Canadian lawyer and politician, 1st Prime Minister of Canada, died.",
+      "html": "<li>\n<a href=\"/wiki/1891\" title=\"1891\">1891</a> – <a href=\"/wiki/John_A._Macdonald\" title=\"John A. Macdonald\">John A. Macdonald</a>, Scottish-Canadian lawyer and politician, 1st <a href=\"/wiki/Prime_Minister_of_Canada\" title=\"Prime Minister of Canada\">Prime Minister of Canada</a> (b. 1815)<sup id=\"cite_ref-173\" class=\"reference\"><a href=\"#cite_note-173\"><span class=\"cite-bracket\">[</span>173<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "John A. Macdonald",
+          "url": "/wiki/John_A._Macdonald",
+          "length": 117827
+        },
+        {
+          "name": "Prime Minister of Canada",
+          "url": "/wiki/Prime_Minister_of_Canada",
+          "length": 55758
+        }
+      ]
+    },
+    {
+      "year": "1799",
+      "description": "Patrick Henry, American lawyer and politician, 1st Governor of Virginia, died.",
+      "html": "<li>\n<a href=\"/wiki/1799\" title=\"1799\">1799</a> – <a href=\"/wiki/Patrick_Henry\" title=\"Patrick Henry\">Patrick Henry</a>, American lawyer and politician, 1st <a href=\"/wiki/Governor_of_Virginia\" title=\"Governor of Virginia\">Governor of Virginia</a> (b. 1736)<sup id=\"cite_ref-166\" class=\"reference\"><a href=\"#cite_note-166\"><span class=\"cite-bracket\">[</span>166<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Patrick Henry",
+          "url": "/wiki/Patrick_Henry",
+          "length": 105717
+        },
+        {
+          "name": "Governor of Virginia",
+          "url": "/wiki/Governor_of_Virginia",
+          "length": 14311
+        }
+      ]
+    }
+  ]
+}

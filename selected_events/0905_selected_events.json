@@ -1,0 +1,306 @@
+{
+  "events": [
+    {
+      "year": "1877",
+      "description": "American Indian Wars: Oglala Sioux chief Crazy Horse is bayoneted by a United States soldier after resisting confinement in a guardhouse at Fort Robinson in Nebraska.",
+      "html": "<li>\n<a href=\"/wiki/1877\" title=\"1877\">1877</a> – <a href=\"/wiki/American_Indian_Wars\" title=\"American Indian Wars\">American Indian Wars</a>: <a href=\"/wiki/Oglala_Lakota\" class=\"mw-redirect\" title=\"Oglala Lakota\">Oglala Sioux</a> <a href=\"/wiki/Tribal_chief\" title=\"Tribal chief\">chief</a> <a href=\"/wiki/Crazy_Horse\" title=\"Crazy Horse\">Crazy Horse</a> is <a href=\"/wiki/Bayonet\" title=\"Bayonet\">bayoneted</a> by a United States soldier after resisting confinement in a guardhouse at <a href=\"/wiki/Fort_Robinson\" title=\"Fort Robinson\">Fort Robinson</a> in <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>.</li>",
+      "entities": [
+        {
+          "name": "American Indian Wars",
+          "url": "/wiki/American_Indian_Wars",
+          "length": 104743
+        },
+        {
+          "name": "Oglala Lakota",
+          "url": "/wiki/Oglala_Lakota",
+          "length": 37
+        },
+        {
+          "name": "Tribal chief",
+          "url": "/wiki/Tribal_chief",
+          "length": 19562
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "/wiki/Crazy_Horse",
+          "length": 55109
+        },
+        {
+          "name": "Bayonet",
+          "url": "/wiki/Bayonet",
+          "length": 72964
+        },
+        {
+          "name": "Fort Robinson",
+          "url": "/wiki/Fort_Robinson",
+          "length": 15007
+        },
+        {
+          "name": "Nebraska",
+          "url": "/wiki/Nebraska",
+          "length": 112636
+        }
+      ]
+    },
+    {
+      "year": "1661",
+      "description": "Fall of Nicolas Fouquet: Louis XIV's Superintendent of Finances is arrested in Nantes by D'Artagnan, captain of the king's musketeers.",
+      "html": "<li>\n<a href=\"/wiki/1661\" title=\"1661\">1661</a> – Fall of <a href=\"/wiki/Nicolas_Fouquet\" title=\"Nicolas Fouquet\">Nicolas Fouquet</a>: <a href=\"/wiki/Louis_XIV_of_France\" class=\"mw-redirect\" title=\"Louis XIV of France\">Louis XIV</a>'s <a href=\"/wiki/Superintendent_of_Finances\" title=\"Superintendent of Finances\">Superintendent of Finances</a> is arrested in <a href=\"/wiki/Nantes\" title=\"Nantes\">Nantes</a> by <a href=\"/wiki/Charles_de_Batz-Castelmore_d%27Artagnan\" class=\"mw-redirect\" title=\"Charles de Batz-Castelmore d'Artagnan\">D'Artagnan</a>, captain of the king's <a href=\"/wiki/Musketeer\" title=\"Musketeer\">musketeers</a>.</li>",
+      "entities": [
+        {
+          "name": "Nicolas Fouquet",
+          "url": "/wiki/Nicolas_Fouquet",
+          "length": 28151
+        },
+        {
+          "name": "Louis XIV of France",
+          "url": "/wiki/Louis_XIV_of_France",
+          "length": 23
+        },
+        {
+          "name": "Superintendent of Finances",
+          "url": "/wiki/Superintendent_of_Finances",
+          "length": 7432
+        },
+        {
+          "name": "Nantes",
+          "url": "/wiki/Nantes",
+          "length": 161958
+        },
+        {
+          "name": "Charles de Batz-Castelmore d'Artagnan",
+          "url": "/wiki/Charles_de_Batz-Castelmore_d%27Artagnan",
+          "length": 71
+        },
+        {
+          "name": "Musketeer",
+          "url": "/wiki/Musketeer",
+          "length": 29554
+        }
+      ]
+    },
+    {
+      "year": "1862",
+      "description": "American Civil War: The Army of Northern Virginia crosses the Potomac River at White's Ford in the Maryland Campaign.",
+      "html": "<li>\n<a href=\"/wiki/1862\" title=\"1862\">1862</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: The <a href=\"/wiki/Army_of_Northern_Virginia\" title=\"Army of Northern Virginia\">Army of Northern Virginia</a> crosses the <a href=\"/wiki/Potomac_River\" title=\"Potomac River\">Potomac River</a> at <a href=\"/wiki/White%27s_Ford\" title=\"White's Ford\">White's Ford</a> in the <a href=\"/wiki/Maryland_Campaign\" class=\"mw-redirect\" title=\"Maryland Campaign\">Maryland Campaign</a>.</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Army of Northern Virginia",
+          "url": "/wiki/Army_of_Northern_Virginia",
+          "length": 51195
+        },
+        {
+          "name": "Potomac River",
+          "url": "/wiki/Potomac_River",
+          "length": 93441
+        },
+        {
+          "name": "White's Ford",
+          "url": "/wiki/White%27s_Ford",
+          "length": 1348
+        },
+        {
+          "name": "Maryland Campaign",
+          "url": "/wiki/Maryland_Campaign",
+          "length": 48
+        }
+      ]
+    },
+    {
+      "year": "1972",
+      "description": "Munich massacre: A Palestinian terrorist group called \"Black September\" attacks and takes hostage 11 Israeli athletes at the Munich Olympic Games. Two die in the attack and nine are murdered the following day.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Munich_massacre\" title=\"Munich massacre\">Munich massacre</a>: A <a href=\"/wiki/Palestinian_terrorist\" class=\"mw-redirect\" title=\"Palestinian terrorist\">Palestinian terrorist</a> group called \"<a href=\"/wiki/Black_September_Organization\" title=\"Black September Organization\">Black September</a>\" attacks and takes hostage 11 <a href=\"/wiki/Israel\" title=\"Israel\">Israeli</a> athletes at the <a href=\"/wiki/1972_Summer_Olympics\" title=\"1972 Summer Olympics\">Munich Olympic Games</a>. Two die in the attack and nine are murdered the following day.</li>",
+      "entities": [
+        {
+          "name": "Munich massacre",
+          "url": "/wiki/Munich_massacre",
+          "length": 134225
+        },
+        {
+          "name": "Palestinian terrorist",
+          "url": "/wiki/Palestinian_terrorist",
+          "length": 44
+        },
+        {
+          "name": "Black September Organization",
+          "url": "/wiki/Black_September_Organization",
+          "length": 19104
+        },
+        {
+          "name": "Israel",
+          "url": "/wiki/Israel",
+          "length": 408355
+        },
+        {
+          "name": "1972 Summer Olympics",
+          "url": "/wiki/1972_Summer_Olympics",
+          "length": 70022
+        }
+      ]
+    },
+    {
+      "year": "1932",
+      "description": "The French Upper Volta is broken apart between Ivory Coast, French Sudan, and Niger.",
+      "html": "<li>\n<a href=\"/wiki/1932\" title=\"1932\">1932</a> – The <a href=\"/wiki/French_Upper_Volta\" title=\"French Upper Volta\">French Upper Volta</a> is broken apart between <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a>, <a href=\"/wiki/French_Sudan\" title=\"French Sudan\">French Sudan</a>, and <a href=\"/wiki/Niger\" title=\"Niger\">Niger</a>.</li>",
+      "entities": [
+        {
+          "name": "French Upper Volta",
+          "url": "/wiki/French_Upper_Volta",
+          "length": 8913
+        },
+        {
+          "name": "Ivory Coast",
+          "url": "/wiki/Ivory_Coast",
+          "length": 128994
+        },
+        {
+          "name": "French Sudan",
+          "url": "/wiki/French_Sudan",
+          "length": 23883
+        },
+        {
+          "name": "Niger",
+          "url": "/wiki/Niger",
+          "length": 148392
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "Iva Toguri D'Aquino, a Japanese American suspected of being wartime radio propagandist Tokyo Rose, is arrested in Yokohama.",
+      "html": "<li>1945   – <a href=\"/wiki/Iva_Toguri_D%27Aquino\" title=\"Iva Toguri D'Aquino\">Iva Toguri D'Aquino</a>, a <a href=\"/wiki/Japanese_American\" class=\"mw-redirect\" title=\"Japanese American\">Japanese American</a> suspected of being wartime radio propagandist <a href=\"/wiki/Tokyo_Rose\" title=\"Tokyo Rose\">Tokyo Rose</a>, is arrested in <a href=\"/wiki/Yokohama\" title=\"Yokohama\">Yokohama</a>.</li>",
+      "entities": [
+        {
+          "name": "Iva Toguri D'Aquino",
+          "url": "/wiki/Iva_Toguri_D%27Aquino",
+          "length": 30142
+        },
+        {
+          "name": "Japanese American",
+          "url": "/wiki/Japanese_American",
+          "length": 48
+        },
+        {
+          "name": "Tokyo Rose",
+          "url": "/wiki/Tokyo_Rose",
+          "length": 25535
+        },
+        {
+          "name": "Yokohama",
+          "url": "/wiki/Yokohama",
+          "length": 65858
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Colt McCoy, American football player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Colt_McCoy\" title=\"Colt McCoy\">Colt McCoy</a>, American football player</li>",
+      "entities": [
+        {
+          "name": "Colt McCoy",
+          "url": "/wiki/Colt_McCoy",
+          "length": 144450
+        }
+      ]
+    },
+    {
+      "year": "1970",
+      "description": "Jochen Rindt, German-Austrian race car driver, died.",
+      "html": "<li>\n<a href=\"/wiki/1970\" title=\"1970\">1970</a> – <a href=\"/wiki/Jochen_Rindt\" title=\"Jochen Rindt\">Jochen Rindt</a>, German-Austrian race car driver (b. 1942)</li>",
+      "entities": [
+        {
+          "name": "Jochen Rindt",
+          "url": "/wiki/Jochen_Rindt",
+          "length": 85463
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1990",
+      "description": "Yuna Kim, South Korean figure skater, was born.",
+      "html": "<li>1990   – <a href=\"/wiki/Yuna_Kim\" title=\"Yuna Kim\">Yuna Kim</a>, South Korean figure skater<sup id=\"cite_ref-UPI_17-5\" class=\"reference\"><a href=\"#cite_note-UPI-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Yuna Kim",
+          "url": "/wiki/Yuna_Kim",
+          "length": 192345
+        }
+      ]
+    },
+    {
+      "year": "1946",
+      "description": "Freddie Mercury, British singer and songwriter, was born.",
+      "html": "<li>1946   – <a href=\"/wiki/Freddie_Mercury\" title=\"Freddie Mercury\">Freddie Mercury</a>, British singer and songwriter (d. 1991)<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"#cite_note-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Freddie Mercury",
+          "url": "/wiki/Freddie_Mercury",
+          "length": 186318
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "description": "Colt McCoy, American football player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1986\" title=\"1986\">1986</a> – <a href=\"/wiki/Colt_McCoy\" title=\"Colt McCoy\">Colt McCoy</a>, American football player</li>",
+      "entities": [
+        {
+          "name": "Colt McCoy",
+          "url": "/wiki/Colt_McCoy",
+          "length": 144450
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1997",
+      "description": "Mother Teresa, Albanian-Indian nun, missionary, and saint, Nobel Prize laureate, died.",
+      "html": "<li>1997   – <a href=\"/wiki/Mother_Teresa\" title=\"Mother Teresa\">Mother Teresa</a>, Albanian-Indian nun, missionary, and saint, <a href=\"/wiki/Nobel_Peace_Prize\" title=\"Nobel Peace Prize\">Nobel Prize</a> laureate (b. 1910)</li>",
+      "entities": [
+        {
+          "name": "Mother Teresa",
+          "url": "/wiki/Mother_Teresa",
+          "length": 134554
+        },
+        {
+          "name": "Nobel Peace Prize",
+          "url": "/wiki/Nobel_Peace_Prize",
+          "length": 45979
+        }
+      ]
+    },
+    {
+      "year": "1902",
+      "description": "Rudolf Virchow, German anthropologist, pathologist, and biologist, died.",
+      "html": "<li>\n<a href=\"/wiki/1902\" title=\"1902\">1902</a> – <a href=\"/wiki/Rudolf_Virchow\" title=\"Rudolf Virchow\">Rudolf Virchow</a>, German anthropologist, pathologist, and biologist (b. 1821)</li>",
+      "entities": [
+        {
+          "name": "Rudolf Virchow",
+          "url": "/wiki/Rudolf_Virchow",
+          "length": 95512
+        }
+      ]
+    },
+    {
+      "year": "1970",
+      "description": "Jochen Rindt, German-Austrian race car driver, died.",
+      "html": "<li>\n<a href=\"/wiki/1970\" title=\"1970\">1970</a> – <a href=\"/wiki/Jochen_Rindt\" title=\"Jochen Rindt\">Jochen Rindt</a>, German-Austrian race car driver (b. 1942)</li>",
+      "entities": [
+        {
+          "name": "Jochen Rindt",
+          "url": "/wiki/Jochen_Rindt",
+          "length": 85463
+        }
+      ]
+    }
+  ]
+}

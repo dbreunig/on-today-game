@@ -207,29 +207,24 @@
       ]
     },
     {
-      "year": "1892",
-      "description": "Francisco Franco, Spanish general and dictator, Prime Minister of Spain, was born.",
+      "year": "1795",
+      "description": "Thomas Carlyle, Scottish-English historian, philosopher, and academic, was born.",
       "entities": [
         {
-          "name": "Francisco Franco",
-          "url": "/wiki/Francisco_Franco",
-          "length": 185499
-        },
-        {
-          "name": "List of Prime Ministers of Spain",
-          "url": "/wiki/List_of_Prime_Ministers_of_Spain",
-          "length": 124
+          "name": "Thomas Carlyle",
+          "url": "/wiki/Thomas_Carlyle",
+          "length": 127794
         }
       ]
     },
     {
-      "year": "1993",
-      "description": "Frank Zappa, American singer-songwriter, guitarist, and producer, died.",
+      "year": "1975",
+      "description": "Hannah Arendt, German-American historian, theorist, and academic, died.",
       "entities": [
         {
-          "name": "Frank Zappa",
-          "url": "/wiki/Frank_Zappa",
-          "length": 217126
+          "name": "Hannah Arendt",
+          "url": "/wiki/Hannah_Arendt",
+          "length": 269389
         }
       ]
     }

@@ -98,42 +98,6 @@
       ]
     },
     {
-      "year": "1989",
-      "description": "In a meeting off the coast of Malta, U.S. President George H. W. Bush and Soviet General Secretary Mikhail Gorbachev release statements indicating that the Cold War between NATO and the Warsaw Pact may be coming to an end.",
-      "entities": [
-        {
-          "name": "Malta Summit",
-          "url": "/wiki/Malta_Summit",
-          "length": 12913
-        },
-        {
-          "name": "George H. W. Bush",
-          "url": "/wiki/George_H._W._Bush",
-          "length": 180095
-        },
-        {
-          "name": "Mikhail Gorbachev",
-          "url": "/wiki/Mikhail_Gorbachev",
-          "length": 223430
-        },
-        {
-          "name": "Cold War",
-          "url": "/wiki/Cold_War",
-          "length": 267355
-        },
-        {
-          "name": "NATO",
-          "url": "/wiki/NATO",
-          "length": 150243
-        },
-        {
-          "name": "Warsaw Pact",
-          "url": "/wiki/Warsaw_Pact",
-          "length": 87368
-        }
-      ]
-    },
-    {
       "year": "1775",
       "description": "American Revolutionary War: USS Alfred becomes the first vessel to fly the Grand Union Flag (the precursor to the Stars and Stripes); the flag is hoisted by John Paul Jones.",
       "entities": [
@@ -225,12 +189,65 @@
           "length": 164961
         }
       ]
+    },
+    {
+      "year": "1967",
+      "description": "At Groote Schuur Hospital in Cape Town, South Africa, a transplant team headed by Christiaan Barnard carries out the first heart transplant on a human (53-year-old Louis Washkansky).",
+      "entities": [
+        {
+          "name": "Groote Schuur Hospital",
+          "url": "/wiki/Groote_Schuur_Hospital",
+          "length": 4038
+        },
+        {
+          "name": "Cape Town",
+          "url": "/wiki/Cape_Town",
+          "length": 207318
+        },
+        {
+          "name": "Christiaan Barnard",
+          "url": "/wiki/Christiaan_Barnard",
+          "length": 52556
+        },
+        {
+          "name": "Heart transplant",
+          "url": "/wiki/Heart_transplant",
+          "length": 35
+        },
+        {
+          "name": "Louis Washkansky",
+          "url": "/wiki/Louis_Washkansky",
+          "length": 15012
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "David Villa, Spanish footballer, was born.",
+      "entities": [
+        {
+          "name": "David Villa",
+          "url": "/wiki/David_Villa",
+          "length": 177143
+        }
+      ]
+    },
+    {
+      "year": "1894",
+      "description": "Robert Louis Stevenson, Scottish novelist, poet, and essayist, died.",
+      "entities": [
+        {
+          "name": "Robert Louis Stevenson",
+          "url": "/wiki/Robert_Louis_Stevenson",
+          "length": 112128
+        }
+      ]
     }
   ],
   "births": [
     {
       "year": "1883",
-      "description": "Anton Webern, Austrian composer and conductor (d. 1945)",
+      "description": "Anton Webern, Austrian composer and conductor, was born.",
       "entities": [
         {
           "name": "Anton Webern",
@@ -241,7 +258,7 @@
     },
     {
       "year": "1981",
-      "description": "David Villa, Spanish footballer",
+      "description": "David Villa, Spanish footballer, was born.",
       "entities": [
         {
           "name": "David Villa",
@@ -252,7 +269,7 @@
     },
     {
       "year": "1857",
-      "description": "Joseph Conrad, Polish-born British novelist (d. 1924)",
+      "description": "Joseph Conrad, Polish-born British novelist, was born.",
       "entities": [
         {
           "name": "Joseph Conrad",
@@ -260,45 +277,12 @@
           "length": 169295
         }
       ]
-    },
-    {
-      "year": "1960",
-      "description": "Julianne Moore, American actress and author",
-      "entities": [
-        {
-          "name": "Julianne Moore",
-          "url": "/wiki/Julianne_Moore",
-          "length": 151960
-        }
-      ]
-    },
-    {
-      "year": "1948",
-      "description": "Ozzy Osbourne, English singer-songwriter",
-      "entities": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "/wiki/Ozzy_Osbourne",
-          "length": 138442
-        }
-      ]
-    },
-    {
-      "year": "1930",
-      "description": "Jean-Luc Godard, French-Swiss director and screenwriter (d. 2022)",
-      "entities": [
-        {
-          "name": "Jean-Luc Godard",
-          "url": "/wiki/Jean-Luc_Godard",
-          "length": 134842
-        }
-      ]
     }
   ],
   "deaths": [
     {
       "year": "1894",
-      "description": "Robert Louis Stevenson, Scottish novelist, poet, and essayist (b. 1850)",
+      "description": "Robert Louis Stevenson, Scottish novelist, poet, and essayist, died.",
       "entities": [
         {
           "name": "Robert Louis Stevenson",
@@ -309,7 +293,7 @@
     },
     {
       "year": "2011",
-      "description": "Dev Anand, Indian actor, director, and producer (b. 1923)",
+      "description": "Dev Anand, Indian actor, director, and producer, died.",
       "entities": [
         {
           "name": "Dev Anand",
@@ -320,7 +304,7 @@
     },
     {
       "year": "1980",
-      "description": "Oswald Mosley, English lieutenant, fascist, and politician, Chancellor of the Duchy of Lancaster (b. 1896)",
+      "description": "Oswald Mosley, English lieutenant, fascist, and politician, Chancellor of the Duchy of Lancaster, died.",
       "entities": [
         {
           "name": "Oswald Mosley",
@@ -331,39 +315,6 @@
           "name": "Chancellor of the Duchy of Lancaster",
           "url": "/wiki/Chancellor_of_the_Duchy_of_Lancaster",
           "length": 12090
-        }
-      ]
-    },
-    {
-      "year": "1552",
-      "description": "Francis Xavier, Spanish missionary and saint (b. 1506)",
-      "entities": [
-        {
-          "name": "Francis Xavier",
-          "url": "/wiki/Francis_Xavier",
-          "length": 86799
-        }
-      ]
-    },
-    {
-      "year": "2015",
-      "description": "Scott Weiland, American singer-songwriter (b. 1967)",
-      "entities": [
-        {
-          "name": "Scott Weiland",
-          "url": "/wiki/Scott_Weiland",
-          "length": 85628
-        }
-      ]
-    },
-    {
-      "year": "1928",
-      "description": "Ezra Meeker, American farmer and politician (b. 1830)",
-      "entities": [
-        {
-          "name": "Ezra Meeker",
-          "url": "/wiki/Ezra_Meeker",
-          "length": 75167
         }
       ]
     }

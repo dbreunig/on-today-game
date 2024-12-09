@@ -1,0 +1,281 @@
+{
+  "events": [
+    {
+      "year": "1963",
+      "description": "Malaysia is formed from the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak. However, Singapore is soon expelled from this new country.",
+      "html": "<li>\n<a href=\"/wiki/1963\" title=\"1963\">1963</a> – <a href=\"/wiki/Malaysia\" title=\"Malaysia\">Malaysia</a> is formed from the <a href=\"/wiki/Federation_of_Malaya\" title=\"Federation of Malaya\">Federation of Malaya</a>, <a href=\"/wiki/Crown_Colony_of_Singapore\" class=\"mw-redirect\" title=\"Crown Colony of Singapore\">Singapore</a>, <a href=\"/wiki/Crown_Colony_of_North_Borneo\" title=\"Crown Colony of North Borneo\">North Borneo</a> (<a href=\"/wiki/Sabah\" title=\"Sabah\">Sabah</a>) and <a href=\"/wiki/Crown_Colony_of_Sarawak\" title=\"Crown Colony of Sarawak\">Sarawak</a>. However, Singapore is soon expelled from this new country.</li>",
+      "entities": [
+        {
+          "name": "Malaysia",
+          "url": "/wiki/Malaysia",
+          "length": 226653
+        },
+        {
+          "name": "Federation of Malaya",
+          "url": "/wiki/Federation_of_Malaya",
+          "length": 23795
+        },
+        {
+          "name": "Crown Colony of Singapore",
+          "url": "/wiki/Crown_Colony_of_Singapore",
+          "length": 33
+        },
+        {
+          "name": "Crown Colony of North Borneo",
+          "url": "/wiki/Crown_Colony_of_North_Borneo",
+          "length": 12798
+        },
+        {
+          "name": "Sabah",
+          "url": "/wiki/Sabah",
+          "length": 341499
+        },
+        {
+          "name": "Crown Colony of Sarawak",
+          "url": "/wiki/Crown_Colony_of_Sarawak",
+          "length": 40481
+        }
+      ]
+    },
+    {
+      "year": "1822",
+      "description": "French physicist Augustin-Jean Fresnel, in a \"note\" read to the Academy of Sciences, reports a direct refraction experiment verifying David Brewster's hypothesis that photoelasticity (as it is now known) is stress-induced birefringence.",
+      "html": "<li>\n<a href=\"/wiki/1822\" title=\"1822\">1822</a> – French physicist <a href=\"/wiki/Augustin-Jean_Fresnel\" title=\"Augustin-Jean Fresnel\">Augustin-Jean Fresnel</a>, in a \"note\" read to the <a href=\"/wiki/French_Academy_of_Sciences\" title=\"French Academy of Sciences\">Academy of Sciences</a>, reports a direct refraction experiment verifying <a href=\"/wiki/David_Brewster\" title=\"David Brewster\">David Brewster</a>'s hypothesis that <a href=\"/wiki/Photoelasticity\" title=\"Photoelasticity\">photoelasticity</a> (as it is now known) is stress-induced <a href=\"/wiki/Birefringence\" title=\"Birefringence\">birefringence</a>.<sup id=\"cite_ref-fresnel-1822s_2-0\" class=\"reference\"><a href=\"#cite_note-fresnel-1822s-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Augustin-Jean Fresnel",
+          "url": "/wiki/Augustin-Jean_Fresnel",
+          "length": 202975
+        },
+        {
+          "name": "French Academy of Sciences",
+          "url": "/wiki/French_Academy_of_Sciences",
+          "length": 33411
+        },
+        {
+          "name": "David Brewster",
+          "url": "/wiki/David_Brewster",
+          "length": 38241
+        },
+        {
+          "name": "Photoelasticity",
+          "url": "/wiki/Photoelasticity",
+          "length": 19941
+        },
+        {
+          "name": "Birefringence",
+          "url": "/wiki/Birefringence",
+          "length": 60800
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "description": "During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.",
+      "html": "<li>\n<a href=\"/wiki/2022\" title=\"2022\">2022</a> – During the <a href=\"/wiki/Let_Yet_Kone_massacre\" title=\"Let Yet Kone massacre\">Let Yet Kone massacre</a>, the <a href=\"/wiki/Tatmadaw\" title=\"Tatmadaw\">Burmese military</a> kills 13 villagers, including eight children, after attacking a school in <a href=\"/wiki/Sagaing_Region\" title=\"Sagaing Region\">Sagaing Region</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a>.<sup id=\"cite_ref-:2_8-0\" class=\"reference\"><a href=\"#cite_note-:2-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Let Yet Kone massacre",
+          "url": "/wiki/Let_Yet_Kone_massacre",
+          "length": 21071
+        },
+        {
+          "name": "Tatmadaw",
+          "url": "/wiki/Tatmadaw",
+          "length": 108090
+        },
+        {
+          "name": "Sagaing Region",
+          "url": "/wiki/Sagaing_Region",
+          "length": 24124
+        },
+        {
+          "name": "Myanmar",
+          "url": "/wiki/Myanmar",
+          "length": 278219
+        }
+      ]
+    },
+    {
+      "year": "1970",
+      "description": "King Hussein of Jordan declares war against the Palestine Liberation Organization, the conflict came to be known as Black September.",
+      "html": "<li>\n<a href=\"/wiki/1970\" title=\"1970\">1970</a> – <a href=\"/wiki/Hussein_of_Jordan\" title=\"Hussein of Jordan\">King Hussein</a> of <a href=\"/wiki/Jordan\" title=\"Jordan\">Jordan</a> declares war against the <a href=\"/wiki/Palestine_Liberation_Organization\" title=\"Palestine Liberation Organization\">Palestine Liberation Organization</a>, the conflict came to be known as <a href=\"/wiki/Black_September\" title=\"Black September\">Black September</a>.</li>",
+      "entities": [
+        {
+          "name": "Hussein of Jordan",
+          "url": "/wiki/Hussein_of_Jordan",
+          "length": 124478
+        },
+        {
+          "name": "Jordan",
+          "url": "/wiki/Jordan",
+          "length": 228898
+        },
+        {
+          "name": "Palestine Liberation Organization",
+          "url": "/wiki/Palestine_Liberation_Organization",
+          "length": 83577
+        },
+        {
+          "name": "Black September",
+          "url": "/wiki/Black_September",
+          "length": 68597
+        }
+      ]
+    },
+    {
+      "year": "681",
+      "description": "Pope Honorius I is posthumously excommunicated by the Sixth Ecumenical Council.",
+      "html": "<li>\n<a href=\"/wiki/681\" title=\"681\">681</a> – <a href=\"/wiki/Pope_Honorius_I\" title=\"Pope Honorius I\">Pope Honorius I</a> is posthumously <a href=\"/wiki/Excommunication\" title=\"Excommunication\">excommunicated</a> by the <a href=\"/wiki/Third_Council_of_Constantinople\" title=\"Third Council of Constantinople\">Sixth Ecumenical Council</a>.</li>",
+      "entities": [
+        {
+          "name": "Pope Honorius I",
+          "url": "/wiki/Pope_Honorius_I",
+          "length": 14069
+        },
+        {
+          "name": "Excommunication",
+          "url": "/wiki/Excommunication",
+          "length": 82595
+        },
+        {
+          "name": "Third Council of Constantinople",
+          "url": "/wiki/Third_Council_of_Constantinople",
+          "length": 11678
+        }
+      ]
+    },
+    {
+      "year": "1810",
+      "description": "With the Grito de Dolores, Father Miguel Hidalgo begins Mexico's fight for independence from Spain.",
+      "html": "<li>\n<a href=\"/wiki/1810\" title=\"1810\">1810</a> – With the <i><a href=\"/wiki/Grito_de_Dolores\" class=\"mw-redirect\" title=\"Grito de Dolores\">Grito de Dolores</a>,</i> Father <a href=\"/wiki/Miguel_Hidalgo\" class=\"mw-redirect\" title=\"Miguel Hidalgo\">Miguel Hidalgo</a> begins <a href=\"/wiki/Mexican_War_of_Independence\" title=\"Mexican War of Independence\">Mexico's fight for independence from Spain</a>.</li>",
+      "entities": [
+        {
+          "name": "Grito de Dolores",
+          "url": "/wiki/Grito_de_Dolores",
+          "length": 44
+        },
+        {
+          "name": "Miguel Hidalgo",
+          "url": "/wiki/Miguel_Hidalgo",
+          "length": 39
+        },
+        {
+          "name": "Mexican War of Independence",
+          "url": "/wiki/Mexican_War_of_Independence",
+          "length": 83761
+        }
+      ]
+    },
+    {
+      "year": "1992",
+      "description": "Nick Jonas, American singer-songwriter and guitarist, was born.",
+      "html": "<li>1992   – <a href=\"/wiki/Nick_Jonas\" title=\"Nick Jonas\">Nick Jonas</a>, American singer-songwriter and guitarist<sup id=\"cite_ref-AP_20-27\" class=\"reference\"><a href=\"#cite_note-AP-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Nick Jonas",
+          "url": "/wiki/Nick_Jonas",
+          "length": 138234
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Jean Piaget, Swiss psychologist and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Jean_Piaget\" title=\"Jean Piaget\">Jean Piaget</a>, Swiss psychologist and philosopher (b. 1896)</li>",
+      "entities": [
+        {
+          "name": "Jean Piaget",
+          "url": "/wiki/Jean_Piaget",
+          "length": 123458
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1923",
+      "description": "Lee Kuan Yew, Singaporean lawyer and politician, 1st Prime Minister of Singapore, was born.",
+      "html": "<li>\n<a href=\"/wiki/1923\" title=\"1923\">1923</a> – <a href=\"/wiki/Lee_Kuan_Yew\" title=\"Lee Kuan Yew\">Lee Kuan Yew</a>, Singaporean lawyer and politician, 1st <a href=\"/wiki/Prime_Minister_of_Singapore\" title=\"Prime Minister of Singapore\">Prime Minister of Singapore</a> (d. 2015)</li>",
+      "entities": [
+        {
+          "name": "Lee Kuan Yew",
+          "url": "/wiki/Lee_Kuan_Yew",
+          "length": 274602
+        },
+        {
+          "name": "Prime Minister of Singapore",
+          "url": "/wiki/Prime_Minister_of_Singapore",
+          "length": 21109
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Andy Russell, American singer and actor, was born.",
+      "html": "<li>1919   – <a href=\"/wiki/Andy_Russell_(singer)\" title=\"Andy Russell (singer)\">Andy Russell</a>, American singer and actor (d. 1992)</li>",
+      "entities": [
+        {
+          "name": "Andy Russell (singer)",
+          "url": "/wiki/Andy_Russell_(singer)",
+          "length": 158584
+        }
+      ]
+    },
+    {
+      "year": "1992",
+      "description": "Nick Jonas, American singer-songwriter and guitarist, was born.",
+      "html": "<li>1992   – <a href=\"/wiki/Nick_Jonas\" title=\"Nick Jonas\">Nick Jonas</a>, American singer-songwriter and guitarist<sup id=\"cite_ref-AP_20-27\" class=\"reference\"><a href=\"#cite_note-AP-20\"><span class=\"cite-bracket\">[</span>20<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Nick Jonas",
+          "url": "/wiki/Nick_Jonas",
+          "length": 138234
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1977",
+      "description": "Maria Callas, Greek operatic soprano, died.",
+      "html": "<li>1977   – <a href=\"/wiki/Maria_Callas\" title=\"Maria Callas\">Maria Callas</a>, Greek operatic soprano (b. 1923)</li>",
+      "entities": [
+        {
+          "name": "Maria Callas",
+          "url": "/wiki/Maria_Callas",
+          "length": 154429
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Jean Piaget, Swiss psychologist and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Jean_Piaget\" title=\"Jean Piaget\">Jean Piaget</a>, Swiss psychologist and philosopher (b. 1896)</li>",
+      "entities": [
+        {
+          "name": "Jean Piaget",
+          "url": "/wiki/Jean_Piaget",
+          "length": 123458
+        }
+      ]
+    },
+    {
+      "year": "1955",
+      "description": "Leo Amery, Indian-English journalist and politician, Secretary of State for the Colonies, died.",
+      "html": "<li>\n<a href=\"/wiki/1955\" title=\"1955\">1955</a> – <a href=\"/wiki/Leo_Amery\" title=\"Leo Amery\">Leo Amery</a>, Indian-English journalist and politician, <a href=\"/wiki/Secretary_of_State_for_the_Colonies\" title=\"Secretary of State for the Colonies\">Secretary of State for the Colonies</a> (b. 1873)</li>",
+      "entities": [
+        {
+          "name": "Leo Amery",
+          "url": "/wiki/Leo_Amery",
+          "length": 93988
+        },
+        {
+          "name": "Secretary of State for the Colonies",
+          "url": "/wiki/Secretary_of_State_for_the_Colonies",
+          "length": 42988
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "events": [
+    {
+      "year": "1972",
+      "description": "Southern Airways Flight 49 from Birmingham, Alabama is hijacked and, at one point, is threatened with crashing into the nuclear installation at the Oak Ridge National Laboratory. After two days, the plane lands in Havana, Cuba, where the hijackers are jailed by Fidel Castro.",
+      "html": "<li>\n<a href=\"/wiki/1972\" title=\"1972\">1972</a> – <a href=\"/wiki/Southern_Airways\" title=\"Southern Airways\">Southern Airways</a> <a href=\"/wiki/Southern_Airways_Flight_49\" title=\"Southern Airways Flight 49\">Flight 49</a> from <a href=\"/wiki/Birmingham,_Alabama\" title=\"Birmingham, Alabama\">Birmingham, Alabama</a> is <a href=\"/wiki/Aircraft_hijacking\" title=\"Aircraft hijacking\">hijacked</a> and, at one point, is threatened with crashing into the nuclear installation at the <a href=\"/wiki/Oak_Ridge_National_Laboratory\" title=\"Oak Ridge National Laboratory\">Oak Ridge National Laboratory</a>. After two days, the plane lands in <a href=\"/wiki/Havana\" title=\"Havana\">Havana</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a>, where the hijackers are jailed by <a href=\"/wiki/Fidel_Castro\" title=\"Fidel Castro\">Fidel Castro</a>.</li>",
+      "entities": [
+        {
+          "name": "Southern Airways",
+          "url": "/wiki/Southern_Airways",
+          "length": 17189
+        },
+        {
+          "name": "Southern Airways Flight 49",
+          "url": "/wiki/Southern_Airways_Flight_49",
+          "length": 12352
+        },
+        {
+          "name": "Birmingham, Alabama",
+          "url": "/wiki/Birmingham,_Alabama",
+          "length": 106766
+        },
+        {
+          "name": "Aircraft hijacking",
+          "url": "/wiki/Aircraft_hijacking",
+          "length": 69298
+        },
+        {
+          "name": "Oak Ridge National Laboratory",
+          "url": "/wiki/Oak_Ridge_National_Laboratory",
+          "length": 56701
+        },
+        {
+          "name": "Havana",
+          "url": "/wiki/Havana",
+          "length": 135430
+        },
+        {
+          "name": "Cuba",
+          "url": "/wiki/Cuba",
+          "length": 274212
+        },
+        {
+          "name": "Fidel Castro",
+          "url": "/wiki/Fidel_Castro",
+          "length": 246523
+        }
+      ]
+    },
+    {
+      "year": "1865",
+      "description": "Major Henry Wirz, the superintendent of a prison camp in Andersonville, Georgia, is hanged, becoming one of only three American Civil War soldiers executed for war crimes.",
+      "html": "<li>\n<a href=\"/wiki/1865\" title=\"1865\">1865</a> – Major <a href=\"/wiki/Henry_Wirz\" title=\"Henry Wirz\">Henry Wirz</a>, the superintendent of <a href=\"/wiki/Andersonville,_Georgia#History\" title=\"Andersonville, Georgia\">a prison camp in Andersonville, Georgia</a>, is <a href=\"/wiki/Hanging\" title=\"Hanging\">hanged</a>, becoming one of only three <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a> soldiers <a href=\"/wiki/Execution_(legal)\" class=\"mw-redirect\" title=\"Execution (legal)\">executed</a> for <a href=\"/wiki/War_crime\" title=\"War crime\">war crimes</a>.</li>",
+      "entities": [
+        {
+          "name": "Henry Wirz",
+          "url": "/wiki/Henry_Wirz",
+          "length": null
+        },
+        {
+          "name": "Andersonville, Georgia",
+          "url": "/wiki/Andersonville,_Georgia#History",
+          "length": null
+        },
+        {
+          "name": "Hanging",
+          "url": "/wiki/Hanging",
+          "length": null
+        },
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": null
+        },
+        {
+          "name": "Execution (legal)",
+          "url": "/wiki/Execution_(legal)",
+          "length": null
+        },
+        {
+          "name": "War crime",
+          "url": "/wiki/War_crime",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1599",
+      "description": "Åbo Bloodbath: Fourteen noblemen who opposed Duke Charles are decapitated in the Old Great Square of Turku (Swedish: Åbo) for their involvement in the War against Sigismund.",
+      "html": "<li>\n<a href=\"/wiki/1599\" title=\"1599\">1599</a> – <a href=\"/wiki/%C3%85bo_Bloodbath\" title=\"Åbo Bloodbath\">Åbo Bloodbath</a>: Fourteen noblemen who opposed <a href=\"/wiki/Charles_IX_of_Sweden\" title=\"Charles IX of Sweden\">Duke Charles</a> are decapitated in the <a href=\"/wiki/Old_Great_Square_(Turku)\" title=\"Old Great Square (Turku)\">Old Great Square</a> of <a href=\"/wiki/Turku\" title=\"Turku\">Turku</a> (<a href=\"/wiki/Swedish_language\" title=\"Swedish language\">Swedish</a>: <i lang=\"sv\">Åbo</i>) for their involvement in the <a href=\"/wiki/War_against_Sigismund\" title=\"War against Sigismund\">War against Sigismund</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Åbo Bloodbath",
+          "url": "/wiki/%C3%85bo_Bloodbath",
+          "length": 8757
+        },
+        {
+          "name": "Charles IX of Sweden",
+          "url": "/wiki/Charles_IX_of_Sweden",
+          "length": 20879
+        },
+        {
+          "name": "Old Great Square (Turku)",
+          "url": "/wiki/Old_Great_Square_(Turku)",
+          "length": 8896
+        },
+        {
+          "name": "Turku",
+          "url": "/wiki/Turku",
+          "length": 99840
+        },
+        {
+          "name": "Swedish language",
+          "url": "/wiki/Swedish_language",
+          "length": 82660
+        },
+        {
+          "name": "War against Sigismund",
+          "url": "/wiki/War_against_Sigismund",
+          "length": 19832
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Armenia and Azerbaijan sign a ceasefire agreement, ending the Second Nagorno-Karabakh War, and prompting protests in Armenia.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Armenia\" title=\"Armenia\">Armenia</a> and <a href=\"/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a> sign a <a href=\"/wiki/2020_Nagorno-Karabakh_ceasefire_agreement\" title=\"2020 Nagorno-Karabakh ceasefire agreement\">ceasefire agreement</a>, ending the <a href=\"/wiki/Second_Nagorno-Karabakh_War\" title=\"Second Nagorno-Karabakh War\">Second Nagorno-Karabakh War</a>, and <a href=\"/wiki/2020%E2%80%932021_Armenian_protests\" title=\"2020–2021 Armenian protests\">prompting protests in Armenia</a>.<sup id=\"cite_ref-:0_12-0\" class=\"reference\"><a href=\"#cite_note-:0-12\"><span class=\"cite-bracket\">[</span>12<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-13\" class=\"reference\"><a href=\"#cite_note-13\"><span class=\"cite-bracket\">[</span>13<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Armenia",
+          "url": "/wiki/Armenia",
+          "length": 227772
+        },
+        {
+          "name": "Azerbaijan",
+          "url": "/wiki/Azerbaijan",
+          "length": 257174
+        },
+        {
+          "name": "2020 Nagorno-Karabakh ceasefire agreement",
+          "url": "/wiki/2020_Nagorno-Karabakh_ceasefire_agreement",
+          "length": 66990
+        },
+        {
+          "name": "Second Nagorno-Karabakh War",
+          "url": "/wiki/Second_Nagorno-Karabakh_War",
+          "length": 232190
+        },
+        {
+          "name": "2020–2021 Armenian protests",
+          "url": "/wiki/2020%E2%80%932021_Armenian_protests",
+          "length": 55545
+        }
+      ]
+    },
+    {
+      "year": "937",
+      "description": "Ten Kingdoms: Li Bian usurps the throne and deposes Emperor Yang Pu. The Wu State is replaced by Li (now called \"Xu Zhigao\"), who becomes the first ruler of Southern Tang.",
+      "html": "<li>\n<a href=\"/wiki/937\" title=\"937\">937</a> – <a href=\"/wiki/Ten_Kingdoms\" class=\"mw-redirect\" title=\"Ten Kingdoms\">Ten Kingdoms</a>: <a href=\"/wiki/Li_Bian\" title=\"Li Bian\">Li Bian</a> usurps the throne and deposes Emperor <a href=\"/wiki/Yang_Pu\" title=\"Yang Pu\">Yang Pu</a>. The <a href=\"/wiki/Wu_(Ten_Kingdoms)\" class=\"mw-redirect\" title=\"Wu (Ten Kingdoms)\">Wu State</a> is replaced by Li (now called \"Xu Zhigao\"), who becomes the first ruler of <a href=\"/wiki/Southern_Tang\" title=\"Southern Tang\">Southern Tang</a>.</li>",
+      "entities": [
+        {
+          "name": "Ten Kingdoms",
+          "url": "/wiki/Ten_Kingdoms",
+          "length": 65
+        },
+        {
+          "name": "Li Bian",
+          "url": "/wiki/Li_Bian",
+          "length": 44300
+        },
+        {
+          "name": "Yang Pu",
+          "url": "/wiki/Yang_Pu",
+          "length": 24611
+        },
+        {
+          "name": "Wu (Ten Kingdoms)",
+          "url": "/wiki/Wu_(Ten_Kingdoms)",
+          "length": 38
+        },
+        {
+          "name": "Southern Tang",
+          "url": "/wiki/Southern_Tang",
+          "length": 84621
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "The National Museum of the Marine Corps in Quantico, Virginia is opened and dedicated by U.S. President George W. Bush, who announces that Marine Corporal Jason Dunham will posthumously receive the Medal of Honor.",
+      "html": "<li>2006   – The <a href=\"/wiki/National_Museum_of_the_Marine_Corps\" title=\"National Museum of the Marine Corps\">National Museum of the Marine Corps</a> in <a href=\"/wiki/Quantico,_Virginia\" title=\"Quantico, Virginia\">Quantico, Virginia</a> is opened and dedicated by U.S. President <a href=\"/wiki/George_W._Bush\" title=\"George W. Bush\">George W. Bush</a>, who announces that Marine Corporal <a href=\"/wiki/Jason_Dunham\" title=\"Jason Dunham\">Jason Dunham</a> will posthumously receive the <a href=\"/wiki/Medal_of_Honor\" title=\"Medal of Honor\">Medal of Honor</a>.</li>",
+      "entities": [
+        {
+          "name": "National Museum of the Marine Corps",
+          "url": "/wiki/National_Museum_of_the_Marine_Corps",
+          "length": 9696
+        },
+        {
+          "name": "Quantico, Virginia",
+          "url": "/wiki/Quantico,_Virginia",
+          "length": 15002
+        },
+        {
+          "name": "George W. Bush",
+          "url": "/wiki/George_W._Bush",
+          "length": 335073
+        },
+        {
+          "name": "Jason Dunham",
+          "url": "/wiki/Jason_Dunham",
+          "length": 27964
+        },
+        {
+          "name": "Medal of Honor",
+          "url": "/wiki/Medal_of_Honor",
+          "length": 156356
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Neil Gaiman, English author, illustrator, and screenwriter, was born.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Neil_Gaiman\" title=\"Neil Gaiman\">Neil Gaiman</a>, English author, illustrator, and screenwriter<sup id=\"cite_ref-Chase2019_3-8\" class=\"reference\"><a href=\"#cite_note-Chase2019-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Neil Gaiman",
+          "url": "/wiki/Neil_Gaiman",
+          "length": 141132
+        }
+      ]
+    },
+    {
+      "year": "1187",
+      "description": "Guðrøðr Óláfsson, King of the Isles, died.",
+      "html": "<li>\n<a href=\"/wiki/1187\" title=\"1187\">1187</a> – <a href=\"/wiki/Gu%C3%B0r%C3%B8%C3%B0r_%C3%93l%C3%A1fsson\" title=\"Guðrøðr Óláfsson\">Guðrøðr Óláfsson</a>, King of the Isles</li>",
+      "entities": [
+        {
+          "name": "Guðrøðr Óláfsson",
+          "url": "/wiki/Gu%C3%B0r%C3%B8%C3%B0r_%C3%93l%C3%A1fsson",
+          "length": 166870
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1925",
+      "description": "Richard Burton, Welsh actor and singer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1925\" title=\"1925\">1925</a> – <a href=\"/wiki/Richard_Burton\" title=\"Richard Burton\">Richard Burton</a>, Welsh actor and singer (d. 1984)<sup id=\"cite_ref-UPI_25-0\" class=\"reference\"><a href=\"#cite_note-UPI-25\"><span class=\"cite-bracket\">[</span>25<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Richard Burton",
+          "url": "/wiki/Richard_Burton",
+          "length": 174525
+        }
+      ]
+    },
+    {
+      "year": "1483",
+      "description": "Martin Luther, German monk and priest, leader of the Protestant Reformation, was born.",
+      "html": "<li>\n<a href=\"/wiki/1483\" title=\"1483\">1483</a> – <a href=\"/wiki/Martin_Luther\" title=\"Martin Luther\">Martin Luther</a>, German monk and priest, leader of the <a href=\"/wiki/Protestant_Reformation\" class=\"mw-redirect\" title=\"Protestant Reformation\">Protestant Reformation</a> (d. 1546)</li>",
+      "entities": [
+        {
+          "name": "Martin Luther",
+          "url": "/wiki/Martin_Luther",
+          "length": 150943
+        },
+        {
+          "name": "Protestant Reformation",
+          "url": "/wiki/Protestant_Reformation",
+          "length": 100
+        }
+      ]
+    },
+    {
+      "year": "1960",
+      "description": "Neil Gaiman, English author, illustrator, and screenwriter, was born.",
+      "html": "<li>\n<a href=\"/wiki/1960\" title=\"1960\">1960</a> – <a href=\"/wiki/Neil_Gaiman\" title=\"Neil Gaiman\">Neil Gaiman</a>, English author, illustrator, and screenwriter<sup id=\"cite_ref-Chase2019_3-8\" class=\"reference\"><a href=\"#cite_note-Chase2019-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Neil Gaiman",
+          "url": "/wiki/Neil_Gaiman",
+          "length": 141132
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1938",
+      "description": "Mustafa Kemal Atatürk, founder of the Republic of Turkey, Turkish field marshal and statesman, 1st President of Turkey, died.",
+      "html": "<li>\n<a href=\"/wiki/1938\" title=\"1938\">1938</a> – <a href=\"/wiki/Mustafa_Kemal_Atat%C3%BCrk\" title=\"Mustafa Kemal Atatürk\">Mustafa Kemal Atatürk</a>, founder of the <a href=\"/wiki/Turkey\" title=\"Turkey\">Republic of Turkey</a>, <a href=\"/wiki/Turkish_people\" title=\"Turkish people\">Turkish</a> field marshal and statesman, 1st <a href=\"/wiki/President_of_Turkey\" title=\"President of Turkey\">President of Turkey</a> (b. 1881)</li>",
+      "entities": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "url": "/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+          "length": 236285
+        },
+        {
+          "name": "Turkey",
+          "url": "/wiki/Turkey",
+          "length": 284600
+        },
+        {
+          "name": "Turkish people",
+          "url": "/wiki/Turkish_people",
+          "length": 252051
+        },
+        {
+          "name": "President of Turkey",
+          "url": "/wiki/President_of_Turkey",
+          "length": 33688
+        }
+      ]
+    },
+    {
+      "year": "1187",
+      "description": "Guðrøðr Óláfsson, King of the Isles, died.",
+      "html": "<li>\n<a href=\"/wiki/1187\" title=\"1187\">1187</a> – <a href=\"/wiki/Gu%C3%B0r%C3%B8%C3%B0r_%C3%93l%C3%A1fsson\" title=\"Guðrøðr Óláfsson\">Guðrøðr Óláfsson</a>, King of the Isles</li>",
+      "entities": [
+        {
+          "name": "Guðrøðr Óláfsson",
+          "url": "/wiki/Gu%C3%B0r%C3%B8%C3%B0r_%C3%93l%C3%A1fsson",
+          "length": 166870
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "description": "Leonid Brezhnev, Ukrainian-Russian general and politician, 4th Head of State of the Soviet Union, died.",
+      "html": "<li>\n<a href=\"/wiki/1982\" title=\"1982\">1982</a> – <a href=\"/wiki/Leonid_Brezhnev\" title=\"Leonid Brezhnev\">Leonid Brezhnev</a>, Ukrainian-Russian general and politician, 4th <a href=\"/wiki/List_of_heads_of_state_of_the_Soviet_Union\" title=\"List of heads of state of the Soviet Union\">Head of State of the Soviet Union</a> (b. 1906)</li>",
+      "entities": [
+        {
+          "name": "Leonid Brezhnev",
+          "url": "/wiki/Leonid_Brezhnev",
+          "length": 127557
+        },
+        {
+          "name": "List of heads of state of the Soviet Union",
+          "url": "/wiki/List_of_heads_of_state_of_the_Soviet_Union",
+          "length": 30603
+        }
+      ]
+    }
+  ]
+}

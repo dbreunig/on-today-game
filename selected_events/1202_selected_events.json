@@ -1,0 +1,316 @@
+{
+  "events": [
+    {
+      "year": "1956",
+      "description": "The Granma reaches the shores of Cuba's Oriente Province. Fidel Castro, Che Guevara and 80 other members of the 26th of July Movement disembark to initiate the Cuban Revolution.",
+      "html": "<li>\n<a href=\"/wiki/1956\" title=\"1956\">1956</a> – The <a href=\"/wiki/Granma_(yacht)\" class=\"mw-redirect\" title=\"Granma (yacht)\"><i>Granma</i></a> reaches the shores of <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a>'s <a href=\"/wiki/Oriente_Province\" title=\"Oriente Province\">Oriente Province</a>. <a href=\"/wiki/Fidel_Castro\" title=\"Fidel Castro\">Fidel Castro</a>, <a href=\"/wiki/Che_Guevara\" title=\"Che Guevara\">Che Guevara</a> and 80 other members of the <a href=\"/wiki/26th_of_July_Movement\" title=\"26th of July Movement\">26th of July Movement</a> disembark to initiate the <a href=\"/wiki/Cuban_Revolution\" title=\"Cuban Revolution\">Cuban Revolution</a>.</li>",
+      "entities": [
+        {
+          "name": "Granma (yacht)",
+          "url": "/wiki/Granma_(yacht)",
+          "length": 82
+        },
+        {
+          "name": "Cuba",
+          "url": "/wiki/Cuba",
+          "length": 274212
+        },
+        {
+          "name": "Oriente Province",
+          "url": "/wiki/Oriente_Province",
+          "length": 14090
+        },
+        {
+          "name": "Fidel Castro",
+          "url": "/wiki/Fidel_Castro",
+          "length": 246523
+        },
+        {
+          "name": "Che Guevara",
+          "url": "/wiki/Che_Guevara",
+          "length": 204728
+        },
+        {
+          "name": "26th of July Movement",
+          "url": "/wiki/26th_of_July_Movement",
+          "length": 29935
+        },
+        {
+          "name": "Cuban Revolution",
+          "url": "/wiki/Cuban_Revolution",
+          "length": 158294
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "description": "Abu Dhabi, Ajman, Fujairah, Sharjah, Dubai, and Umm al-Quwain form the United Arab Emirates.",
+      "html": "<li>\n<a href=\"/wiki/1971\" title=\"1971\">1971</a> – <a href=\"/wiki/Emirate_of_Abu_Dhabi\" title=\"Emirate of Abu Dhabi\">Abu Dhabi</a>, <a href=\"/wiki/Ajman\" title=\"Ajman\">Ajman</a>, <a href=\"/wiki/Fujairah\" title=\"Fujairah\">Fujairah</a>, <a href=\"/wiki/Emirate_of_Sharjah\" title=\"Emirate of Sharjah\">Sharjah</a>, <a href=\"/wiki/Dubai\" title=\"Dubai\">Dubai</a>, and <a href=\"/wiki/Umm_al-Quwain\" class=\"mw-redirect\" title=\"Umm al-Quwain\">Umm al-Quwain</a> form the <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a>.</li>",
+      "entities": [
+        {
+          "name": "Emirate of Abu Dhabi",
+          "url": "/wiki/Emirate_of_Abu_Dhabi",
+          "length": 62176
+        },
+        {
+          "name": "Ajman",
+          "url": "/wiki/Ajman",
+          "length": 16500
+        },
+        {
+          "name": "Fujairah",
+          "url": "/wiki/Fujairah",
+          "length": 41922
+        },
+        {
+          "name": "Emirate of Sharjah",
+          "url": "/wiki/Emirate_of_Sharjah",
+          "length": 44964
+        },
+        {
+          "name": "Dubai",
+          "url": "/wiki/Dubai",
+          "length": 225990
+        },
+        {
+          "name": "Umm al-Quwain",
+          "url": "/wiki/Umm_al-Quwain",
+          "length": 44
+        },
+        {
+          "name": "United Arab Emirates",
+          "url": "/wiki/United_Arab_Emirates",
+          "length": 252338
+        }
+      ]
+    },
+    {
+      "year": "1962",
+      "description": "Vietnam War: After a trip to Vietnam at the request of U.S. President John F. Kennedy, U.S. Senate Majority Leader Mike Mansfield becomes the first American official to comment adversely on the war's progress.",
+      "html": "<li>\n<a href=\"/wiki/1962\" title=\"1962\">1962</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: After a trip to <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a> at the request of U.S. President <a href=\"/wiki/John_F._Kennedy\" title=\"John F. Kennedy\">John F. Kennedy</a>, <a href=\"/wiki/U.S._Senate_Majority_Leader\" class=\"mw-redirect\" title=\"U.S. Senate Majority Leader\">U.S. Senate Majority Leader</a> <a href=\"/wiki/Mike_Mansfield\" title=\"Mike Mansfield\">Mike Mansfield</a> becomes the first American official to comment adversely on the war's progress.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "Vietnam",
+          "url": "/wiki/Vietnam",
+          "length": 360529
+        },
+        {
+          "name": "John F. Kennedy",
+          "url": "/wiki/John_F._Kennedy",
+          "length": 236120
+        },
+        {
+          "name": "U.S. Senate Majority Leader",
+          "url": "/wiki/U.S._Senate_Majority_Leader",
+          "length": 55
+        },
+        {
+          "name": "Mike Mansfield",
+          "url": "/wiki/Mike_Mansfield",
+          "length": 45300
+        }
+      ]
+    },
+    {
+      "year": "1859",
+      "description": "Origins of the American Civil War: Militant abolitionist leader John Brown is hanged for his October raid on Harpers Ferry, Virginia (now West Virginia).",
+      "html": "<li>\n<a href=\"/wiki/1859\" title=\"1859\">1859</a> – <a href=\"/wiki/Origins_of_the_American_Civil_War\" title=\"Origins of the American Civil War\">Origins of the American Civil War</a>: Militant <a href=\"/wiki/Abolitionism_in_the_United_States\" title=\"Abolitionism in the United States\">abolitionist</a> leader <a href=\"/wiki/John_Brown_(abolitionist)\" title=\"John Brown (abolitionist)\">John Brown</a> is hanged for his <a href=\"/wiki/John_Brown%27s_raid_on_Harpers_Ferry\" title=\"John Brown's raid on Harpers Ferry\">October raid</a> on <a href=\"/wiki/Harpers_Ferry,_Virginia\" class=\"mw-redirect\" title=\"Harpers Ferry, Virginia\">Harpers Ferry, Virginia</a> (now West Virginia).<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Origins of the American Civil War",
+          "url": "/wiki/Origins_of_the_American_Civil_War",
+          "length": 191003
+        },
+        {
+          "name": "Abolitionism in the United States",
+          "url": "/wiki/Abolitionism_in_the_United_States",
+          "length": 167043
+        },
+        {
+          "name": "John Brown (abolitionist)",
+          "url": "/wiki/John_Brown_(abolitionist)",
+          "length": 233827
+        },
+        {
+          "name": "John Brown's raid on Harpers Ferry",
+          "url": "/wiki/John_Brown%27s_raid_on_Harpers_Ferry",
+          "length": 118132
+        },
+        {
+          "name": "Harpers Ferry, Virginia",
+          "url": "/wiki/Harpers_Ferry,_Virginia",
+          "length": 70
+        }
+      ]
+    },
+    {
+      "year": "1805",
+      "description": "War of the Third Coalition: Battle of Austerlitz: French troops under Napoleon decisively defeat a joint Russo-Austrian force.",
+      "html": "<li>\n<a href=\"/wiki/1805\" title=\"1805\">1805</a> – <a href=\"/wiki/War_of_the_Third_Coalition\" title=\"War of the Third Coalition\">War of the Third Coalition</a>: <a href=\"/wiki/Battle_of_Austerlitz\" title=\"Battle of Austerlitz\">Battle of Austerlitz</a>: French troops under <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon</a> decisively defeat a joint <a href=\"/wiki/Russian_Empire\" title=\"Russian Empire\">Russo</a>-<a href=\"/wiki/Austrian_Empire\" title=\"Austrian Empire\">Austrian</a> force.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "War of the Third Coalition",
+          "url": "/wiki/War_of_the_Third_Coalition",
+          "length": 77990
+        },
+        {
+          "name": "Battle of Austerlitz",
+          "url": "/wiki/Battle_of_Austerlitz",
+          "length": 71909
+        },
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189164
+        },
+        {
+          "name": "Russian Empire",
+          "url": "/wiki/Russian_Empire",
+          "length": 215845
+        },
+        {
+          "name": "Austrian Empire",
+          "url": "/wiki/Austrian_Empire",
+          "length": 49621
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "description": "Cannabis is removed from the list of most dangerous drugs of the international drug control treaty by the UN Commission on Narcotic Drugs.",
+      "html": "<li>\n<a href=\"/wiki/2020\" title=\"2020\">2020</a> – <a href=\"/wiki/Cannabis_(drug)\" title=\"Cannabis (drug)\">Cannabis</a> is <a href=\"/wiki/Removal_of_cannabis_and_cannabis_resin_from_Schedule_IV_of_the_Single_Convention_on_narcotic_drugs,_1961\" title=\"Removal of cannabis and cannabis resin from Schedule IV of the Single Convention on narcotic drugs, 1961\">removed from the list of most dangerous drugs</a> of the <a href=\"/wiki/Single_Convention_on_Narcotic_Drugs\" title=\"Single Convention on Narcotic Drugs\">international drug control treaty</a> by the <a href=\"/wiki/United_Nations\" title=\"United Nations\">UN</a> <a href=\"/wiki/United_Nations_Commission_on_Narcotic_Drugs\" title=\"United Nations Commission on Narcotic Drugs\">Commission on Narcotic Drugs</a>.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-16\" class=\"reference\"><a href=\"#cite_note-16\"><span class=\"cite-bracket\">[</span>16<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-17\" class=\"reference\"><a href=\"#cite_note-17\"><span class=\"cite-bracket\">[</span>17<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Cannabis (drug)",
+          "url": "/wiki/Cannabis_(drug)",
+          "length": 168650
+        },
+        {
+          "name": "Removal of cannabis and cannabis resin from Schedule IV of the Single Convention on narcotic drugs, 1961",
+          "url": "/wiki/Removal_of_cannabis_and_cannabis_resin_from_Schedule_IV_of_the_Single_Convention_on_narcotic_drugs,_1961",
+          "length": 49699
+        },
+        {
+          "name": "Single Convention on Narcotic Drugs",
+          "url": "/wiki/Single_Convention_on_Narcotic_Drugs",
+          "length": 114520
+        },
+        {
+          "name": "United Nations",
+          "url": "/wiki/United_Nations",
+          "length": 173187
+        },
+        {
+          "name": "United Nations Commission on Narcotic Drugs",
+          "url": "/wiki/United_Nations_Commission_on_Narcotic_Drugs",
+          "length": 25443
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Britney Spears, American singer-songwriter, dancer, and actress, was born.",
+      "html": "<li>1981   – <a href=\"/wiki/Britney_Spears\" title=\"Britney Spears\">Britney Spears</a>, American singer-songwriter, dancer, and actress<sup id=\"cite_ref-AP_25-15\" class=\"reference\"><a href=\"#cite_note-AP-25\"><span class=\"cite-bracket\">[</span>25<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Britney Spears",
+          "url": "/wiki/Britney_Spears",
+          "length": 325383
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Philip Larkin, English poet, author, and librarian, died.",
+      "html": "<li>\n<a href=\"/wiki/1985\" title=\"1985\">1985</a> – <a href=\"/wiki/Philip_Larkin\" title=\"Philip Larkin\">Philip Larkin</a>, English poet, author, and librarian (b. 1922)</li>",
+      "entities": [
+        {
+          "name": "Philip Larkin",
+          "url": "/wiki/Philip_Larkin",
+          "length": 115175
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1983",
+      "description": "Aaron Rodgers, American football player, was born.",
+      "html": "<li>1983   – <a href=\"/wiki/Aaron_Rodgers\" title=\"Aaron Rodgers\">Aaron Rodgers</a>, American football player</li>",
+      "entities": [
+        {
+          "name": "Aaron Rodgers",
+          "url": "/wiki/Aaron_Rodgers",
+          "length": 331914
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Britney Spears, American singer-songwriter, dancer, and actress, was born.",
+      "html": "<li>1981   – <a href=\"/wiki/Britney_Spears\" title=\"Britney Spears\">Britney Spears</a>, American singer-songwriter, dancer, and actress<sup id=\"cite_ref-AP_25-15\" class=\"reference\"><a href=\"#cite_note-AP-25\"><span class=\"cite-bracket\">[</span>25<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Britney Spears",
+          "url": "/wiki/Britney_Spears",
+          "length": 325383
+        }
+      ]
+    },
+    {
+      "year": "1923",
+      "description": "Maria Callas, American-Greek soprano and actress, was born.",
+      "html": "<li>\n<a href=\"/wiki/1923\" title=\"1923\">1923</a> – <a href=\"/wiki/Maria_Callas\" title=\"Maria Callas\">Maria Callas</a>, American-Greek soprano and actress (d. 1977)<sup id=\"cite_ref-UPI_22-0\" class=\"reference\"><a href=\"#cite_note-UPI-22\"><span class=\"cite-bracket\">[</span>22<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Maria Callas",
+          "url": "/wiki/Maria_Callas",
+          "length": 154429
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1859",
+      "description": "John Brown, American abolitionist, died.",
+      "html": "<li>\n<a href=\"/wiki/1859\" title=\"1859\">1859</a> – <a href=\"/wiki/John_Brown_(abolitionist)\" title=\"John Brown (abolitionist)\">John Brown</a>, American abolitionist (b. 1800)</li>",
+      "entities": [
+        {
+          "name": "John Brown (abolitionist)",
+          "url": "/wiki/John_Brown_(abolitionist)",
+          "length": 233827
+        }
+      ]
+    },
+    {
+      "year": "1993",
+      "description": "Pablo Escobar, Colombian drug lord, died.",
+      "html": "<li>\n<a href=\"/wiki/1993\" title=\"1993\">1993</a> – <a href=\"/wiki/Pablo_Escobar\" title=\"Pablo Escobar\">Pablo Escobar</a>, Colombian drug lord (b. 1949)</li>",
+      "entities": [
+        {
+          "name": "Pablo Escobar",
+          "url": "/wiki/Pablo_Escobar",
+          "length": 233459
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "description": "Philip Larkin, English poet, author, and librarian, died.",
+      "html": "<li>\n<a href=\"/wiki/1985\" title=\"1985\">1985</a> – <a href=\"/wiki/Philip_Larkin\" title=\"Philip Larkin\">Philip Larkin</a>, English poet, author, and librarian (b. 1922)</li>",
+      "entities": [
+        {
+          "name": "Philip Larkin",
+          "url": "/wiki/Philip_Larkin",
+          "length": 115175
+        }
+      ]
+    }
+  ]
+}

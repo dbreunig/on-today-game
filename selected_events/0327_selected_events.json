@@ -1,0 +1,296 @@
+{
+  "events": [
+    {
+      "year": "1871",
+      "description": "The first international rugby football match, when Scotland defeats England in Edinburgh at Raeburn Place.",
+      "html": "<li>\n<a href=\"/wiki/1871\" title=\"1871\">1871</a> – The <a href=\"/wiki/1871_England_versus_Scotland_rugby_union_match\" class=\"mw-redirect\" title=\"1871 England versus Scotland rugby union match\">first</a> international <a href=\"/wiki/Rugby_football\" title=\"Rugby football\">rugby football</a> match, when <a href=\"/wiki/Scotland_national_rugby_union_team\" title=\"Scotland national rugby union team\">Scotland</a> defeats <a href=\"/wiki/England_national_rugby_union_team\" title=\"England national rugby union team\">England</a> in <a href=\"/wiki/Edinburgh\" title=\"Edinburgh\">Edinburgh</a> at <a href=\"/wiki/Raeburn_Place\" title=\"Raeburn Place\">Raeburn Place</a>.</li>",
+      "entities": [
+        {
+          "name": "1871 England versus Scotland rugby union match",
+          "url": "/wiki/1871_England_versus_Scotland_rugby_union_match",
+          "length": 60
+        },
+        {
+          "name": "Rugby football",
+          "url": "/wiki/Rugby_football",
+          "length": 63372
+        },
+        {
+          "name": "Scotland national rugby union team",
+          "url": "/wiki/Scotland_national_rugby_union_team",
+          "length": 147387
+        },
+        {
+          "name": "England national rugby union team",
+          "url": "/wiki/England_national_rugby_union_team",
+          "length": 170681
+        },
+        {
+          "name": "Edinburgh",
+          "url": "/wiki/Edinburgh",
+          "length": 217800
+        },
+        {
+          "name": "Raeburn Place",
+          "url": "/wiki/Raeburn_Place",
+          "length": 5660
+        }
+      ]
+    },
+    {
+      "year": "1912",
+      "description": "First Lady Helen Taft and the Viscountess Chinda, wife of the Japanese ambassador, plant two Yoshino cherry trees on the northern bank of the Potomac River in Washington, D.C., the origin of the National Cherry Blossom Festival.",
+      "html": "<li>\n<a href=\"/wiki/1912\" title=\"1912\">1912</a> – First Lady <a href=\"/wiki/Helen_Herron_Taft\" title=\"Helen Herron Taft\">Helen Taft</a> and the Viscountess Chinda, wife of the Japanese ambassador, plant two Yoshino <a href=\"/wiki/Cherry\" title=\"Cherry\">cherry trees</a> on the northern bank of the <a href=\"/wiki/Potomac_River\" title=\"Potomac River\">Potomac River</a> in <a href=\"/wiki/Washington,_D.C.\" title=\"Washington, D.C.\">Washington, D.C.</a>, the origin of the <a href=\"/wiki/National_Cherry_Blossom_Festival\" title=\"National Cherry Blossom Festival\">National Cherry Blossom Festival</a>.<sup id=\"cite_ref-8\" class=\"reference\"><a href=\"#cite_note-8\"><span class=\"cite-bracket\">[</span>8<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Helen Herron Taft",
+          "url": "/wiki/Helen_Herron_Taft",
+          "length": 40016
+        },
+        {
+          "name": "Cherry",
+          "url": "/wiki/Cherry",
+          "length": 44034
+        },
+        {
+          "name": "Potomac River",
+          "url": "/wiki/Potomac_River",
+          "length": 93441
+        },
+        {
+          "name": "Washington, D.C.",
+          "url": "/wiki/Washington,_D.C.",
+          "length": 283715
+        },
+        {
+          "name": "National Cherry Blossom Festival",
+          "url": "/wiki/National_Cherry_Blossom_Festival",
+          "length": 47256
+        }
+      ]
+    },
+    {
+      "year": "1941",
+      "description": "World War II: Yugoslav Air Force officers topple the pro-Axis government in a bloodless coup.",
+      "html": "<li>\n<a href=\"/wiki/1941\" title=\"1941\">1941</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/Yugoslav_Air_Force\" title=\"Yugoslav Air Force\">Yugoslav Air Force</a> officers topple the <a href=\"/wiki/Axis_powers\" title=\"Axis powers\">pro-Axis</a> <a href=\"/wiki/Kingdom_of_Yugoslavia\" title=\"Kingdom of Yugoslavia\">government</a> in a <a href=\"/wiki/Yugoslav_coup_d%27%C3%A9tat\" title=\"Yugoslav coup d'état\">bloodless coup</a>.<sup id=\"cite_ref-10\" class=\"reference\"><a href=\"#cite_note-10\"><span class=\"cite-bracket\">[</span>10<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Yugoslav Air Force",
+          "url": "/wiki/Yugoslav_Air_Force",
+          "length": 40738
+        },
+        {
+          "name": "Axis powers",
+          "url": "/wiki/Axis_powers",
+          "length": 187748
+        },
+        {
+          "name": "Kingdom of Yugoslavia",
+          "url": "/wiki/Kingdom_of_Yugoslavia",
+          "length": 89005
+        },
+        {
+          "name": "Yugoslav coup d'état",
+          "url": "/wiki/Yugoslav_coup_d%27%C3%A9tat",
+          "length": 76331
+        }
+      ]
+    },
+    {
+      "year": "2002",
+      "description": "Passover massacre: A Palestinian suicide bomber kills 29 people at a Passover seder in Netanya, Israel.",
+      "html": "<li>\n<a href=\"/wiki/2002\" title=\"2002\">2002</a> – <a href=\"/wiki/Passover_massacre\" title=\"Passover massacre\">Passover massacre</a>: A <a href=\"/wiki/Palestinians\" title=\"Palestinians\">Palestinian</a> <a href=\"/wiki/Suicide_attack\" title=\"Suicide attack\">suicide bomber</a> kills 29 people at a <a href=\"/wiki/Passover_Seder\" title=\"Passover Seder\">Passover seder</a> in <a href=\"/wiki/Netanya\" title=\"Netanya\">Netanya</a>, Israel.</li>",
+      "entities": [
+        {
+          "name": "Passover massacre",
+          "url": "/wiki/Passover_massacre",
+          "length": 23619
+        },
+        {
+          "name": "Palestinians",
+          "url": "/wiki/Palestinians",
+          "length": 233264
+        },
+        {
+          "name": "Suicide attack",
+          "url": "/wiki/Suicide_attack",
+          "length": 199316
+        },
+        {
+          "name": "Passover Seder",
+          "url": "/wiki/Passover_Seder",
+          "length": 65956
+        },
+        {
+          "name": "Netanya",
+          "url": "/wiki/Netanya",
+          "length": 57534
+        }
+      ]
+    },
+    {
+      "year": "1886",
+      "description": "Geronimo, Apache warrior, surrenders to the U.S. Army, ending the main phase of the Apache Wars.",
+      "html": "<li>\n<a href=\"/wiki/1886\" title=\"1886\">1886</a> – <a href=\"/wiki/Geronimo\" title=\"Geronimo\">Geronimo</a>, <a href=\"/wiki/Apache\" title=\"Apache\">Apache</a> warrior, surrenders to the <a href=\"/wiki/United_States_Army\" title=\"United States Army\">U.S. Army</a>, ending the main phase of the <a href=\"/wiki/Apache_Wars\" title=\"Apache Wars\">Apache Wars</a>.</li>",
+      "entities": [
+        {
+          "name": "Geronimo",
+          "url": "/wiki/Geronimo",
+          "length": 73356
+        },
+        {
+          "name": "Apache",
+          "url": "/wiki/Apache",
+          "length": 97775
+        },
+        {
+          "name": "United States Army",
+          "url": "/wiki/United_States_Army",
+          "length": 174349
+        },
+        {
+          "name": "Apache Wars",
+          "url": "/wiki/Apache_Wars",
+          "length": 32722
+        }
+      ]
+    },
+    {
+      "year": "1899",
+      "description": "Emilio Aguinaldo leads Filipino forces for the only time during the Philippine–American War at the Battle of Marilao River.",
+      "html": "<li>\n<a href=\"/wiki/1899\" title=\"1899\">1899</a> – <a href=\"/wiki/Emilio_Aguinaldo\" title=\"Emilio Aguinaldo\">Emilio Aguinaldo</a> leads <a href=\"/wiki/Philippine_Revolutionary_Army\" title=\"Philippine Revolutionary Army\">Filipino forces</a> for the only time during the <a href=\"/wiki/Philippine%E2%80%93American_War\" title=\"Philippine–American War\">Philippine–American War</a> at the <a href=\"/wiki/Battle_of_Marilao_River\" title=\"Battle of Marilao River\">Battle of Marilao River</a>.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Emilio Aguinaldo",
+          "url": "/wiki/Emilio_Aguinaldo",
+          "length": 96210
+        },
+        {
+          "name": "Philippine Revolutionary Army",
+          "url": "/wiki/Philippine_Revolutionary_Army",
+          "length": 40994
+        },
+        {
+          "name": "Philippine–American War",
+          "url": "/wiki/Philippine%E2%80%93American_War",
+          "length": 158504
+        },
+        {
+          "name": "Battle of Marilao River",
+          "url": "/wiki/Battle_of_Marilao_River",
+          "length": 6365
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Quentin Tarantino, American director, producer, screenwriter and actor, was born.",
+      "html": "<li>1963   – <a href=\"/wiki/Quentin_Tarantino\" title=\"Quentin Tarantino\">Quentin Tarantino</a>, American director, producer, screenwriter and actor</li>",
+      "entities": [
+        {
+          "name": "Quentin Tarantino",
+          "url": "/wiki/Quentin_Tarantino",
+          "length": 178767
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "description": "Yuri Gagarin, Russian colonel, pilot, and astronaut, died.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Yuri_Gagarin\" title=\"Yuri Gagarin\">Yuri Gagarin</a>, Russian colonel, pilot, and astronaut (b. 1934)<sup id=\"cite_ref-46\" class=\"reference\"><a href=\"#cite_note-46\"><span class=\"cite-bracket\">[</span>46<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Yuri Gagarin",
+          "url": "/wiki/Yuri_Gagarin",
+          "length": 107395
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1969",
+      "description": "Mariah Carey, American singer-songwriter, producer, and actress, was born.",
+      "html": "<li>1969   – <a href=\"/wiki/Mariah_Carey\" title=\"Mariah Carey\">Mariah Carey</a>, American singer-songwriter, producer, and actress<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"#cite_note-29\"><span class=\"cite-bracket\">[</span>29<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mariah Carey",
+          "url": "/wiki/Mariah_Carey",
+          "length": 281900
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Atsuto Uchida, Japanese footballer, was born.",
+      "html": "<li>1988   – <a href=\"/wiki/Atsuto_Uchida\" title=\"Atsuto Uchida\">Atsuto Uchida</a>, Japanese footballer</li>",
+      "entities": [
+        {
+          "name": "Atsuto Uchida",
+          "url": "/wiki/Atsuto_Uchida",
+          "length": 179952
+        }
+      ]
+    },
+    {
+      "year": "1963",
+      "description": "Quentin Tarantino, American director, producer, screenwriter and actor, was born.",
+      "html": "<li>1963   – <a href=\"/wiki/Quentin_Tarantino\" title=\"Quentin Tarantino\">Quentin Tarantino</a>, American director, producer, screenwriter and actor</li>",
+      "entities": [
+        {
+          "name": "Quentin Tarantino",
+          "url": "/wiki/Quentin_Tarantino",
+          "length": 178767
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2024",
+      "description": "Joe Lieberman, American politician and lawyer, died.",
+      "html": "<li>2024 – <a href=\"/wiki/Joe_Lieberman\" title=\"Joe Lieberman\">Joe Lieberman</a>, American politician and lawyer (b. 1942)<sup id=\"cite_ref-50\" class=\"reference\"><a href=\"#cite_note-50\"><span class=\"cite-bracket\">[</span>50<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Joe Lieberman",
+          "url": "/wiki/Joe_Lieberman",
+          "length": 167908
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "description": "Rudolf Vrba, Czech Holocaust survivor and educator, died.",
+      "html": "<li>2006   – <a href=\"/wiki/Rudolf_Vrba\" title=\"Rudolf Vrba\">Rudolf Vrba</a>, Czech <a href=\"/wiki/Holocaust\" class=\"mw-redirect\" title=\"Holocaust\">Holocaust</a> survivor and educator (b. 1924)</li>",
+      "entities": [
+        {
+          "name": "Rudolf Vrba",
+          "url": "/wiki/Rudolf_Vrba",
+          "length": 160791
+        },
+        {
+          "name": "Holocaust",
+          "url": "/wiki/Holocaust",
+          "length": 143
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "description": "Yuri Gagarin, Russian colonel, pilot, and astronaut, died.",
+      "html": "<li>\n<a href=\"/wiki/1968\" title=\"1968\">1968</a> – <a href=\"/wiki/Yuri_Gagarin\" title=\"Yuri Gagarin\">Yuri Gagarin</a>, Russian colonel, pilot, and astronaut (b. 1934)<sup id=\"cite_ref-46\" class=\"reference\"><a href=\"#cite_note-46\"><span class=\"cite-bracket\">[</span>46<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Yuri Gagarin",
+          "url": "/wiki/Yuri_Gagarin",
+          "length": 107395
+        }
+      ]
+    }
+  ]
+}

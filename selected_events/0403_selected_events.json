@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1996",
+      "description": "A United States Air Force Boeing T-43 crashes near Dubrovnik Airport in Croatia, killing 35, including Secretary of Commerce Ron Brown.",
+      "html": "<li>1996 – A <a href=\"/wiki/United_States_Air_Force\" title=\"United States Air Force\">United States Air Force</a> <a href=\"/wiki/Boeing_T-43\" title=\"Boeing T-43\">Boeing T-43</a> <a href=\"/wiki/1996_Croatia_USAF_CT-43_crash\" title=\"1996 Croatia USAF CT-43 crash\">crashes</a> near <a href=\"/wiki/Dubrovnik_Airport\" title=\"Dubrovnik Airport\">Dubrovnik Airport</a> in <a href=\"/wiki/Croatia\" title=\"Croatia\">Croatia</a>, killing 35, including <a href=\"/wiki/United_States_Secretary_of_Commerce\" title=\"United States Secretary of Commerce\">Secretary of Commerce</a> <a href=\"/wiki/Ron_Brown\" title=\"Ron Brown\">Ron Brown</a>.<sup id=\"cite_ref-24\" class=\"reference\"><a href=\"#cite_note-24\"><span class=\"cite-bracket\">[</span>24<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "United States Air Force",
+          "url": "/wiki/United_States_Air_Force",
+          "length": 177380
+        },
+        {
+          "name": "Boeing T-43",
+          "url": "/wiki/Boeing_T-43",
+          "length": 17476
+        },
+        {
+          "name": "1996 Croatia USAF CT-43 crash",
+          "url": "/wiki/1996_Croatia_USAF_CT-43_crash",
+          "length": 17476
+        },
+        {
+          "name": "Dubrovnik Airport",
+          "url": "/wiki/Dubrovnik_Airport",
+          "length": 41671
+        },
+        {
+          "name": "Croatia",
+          "url": "/wiki/Croatia",
+          "length": 230923
+        },
+        {
+          "name": "United States Secretary of Commerce",
+          "url": "/wiki/United_States_Secretary_of_Commerce",
+          "length": 22225
+        },
+        {
+          "name": "Ron Brown",
+          "url": "/wiki/Ron_Brown",
+          "length": 21473
+        }
+      ]
+    },
+    {
+      "year": "1973",
+      "description": "Martin Cooper of Motorola makes the first handheld mobile phone call to Joel S. Engel of Bell Labs.",
+      "html": "<li>\n<a href=\"/wiki/1973\" title=\"1973\">1973</a> – <a href=\"/wiki/Martin_Cooper_(inventor)\" title=\"Martin Cooper (inventor)\">Martin Cooper</a> of <a href=\"/wiki/Motorola\" title=\"Motorola\">Motorola</a> makes the <a href=\"/wiki/History_of_mobile_phones\" title=\"History of mobile phones\">first handheld mobile phone call</a> to <a href=\"/wiki/Joel_S._Engel\" title=\"Joel S. Engel\">Joel S. Engel</a> of <a href=\"/wiki/Bell_Labs\" title=\"Bell Labs\">Bell Labs</a>.</li>",
+      "entities": [
+        {
+          "name": "Martin Cooper (inventor)",
+          "url": "/wiki/Martin_Cooper_(inventor)",
+          "length": 19328
+        },
+        {
+          "name": "Motorola",
+          "url": "/wiki/Motorola",
+          "length": 40802
+        },
+        {
+          "name": "History of mobile phones",
+          "url": "/wiki/History_of_mobile_phones",
+          "length": 66987
+        },
+        {
+          "name": "Joel S. Engel",
+          "url": "/wiki/Joel_S._Engel",
+          "length": 5316
+        },
+        {
+          "name": "Bell Labs",
+          "url": "/wiki/Bell_Labs",
+          "length": 118470
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "description": "Attempts are made to carry out the failed assassination attempt on General Mannerheim, led by Aleksander Weckman by order of Eino Rahja, during the White Guard parade in Tampere, Finland.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – Attempts are made to carry out the failed <a href=\"/wiki/Carl_Gustaf_Emil_Mannerheim#The_1920_assassination_attempt\" title=\"Carl Gustaf Emil Mannerheim\">assassination attempt on General Mannerheim</a>, led by Aleksander Weckman by order of <a href=\"/wiki/Eino_Rahja\" title=\"Eino Rahja\">Eino Rahja</a>, during the <a href=\"/wiki/White_Guard_(Finland)\" title=\"White Guard (Finland)\">White Guard</a> parade in <a href=\"/wiki/Tampere\" title=\"Tampere\">Tampere</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a>.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\"><span class=\"cite-bracket\">[</span>14<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-15\" class=\"reference\"><a href=\"#cite_note-15\"><span class=\"cite-bracket\">[</span>15<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Carl Gustaf Emil Mannerheim",
+          "url": "/wiki/Carl_Gustaf_Emil_Mannerheim#The_1920_assassination_attempt",
+          "length": null
+        },
+        {
+          "name": "Eino Rahja",
+          "url": "/wiki/Eino_Rahja",
+          "length": null
+        },
+        {
+          "name": "White Guard (Finland)",
+          "url": "/wiki/White_Guard_(Finland)",
+          "length": null
+        },
+        {
+          "name": "Tampere",
+          "url": "/wiki/Tampere",
+          "length": null
+        },
+        {
+          "name": "Finland",
+          "url": "/wiki/Finland",
+          "length": null
+        }
+      ]
+    },
+    {
+      "year": "1865",
+      "description": "American Civil War: Union forces capture Richmond, Virginia, the capital of the Confederate States of America.",
+      "html": "<li>\n<a href=\"/wiki/1865\" title=\"1865\">1865</a> – <a href=\"/wiki/American_Civil_War\" title=\"American Civil War\">American Civil War</a>: <a href=\"/wiki/Union_(American_Civil_War)\" title=\"Union (American Civil War)\">Union</a> forces capture <a href=\"/wiki/Richmond,_Virginia\" title=\"Richmond, Virginia\">Richmond, Virginia</a>, the capital of the <a href=\"/wiki/Confederate_States_of_America\" title=\"Confederate States of America\">Confederate States of America</a>.<sup id=\"cite_ref-9\" class=\"reference\"><a href=\"#cite_note-9\"><span class=\"cite-bracket\">[</span>9<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "American Civil War",
+          "url": "/wiki/American_Civil_War",
+          "length": 216224
+        },
+        {
+          "name": "Union (American Civil War)",
+          "url": "/wiki/Union_(American_Civil_War)",
+          "length": 107408
+        },
+        {
+          "name": "Richmond, Virginia",
+          "url": "/wiki/Richmond,_Virginia",
+          "length": 190880
+        },
+        {
+          "name": "Confederate States of America",
+          "url": "/wiki/Confederate_States_of_America",
+          "length": 244460
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "The Osborne 1, the first successful portable computer, is unveiled at the West Coast Computer Faire in San Francisco.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – The <a href=\"/wiki/Osborne_1\" title=\"Osborne 1\">Osborne 1</a>, the first successful <a href=\"/wiki/Portable_computer\" title=\"Portable computer\">portable computer</a>, is unveiled at the <a href=\"/wiki/West_Coast_Computer_Faire\" title=\"West Coast Computer Faire\">West Coast Computer Faire</a> in <a href=\"/wiki/San_Francisco\" title=\"San Francisco\">San Francisco</a>.<sup id=\"cite_ref-22\" class=\"reference\"><a href=\"#cite_note-22\"><span class=\"cite-bracket\">[</span>22<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Osborne 1",
+          "url": "/wiki/Osborne_1",
+          "length": 28442
+        },
+        {
+          "name": "Portable computer",
+          "url": "/wiki/Portable_computer",
+          "length": 34580
+        },
+        {
+          "name": "West Coast Computer Faire",
+          "url": "/wiki/West_Coast_Computer_Faire",
+          "length": 21022
+        },
+        {
+          "name": "San Francisco",
+          "url": "/wiki/San_Francisco",
+          "length": 278496
+        }
+      ]
+    },
+    {
+      "year": "1851",
+      "description": "Rama IV is crowned King of Thailand after the death of his half-brother, Rama III.",
+      "html": "<li>\n<a href=\"/wiki/1851\" title=\"1851\">1851</a> – <a href=\"/wiki/Mongkut\" title=\"Mongkut\">Rama IV</a> is crowned <a href=\"/wiki/Monarchy_of_Thailand\" title=\"Monarchy of Thailand\">King</a> of <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a> after the death of his half-brother, <a href=\"/wiki/Rama_III\" title=\"Rama III\">Rama III</a>.<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"#cite_note-7\"><span class=\"cite-bracket\">[</span>7<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Mongkut",
+          "url": "/wiki/Mongkut",
+          "length": 39721
+        },
+        {
+          "name": "Monarchy of Thailand",
+          "url": "/wiki/Monarchy_of_Thailand",
+          "length": 56561
+        },
+        {
+          "name": "Thailand",
+          "url": "/wiki/Thailand",
+          "length": 278559
+        },
+        {
+          "name": "Rama III",
+          "url": "/wiki/Rama_III",
+          "length": 25245
+        }
+      ]
+    },
+    {
+      "year": "1925",
+      "description": "Tony Benn, English pilot and politician, Secretary of State for Industry, was born.",
+      "html": "<li>\n<a href=\"/wiki/1925\" title=\"1925\">1925</a> – <a href=\"/wiki/Tony_Benn\" title=\"Tony Benn\">Tony Benn</a>, English pilot and politician, <a href=\"/wiki/Secretary_of_State_for_Business,_Innovation_and_Skills\" class=\"mw-redirect\" title=\"Secretary of State for Business, Innovation and Skills\">Secretary of State for Industry</a> (d. 2014)</li>",
+      "entities": [
+        {
+          "name": "Tony Benn",
+          "url": "/wiki/Tony_Benn",
+          "length": 156284
+        },
+        {
+          "name": "Secretary of State for Business, Innovation and Skills",
+          "url": "/wiki/Secretary_of_State_for_Business,_Innovation_and_Skills",
+          "length": 71
+        }
+      ]
+    },
+    {
+      "year": "1680",
+      "description": "Chatrapati Shivaji Maharaj, Indian emperor, founded the Maratha Empire, died.",
+      "html": "<li>\n<a href=\"/wiki/1680\" title=\"1680\">1680</a> – <a href=\"/wiki/Shivaji\" title=\"Shivaji\">Chatrapati Shivaji Maharaj</a>, Indian emperor, founded the <a href=\"/wiki/Maratha_Empire\" class=\"mw-redirect\" title=\"Maratha Empire\">Maratha Empire</a> (b. 1630)</li>",
+      "entities": [
+        {
+          "name": "Shivaji",
+          "url": "/wiki/Shivaji",
+          "length": 117599
+        },
+        {
+          "name": "Maratha Empire",
+          "url": "/wiki/Maratha_Empire",
+          "length": 108
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1964",
+      "description": "Nigel Farage, English politician, was born.",
+      "html": "<li>1964 – <a href=\"/wiki/Nigel_Farage\" title=\"Nigel Farage\">Nigel Farage</a>, English politician</li>",
+      "entities": [
+        {
+          "name": "Nigel Farage",
+          "url": "/wiki/Nigel_Farage",
+          "length": 208513
+        }
+      ]
+    },
+    {
+      "year": "1924",
+      "description": "Marlon Brando, American actor and director, was born.",
+      "html": "<li>\n<a href=\"/wiki/1924\" title=\"1924\">1924</a> – <a href=\"/wiki/Marlon_Brando\" title=\"Marlon Brando\">Marlon Brando</a>, American actor and director (d. 2004)</li>",
+      "entities": [
+        {
+          "name": "Marlon Brando",
+          "url": "/wiki/Marlon_Brando",
+          "length": 168535
+        }
+      ]
+    },
+    {
+      "year": "1925",
+      "description": "Tony Benn, English pilot and politician, Secretary of State for Industry, was born.",
+      "html": "<li>\n<a href=\"/wiki/1925\" title=\"1925\">1925</a> – <a href=\"/wiki/Tony_Benn\" title=\"Tony Benn\">Tony Benn</a>, English pilot and politician, <a href=\"/wiki/Secretary_of_State_for_Business,_Innovation_and_Skills\" class=\"mw-redirect\" title=\"Secretary of State for Business, Innovation and Skills\">Secretary of State for Industry</a> (d. 2014)</li>",
+      "entities": [
+        {
+          "name": "Tony Benn",
+          "url": "/wiki/Tony_Benn",
+          "length": 156284
+        },
+        {
+          "name": "Secretary of State for Business, Innovation and Skills",
+          "url": "/wiki/Secretary_of_State_for_Business,_Innovation_and_Skills",
+          "length": 71
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1680",
+      "description": "Chatrapati Shivaji Maharaj, Indian emperor, founded the Maratha Empire, died.",
+      "html": "<li>\n<a href=\"/wiki/1680\" title=\"1680\">1680</a> – <a href=\"/wiki/Shivaji\" title=\"Shivaji\">Chatrapati Shivaji Maharaj</a>, Indian emperor, founded the <a href=\"/wiki/Maratha_Empire\" class=\"mw-redirect\" title=\"Maratha Empire\">Maratha Empire</a> (b. 1630)</li>",
+      "entities": [
+        {
+          "name": "Shivaji",
+          "url": "/wiki/Shivaji",
+          "length": 117599
+        },
+        {
+          "name": "Maratha Empire",
+          "url": "/wiki/Maratha_Empire",
+          "length": 108
+        }
+      ]
+    },
+    {
+      "year": "1897",
+      "description": "Johannes Brahms, German pianist and composer, died.",
+      "html": "<li>\n<a href=\"/wiki/1897\" title=\"1897\">1897</a> – <a href=\"/wiki/Johannes_Brahms\" title=\"Johannes Brahms\">Johannes Brahms</a>, German pianist and composer (b. 1833)</li>",
+      "entities": [
+        {
+          "name": "Johannes Brahms",
+          "url": "/wiki/Johannes_Brahms",
+          "length": 88014
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "description": "Terence McKenna, American botanist and philosopher, died.",
+      "html": "<li>\n<a href=\"/wiki/2000\" title=\"2000\">2000</a> – <a href=\"/wiki/Terence_McKenna\" title=\"Terence McKenna\">Terence McKenna</a>, American botanist and philosopher (b. 1946)</li>",
+      "entities": [
+        {
+          "name": "Terence McKenna",
+          "url": "/wiki/Terence_McKenna",
+          "length": 83678
+        }
+      ]
+    }
+  ]
+}

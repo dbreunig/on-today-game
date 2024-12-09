@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1941",
+      "description": "The Holocaust: Under instructions from Adolf Hitler, Nazi official Hermann Göring orders SS General Reinhard Heydrich to \"submit to me as soon as possible a general plan of the administrative material and financial measures necessary for carrying out the desired Final Solution of the Jewish question.\"",
+      "html": "<li>\n<a href=\"/wiki/1941\" title=\"1941\">1941</a> – <a href=\"/wiki/The_Holocaust\" title=\"The Holocaust\">The Holocaust</a>: Under instructions from <a href=\"/wiki/Adolf_Hitler\" title=\"Adolf Hitler\">Adolf Hitler</a>, <a href=\"/wiki/Nazism\" title=\"Nazism\">Nazi</a> official <a href=\"/wiki/Hermann_G%C3%B6ring\" title=\"Hermann Göring\">Hermann Göring</a> orders <a href=\"/wiki/Schutzstaffel\" title=\"Schutzstaffel\">SS</a> General <a href=\"/wiki/Reinhard_Heydrich\" title=\"Reinhard Heydrich\">Reinhard Heydrich</a> to \"submit to me as soon as possible a general plan of the administrative material and financial measures necessary for carrying out the desired <a href=\"/wiki/Final_Solution\" title=\"Final Solution\">Final Solution</a> of the <a href=\"/wiki/Jews\" title=\"Jews\">Jewish</a> question.\"</li>",
+      "entities": [
+        {
+          "name": "The Holocaust",
+          "url": "/wiki/The_Holocaust",
+          "length": 127715
+        },
+        {
+          "name": "Adolf Hitler",
+          "url": "/wiki/Adolf_Hitler",
+          "length": 174335
+        },
+        {
+          "name": "Nazism",
+          "url": "/wiki/Nazism",
+          "length": 245234
+        },
+        {
+          "name": "Hermann Göring",
+          "url": "/wiki/Hermann_G%C3%B6ring",
+          "length": 105458
+        },
+        {
+          "name": "Schutzstaffel",
+          "url": "/wiki/Schutzstaffel",
+          "length": 142678
+        },
+        {
+          "name": "Reinhard Heydrich",
+          "url": "/wiki/Reinhard_Heydrich",
+          "length": 86953
+        },
+        {
+          "name": "Final Solution",
+          "url": "/wiki/Final_Solution",
+          "length": 95631
+        },
+        {
+          "name": "Jews",
+          "url": "/wiki/Jews",
+          "length": 219420
+        }
+      ]
+    },
+    {
+      "year": "1917",
+      "description": "World War I: The Battle of Passchendaele begins near Ypres in West Flanders, Belgium.",
+      "html": "<li>\n<a href=\"/wiki/1917\" title=\"1917\">1917</a> – <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>: <a href=\"/wiki/The_Battle_of_Passchendaele\" class=\"mw-redirect\" title=\"The Battle of Passchendaele\">The Battle of Passchendaele</a> begins near <a href=\"/wiki/Ypres\" title=\"Ypres\">Ypres</a> in <a href=\"/wiki/West_Flanders\" title=\"West Flanders\">West Flanders</a>, <a href=\"/wiki/Belgium\" title=\"Belgium\">Belgium</a>.</li>",
+      "entities": [
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        },
+        {
+          "name": "The Battle of Passchendaele",
+          "url": "/wiki/The_Battle_of_Passchendaele",
+          "length": 37
+        },
+        {
+          "name": "Ypres",
+          "url": "/wiki/Ypres",
+          "length": 31587
+        },
+        {
+          "name": "West Flanders",
+          "url": "/wiki/West_Flanders",
+          "length": 12123
+        },
+        {
+          "name": "Belgium",
+          "url": "/wiki/Belgium",
+          "length": 213913
+        }
+      ]
+    },
+    {
+      "year": "1992",
+      "description": "Space Shuttle program: Atlantis is launched on STS-46 to deploy the European Retrievable Carrier and the Tethered Satellite System.",
+      "html": "<li>1992   – <a href=\"/wiki/Space_Shuttle_program\" title=\"Space Shuttle program\">Space Shuttle program</a>: <a href=\"/wiki/Space_Shuttle_Atlantis\" title=\"Space Shuttle Atlantis\"><i>Atlantis</i></a> is launched on <a href=\"/wiki/STS-46\" title=\"STS-46\">STS-46</a> to deploy the <a href=\"/wiki/European_Retrievable_Carrier\" title=\"European Retrievable Carrier\">European Retrievable Carrier</a> and the <a href=\"/wiki/Space_tether\" title=\"Space tether\">Tethered Satellite System</a>.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Space Shuttle program",
+          "url": "/wiki/Space_Shuttle_program",
+          "length": 63244
+        },
+        {
+          "name": "Space Shuttle Atlantis",
+          "url": "/wiki/Space_Shuttle_Atlantis",
+          "length": 60141
+        },
+        {
+          "name": "STS-46",
+          "url": "/wiki/STS-46",
+          "length": 6856
+        },
+        {
+          "name": "European Retrievable Carrier",
+          "url": "/wiki/European_Retrievable_Carrier",
+          "length": 10608
+        },
+        {
+          "name": "Space tether",
+          "url": "/wiki/Space_tether",
+          "length": 40983
+        }
+      ]
+    },
+    {
+      "year": "30 BC",
+      "description": "Battle of Alexandria: Mark Antony achieves a minor victory over Octavian's forces, but most of his army subsequently deserts, leading to his suicide.",
+      "html": "<li>\n<a href=\"/wiki/30_BC\" title=\"30 BC\">30 BC</a> – <a href=\"/wiki/Battle_of_Alexandria_(30_BC)\" title=\"Battle of Alexandria (30 BC)\">Battle of Alexandria</a>: <a href=\"/wiki/Mark_Antony\" title=\"Mark Antony\">Mark Antony</a> achieves a minor victory over <a href=\"/wiki/Augustus\" title=\"Augustus\">Octavian</a>'s forces, but most of his army subsequently deserts, leading to his suicide.</li>",
+      "entities": [
+        {
+          "name": "30 BC",
+          "url": "/wiki/30_BC",
+          "length": 4551
+        },
+        {
+          "name": "Battle of Alexandria (30 BC)",
+          "url": "/wiki/Battle_of_Alexandria_(30_BC)",
+          "length": 13210
+        },
+        {
+          "name": "Mark Antony",
+          "url": "/wiki/Mark_Antony",
+          "length": 142643
+        },
+        {
+          "name": "Augustus",
+          "url": "/wiki/Augustus",
+          "length": 148788
+        }
+      ]
+    },
+    {
+      "year": "1618",
+      "description": "Maurice, Prince of Orange disbands the waardgelders militia in Utrecht, a pivotal event in the Remonstrant/Counter-Remonstrant tensions.",
+      "html": "<li>\n<a href=\"/wiki/1618\" title=\"1618\">1618</a> – <a href=\"/wiki/Maurice,_Prince_of_Orange\" title=\"Maurice, Prince of Orange\">Maurice, Prince of Orange</a> disbands the waardgelders militia in <a href=\"/wiki/Utrecht\" title=\"Utrecht\">Utrecht</a>, a pivotal event in the <a href=\"/wiki/Remonstrant\" class=\"mw-redirect\" title=\"Remonstrant\">Remonstrant</a>/<a href=\"/wiki/Counter-Remonstrant\" class=\"mw-redirect\" title=\"Counter-Remonstrant\">Counter-Remonstrant</a> tensions.</li>",
+      "entities": [
+        {
+          "name": "Maurice, Prince of Orange",
+          "url": "/wiki/Maurice,_Prince_of_Orange",
+          "length": 30261
+        },
+        {
+          "name": "Utrecht",
+          "url": "/wiki/Utrecht",
+          "length": 83819
+        },
+        {
+          "name": "Remonstrant",
+          "url": "/wiki/Remonstrant",
+          "length": 26
+        },
+        {
+          "name": "Counter-Remonstrant",
+          "url": "/wiki/Counter-Remonstrant",
+          "length": 32
+        }
+      ]
+    },
+    {
+      "year": "1703",
+      "description": "Daniel Defoe is placed in a pillory for the crime of seditious libel after publishing a politically satirical pamphlet, but is pelted with flowers.",
+      "html": "<li>\n<a href=\"/wiki/1703\" title=\"1703\">1703</a> – <a href=\"/wiki/Daniel_Defoe\" title=\"Daniel Defoe\">Daniel Defoe</a> is placed in a <a href=\"/wiki/Pillory\" title=\"Pillory\">pillory</a> for the crime of <a href=\"/wiki/Seditious_libel\" title=\"Seditious libel\">seditious libel</a> after publishing a politically satirical <a href=\"/wiki/Pamphlet\" title=\"Pamphlet\">pamphlet</a>, but is pelted with flowers.</li>",
+      "entities": [
+        {
+          "name": "Daniel Defoe",
+          "url": "/wiki/Daniel_Defoe",
+          "length": 59347
+        },
+        {
+          "name": "Pillory",
+          "url": "/wiki/Pillory",
+          "length": 20532
+        },
+        {
+          "name": "Seditious libel",
+          "url": "/wiki/Seditious_libel",
+          "length": 10335
+        },
+        {
+          "name": "Pamphlet",
+          "url": "/wiki/Pamphlet",
+          "length": 8512
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Victoria Azarenka, Belorussian tennis player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1989\" title=\"1989\">1989</a> – <a href=\"/wiki/Victoria_Azarenka\" title=\"Victoria Azarenka\">Victoria Azarenka</a>, Belorussian tennis player</li>",
+      "entities": [
+        {
+          "name": "Victoria Azarenka",
+          "url": "/wiki/Victoria_Azarenka",
+          "length": 171761
+        }
+      ]
+    },
+    {
+      "year": "1875",
+      "description": "Andrew Johnson, American general and politician, 17th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1875\" title=\"1875\">1875</a> – <a href=\"/wiki/Andrew_Johnson\" title=\"Andrew Johnson\">Andrew Johnson</a>, American general and politician, 17th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1808)</li>",
+      "entities": [
+        {
+          "name": "Andrew Johnson",
+          "url": "/wiki/Andrew_Johnson",
+          "length": 131719
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1965",
+      "description": "J. K. Rowling, English author and film producer, was born.",
+      "html": "<li>1965   – <a href=\"/wiki/J._K._Rowling\" title=\"J. K. Rowling\">J. K. Rowling</a>, English author and film producer</li>",
+      "entities": [
+        {
+          "name": "J. K. Rowling",
+          "url": "/wiki/J._K._Rowling",
+          "length": 201717
+        }
+      ]
+    },
+    {
+      "year": "1992",
+      "description": "Kyle Larson, American race car driver, was born.",
+      "html": "<li>1992   – <a href=\"/wiki/Kyle_Larson\" title=\"Kyle Larson\">Kyle Larson</a>, American race car driver</li>",
+      "entities": [
+        {
+          "name": "Kyle Larson",
+          "url": "/wiki/Kyle_Larson",
+          "length": 196940
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "description": "Victoria Azarenka, Belorussian tennis player, was born.",
+      "html": "<li>\n<a href=\"/wiki/1989\" title=\"1989\">1989</a> – <a href=\"/wiki/Victoria_Azarenka\" title=\"Victoria Azarenka\">Victoria Azarenka</a>, Belorussian tennis player</li>",
+      "entities": [
+        {
+          "name": "Victoria Azarenka",
+          "url": "/wiki/Victoria_Azarenka",
+          "length": 171761
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2022",
+      "description": "Bill Russell, NBA Hall of Fame Player and Coach, died.",
+      "html": "<li>2022   – <a href=\"/wiki/Bill_Russell\" title=\"Bill Russell\">Bill Russell</a>, <a href=\"/wiki/NBA\" class=\"mw-redirect\" title=\"NBA\">NBA</a> Hall of Fame Player and Coach (b. 1934)<sup id=\"cite_ref-37\" class=\"reference\"><a href=\"#cite_note-37\"><span class=\"cite-bracket\">[</span>37<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Bill Russell",
+          "url": "/wiki/Bill_Russell",
+          "length": 205203
+        },
+        {
+          "name": "NBA",
+          "url": "/wiki/NBA",
+          "length": 151
+        }
+      ]
+    },
+    {
+      "year": "1875",
+      "description": "Andrew Johnson, American general and politician, 17th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1875\" title=\"1875\">1875</a> – <a href=\"/wiki/Andrew_Johnson\" title=\"Andrew Johnson\">Andrew Johnson</a>, American general and politician, 17th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1808)</li>",
+      "entities": [
+        {
+          "name": "Andrew Johnson",
+          "url": "/wiki/Andrew_Johnson",
+          "length": 131719
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "description": "Bobby Robson, English footballer and manager, died.",
+      "html": "<li>\n<a href=\"/wiki/2009\" title=\"2009\">2009</a> – <a href=\"/wiki/Bobby_Robson\" title=\"Bobby Robson\">Bobby Robson</a>, English footballer and manager (b. 1933)</li>",
+      "entities": [
+        {
+          "name": "Bobby Robson",
+          "url": "/wiki/Bobby_Robson",
+          "length": 124705
+        }
+      ]
+    }
+  ]
+}

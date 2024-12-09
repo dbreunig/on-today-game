@@ -1,0 +1,311 @@
+{
+  "events": [
+    {
+      "year": "1937",
+      "description": "South African medical researcher Max Theiler develops the yellow fever vaccine at the Rockefeller Foundation in New York.",
+      "html": "<li>\n<a href=\"/wiki/1937\" title=\"1937\">1937</a> – <a href=\"/wiki/South_Africa\" title=\"South Africa\">South African</a> medical researcher <a href=\"/wiki/Max_Theiler\" title=\"Max Theiler\">Max Theiler</a> develops the <a href=\"/wiki/Yellow_fever\" title=\"Yellow fever\">yellow fever</a> <a href=\"/wiki/Vaccine\" title=\"Vaccine\">vaccine</a> at the <a href=\"/wiki/Rockefeller_Foundation\" title=\"Rockefeller Foundation\">Rockefeller Foundation</a> in <a href=\"/wiki/New_York_City\" title=\"New York City\">New York</a>.<sup id=\"cite_ref-5\" class=\"reference\"><a href=\"#cite_note-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "South Africa",
+          "url": "/wiki/South_Africa",
+          "length": 246483
+        },
+        {
+          "name": "Max Theiler",
+          "url": "/wiki/Max_Theiler",
+          "length": 9822
+        },
+        {
+          "name": "Yellow fever",
+          "url": "/wiki/Yellow_fever",
+          "length": 112764
+        },
+        {
+          "name": "Vaccine",
+          "url": "/wiki/Vaccine",
+          "length": 142606
+        },
+        {
+          "name": "Rockefeller Foundation",
+          "url": "/wiki/Rockefeller_Foundation",
+          "length": 97898
+        },
+        {
+          "name": "New York City",
+          "url": "/wiki/New_York_City",
+          "length": 377851
+        }
+      ]
+    },
+    {
+      "year": "1952",
+      "description": "The Sino-Japanese Peace Treaty (Treaty of Taipei) is signed in Taipei, Taiwan between Japan and the Republic of China to officially end the Second Sino-Japanese War.",
+      "html": "<li>1952   – The <a href=\"/wiki/Treaty_of_Taipei\" title=\"Treaty of Taipei\">Sino-Japanese Peace Treaty (Treaty of Taipei)</a> is signed in <a href=\"/wiki/Taipei\" title=\"Taipei\">Taipei</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a> between Japan and the <a href=\"/wiki/Republic_of_China\" class=\"mw-redirect\" title=\"Republic of China\">Republic of China</a> to officially end the <a href=\"/wiki/Second_Sino-Japanese_War\" title=\"Second Sino-Japanese War\">Second Sino-Japanese War</a>.</li>",
+      "entities": [
+        {
+          "name": "Treaty of Taipei",
+          "url": "/wiki/Treaty_of_Taipei",
+          "length": 18535
+        },
+        {
+          "name": "Taipei",
+          "url": "/wiki/Taipei",
+          "length": 136161
+        },
+        {
+          "name": "Taiwan",
+          "url": "/wiki/Taiwan",
+          "length": 344497
+        },
+        {
+          "name": "Republic of China",
+          "url": "/wiki/Republic_of_China",
+          "length": 158
+        },
+        {
+          "name": "Second Sino-Japanese War",
+          "url": "/wiki/Second_Sino-Japanese_War",
+          "length": 192894
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "description": "The Red Army Faction trial ends, with Andreas Baader, Gudrun Ensslin and Jan-Carl Raspe found guilty of four counts of murder and more than 30 counts of attempted murder.",
+      "html": "<li>\n<a href=\"/wiki/1977\" title=\"1977\">1977</a> – The <a href=\"/wiki/Red_Army_Faction\" title=\"Red Army Faction\">Red Army Faction</a> trial ends, with <a href=\"/wiki/Andreas_Baader\" title=\"Andreas Baader\">Andreas Baader</a>, <a href=\"/wiki/Gudrun_Ensslin\" title=\"Gudrun Ensslin\">Gudrun Ensslin</a> and <a href=\"/wiki/Jan-Carl_Raspe\" title=\"Jan-Carl Raspe\">Jan-Carl Raspe</a> found guilty of four counts of <a href=\"/wiki/Murder\" title=\"Murder\">murder</a> and more than 30 counts of attempted murder.</li>",
+      "entities": [
+        {
+          "name": "Red Army Faction",
+          "url": "/wiki/Red_Army_Faction",
+          "length": 118813
+        },
+        {
+          "name": "Andreas Baader",
+          "url": "/wiki/Andreas_Baader",
+          "length": 26232
+        },
+        {
+          "name": "Gudrun Ensslin",
+          "url": "/wiki/Gudrun_Ensslin",
+          "length": 24555
+        },
+        {
+          "name": "Jan-Carl Raspe",
+          "url": "/wiki/Jan-Carl_Raspe",
+          "length": 6844
+        },
+        {
+          "name": "Murder",
+          "url": "/wiki/Murder",
+          "length": 97760
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "The Holocaust: Nazi Germany carries out its final use of gas chambers to execute 33 Upper Austrian socialist and communist leaders in Mauthausen concentration camp.",
+      "html": "<li>1945   – <a href=\"/wiki/The_Holocaust\" title=\"The Holocaust\">The Holocaust</a>: <a href=\"/wiki/Nazi_Germany\" title=\"Nazi Germany\">Nazi Germany</a> carries out its final use of <a href=\"/wiki/Gas_chamber\" title=\"Gas chamber\">gas chambers</a> to execute 33 Upper Austrian socialist and communist leaders in <a href=\"/wiki/Mauthausen_concentration_camp\" title=\"Mauthausen concentration camp\">Mauthausen concentration camp</a>.<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"#cite_note-6\"><span class=\"cite-bracket\">[</span>6<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "The Holocaust",
+          "url": "/wiki/The_Holocaust",
+          "length": 127715
+        },
+        {
+          "name": "Nazi Germany",
+          "url": "/wiki/Nazi_Germany",
+          "length": 178457
+        },
+        {
+          "name": "Gas chamber",
+          "url": "/wiki/Gas_chamber",
+          "length": 38371
+        },
+        {
+          "name": "Mauthausen concentration camp",
+          "url": "/wiki/Mauthausen_concentration_camp",
+          "length": 77011
+        }
+      ]
+    },
+    {
+      "year": "1930",
+      "description": "The Independence Producers host the first night game in the history of Organized Baseball in Independence, Kansas.",
+      "html": "<li>\n<a href=\"/wiki/1930\" title=\"1930\">1930</a> – The <a href=\"/wiki/Independence_Producers\" title=\"Independence Producers\">Independence Producers</a> host the first <a href=\"/wiki/Night_game\" title=\"Night game\">night game</a> in the history of <a href=\"/wiki/Professional_baseball\" title=\"Professional baseball\">Organized Baseball</a> in <a href=\"/wiki/Independence,_Kansas\" title=\"Independence, Kansas\">Independence, Kansas</a>.</li>",
+      "entities": [
+        {
+          "name": "Independence Producers",
+          "url": "/wiki/Independence_Producers",
+          "length": 9853
+        },
+        {
+          "name": "Night game",
+          "url": "/wiki/Night_game",
+          "length": 16834
+        },
+        {
+          "name": "Professional baseball",
+          "url": "/wiki/Professional_baseball",
+          "length": 6882
+        },
+        {
+          "name": "Independence, Kansas",
+          "url": "/wiki/Independence,_Kansas",
+          "length": 35968
+        }
+      ]
+    },
+    {
+      "year": "1796",
+      "description": "The Armistice of Cherasco is signed by Napoleon Bonaparte and Vittorio Amedeo III, King of Sardinia, expanding French territory along the Mediterranean coast.",
+      "html": "<li>\n<a href=\"/wiki/1796\" title=\"1796\">1796</a> – The <a href=\"/wiki/Treaty_of_Paris_(1796)\" title=\"Treaty of Paris (1796)\">Armistice of Cherasco</a> is signed by <a href=\"/wiki/Napoleon\" title=\"Napoleon\">Napoleon Bonaparte</a> and <a href=\"/wiki/Victor_Amadeus_III_of_Sardinia\" class=\"mw-redirect\" title=\"Victor Amadeus III of Sardinia\">Vittorio Amedeo III</a>, King of <a href=\"/wiki/Kingdom_of_Sardinia\" title=\"Kingdom of Sardinia\">Sardinia</a>, expanding French territory along the Mediterranean coast.</li>",
+      "entities": [
+        {
+          "name": "Treaty of Paris (1796)",
+          "url": "/wiki/Treaty_of_Paris_(1796)",
+          "length": 4292
+        },
+        {
+          "name": "Napoleon",
+          "url": "/wiki/Napoleon",
+          "length": 189162
+        },
+        {
+          "name": "Victor Amadeus III of Sardinia",
+          "url": "/wiki/Victor_Amadeus_III_of_Sardinia",
+          "length": 32
+        },
+        {
+          "name": "Kingdom of Sardinia",
+          "url": "/wiki/Kingdom_of_Sardinia",
+          "length": 62818
+        }
+      ]
+    },
+    {
+      "year": "1937",
+      "description": "Saddam Hussein, Iraqi general and politician, 5th President of Iraq, was born.",
+      "html": "<li>\n<a href=\"/wiki/1937\" title=\"1937\">1937</a> – <a href=\"/wiki/Saddam_Hussein\" title=\"Saddam Hussein\">Saddam Hussein</a>, Iraqi general and politician, 5th <a href=\"/wiki/President_of_Iraq\" title=\"President of Iraq\">President of Iraq</a> (d. 2006)</li>",
+      "entities": [
+        {
+          "name": "Saddam Hussein",
+          "url": "/wiki/Saddam_Hussein",
+          "length": 226199
+        },
+        {
+          "name": "President of Iraq",
+          "url": "/wiki/President_of_Iraq",
+          "length": 8138
+        }
+      ]
+    },
+    {
+      "year": "1945",
+      "description": "Benito Mussolini, Italian journalist and politician, 27th Prime Minister of Italy, died.",
+      "html": "<li>1945   – <a href=\"/wiki/Benito_Mussolini\" title=\"Benito Mussolini\">Benito Mussolini</a>, Italian journalist and politician, 27th <a href=\"/wiki/Prime_Minister_of_Italy\" title=\"Prime Minister of Italy\">Prime Minister of Italy</a> (b. 1883)</li>",
+      "entities": [
+        {
+          "name": "Benito Mussolini",
+          "url": "/wiki/Benito_Mussolini",
+          "length": 195206
+        },
+        {
+          "name": "Prime Minister of Italy",
+          "url": "/wiki/Prime_Minister_of_Italy",
+          "length": 25551
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1937",
+      "description": "Saddam Hussein, Iraqi general and politician, 5th President of Iraq, was born.",
+      "html": "<li>\n<a href=\"/wiki/1937\" title=\"1937\">1937</a> – <a href=\"/wiki/Saddam_Hussein\" title=\"Saddam Hussein\">Saddam Hussein</a>, Iraqi general and politician, 5th <a href=\"/wiki/President_of_Iraq\" title=\"President of Iraq\">President of Iraq</a> (d. 2006)</li>",
+      "entities": [
+        {
+          "name": "Saddam Hussein",
+          "url": "/wiki/Saddam_Hussein",
+          "length": 226199
+        },
+        {
+          "name": "President of Iraq",
+          "url": "/wiki/President_of_Iraq",
+          "length": 8138
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "description": "Bradley Wiggins, English cyclist, was born.",
+      "html": "<li>\n<a href=\"/wiki/1980\" title=\"1980\">1980</a> – <a href=\"/wiki/Bradley_Wiggins\" title=\"Bradley Wiggins\">Bradley Wiggins</a>, English cyclist</li>",
+      "entities": [
+        {
+          "name": "Bradley Wiggins",
+          "url": "/wiki/Bradley_Wiggins",
+          "length": 221613
+        }
+      ]
+    },
+    {
+      "year": "1889",
+      "description": "António de Oliveira Salazar, Portuguese economist and politician, 100th Prime Minister of Portugal, was born.",
+      "html": "<li>\n<a href=\"/wiki/1889\" title=\"1889\">1889</a> – <a href=\"/wiki/Ant%C3%B3nio_de_Oliveira_Salazar\" title=\"António de Oliveira Salazar\">António de Oliveira Salazar</a>, Portuguese economist and politician, 100th <a href=\"/wiki/Prime_Minister_of_Portugal\" title=\"Prime Minister of Portugal\">Prime Minister of Portugal</a> (d. 1970)</li>",
+      "entities": [
+        {
+          "name": "António de Oliveira Salazar",
+          "url": "/wiki/Ant%C3%B3nio_de_Oliveira_Salazar",
+          "length": 163687
+        },
+        {
+          "name": "Prime Minister of Portugal",
+          "url": "/wiki/Prime_Minister_of_Portugal",
+          "length": 14007
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1945",
+      "description": "Benito Mussolini, Italian journalist and politician, 27th Prime Minister of Italy, died.",
+      "html": "<li>1945   – <a href=\"/wiki/Benito_Mussolini\" title=\"Benito Mussolini\">Benito Mussolini</a>, Italian journalist and politician, 27th <a href=\"/wiki/Prime_Minister_of_Italy\" title=\"Prime Minister of Italy\">Prime Minister of Italy</a> (b. 1883)</li>",
+      "entities": [
+        {
+          "name": "Benito Mussolini",
+          "url": "/wiki/Benito_Mussolini",
+          "length": 195206
+        },
+        {
+          "name": "Prime Minister of Italy",
+          "url": "/wiki/Prime_Minister_of_Italy",
+          "length": 25551
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "James Hylton, American race car driver, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/James_Hylton\" title=\"James Hylton\">James Hylton</a>, American race car driver (b. 1934)</li>",
+      "entities": [
+        {
+          "name": "James Hylton",
+          "url": "/wiki/James_Hylton",
+          "length": 144942
+        }
+      ]
+    },
+    {
+      "year": "1999",
+      "description": "Alf Ramsey, English footballer and manager, died.",
+      "html": "<li>1999   – <a href=\"/wiki/Alf_Ramsey\" title=\"Alf Ramsey\">Alf Ramsey</a>, English footballer and manager (b. 1920)</li>",
+      "entities": [
+        {
+          "name": "Alf Ramsey",
+          "url": "/wiki/Alf_Ramsey",
+          "length": 140733
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "events": [
+    {
+      "year": "1940",
+      "description": "Romania cedes Bessarabia and Northern Bukovina to the Soviet Union after facing an ultimatum.",
+      "html": "<li>\n<a href=\"/wiki/1940\" title=\"1940\">1940</a> – <a href=\"/wiki/Kingdom_of_Romania\" title=\"Kingdom of Romania\">Romania</a> cedes <a href=\"/wiki/Bessarabia\" title=\"Bessarabia\">Bessarabia</a> and Northern <a href=\"/wiki/Bukovina\" title=\"Bukovina\">Bukovina</a> to the <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a> after <a href=\"/wiki/Soviet_occupation_of_Bessarabia_and_Northern_Bukovina\" title=\"Soviet occupation of Bessarabia and Northern Bukovina\">facing an ultimatum</a>.</li>",
+      "entities": [
+        {
+          "name": "Kingdom of Romania",
+          "url": "/wiki/Kingdom_of_Romania",
+          "length": 73247
+        },
+        {
+          "name": "Bessarabia",
+          "url": "/wiki/Bessarabia",
+          "length": 100692
+        },
+        {
+          "name": "Bukovina",
+          "url": "/wiki/Bukovina",
+          "length": 89831
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Soviet occupation of Bessarabia and Northern Bukovina",
+          "url": "/wiki/Soviet_occupation_of_Bessarabia_and_Northern_Bukovina",
+          "length": 84762
+        }
+      ]
+    },
+    {
+      "year": "1776",
+      "description": "American Revolutionary War: Thomas Hickey, Continental Army private and bodyguard to General George Washington, is hanged for mutiny and sedition.",
+      "html": "<li>1776   – American Revolutionary War: <a href=\"/wiki/Thomas_Hickey_(soldier)\" title=\"Thomas Hickey (soldier)\">Thomas Hickey</a>, <a href=\"/wiki/Continental_Army\" title=\"Continental Army\">Continental Army</a> private and bodyguard to General <a href=\"/wiki/George_Washington\" title=\"George Washington\">George Washington</a>, is hanged for <a href=\"/wiki/Mutiny\" title=\"Mutiny\">mutiny</a> and <a href=\"/wiki/Sedition\" title=\"Sedition\">sedition</a>.</li>",
+      "entities": [
+        {
+          "name": "Thomas Hickey (soldier)",
+          "url": "/wiki/Thomas_Hickey_(soldier)",
+          "length": 25550
+        },
+        {
+          "name": "Continental Army",
+          "url": "/wiki/Continental_Army",
+          "length": 56496
+        },
+        {
+          "name": "George Washington",
+          "url": "/wiki/George_Washington",
+          "length": 227867
+        },
+        {
+          "name": "Mutiny",
+          "url": "/wiki/Mutiny",
+          "length": 35299
+        },
+        {
+          "name": "Sedition",
+          "url": "/wiki/Sedition",
+          "length": 57992
+        }
+      ]
+    },
+    {
+      "year": "1914",
+      "description": "Archduke Franz Ferdinand of Austria and his wife Sophie are assassinated in Sarajevo; this is the casus belli of World War I.",
+      "html": "<li>\n<a href=\"/wiki/1914\" title=\"1914\">1914</a> – <a href=\"/wiki/Archduke_Franz_Ferdinand_of_Austria\" title=\"Archduke Franz Ferdinand of Austria\">Archduke Franz Ferdinand of Austria</a> and his wife <a href=\"/wiki/Sophie,_Duchess_of_Hohenberg\" title=\"Sophie, Duchess of Hohenberg\">Sophie</a> are <a href=\"/wiki/Assassination_of_Archduke_Franz_Ferdinand_of_Austria\" class=\"mw-redirect\" title=\"Assassination of Archduke Franz Ferdinand of Austria\">assassinated</a> in Sarajevo; this is the <i><a href=\"/wiki/Casus_belli\" title=\"Casus belli\">casus belli</a></i> of <a href=\"/wiki/World_War_I\" title=\"World War I\">World War I</a>.</li>",
+      "entities": [
+        {
+          "name": "Archduke Franz Ferdinand of Austria",
+          "url": "/wiki/Archduke_Franz_Ferdinand_of_Austria",
+          "length": 50305
+        },
+        {
+          "name": "Sophie, Duchess of Hohenberg",
+          "url": "/wiki/Sophie,_Duchess_of_Hohenberg",
+          "length": 22206
+        },
+        {
+          "name": "Assassination of Archduke Franz Ferdinand of Austria",
+          "url": "/wiki/Assassination_of_Archduke_Franz_Ferdinand_of_Austria",
+          "length": 72
+        },
+        {
+          "name": "Casus belli",
+          "url": "/wiki/Casus_belli",
+          "length": 29554
+        },
+        {
+          "name": "World War I",
+          "url": "/wiki/World_War_I",
+          "length": 213543
+        }
+      ]
+    },
+    {
+      "year": "1360",
+      "description": "Muhammed VI becomes the tenth Nasrid king of Granada after killing his brother-in-law Ismail II.",
+      "html": "<li>\n<a href=\"/wiki/1360\" title=\"1360\">1360</a> – <a href=\"/wiki/Muhammed_VI,_Sultan_of_Granada\" class=\"mw-redirect\" title=\"Muhammed VI, Sultan of Granada\">Muhammed VI</a> becomes the tenth <a href=\"/wiki/Nasrid_dynasty\" title=\"Nasrid dynasty\">Nasrid</a> king of <a href=\"/wiki/Emirate_of_Granada\" title=\"Emirate of Granada\">Granada</a> after killing his brother-in-law <a href=\"/wiki/Ismail_II,_Sultan_of_Granada\" class=\"mw-redirect\" title=\"Ismail II, Sultan of Granada\">Ismail II</a>.</li>",
+      "entities": [
+        {
+          "name": "Muhammed VI, Sultan of Granada",
+          "url": "/wiki/Muhammed_VI,_Sultan_of_Granada",
+          "length": 53
+        },
+        {
+          "name": "Nasrid dynasty",
+          "url": "/wiki/Nasrid_dynasty",
+          "length": 22492
+        },
+        {
+          "name": "Emirate of Granada",
+          "url": "/wiki/Emirate_of_Granada",
+          "length": 96426
+        },
+        {
+          "name": "Ismail II, Sultan of Granada",
+          "url": "/wiki/Ismail_II,_Sultan_of_Granada",
+          "length": 51
+        }
+      ]
+    },
+    {
+      "year": "1575",
+      "description": "Sengoku period of Japan: The combined forces of Oda Nobunaga and Tokugawa Ieyasu are victorious in the Battle of Nagashino.",
+      "html": "<li>\n<a href=\"/wiki/1575\" title=\"1575\">1575</a> – <a href=\"/wiki/Sengoku_period\" title=\"Sengoku period\">Sengoku period</a> of Japan: The combined forces of <a href=\"/wiki/Oda_Nobunaga\" title=\"Oda Nobunaga\">Oda Nobunaga</a> and <a href=\"/wiki/Tokugawa_Ieyasu\" title=\"Tokugawa Ieyasu\">Tokugawa Ieyasu</a> are victorious in the <a href=\"/wiki/Battle_of_Nagashino\" title=\"Battle of Nagashino\">Battle of Nagashino</a>.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sengoku period",
+          "url": "/wiki/Sengoku_period",
+          "length": 56699
+        },
+        {
+          "name": "Oda Nobunaga",
+          "url": "/wiki/Oda_Nobunaga",
+          "length": 175903
+        },
+        {
+          "name": "Tokugawa Ieyasu",
+          "url": "/wiki/Tokugawa_Ieyasu",
+          "length": 248464
+        },
+        {
+          "name": "Battle of Nagashino",
+          "url": "/wiki/Battle_of_Nagashino",
+          "length": 42443
+        }
+      ]
+    },
+    {
+      "year": "1922",
+      "description": "The Irish Civil War begins with the shelling of the Four Courts in Dublin by Free State forces.",
+      "html": "<li>\n<a href=\"/wiki/1922\" title=\"1922\">1922</a> – The <a href=\"/wiki/Irish_Civil_War\" title=\"Irish Civil War\">Irish Civil War</a> begins with the shelling of the <a href=\"/wiki/Four_Courts\" title=\"Four Courts\">Four Courts</a> in <a href=\"/wiki/Dublin\" title=\"Dublin\">Dublin</a> by <a href=\"/wiki/Irish_Free_State\" title=\"Irish Free State\">Free State</a> forces.</li>",
+      "entities": [
+        {
+          "name": "Irish Civil War",
+          "url": "/wiki/Irish_Civil_War",
+          "length": 96394
+        },
+        {
+          "name": "Four Courts",
+          "url": "/wiki/Four_Courts",
+          "length": 15798
+        },
+        {
+          "name": "Dublin",
+          "url": "/wiki/Dublin",
+          "length": 178030
+        },
+        {
+          "name": "Irish Free State",
+          "url": "/wiki/Irish_Free_State",
+          "length": 48617
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "Kevin De Bruyne, Belgian footballer, was born.",
+      "html": "<li>1991   – <a href=\"/wiki/Kevin_De_Bruyne\" title=\"Kevin De Bruyne\">Kevin De Bruyne</a>, Belgian footballer</li>",
+      "entities": [
+        {
+          "name": "Kevin De Bruyne",
+          "url": "/wiki/Kevin_De_Bruyne",
+          "length": 192357
+        }
+      ]
+    },
+    {
+      "year": "1836",
+      "description": "James Madison, American academic and politician, 4th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1836\" title=\"1836\">1836</a> – <a href=\"/wiki/James_Madison\" title=\"James Madison\">James Madison</a>, American academic and politician, 4th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1751)</li>",
+      "entities": [
+        {
+          "name": "James Madison",
+          "url": "/wiki/James_Madison",
+          "length": 144580
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1971",
+      "description": "Elon Musk, South African-born American entrepreneur, was born.",
+      "html": "<li>1971   – <a href=\"/wiki/Elon_Musk\" title=\"Elon Musk\">Elon Musk</a>, South African-born American entrepreneur<sup id=\"cite_ref-23\" class=\"reference\"><a href=\"#cite_note-23\"><span class=\"cite-bracket\">[</span>23<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Elon Musk",
+          "url": "/wiki/Elon_Musk",
+          "length": 415679
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "description": "Kevin De Bruyne, Belgian footballer, was born.",
+      "html": "<li>1991   – <a href=\"/wiki/Kevin_De_Bruyne\" title=\"Kevin De Bruyne\">Kevin De Bruyne</a>, Belgian footballer</li>",
+      "entities": [
+        {
+          "name": "Kevin De Bruyne",
+          "url": "/wiki/Kevin_De_Bruyne",
+          "length": 192357
+        }
+      ]
+    },
+    {
+      "year": "1712",
+      "description": "Jean-Jacques Rousseau, Swiss philosopher and polymath, was born.",
+      "html": "<li>\n<a href=\"/wiki/1712\" title=\"1712\">1712</a> – <a href=\"/wiki/Jean-Jacques_Rousseau\" title=\"Jean-Jacques Rousseau\">Jean-Jacques Rousseau</a>, Swiss philosopher and polymath (d. 1778)</li>",
+      "entities": [
+        {
+          "name": "Jean-Jacques Rousseau",
+          "url": "/wiki/Jean-Jacques_Rousseau",
+          "length": 157026
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "2010",
+      "description": "Robert Byrd, American lawyer and politician, died.",
+      "html": "<li>\n<a href=\"/wiki/2010\" title=\"2010\">2010</a> – <a href=\"/wiki/Robert_Byrd\" title=\"Robert Byrd\">Robert Byrd</a>, American lawyer and politician (b. 1917)</li>",
+      "entities": [
+        {
+          "name": "Robert Byrd",
+          "url": "/wiki/Robert_Byrd",
+          "length": 240464
+        }
+      ]
+    },
+    {
+      "year": "1836",
+      "description": "James Madison, American academic and politician, 4th President of the United States, died.",
+      "html": "<li>\n<a href=\"/wiki/1836\" title=\"1836\">1836</a> – <a href=\"/wiki/James_Madison\" title=\"James Madison\">James Madison</a>, American academic and politician, 4th <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">President of the United States</a> (b. 1751)</li>",
+      "entities": [
+        {
+          "name": "James Madison",
+          "url": "/wiki/James_Madison",
+          "length": 144580
+        },
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "Harlan Ellison, American writer, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Harlan_Ellison\" title=\"Harlan Ellison\">Harlan Ellison</a>, American writer (b. 1934)<sup id=\"cite_ref-LAO_42-0\" class=\"reference\"><a href=\"#cite_note-LAO-42\"><span class=\"cite-bracket\">[</span>42<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Harlan Ellison",
+          "url": "/wiki/Harlan_Ellison",
+          "length": 102883
+        }
+      ]
+    }
+  ]
+}

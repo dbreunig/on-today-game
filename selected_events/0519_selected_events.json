@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "year": "1848",
+      "description": "Mexican–American War: Mexico ratifies the Treaty of Guadalupe Hidalgo thus ending the war and ceding California, Nevada, Utah and parts of four other modern-day U.S. states to the United States for US$15 million.",
+      "html": "<li>\n<a href=\"/wiki/1848\" title=\"1848\">1848</a> – <a href=\"/wiki/Mexican%E2%80%93American_War\" title=\"Mexican–American War\">Mexican–American War</a>: Mexico ratifies the <a href=\"/wiki/Treaty_of_Guadalupe_Hidalgo\" title=\"Treaty of Guadalupe Hidalgo\">Treaty of Guadalupe Hidalgo</a> thus ending the war and ceding <a href=\"/wiki/California\" title=\"California\">California</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a> and parts of four other modern-day U.S. states to the United States for US$15 million.</li>",
+      "entities": [
+        {
+          "name": "Mexican–American War",
+          "url": "/wiki/Mexican%E2%80%93American_War",
+          "length": 213781
+        },
+        {
+          "name": "Treaty of Guadalupe Hidalgo",
+          "url": "/wiki/Treaty_of_Guadalupe_Hidalgo",
+          "length": 49964
+        },
+        {
+          "name": "California",
+          "url": "/wiki/California",
+          "length": 281839
+        },
+        {
+          "name": "Nevada",
+          "url": "/wiki/Nevada",
+          "length": 165111
+        },
+        {
+          "name": "Utah",
+          "url": "/wiki/Utah",
+          "length": 210328
+        }
+      ]
+    },
+    {
+      "year": "1919",
+      "description": "Mustafa Kemal Atatürk lands at Samsun on the Anatolian Black Sea coast, initiating what is later termed the Turkish War of Independence.",
+      "html": "<li>\n<a href=\"/wiki/1919\" title=\"1919\">1919</a> – <a href=\"/wiki/Mustafa_Kemal_Atat%C3%BCrk\" title=\"Mustafa Kemal Atatürk\">Mustafa Kemal Atatürk</a> lands at <a href=\"/wiki/Samsun\" title=\"Samsun\">Samsun</a> on the <a href=\"/wiki/Anatolia\" title=\"Anatolia\">Anatolian</a> <a href=\"/wiki/Black_Sea\" title=\"Black Sea\">Black Sea</a> coast, initiating what is later termed the <a href=\"/wiki/Turkish_War_of_Independence\" title=\"Turkish War of Independence\">Turkish War of Independence</a>.</li>",
+      "entities": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "url": "/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+          "length": 236252
+        },
+        {
+          "name": "Samsun",
+          "url": "/wiki/Samsun",
+          "length": 73872
+        },
+        {
+          "name": "Anatolia",
+          "url": "/wiki/Anatolia",
+          "length": 80661
+        },
+        {
+          "name": "Black Sea",
+          "url": "/wiki/Black_Sea",
+          "length": 120131
+        },
+        {
+          "name": "Turkish War of Independence",
+          "url": "/wiki/Turkish_War_of_Independence",
+          "length": 161172
+        }
+      ]
+    },
+    {
+      "year": "1934",
+      "description": "Zveno and the Bulgarian Army engineer a coup d'état and install Kimon Georgiev as the new Prime Minister of Bulgaria.",
+      "html": "<li>\n<a href=\"/wiki/1934\" title=\"1934\">1934</a> – <a href=\"/wiki/Zveno\" title=\"Zveno\">Zveno</a> and the <a href=\"/wiki/Bulgarian_Army\" class=\"mw-redirect\" title=\"Bulgarian Army\">Bulgarian Army</a> engineer a <a href=\"/wiki/Bulgarian_coup_d%27%C3%A9tat_of_1934\" class=\"mw-redirect\" title=\"Bulgarian coup d'état of 1934\">coup d'état</a> and install <a href=\"/wiki/Kimon_Georgiev\" title=\"Kimon Georgiev\">Kimon Georgiev</a> as the new <a href=\"/wiki/List_of_Prime_Ministers_of_Bulgaria\" class=\"mw-redirect\" title=\"List of Prime Ministers of Bulgaria\">Prime Minister of Bulgaria</a>.</li>",
+      "entities": [
+        {
+          "name": "Zveno",
+          "url": "/wiki/Zveno",
+          "length": 10459
+        },
+        {
+          "name": "Bulgarian Army",
+          "url": "/wiki/Bulgarian_Army",
+          "length": 35
+        },
+        {
+          "name": "Bulgarian coup d'état of 1934",
+          "url": "/wiki/Bulgarian_coup_d%27%C3%A9tat_of_1934",
+          "length": 58
+        },
+        {
+          "name": "Kimon Georgiev",
+          "url": "/wiki/Kimon_Georgiev",
+          "length": 55747
+        },
+        {
+          "name": "List of Prime Ministers of Bulgaria",
+          "url": "/wiki/List_of_Prime_Ministers_of_Bulgaria",
+          "length": 100
+        }
+      ]
+    },
+    {
+      "year": "1962",
+      "description": "A birthday salute to U.S. President John F. Kennedy takes place at Madison Square Garden, New York City. The highlight is Marilyn Monroe's rendition of \"Happy Birthday\".",
+      "html": "<li>\n<a href=\"/wiki/1962\" title=\"1962\">1962</a> – A birthday salute to U.S. President <a href=\"/wiki/John_F._Kennedy\" title=\"John F. Kennedy\">John F. Kennedy</a> takes place at <a href=\"/wiki/Madison_Square_Garden_(1925)\" title=\"Madison Square Garden (1925)\">Madison Square Garden</a>, New York City. The highlight is <a href=\"/wiki/Marilyn_Monroe\" title=\"Marilyn Monroe\">Marilyn Monroe</a>'s <a href=\"/wiki/Happy_Birthday,_Mr._President\" title=\"Happy Birthday, Mr. President\">rendition</a> of \"<a href=\"/wiki/Happy_Birthday_to_You\" title=\"Happy Birthday to You\">Happy Birthday</a>\".</li>",
+      "entities": [
+        {
+          "name": "John F. Kennedy",
+          "url": "/wiki/John_F._Kennedy",
+          "length": 236040
+        },
+        {
+          "name": "Madison Square Garden (1925)",
+          "url": "/wiki/Madison_Square_Garden_(1925)",
+          "length": 24854
+        },
+        {
+          "name": "Marilyn Monroe",
+          "url": "/wiki/Marilyn_Monroe",
+          "length": 160236
+        },
+        {
+          "name": "Happy Birthday, Mr. President",
+          "url": "/wiki/Happy_Birthday,_Mr._President",
+          "length": 21554
+        },
+        {
+          "name": "Happy Birthday to You",
+          "url": "/wiki/Happy_Birthday_to_You",
+          "length": 43215
+        }
+      ]
+    },
+    {
+      "year": "1649",
+      "description": "An Act of Parliament declaring England a Commonwealth is passed by the Long Parliament. England would be a republic for the next eleven years.",
+      "html": "<li>\n<a href=\"/wiki/1649\" title=\"1649\">1649</a> – An <a href=\"/wiki/Act_of_Parliament\" class=\"mw-redirect\" title=\"Act of Parliament\">Act of Parliament</a> declaring England a <a href=\"/wiki/Commonwealth_of_England\" title=\"Commonwealth of England\">Commonwealth</a> is passed by the <a href=\"/wiki/Long_Parliament\" title=\"Long Parliament\">Long Parliament</a>. England would be a <a href=\"/wiki/Republic\" title=\"Republic\">republic</a> for the next eleven years.</li>",
+      "entities": [
+        {
+          "name": "Act of Parliament",
+          "url": "/wiki/Act_of_Parliament",
+          "length": 96
+        },
+        {
+          "name": "Commonwealth of England",
+          "url": "/wiki/Commonwealth_of_England",
+          "length": 27124
+        },
+        {
+          "name": "Long Parliament",
+          "url": "/wiki/Long_Parliament",
+          "length": 58748
+        },
+        {
+          "name": "Republic",
+          "url": "/wiki/Republic",
+          "length": 77039
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "World War II: In the aftermath of the Battle of the Coral Sea, Task Force 16 heads to Pearl Harbor for repairs.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: In the aftermath of the <a href=\"/wiki/Battle_of_the_Coral_Sea\" title=\"Battle of the Coral Sea\">Battle of the Coral Sea</a>, <a href=\"/wiki/Task_Force_16\" title=\"Task Force 16\">Task Force 16</a> heads to <a href=\"/wiki/Pearl_Harbor\" title=\"Pearl Harbor\">Pearl Harbor</a> for repairs.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "Battle of the Coral Sea",
+          "url": "/wiki/Battle_of_the_Coral_Sea",
+          "length": 174885
+        },
+        {
+          "name": "Task Force 16",
+          "url": "/wiki/Task_Force_16",
+          "length": 7484
+        },
+        {
+          "name": "Pearl Harbor",
+          "url": "/wiki/Pearl_Harbor",
+          "length": 14756
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Andrea Pirlo, Italian footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Andrea_Pirlo\" title=\"Andrea Pirlo\">Andrea Pirlo</a>, Italian footballer</li>",
+      "entities": [
+        {
+          "name": "Andrea Pirlo",
+          "url": "/wiki/Andrea_Pirlo",
+          "length": 198022
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "description": "T. E. Lawrence, British colonel and archaeologist, died.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/T._E._Lawrence\" title=\"T. E. Lawrence\">T. E. Lawrence</a>, British colonel and archaeologist (b. 1888)</li>",
+      "entities": [
+        {
+          "name": "T. E. Lawrence",
+          "url": "/wiki/T._E._Lawrence",
+          "length": 137048
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1881",
+      "description": "Mustafa Kemal Atatürk, Turkish field marshal and statesman, 1st President of Turkey, was born.",
+      "html": "<li>\n<a href=\"/wiki/1881\" title=\"1881\">1881</a> – <a href=\"/wiki/Mustafa_Kemal_Atat%C3%BCrk\" title=\"Mustafa Kemal Atatürk\">Mustafa Kemal Atatürk</a> (official birthday), Turkish field marshal and statesman, 1st <a href=\"/wiki/President_of_Turkey\" title=\"President of Turkey\">President of Turkey</a> (d. 1938)</li>",
+      "entities": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "url": "/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+          "length": 236252
+        },
+        {
+          "name": "President of Turkey",
+          "url": "/wiki/President_of_Turkey",
+          "length": 33688
+        }
+      ]
+    },
+    {
+      "year": "1973",
+      "description": "Dario Franchitti, Scottish race car driver, was born.",
+      "html": "<li>\n<a href=\"/wiki/1973\" title=\"1973\">1973</a> – <a href=\"/wiki/Dario_Franchitti\" title=\"Dario Franchitti\">Dario Franchitti</a>, Scottish race car driver</li>",
+      "entities": [
+        {
+          "name": "Dario Franchitti",
+          "url": "/wiki/Dario_Franchitti",
+          "length": 209169
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Andrea Pirlo, Italian footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Andrea_Pirlo\" title=\"Andrea Pirlo\">Andrea Pirlo</a>, Italian footballer</li>",
+      "entities": [
+        {
+          "name": "Andrea Pirlo",
+          "url": "/wiki/Andrea_Pirlo",
+          "length": 198022
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1898",
+      "description": "William Ewart Gladstone, English lawyer and politician, Prime Minister of the United Kingdom, died.",
+      "html": "<li>\n<a href=\"/wiki/1898\" title=\"1898\">1898</a> – <a href=\"/wiki/William_Ewart_Gladstone\" title=\"William Ewart Gladstone\">William Ewart Gladstone</a>, English lawyer and politician, <a href=\"/wiki/Prime_Minister_of_the_United_Kingdom\" title=\"Prime Minister of the United Kingdom\">Prime Minister of the United Kingdom</a> (b. 1809)</li>",
+      "entities": [
+        {
+          "name": "William Ewart Gladstone",
+          "url": "/wiki/William_Ewart_Gladstone",
+          "length": 193138
+        },
+        {
+          "name": "Prime Minister of the United Kingdom",
+          "url": "/wiki/Prime_Minister_of_the_United_Kingdom",
+          "length": 97876
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "description": "Jacqueline Kennedy Onassis, American journalist, 37th First Lady of the United States, died.",
+      "html": "<li>1994 – <a href=\"/wiki/Jacqueline_Kennedy_Onassis\" title=\"Jacqueline Kennedy Onassis\">Jacqueline Kennedy Onassis</a>, American journalist, 37th <a href=\"/wiki/First_Lady_of_the_United_States\" title=\"First Lady of the United States\">First Lady of the United States</a> (b. 1929)</li>",
+      "entities": [
+        {
+          "name": "Jacqueline Kennedy Onassis",
+          "url": "/wiki/Jacqueline_Kennedy_Onassis",
+          "length": 172608
+        },
+        {
+          "name": "First Lady of the United States",
+          "url": "/wiki/First_Lady_of_the_United_States",
+          "length": 38997
+        }
+      ]
+    },
+    {
+      "year": "1935",
+      "description": "T. E. Lawrence, British colonel and archaeologist, died.",
+      "html": "<li>\n<a href=\"/wiki/1935\" title=\"1935\">1935</a> – <a href=\"/wiki/T._E._Lawrence\" title=\"T. E. Lawrence\">T. E. Lawrence</a>, British colonel and archaeologist (b. 1888)</li>",
+      "entities": [
+        {
+          "name": "T. E. Lawrence",
+          "url": "/wiki/T._E._Lawrence",
+          "length": 137048
+        }
+      ]
+    }
+  ]
+}

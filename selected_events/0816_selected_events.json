@@ -1,0 +1,321 @@
+{
+  "events": [
+    {
+      "year": "1964",
+      "description": "Vietnam War: A coup d'état replaces Dương Văn Minh with General Nguyễn Khánh as President of South Vietnam. A new constitution is established with aid from the U.S. Embassy.",
+      "html": "<li>\n<a href=\"/wiki/1964\" title=\"1964\">1964</a> – <a href=\"/wiki/Vietnam_War\" title=\"Vietnam War\">Vietnam War</a>: A <i><a href=\"/wiki/Coup_d%27%C3%A9tat\" title=\"Coup d'état\">coup d'état</a></i> replaces <a href=\"/wiki/D%C6%B0%C6%A1ng_V%C4%83n_Minh\" title=\"Dương Văn Minh\">Dương Văn Minh</a> with General <a href=\"/wiki/Nguy%E1%BB%85n_Kh%C3%A1nh\" title=\"Nguyễn Khánh\">Nguyễn Khánh</a> as President of <a href=\"/wiki/South_Vietnam\" title=\"South Vietnam\">South Vietnam</a>. A new <a href=\"/wiki/Constitution\" title=\"Constitution\">constitution</a> is established with aid from the <a href=\"/wiki/List_of_diplomatic_missions_of_the_United_States\" title=\"List of diplomatic missions of the United States\">U.S. Embassy</a>.</li>",
+      "entities": [
+        {
+          "name": "Vietnam War",
+          "url": "/wiki/Vietnam_War",
+          "length": 293600
+        },
+        {
+          "name": "Coup d'état",
+          "url": "/wiki/Coup_d%27%C3%A9tat",
+          "length": 82957
+        },
+        {
+          "name": "Dương Văn Minh",
+          "url": "/wiki/D%C6%B0%C6%A1ng_V%C4%83n_Minh",
+          "length": 54878
+        },
+        {
+          "name": "Nguyễn Khánh",
+          "url": "/wiki/Nguy%E1%BB%85n_Kh%C3%A1nh",
+          "length": 89569
+        },
+        {
+          "name": "South Vietnam",
+          "url": "/wiki/South_Vietnam",
+          "length": 264687
+        },
+        {
+          "name": "Constitution",
+          "url": "/wiki/Constitution",
+          "length": 101958
+        },
+        {
+          "name": "List of diplomatic missions of the United States",
+          "url": "/wiki/List_of_diplomatic_missions_of_the_United_States",
+          "length": 177964
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "description": "Ray Chapman of the Cleveland Indians is hit on the head by a fastball thrown by Carl Mays of the New York Yankees. Next day, Chapman will become the second player to die from injuries sustained in a Major League Baseball game.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – <a href=\"/wiki/Ray_Chapman\" title=\"Ray Chapman\">Ray Chapman</a> of the <a href=\"/wiki/Cleveland_Indians\" class=\"mw-redirect\" title=\"Cleveland Indians\">Cleveland Indians</a> is hit on the head by a <a href=\"/wiki/Fastball\" title=\"Fastball\">fastball</a> thrown by <a href=\"/wiki/Carl_Mays\" title=\"Carl Mays\">Carl Mays</a> of the <a href=\"/wiki/New_York_Yankees\" title=\"New York Yankees\">New York Yankees</a>. Next day, Chapman will become the second player to die from injuries sustained in a <a href=\"/wiki/Major_League_Baseball\" title=\"Major League Baseball\">Major League Baseball</a> game.</li>",
+      "entities": [
+        {
+          "name": "Ray Chapman",
+          "url": "/wiki/Ray_Chapman",
+          "length": 14172
+        },
+        {
+          "name": "Cleveland Indians",
+          "url": "/wiki/Cleveland_Indians",
+          "length": 103
+        },
+        {
+          "name": "Fastball",
+          "url": "/wiki/Fastball",
+          "length": 19372
+        },
+        {
+          "name": "Carl Mays",
+          "url": "/wiki/Carl_Mays",
+          "length": 22386
+        },
+        {
+          "name": "New York Yankees",
+          "url": "/wiki/New_York_Yankees",
+          "length": 367058
+        },
+        {
+          "name": "Major League Baseball",
+          "url": "/wiki/Major_League_Baseball",
+          "length": 182506
+        }
+      ]
+    },
+    {
+      "year": "1777",
+      "description": "American Revolutionary War: The Americans led by General John Stark rout British and Brunswick troops under Friedrich Baum at the Battle of Bennington in Walloomsac, New York.",
+      "html": "<li>\n<a href=\"/wiki/1777\" title=\"1777\">1777</a> – <a href=\"/wiki/American_Revolutionary_War\" title=\"American Revolutionary War\">American Revolutionary War</a>: The Americans led by General <a href=\"/wiki/John_Stark\" title=\"John Stark\">John Stark</a> rout British and <a href=\"/wiki/Duchy_of_Brunswick\" title=\"Duchy of Brunswick\">Brunswick</a> troops under <a href=\"/wiki/Friedrich_Baum\" title=\"Friedrich Baum\">Friedrich Baum</a> at the <a href=\"/wiki/Battle_of_Bennington\" title=\"Battle of Bennington\">Battle of Bennington</a> in <a href=\"/wiki/Walloomsac,_New_York\" title=\"Walloomsac, New York\">Walloomsac, New York</a>.</li>",
+      "entities": [
+        {
+          "name": "American Revolutionary War",
+          "url": "/wiki/American_Revolutionary_War",
+          "length": 285512
+        },
+        {
+          "name": "John Stark",
+          "url": "/wiki/John_Stark",
+          "length": 27595
+        },
+        {
+          "name": "Duchy of Brunswick",
+          "url": "/wiki/Duchy_of_Brunswick",
+          "length": 33571
+        },
+        {
+          "name": "Friedrich Baum",
+          "url": "/wiki/Friedrich_Baum",
+          "length": 7756
+        },
+        {
+          "name": "Battle of Bennington",
+          "url": "/wiki/Battle_of_Bennington",
+          "length": 31940
+        },
+        {
+          "name": "Walloomsac, New York",
+          "url": "/wiki/Walloomsac,_New_York",
+          "length": 1027
+        }
+      ]
+    },
+    {
+      "year": "942",
+      "description": "Start of the four-day Battle of al-Mada'in, between the Hamdanids of Mosul and the Baridis of Basra over control of the Abbasid capital, Baghdad.",
+      "html": "<li>\n<a href=\"/wiki/942\" title=\"942\">942</a> – Start of the four-day <a href=\"/wiki/Battle_of_al-Mada%27in\" title=\"Battle of al-Mada'in\">Battle of al-Mada'in</a>, between the <a href=\"/wiki/Hamdanids\" class=\"mw-redirect\" title=\"Hamdanids\">Hamdanids</a> of <a href=\"/wiki/Mosul\" title=\"Mosul\">Mosul</a> and the Baridis of <a href=\"/wiki/Basra\" title=\"Basra\">Basra</a> over control of the <a href=\"/wiki/Abbasid\" class=\"mw-redirect\" title=\"Abbasid\">Abbasid</a> capital, <a href=\"/wiki/Baghdad\" title=\"Baghdad\">Baghdad</a>.<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Battle of al-Mada'in",
+          "url": "/wiki/Battle_of_al-Mada%27in",
+          "length": 12149
+        },
+        {
+          "name": "Hamdanids",
+          "url": "/wiki/Hamdanids",
+          "length": 30
+        },
+        {
+          "name": "Mosul",
+          "url": "/wiki/Mosul",
+          "length": 99448
+        },
+        {
+          "name": "Basra",
+          "url": "/wiki/Basra",
+          "length": 66356
+        },
+        {
+          "name": "Abbasid",
+          "url": "/wiki/Abbasid",
+          "length": 55
+        },
+        {
+          "name": "Baghdad",
+          "url": "/wiki/Baghdad",
+          "length": 153422
+        }
+      ]
+    },
+    {
+      "year": "1942",
+      "description": "World War II: US Navy L-class blimp L-8 drifts in from the Pacific and eventually crashes in Daly City, California. The two-man crew cannot be found.",
+      "html": "<li>\n<a href=\"/wiki/1942\" title=\"1942\">1942</a> – <a href=\"/wiki/World_War_II\" title=\"World War II\">World War II</a>: <a href=\"/wiki/United_States_Navy\" title=\"United States Navy\">US Navy</a> <a href=\"/wiki/L-class_blimp\" title=\"L-class blimp\">L-class blimp</a> <a href=\"/wiki/L-8\" title=\"L-8\">L-8</a> drifts in from the Pacific and eventually crashes in <a href=\"/wiki/Daly_City,_California\" title=\"Daly City, California\">Daly City, California</a>. The two-man crew cannot be found.</li>",
+      "entities": [
+        {
+          "name": "World War II",
+          "url": "/wiki/World_War_II",
+          "length": 255024
+        },
+        {
+          "name": "United States Navy",
+          "url": "/wiki/United_States_Navy",
+          "length": 133517
+        },
+        {
+          "name": "L-class blimp",
+          "url": "/wiki/L-class_blimp",
+          "length": 8596
+        },
+        {
+          "name": "L-8",
+          "url": "/wiki/L-8",
+          "length": 13348
+        },
+        {
+          "name": "Daly City, California",
+          "url": "/wiki/Daly_City,_California",
+          "length": 52190
+        }
+      ]
+    },
+    {
+      "year": "1841",
+      "description": "U.S. President John Tyler vetoes a bill which called for the re-establishment of the Second Bank of the United States. Enraged Whig Party members riot outside the White House in the most violent demonstration on White House grounds in U.S. history.",
+      "html": "<li>\n<a href=\"/wiki/1841\" title=\"1841\">1841</a> – <a href=\"/wiki/President_of_the_United_States\" title=\"President of the United States\">U.S. President</a> <a href=\"/wiki/John_Tyler\" title=\"John Tyler\">John Tyler</a> vetoes a bill which called for the re-establishment of the <a href=\"/wiki/Second_Bank_of_the_United_States\" title=\"Second Bank of the United States\">Second Bank of the United States</a>. Enraged <a href=\"/wiki/Whig_Party_(United_States)\" title=\"Whig Party (United States)\">Whig Party</a> members riot outside the <a href=\"/wiki/White_House\" title=\"White House\">White House</a> in the most violent demonstration on White House grounds in U.S. history.</li>",
+      "entities": [
+        {
+          "name": "President of the United States",
+          "url": "/wiki/President_of_the_United_States",
+          "length": 161718
+        },
+        {
+          "name": "John Tyler",
+          "url": "/wiki/John_Tyler",
+          "length": 147404
+        },
+        {
+          "name": "Second Bank of the United States",
+          "url": "/wiki/Second_Bank_of_the_United_States",
+          "length": 42392
+        },
+        {
+          "name": "Whig Party (United States)",
+          "url": "/wiki/Whig_Party_(United_States)",
+          "length": 101578
+        },
+        {
+          "name": "White House",
+          "url": "/wiki/White_House",
+          "length": 106934
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Roque Santa Cruz, Paraguayan footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Roque_Santa_Cruz\" title=\"Roque Santa Cruz\">Roque Santa Cruz</a>, Paraguayan footballer</li>",
+      "entities": [
+        {
+          "name": "Roque Santa Cruz",
+          "url": "/wiki/Roque_Santa_Cruz",
+          "length": 218620
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "Atal Bihari Vajpayee, Indian prime minister, died.",
+      "html": "<li>2018   – <a href=\"/wiki/Atal_Bihari_Vajpayee\" title=\"Atal Bihari Vajpayee\">Atal Bihari Vajpayee</a>, Indian prime minister (b. 1924)<sup id=\"cite_ref-77\" class=\"reference\"><a href=\"#cite_note-77\"><span class=\"cite-bracket\">[</span>77<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Atal Bihari Vajpayee",
+          "url": "/wiki/Atal_Bihari_Vajpayee",
+          "length": 163810
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1958",
+      "description": "Madonna, American singer-songwriter, producer, actress, and director, was born.",
+      "html": "<li>\n<a href=\"/wiki/1958\" title=\"1958\">1958</a> – <a href=\"/wiki/Madonna\" title=\"Madonna\">Madonna</a>, American singer-songwriter, producer, actress, and director<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"#cite_note-30\"><span class=\"cite-bracket\">[</span>30<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Madonna",
+          "url": "/wiki/Madonna",
+          "length": 289465
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "description": "George Galloway, Scottish-English politician and broadcaster, was born.",
+      "html": "<li>1954   – <a href=\"/wiki/George_Galloway\" title=\"George Galloway\">George Galloway</a>, Scottish-English politician and broadcaster</li>",
+      "entities": [
+        {
+          "name": "George Galloway",
+          "url": "/wiki/George_Galloway",
+          "length": 257222
+        }
+      ]
+    },
+    {
+      "year": "1981",
+      "description": "Roque Santa Cruz, Paraguayan footballer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1981\" title=\"1981\">1981</a> – <a href=\"/wiki/Roque_Santa_Cruz\" title=\"Roque Santa Cruz\">Roque Santa Cruz</a>, Paraguayan footballer</li>",
+      "entities": [
+        {
+          "name": "Roque Santa Cruz",
+          "url": "/wiki/Roque_Santa_Cruz",
+          "length": 218620
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1977",
+      "description": "Elvis Presley, American singer and actor, died.",
+      "html": "<li>\n<a href=\"/wiki/1977\" title=\"1977\">1977</a> – <a href=\"/wiki/Elvis_Presley\" title=\"Elvis Presley\">Elvis Presley</a>, American singer and actor  (b. 1935)<sup id=\"cite_ref-63\" class=\"reference\"><a href=\"#cite_note-63\"><span class=\"cite-bracket\">[</span>63<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Elvis Presley",
+          "url": "/wiki/Elvis_Presley",
+          "length": 214163
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "Atal Bihari Vajpayee, Indian prime minister, died.",
+      "html": "<li>2018   – <a href=\"/wiki/Atal_Bihari_Vajpayee\" title=\"Atal Bihari Vajpayee\">Atal Bihari Vajpayee</a>, Indian prime minister (b. 1924)<sup id=\"cite_ref-77\" class=\"reference\"><a href=\"#cite_note-77\"><span class=\"cite-bracket\">[</span>77<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Atal Bihari Vajpayee",
+          "url": "/wiki/Atal_Bihari_Vajpayee",
+          "length": 163810
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "description": "Babe Ruth, American baseball player and coach, died.",
+      "html": "<li>\n<a href=\"/wiki/1948\" title=\"1948\">1948</a> – <a href=\"/wiki/Babe_Ruth\" title=\"Babe Ruth\">Babe Ruth</a>, American baseball player and coach (b. 1895)</li>",
+      "entities": [
+        {
+          "name": "Babe Ruth",
+          "url": "/wiki/Babe_Ruth",
+          "length": 155372
+        }
+      ]
+    }
+  ]
+}

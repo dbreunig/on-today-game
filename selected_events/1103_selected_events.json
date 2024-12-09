@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "year": "361",
+      "description": "Emperor Constantius II dies of a fever at Mopsuestia in Cilicia; on his deathbed he is baptised and declares his cousin Julian rightful successor.",
+      "html": "<li>\n<a href=\"/wiki/361\" title=\"361\">361</a> – Emperor <a href=\"/wiki/Constantius_II\" title=\"Constantius II\">Constantius II</a> dies of a <a href=\"/wiki/Fever\" title=\"Fever\">fever</a> at <a href=\"/wiki/Mopsuestia\" title=\"Mopsuestia\">Mopsuestia</a> in <a href=\"/wiki/Cilicia\" title=\"Cilicia\">Cilicia</a>; on his deathbed he is <a href=\"/wiki/Baptism\" title=\"Baptism\">baptised</a> and declares his cousin <a href=\"/wiki/Julian_the_Apostate\" class=\"mw-redirect\" title=\"Julian the Apostate\">Julian</a> rightful successor.</li>",
+      "entities": [
+        {
+          "name": "Constantius II",
+          "url": "/wiki/Constantius_II",
+          "length": 67745
+        },
+        {
+          "name": "Fever",
+          "url": "/wiki/Fever",
+          "length": 77699
+        },
+        {
+          "name": "Mopsuestia",
+          "url": "/wiki/Mopsuestia",
+          "length": 11079
+        },
+        {
+          "name": "Cilicia",
+          "url": "/wiki/Cilicia",
+          "length": 113500
+        },
+        {
+          "name": "Baptism",
+          "url": "/wiki/Baptism",
+          "length": 227247
+        },
+        {
+          "name": "Julian the Apostate",
+          "url": "/wiki/Julian_the_Apostate",
+          "length": 58
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "description": "Russian Civil War: The Russian Army retreats to Crimea, after a successful offensive by the Red Army and Revolutionary Insurgent Army of Ukraine.",
+      "html": "<li>\n<a href=\"/wiki/1920\" title=\"1920\">1920</a> – <a href=\"/wiki/Russian_Civil_War\" title=\"Russian Civil War\">Russian Civil War</a>: The <a href=\"/wiki/Army_of_Wrangel\" title=\"Army of Wrangel\">Russian Army</a> retreats to <a href=\"/wiki/Crimea\" title=\"Crimea\">Crimea</a>, after a <a href=\"/wiki/Northern_Taurida_Operation\" title=\"Northern Taurida Operation\">successful offensive</a> by the <a href=\"/wiki/Red_Army\" title=\"Red Army\">Red Army</a> and <a href=\"/wiki/Revolutionary_Insurgent_Army_of_Ukraine\" title=\"Revolutionary Insurgent Army of Ukraine\">Revolutionary Insurgent Army of Ukraine</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Russian Civil War",
+          "url": "/wiki/Russian_Civil_War",
+          "length": 151865
+        },
+        {
+          "name": "Army of Wrangel",
+          "url": "/wiki/Army_of_Wrangel",
+          "length": 7060
+        },
+        {
+          "name": "Crimea",
+          "url": "/wiki/Crimea",
+          "length": 115201
+        },
+        {
+          "name": "Northern Taurida Operation",
+          "url": "/wiki/Northern_Taurida_Operation",
+          "length": 14760
+        },
+        {
+          "name": "Red Army",
+          "url": "/wiki/Red_Army",
+          "length": 98834
+        },
+        {
+          "name": "Revolutionary Insurgent Army of Ukraine",
+          "url": "/wiki/Revolutionary_Insurgent_Army_of_Ukraine",
+          "length": 91067
+        }
+      ]
+    },
+    {
+      "year": "1957",
+      "description": "Sputnik program: The Soviet Union launches Sputnik 2. On board is the first animal to enter orbit, a dog named Laika.",
+      "html": "<li>\n<a href=\"/wiki/1957\" title=\"1957\">1957</a> – <a href=\"/wiki/Sputnik_program\" class=\"mw-redirect\" title=\"Sputnik program\">Sputnik program</a>: The <a href=\"/wiki/Soviet_Union\" title=\"Soviet Union\">Soviet Union</a> launches <i><a href=\"/wiki/Sputnik_2\" title=\"Sputnik 2\">Sputnik 2</a></i>.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup> On board is the first animal to enter <a href=\"/wiki/Orbit\" title=\"Orbit\">orbit</a>, a <a href=\"/wiki/Soviet_space_dogs\" title=\"Soviet space dogs\">dog</a> named <a href=\"/wiki/Laika\" title=\"Laika\">Laika</a>.<sup id=\"cite_ref-BBC_5-0\" class=\"reference\"><a href=\"#cite_note-BBC-5\"><span class=\"cite-bracket\">[</span>5<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sputnik program",
+          "url": "/wiki/Sputnik_program",
+          "length": 92
+        },
+        {
+          "name": "Soviet Union",
+          "url": "/wiki/Soviet_Union",
+          "length": 226133
+        },
+        {
+          "name": "Sputnik 2",
+          "url": "/wiki/Sputnik_2",
+          "length": 25354
+        },
+        {
+          "name": "Orbit",
+          "url": "/wiki/Orbit",
+          "length": 58132
+        },
+        {
+          "name": "Soviet space dogs",
+          "url": "/wiki/Soviet_space_dogs",
+          "length": 19096
+        },
+        {
+          "name": "Laika",
+          "url": "/wiki/Laika",
+          "length": 32301
+        }
+      ]
+    },
+    {
+      "year": "1988",
+      "description": "Sri Lankan Tamil mercenaries attempt to overthrow the Maldivian government. At President Maumoon Abdul Gayoom's request, the Indian military suppresses the rebellion within 24 hours.",
+      "html": "<li>\n<a href=\"/wiki/1988\" title=\"1988\">1988</a> – <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lankan</a> <a href=\"/wiki/Tamil_people\" class=\"mw-redirect\" title=\"Tamil people\">Tamil</a> <a href=\"/wiki/Mercenary\" title=\"Mercenary\">mercenaries</a> attempt to <a href=\"/wiki/1988_Maldives_coup_d%27%C3%A9tat\" class=\"mw-redirect\" title=\"1988 Maldives coup d'état\">overthrow</a> the <a href=\"/wiki/Maldives\" title=\"Maldives\">Maldivian</a> government. At President <a href=\"/wiki/Maumoon_Abdul_Gayoom\" title=\"Maumoon Abdul Gayoom\">Maumoon Abdul Gayoom</a>'s request, the Indian military suppresses the rebellion within 24 hours.</li>",
+      "entities": [
+        {
+          "name": "Sri Lanka",
+          "url": "/wiki/Sri_Lanka",
+          "length": 258717
+        },
+        {
+          "name": "Tamil people",
+          "url": "/wiki/Tamil_people",
+          "length": 58
+        },
+        {
+          "name": "Mercenary",
+          "url": "/wiki/Mercenary",
+          "length": 171849
+        },
+        {
+          "name": "1988 Maldives coup d'état",
+          "url": "/wiki/1988_Maldives_coup_d%27%C3%A9tat",
+          "length": 87
+        },
+        {
+          "name": "Maldives",
+          "url": "/wiki/Maldives",
+          "length": 189994
+        },
+        {
+          "name": "Maumoon Abdul Gayoom",
+          "url": "/wiki/Maumoon_Abdul_Gayoom",
+          "length": 148473
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "description": "Abdullah Çatlı, the leader of the Turkish ultranationalist organization Grey Wolves, dies in the Susurluk car crash, leading to the resignation of Interior Minister Mehmet Ağar (a leader of the True Path Party).",
+      "html": "<li>\n<a href=\"/wiki/1996\" title=\"1996\">1996</a> – <a href=\"/wiki/Abdullah_%C3%87atl%C4%B1\" title=\"Abdullah Çatlı\">Abdullah Çatlı</a>, the leader of the Turkish ultranationalist organization <a href=\"/wiki/Grey_Wolves_(organization)\" title=\"Grey Wolves (organization)\">Grey Wolves</a>, dies in the <a href=\"/wiki/Susurluk_car_crash\" title=\"Susurluk car crash\">Susurluk car crash</a>, leading to the resignation of <a href=\"/wiki/Ministry_of_the_Interior_(Turkey)\" title=\"Ministry of the Interior (Turkey)\">Interior Minister</a> <a href=\"/wiki/Mehmet_A%C4%9Far\" title=\"Mehmet Ağar\">Mehmet Ağar</a> (a leader of the <a href=\"/wiki/True_Path_Party\" title=\"True Path Party\">True Path Party</a>).</li>",
+      "entities": [
+        {
+          "name": "Abdullah Çatlı",
+          "url": "/wiki/Abdullah_%C3%87atl%C4%B1",
+          "length": 17704
+        },
+        {
+          "name": "Grey Wolves (organization)",
+          "url": "/wiki/Grey_Wolves_(organization)",
+          "length": 207347
+        },
+        {
+          "name": "Susurluk car crash",
+          "url": "/wiki/Susurluk_car_crash",
+          "length": 10492
+        },
+        {
+          "name": "Ministry of the Interior (Turkey)",
+          "url": "/wiki/Ministry_of_the_Interior_(Turkey)",
+          "length": 5722
+        },
+        {
+          "name": "Mehmet Ağar",
+          "url": "/wiki/Mehmet_A%C4%9Far",
+          "length": 13615
+        },
+        {
+          "name": "True Path Party",
+          "url": "/wiki/True_Path_Party",
+          "length": 9402
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "description": "Greensboro massacre: Five members of the Communist Workers Party are shot dead and seven are wounded by a group of Klansmen and neo-Nazis during a \"Death to the Klan\" rally in Greensboro, North Carolina, United States.",
+      "html": "<li>\n<a href=\"/wiki/1979\" title=\"1979\">1979</a> – <a href=\"/wiki/Greensboro_massacre\" title=\"Greensboro massacre\">Greensboro massacre</a>: Five members of the <a href=\"/wiki/Communist_Workers%27_Party_(United_States)\" title=\"Communist Workers' Party (United States)\">Communist Workers Party</a> are shot dead and seven are wounded by a group of <a href=\"/wiki/Ku_Klux_Klan\" title=\"Ku Klux Klan\">Klansmen</a> and <a href=\"/wiki/Neo-Nazism\" title=\"Neo-Nazism\">neo-Nazis</a> during a \"Death to the Klan\" rally in <a href=\"/wiki/Greensboro,_North_Carolina\" title=\"Greensboro, North Carolina\">Greensboro, North Carolina</a>, United States.</li>",
+      "entities": [
+        {
+          "name": "Greensboro massacre",
+          "url": "/wiki/Greensboro_massacre",
+          "length": 48861
+        },
+        {
+          "name": "Communist Workers' Party (United States)",
+          "url": "/wiki/Communist_Workers%27_Party_(United_States)",
+          "length": 10527
+        },
+        {
+          "name": "Ku Klux Klan",
+          "url": "/wiki/Ku_Klux_Klan",
+          "length": 227492
+        },
+        {
+          "name": "Neo-Nazism",
+          "url": "/wiki/Neo-Nazism",
+          "length": 229342
+        },
+        {
+          "name": "Greensboro, North Carolina",
+          "url": "/wiki/Greensboro,_North_Carolina",
+          "length": 155813
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "description": "Ellyse Perry, Australian footballer and cricketer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Ellyse_Perry\" title=\"Ellyse Perry\">Ellyse Perry</a>, Australian footballer and cricketer</li>",
+      "entities": [
+        {
+          "name": "Ellyse Perry",
+          "url": "/wiki/Ellyse_Perry",
+          "length": 248197
+        }
+      ]
+    },
+    {
+      "year": "1957",
+      "description": "Wilhelm Reich, Ukrainian-Austrian psychotherapist and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1957\" title=\"1957\">1957</a> – <a href=\"/wiki/Wilhelm_Reich\" title=\"Wilhelm Reich\">Wilhelm Reich</a>, Ukrainian-Austrian psychotherapist and author (b. 1897)</li>",
+      "entities": [
+        {
+          "name": "Wilhelm Reich",
+          "url": "/wiki/Wilhelm_Reich",
+          "length": 141601
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "year": "1990",
+      "description": "Ellyse Perry, Australian footballer and cricketer, was born.",
+      "html": "<li>\n<a href=\"/wiki/1990\" title=\"1990\">1990</a> – <a href=\"/wiki/Ellyse_Perry\" title=\"Ellyse Perry\">Ellyse Perry</a>, Australian footballer and cricketer</li>",
+      "entities": [
+        {
+          "name": "Ellyse Perry",
+          "url": "/wiki/Ellyse_Perry",
+          "length": 248197
+        }
+      ]
+    },
+    {
+      "year": "1618",
+      "description": "Aurangzeb, Mughal emperor of India, was born.",
+      "html": "<li>\n<a href=\"/wiki/1618\" title=\"1618\">1618</a> – <a href=\"/wiki/Aurangzeb\" title=\"Aurangzeb\">Aurangzeb</a>, <a href=\"/wiki/Mughal_emperor\" class=\"mw-redirect\" title=\"Mughal emperor\">Mughal emperor</a> of India (d. 1707)</li>",
+      "entities": [
+        {
+          "name": "Aurangzeb",
+          "url": "/wiki/Aurangzeb",
+          "length": 186640
+        },
+        {
+          "name": "Mughal emperor",
+          "url": "/wiki/Mughal_emperor",
+          "length": 51
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "description": "Kendall Jenner, American television personality and model, was born.",
+      "html": "<li>1995 – <a href=\"/wiki/Kendall_Jenner\" title=\"Kendall Jenner\">Kendall Jenner</a>, American television personality and model<sup id=\"cite_ref-AP_29-8\" class=\"reference\"><a href=\"#cite_note-AP-29\"><span class=\"cite-bracket\">[</span>29<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Kendall Jenner",
+          "url": "/wiki/Kendall_Jenner",
+          "length": 184297
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "year": "1957",
+      "description": "Wilhelm Reich, Ukrainian-Austrian psychotherapist and author, died.",
+      "html": "<li>\n<a href=\"/wiki/1957\" title=\"1957\">1957</a> – <a href=\"/wiki/Wilhelm_Reich\" title=\"Wilhelm Reich\">Wilhelm Reich</a>, Ukrainian-Austrian psychotherapist and author (b. 1897)</li>",
+      "entities": [
+        {
+          "name": "Wilhelm Reich",
+          "url": "/wiki/Wilhelm_Reich",
+          "length": 141601
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "description": "Sondra Locke, American actress and director, died.",
+      "html": "<li>\n<a href=\"/wiki/2018\" title=\"2018\">2018</a> – <a href=\"/wiki/Sondra_Locke\" title=\"Sondra Locke\">Sondra Locke</a>, American actress and director (b. 1944)<sup id=\"cite_ref-66\" class=\"reference\"><a href=\"#cite_note-66\"><span class=\"cite-bracket\">[</span>66<span class=\"cite-bracket\">]</span></a></sup>\n</li>",
+      "entities": [
+        {
+          "name": "Sondra Locke",
+          "url": "/wiki/Sondra_Locke",
+          "length": 126320
+        }
+      ]
+    },
+    {
+      "year": "1956",
+      "description": "Jean Metzinger, French artist,, died.",
+      "html": "<li>\n<a href=\"/wiki/1956\" title=\"1956\">1956</a> – <a href=\"/wiki/Jean_Metzinger\" title=\"Jean Metzinger\">Jean Metzinger</a>, French artist, (b. 1883)</li>",
+      "entities": [
+        {
+          "name": "Jean Metzinger",
+          "url": "/wiki/Jean_Metzinger",
+          "length": 107472
+        }
+      ]
+    }
+  ]
+}
